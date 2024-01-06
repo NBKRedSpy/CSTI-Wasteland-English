@@ -1,1 +1,43 @@
-{"TimeOfDayModsWarpType":5,"TimeOfDayModsWarpData":[{"RequiredStatValuesWarpData":[{"HideAllWhenNotMet":false,"NotifyWhenNotMet":false,"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"88f69319f72a3ce066bd9d7f42d17495","StatWarpType":3,"TriggerRange":{"x":0.0,"y":0.0}}],"RequiredStatValuesWarpType":4},{"RequiredStatValuesWarpData":[{"HideAllWhenNotMet":false,"NotifyWhenNotMet":false,"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"88f69319f72a3ce066bd9d7f42d17495","StatWarpType":3,"TriggerRange":{"x":0.0,"y":0.0}}],"RequiredStatValuesWarpType":4}]}
+{
+  "TimeOfDayModsWarpType": 5,
+  "TimeOfDayModsWarpData": [
+    {
+      "RequiredStatValuesWarpData": [
+        {
+          "HideAllWhenNotMet": false,
+          "NotifyWhenNotMet": false,
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "88f69319f72a3ce066bd9d7f42d17495",
+          "StatWarpType": 3,
+          "TriggerRange": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "RequiredStatValuesWarpType": 4
+    },
+    {
+      "RequiredStatValuesWarpData": [
+        {
+          "HideAllWhenNotMet": false,
+          "NotifyWhenNotMet": false,
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "88f69319f72a3ce066bd9d7f42d17495",
+          "StatWarpType": 3,
+          "TriggerRange": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "RequiredStatValuesWarpType": 4
+    }
+  ]
+}

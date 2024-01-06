@@ -1,1 +1,47 @@
-{"AssociatedEntry":{"m_FileID":0,"m_PathID":0},"IncludedCards":[],"IncludedCardsWarpData":["b25199647c0b817fada300b28ff83c50","e6f140f665e3deef6e6ba95c786868b8","93377e2b0560e122c80146c1c3cb2a6c","3f15072d1c9d3634b4eca03ad954d49c","c54b15e99fa2e1c2fde0b80c49cbd087","692c88d91a4fdf0498749339ae6d53f8","6c49b47f502ed8a26f4476cb7355b546","ffda602c767f7656ac5330c164e5bedd","43ebb39b191d01f1d95e6d6f4b30e236","fca9c1321e48da55df1226e077ced808","63e0c9d2103fb5c4995792b8b2999364","20edb9862523a384c9430c5797604b16","bf0a38e0d29dde6468ccedd16215a66b","3575360823c5be3419e7094c97613b1f","2c18615bf2a5b884ab1a3f8be7a29e4c","1590fc4a138bf084d9beb0aa58b1f1d6","f82458b0d51fd9446ac5810901de6f5a","e292e8faac1041f4ab1da9bcf900e751","ea02ee72a67694c4aaadd8079d51e30d","d2588c48f1149414785b9ad3606e0406","2ebaeb0fdf9a6c449a9a3ab705639e8d","5e876d90f3993764eabf9903a286805c","f9118d4a370782f4292e1079439dbc41","75221ab625b476049a29eccfd1274a8c"],"IncludedCardsWarpType":3,"ShopSortingList":[],"SubGroups":[],"TabIcon":{"m_FileID":0,"m_PathID":0},"TabIconWarpData":"\u6c49\u5821\u8089","TabIconWarpType":3,"TabName":{"DefaultText":"\u6c49\u5821\u8089","LocalizationKey":"","ParentObjectID":""}}
+{
+  "AssociatedEntry": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "IncludedCards": [],
+  "IncludedCardsWarpData": [
+    "b25199647c0b817fada300b28ff83c50",
+    "e6f140f665e3deef6e6ba95c786868b8",
+    "93377e2b0560e122c80146c1c3cb2a6c",
+    "3f15072d1c9d3634b4eca03ad954d49c",
+    "c54b15e99fa2e1c2fde0b80c49cbd087",
+    "692c88d91a4fdf0498749339ae6d53f8",
+    "6c49b47f502ed8a26f4476cb7355b546",
+    "ffda602c767f7656ac5330c164e5bedd",
+    "43ebb39b191d01f1d95e6d6f4b30e236",
+    "fca9c1321e48da55df1226e077ced808",
+    "63e0c9d2103fb5c4995792b8b2999364",
+    "20edb9862523a384c9430c5797604b16",
+    "bf0a38e0d29dde6468ccedd16215a66b",
+    "3575360823c5be3419e7094c97613b1f",
+    "2c18615bf2a5b884ab1a3f8be7a29e4c",
+    "1590fc4a138bf084d9beb0aa58b1f1d6",
+    "f82458b0d51fd9446ac5810901de6f5a",
+    "e292e8faac1041f4ab1da9bcf900e751",
+    "ea02ee72a67694c4aaadd8079d51e30d",
+    "d2588c48f1149414785b9ad3606e0406",
+    "2ebaeb0fdf9a6c449a9a3ab705639e8d",
+    "5e876d90f3993764eabf9903a286805c",
+    "f9118d4a370782f4292e1079439dbc41",
+    "75221ab625b476049a29eccfd1274a8c"
+  ],
+  "IncludedCardsWarpType": 3,
+  "ShopSortingList": [],
+  "SubGroups": [],
+  "TabIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TabIconWarpData": "\u6C49\u5821\u8089",
+  "TabIconWarpType": 3,
+  "TabName": {
+    "DefaultText": "\u6C49\u5821\u8089",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  }
+}

@@ -1,1 +1,1012 @@
-{"Actions":[{"ActionName":{"DefaultText":"\u4e00\u9636\u6bb5","LocalizationKey":"","ParentObjectID":""},"RepeatOptions":2,"StatChangeTrigger":[{"HideAllWhenNotMet":false,"NotifyWhenNotMet":false,"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"dd944a6171ea2ebad27415dfe8d2387e","StatWarpType":3,"TriggerRange":{"x":4.0,"y":4.0}}],"ProducedCards":[{"CardDropChanceModifiers":[],"CollectionMessages":[],"CollectionName":"col_0","CollectionUses":{"x":0,"y":0},"CollectionWeight":0,"CreatedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{}},"DroppedCards":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"e7d1ed032e9ac281d2ef4a70e34d6838","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DroppedEncounter":{"m_FileID":0,"m_PathID":0},"DroppedEncounterWarpData":"","DroppedEncounterWarpType":3,"DurabilitiesDropChanceModifier":{"Fuel":{"DurabilityRange":{},"InterpWeightRange":{}},"Progress":{"DurabilityRange":{},"InterpWeightRange":{}},"Special1":{"DurabilityRange":{},"InterpWeightRange":{}},"Special2":{"DurabilityRange":{},"InterpWeightRange":{}},"Special3":{"DurabilityRange":{},"InterpWeightRange":{}},"Special4":{"DurabilityRange":{},"InterpWeightRange":{}},"Spoilage":{"DurabilityRange":{},"InterpWeightRange":{}},"Usage":{"DurabilityRange":{},"InterpWeightRange":{}}},"DurabilityModifications":{"ChargesChange":{},"FuelChange":{},"Special1Change":{},"Special2Change":{},"Special3Change":{},"Special4Change":{},"SpoilageChange":{},"UsageChange":{}},"StatModifications":[],"StatsDropChanceModifiers":[]}]},{"ActionName":{"DefaultText":"\u4e8c\u9636\u6bb5","LocalizationKey":"","ParentObjectID":""},"RepeatOptions":2,"StatChangeTrigger":[{"HideAllWhenNotMet":false,"NotifyWhenNotMet":false,"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"dd944a6171ea2ebad27415dfe8d2387e","StatWarpType":3,"TriggerRange":{"x":8.0,"y":8.0}}],"ProducedCards":[{"CardDropChanceModifiers":[],"CollectionMessages":[],"CollectionName":"col_0","CollectionUses":{"x":0,"y":0},"CollectionWeight":0,"CreatedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{}},"DroppedCards":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"e7d1ed032e9ac281d2ef4a70e34d6838","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DroppedEncounter":{"m_FileID":0,"m_PathID":0},"DroppedEncounterWarpData":"","DroppedEncounterWarpType":3,"DurabilitiesDropChanceModifier":{"Fuel":{"DurabilityRange":{},"InterpWeightRange":{}},"Progress":{"DurabilityRange":{},"InterpWeightRange":{}},"Special1":{"DurabilityRange":{},"InterpWeightRange":{}},"Special2":{"DurabilityRange":{},"InterpWeightRange":{}},"Special3":{"DurabilityRange":{},"InterpWeightRange":{}},"Special4":{"DurabilityRange":{},"InterpWeightRange":{}},"Spoilage":{"DurabilityRange":{},"InterpWeightRange":{}},"Usage":{"DurabilityRange":{},"InterpWeightRange":{}}},"DurabilityModifications":{"ChargesChange":{},"FuelChange":{},"Special1Change":{},"Special2Change":{},"Special3Change":{},"Special4Change":{},"SpoilageChange":{},"UsageChange":{}},"StatModifications":[],"StatsDropChanceModifiers":[]}]},{"ActionName":{"DefaultText":"\u4e09\u9636\u6bb5","LocalizationKey":"","ParentObjectID":""},"RepeatOptions":2,"StatChangeTrigger":[{"HideAllWhenNotMet":false,"NotifyWhenNotMet":false,"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"dd944a6171ea2ebad27415dfe8d2387e","StatWarpType":3,"TriggerRange":{"x":12.0,"y":12.0}}],"ProducedCards":[{"CardDropChanceModifiers":[],"CollectionMessages":[],"CollectionName":"col_0","CollectionUses":{"x":0,"y":0},"CollectionWeight":0,"CreatedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{}},"DroppedCards":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"e7d1ed032e9ac281d2ef4a70e34d6838","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DroppedEncounter":{"m_FileID":0,"m_PathID":0},"DroppedEncounterWarpData":"","DroppedEncounterWarpType":3,"DurabilitiesDropChanceModifier":{"Fuel":{"DurabilityRange":{},"InterpWeightRange":{}},"Progress":{"DurabilityRange":{},"InterpWeightRange":{}},"Special1":{"DurabilityRange":{},"InterpWeightRange":{}},"Special2":{"DurabilityRange":{},"InterpWeightRange":{}},"Special3":{"DurabilityRange":{},"InterpWeightRange":{}},"Special4":{"DurabilityRange":{},"InterpWeightRange":{}},"Spoilage":{"DurabilityRange":{},"InterpWeightRange":{}},"Usage":{"DurabilityRange":{},"InterpWeightRange":{}}},"DurabilityModifications":{"ChargesChange":{},"FuelChange":{},"Special1Change":{},"Special2Change":{},"Special3Change":{},"Special4Change":{},"SpoilageChange":{},"UsageChange":{}},"StatModifications":[],"StatsDropChanceModifiers":[]}]},{"ActionName":{"DefaultText":"\u56db\u9636\u6bb5","LocalizationKey":"","ParentObjectID":""},"RepeatOptions":2,"StatChangeTrigger":[{"HideAllWhenNotMet":false,"NotifyWhenNotMet":false,"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"dd944a6171ea2ebad27415dfe8d2387e","StatWarpType":3,"TriggerRange":{"x":16.0,"y":16.0}}],"ProducedCards":[{"CardDropChanceModifiers":[],"CollectionMessages":[],"CollectionName":"col_0","CollectionUses":{"x":0,"y":0},"CollectionWeight":0,"CreatedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{}},"DroppedCards":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"e7d1ed032e9ac281d2ef4a70e34d6838","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DroppedEncounter":{"m_FileID":0,"m_PathID":0},"DroppedEncounterWarpData":"","DroppedEncounterWarpType":3,"DurabilitiesDropChanceModifier":{"Fuel":{"DurabilityRange":{},"InterpWeightRange":{}},"Progress":{"DurabilityRange":{},"InterpWeightRange":{}},"Special1":{"DurabilityRange":{},"InterpWeightRange":{}},"Special2":{"DurabilityRange":{},"InterpWeightRange":{}},"Special3":{"DurabilityRange":{},"InterpWeightRange":{}},"Special4":{"DurabilityRange":{},"InterpWeightRange":{}},"Spoilage":{"DurabilityRange":{},"InterpWeightRange":{}},"Usage":{"DurabilityRange":{},"InterpWeightRange":{}}},"DurabilityModifications":{"ChargesChange":{},"FuelChange":{},"Special1Change":{},"Special2Change":{},"Special3Change":{},"Special4Change":{},"SpoilageChange":{},"UsageChange":{}},"StatModifications":[],"StatsDropChanceModifiers":[]}]},{"ActionName":{"DefaultText":"\u4e94\u9636\u6bb5","LocalizationKey":"","ParentObjectID":""},"RepeatOptions":2,"StatChangeTrigger":[{"HideAllWhenNotMet":false,"NotifyWhenNotMet":false,"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"dd944a6171ea2ebad27415dfe8d2387e","StatWarpType":3,"TriggerRange":{"x":18.0,"y":18.0}}],"ProducedCards":[{"CardDropChanceModifiers":[],"CollectionMessages":[],"CollectionName":"col_0","CollectionUses":{"x":0,"y":0},"CollectionWeight":0,"CreatedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{}},"DroppedCards":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"506ba0b31477dda57dfca21bab0f6364","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DroppedEncounter":{"m_FileID":0,"m_PathID":0},"DroppedEncounterWarpData":"","DroppedEncounterWarpType":3,"DurabilitiesDropChanceModifier":{"Fuel":{"DurabilityRange":{},"InterpWeightRange":{}},"Progress":{"DurabilityRange":{},"InterpWeightRange":{}},"Special1":{"DurabilityRange":{},"InterpWeightRange":{}},"Special2":{"DurabilityRange":{},"InterpWeightRange":{}},"Special3":{"DurabilityRange":{},"InterpWeightRange":{}},"Special4":{"DurabilityRange":{},"InterpWeightRange":{}},"Spoilage":{"DurabilityRange":{},"InterpWeightRange":{}},"Usage":{"DurabilityRange":{},"InterpWeightRange":{}}},"DurabilityModifications":{"ChargesChange":{},"FuelChange":{},"Special1Change":{},"Special2Change":{},"Special3Change":{},"Special4Change":{},"SpoilageChange":{},"UsageChange":{}},"StatModifications":[],"StatsDropChanceModifiers":[]}]},{"ActionName":{"DefaultText":"\u516d\u9636\u6bb5","LocalizationKey":"","ParentObjectID":""},"RepeatOptions":2,"StatChangeTrigger":[{"HideAllWhenNotMet":false,"NotifyWhenNotMet":false,"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"dd944a6171ea2ebad27415dfe8d2387e","StatWarpType":3,"TriggerRange":{"x":20.0,"y":20.0}}],"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"dd944a6171ea2ebad27415dfe8d2387e","StatWarpType":3,"ValueModifier":{"x":-20.0,"y":-20.0}}],"ProducedCards":[{"CardDropChanceModifiers":[],"CollectionMessages":[],"CollectionName":"col_0","CollectionUses":{"x":0,"y":0},"CollectionWeight":10,"CreatedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{}},"DroppedCards":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"76e15d6d2ee199844a4812b3dc361c74","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DroppedEncounter":{"m_FileID":0,"m_PathID":0},"DroppedEncounterWarpData":"","DroppedEncounterWarpType":3,"DurabilitiesDropChanceModifier":{"Fuel":{"DurabilityRange":{},"InterpWeightRange":{}},"Progress":{"DurabilityRange":{},"InterpWeightRange":{}},"Special1":{"DurabilityRange":{},"InterpWeightRange":{}},"Special2":{"DurabilityRange":{},"InterpWeightRange":{}},"Special3":{"DurabilityRange":{},"InterpWeightRange":{}},"Special4":{"DurabilityRange":{},"InterpWeightRange":{}},"Spoilage":{"DurabilityRange":{},"InterpWeightRange":{}},"Usage":{"DurabilityRange":{},"InterpWeightRange":{}}},"DurabilityModifications":{"ChargesChange":{},"FuelChange":{},"Special1Change":{},"Special2Change":{},"Special3Change":{},"Special4Change":{},"SpoilageChange":{},"UsageChange":{}},"StatModifications":[],"StatsDropChanceModifiers":[]},{"CardDropChanceModifiers":[],"CollectionMessages":[],"CollectionName":"col_1","CollectionUses":{"x":0,"y":0},"CollectionWeight":10,"CreatedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{}},"DroppedCards":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"a16ea348288688841b3119f930506e77","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DroppedEncounter":{"m_FileID":0,"m_PathID":0},"DroppedEncounterWarpData":"","DroppedEncounterWarpType":3,"DurabilitiesDropChanceModifier":{"Fuel":{"DurabilityRange":{},"InterpWeightRange":{}},"Progress":{"DurabilityRange":{},"InterpWeightRange":{}},"Special1":{"DurabilityRange":{},"InterpWeightRange":{}},"Special2":{"DurabilityRange":{},"InterpWeightRange":{}},"Special3":{"DurabilityRange":{},"InterpWeightRange":{}},"Special4":{"DurabilityRange":{},"InterpWeightRange":{}},"Spoilage":{"DurabilityRange":{},"InterpWeightRange":{}},"Usage":{"DurabilityRange":{},"InterpWeightRange":{}}},"DurabilityModifications":{"ChargesChange":{},"FuelChange":{},"Special1Change":{},"Special2Change":{},"Special3Change":{},"Special4Change":{},"SpoilageChange":{},"UsageChange":{}},"StatModifications":[],"StatsDropChanceModifiers":[]},{"CardDropChanceModifiers":[],"CollectionMessages":[],"CollectionName":"col_2","CollectionUses":{"x":0,"y":0},"CollectionWeight":60,"CreatedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{}},"DroppedCards":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"dc4523f5854ec904b971af4bf6f08858","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DroppedEncounter":{"m_FileID":0,"m_PathID":0},"DroppedEncounterWarpData":"","DroppedEncounterWarpType":3,"DurabilitiesDropChanceModifier":{"Fuel":{"DurabilityRange":{},"InterpWeightRange":{}},"Progress":{"DurabilityRange":{},"InterpWeightRange":{}},"Special1":{"DurabilityRange":{},"InterpWeightRange":{}},"Special2":{"DurabilityRange":{},"InterpWeightRange":{}},"Special3":{"DurabilityRange":{},"InterpWeightRange":{}},"Special4":{"DurabilityRange":{},"InterpWeightRange":{}},"Spoilage":{"DurabilityRange":{},"InterpWeightRange":{}},"Usage":{"DurabilityRange":{},"InterpWeightRange":{}}},"DurabilityModifications":{"ChargesChange":{},"FuelChange":{},"Special1Change":{},"Special2Change":{},"Special3Change":{},"Special4Change":{},"SpoilageChange":{},"UsageChange":{}},"StatModifications":[],"StatsDropChanceModifiers":[]},{"CardDropChanceModifiers":[],"CollectionMessages":[],"CollectionName":"col_3","CollectionUses":{"x":0,"y":0},"CollectionWeight":5,"CreatedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{}},"DroppedCards":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"7d3c97dbef2089d44bc6abe0578fa45f","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DroppedEncounter":{"m_FileID":0,"m_PathID":0},"DroppedEncounterWarpData":"","DroppedEncounterWarpType":3,"DurabilitiesDropChanceModifier":{"Fuel":{"DurabilityRange":{},"InterpWeightRange":{}},"Progress":{"DurabilityRange":{},"InterpWeightRange":{}},"Special1":{"DurabilityRange":{},"InterpWeightRange":{}},"Special2":{"DurabilityRange":{},"InterpWeightRange":{}},"Special3":{"DurabilityRange":{},"InterpWeightRange":{}},"Special4":{"DurabilityRange":{},"InterpWeightRange":{}},"Spoilage":{"DurabilityRange":{},"InterpWeightRange":{}},"Usage":{"DurabilityRange":{},"InterpWeightRange":{}}},"DurabilityModifications":{"ChargesChange":{},"FuelChange":{},"Special1Change":{},"Special2Change":{},"Special3Change":{},"Special4Change":{},"SpoilageChange":{},"UsageChange":{}},"StatModifications":[],"StatsDropChanceModifiers":[]},{"CardDropChanceModifiers":[],"CollectionMessages":[],"CollectionName":"col_4","CollectionUses":{"x":0,"y":0},"CollectionWeight":5,"CreatedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{}},"DroppedCards":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"bbaf57503d11c3d4e9c494793f4b34cf","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DroppedEncounter":{"m_FileID":0,"m_PathID":0},"DroppedEncounterWarpData":"","DroppedEncounterWarpType":3,"DurabilitiesDropChanceModifier":{"Fuel":{"DurabilityRange":{},"InterpWeightRange":{}},"Progress":{"DurabilityRange":{},"InterpWeightRange":{}},"Special1":{"DurabilityRange":{},"InterpWeightRange":{}},"Special2":{"DurabilityRange":{},"InterpWeightRange":{}},"Special3":{"DurabilityRange":{},"InterpWeightRange":{}},"Special4":{"DurabilityRange":{},"InterpWeightRange":{}},"Spoilage":{"DurabilityRange":{},"InterpWeightRange":{}},"Usage":{"DurabilityRange":{},"InterpWeightRange":{}}},"DurabilityModifications":{"ChargesChange":{},"FuelChange":{},"Special1Change":{},"Special2Change":{},"Special3Change":{},"Special4Change":{},"SpoilageChange":{},"UsageChange":{}},"StatModifications":[],"StatsDropChanceModifiers":[]}]}],"UniqueID":"ccdc8e0c9c7436ad72e05eaac37a7052"}
+{
+  "Actions": [
+    {
+      "ActionName": {
+        "DefaultText": "\u4E00\u9636\u6BB5",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatOptions": 2,
+      "StatChangeTrigger": [
+        {
+          "HideAllWhenNotMet": false,
+          "NotifyWhenNotMet": false,
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "dd944a6171ea2ebad27415dfe8d2387e",
+          "StatWarpType": 3,
+          "TriggerRange": {
+            "x": 4.0,
+            "y": 4.0
+          }
+        }
+      ],
+      "ProducedCards": [
+        {
+          "CardDropChanceModifiers": [],
+          "CollectionMessages": [],
+          "CollectionName": "col_0",
+          "CollectionUses": {
+            "x": 0,
+            "y": 0
+          },
+          "CollectionWeight": 0,
+          "CreatedLiquid": {
+            "LiquidCard": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "Quantity": {}
+          },
+          "DroppedCards": [
+            {
+              "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "DroppedCardWarpData": "e7d1ed032e9ac281d2ef4a70e34d6838",
+              "DroppedCardWarpType": 3,
+              "Quantity": {
+                "x": 1.0,
+                "y": 1.0
+              }
+            }
+          ],
+          "DroppedEncounter": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedEncounterWarpData": "",
+          "DroppedEncounterWarpType": 3,
+          "DurabilitiesDropChanceModifier": {
+            "Fuel": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Progress": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special1": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special2": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special3": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special4": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Spoilage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Usage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            }
+          },
+          "DurabilityModifications": {
+            "ChargesChange": {},
+            "FuelChange": {},
+            "Special1Change": {},
+            "Special2Change": {},
+            "Special3Change": {},
+            "Special4Change": {},
+            "SpoilageChange": {},
+            "UsageChange": {}
+          },
+          "StatModifications": [],
+          "StatsDropChanceModifiers": []
+        }
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "\u4E8C\u9636\u6BB5",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatOptions": 2,
+      "StatChangeTrigger": [
+        {
+          "HideAllWhenNotMet": false,
+          "NotifyWhenNotMet": false,
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "dd944a6171ea2ebad27415dfe8d2387e",
+          "StatWarpType": 3,
+          "TriggerRange": {
+            "x": 8.0,
+            "y": 8.0
+          }
+        }
+      ],
+      "ProducedCards": [
+        {
+          "CardDropChanceModifiers": [],
+          "CollectionMessages": [],
+          "CollectionName": "col_0",
+          "CollectionUses": {
+            "x": 0,
+            "y": 0
+          },
+          "CollectionWeight": 0,
+          "CreatedLiquid": {
+            "LiquidCard": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "Quantity": {}
+          },
+          "DroppedCards": [
+            {
+              "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "DroppedCardWarpData": "e7d1ed032e9ac281d2ef4a70e34d6838",
+              "DroppedCardWarpType": 3,
+              "Quantity": {
+                "x": 1.0,
+                "y": 1.0
+              }
+            }
+          ],
+          "DroppedEncounter": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedEncounterWarpData": "",
+          "DroppedEncounterWarpType": 3,
+          "DurabilitiesDropChanceModifier": {
+            "Fuel": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Progress": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special1": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special2": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special3": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special4": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Spoilage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Usage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            }
+          },
+          "DurabilityModifications": {
+            "ChargesChange": {},
+            "FuelChange": {},
+            "Special1Change": {},
+            "Special2Change": {},
+            "Special3Change": {},
+            "Special4Change": {},
+            "SpoilageChange": {},
+            "UsageChange": {}
+          },
+          "StatModifications": [],
+          "StatsDropChanceModifiers": []
+        }
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "\u4E09\u9636\u6BB5",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatOptions": 2,
+      "StatChangeTrigger": [
+        {
+          "HideAllWhenNotMet": false,
+          "NotifyWhenNotMet": false,
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "dd944a6171ea2ebad27415dfe8d2387e",
+          "StatWarpType": 3,
+          "TriggerRange": {
+            "x": 12.0,
+            "y": 12.0
+          }
+        }
+      ],
+      "ProducedCards": [
+        {
+          "CardDropChanceModifiers": [],
+          "CollectionMessages": [],
+          "CollectionName": "col_0",
+          "CollectionUses": {
+            "x": 0,
+            "y": 0
+          },
+          "CollectionWeight": 0,
+          "CreatedLiquid": {
+            "LiquidCard": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "Quantity": {}
+          },
+          "DroppedCards": [
+            {
+              "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "DroppedCardWarpData": "e7d1ed032e9ac281d2ef4a70e34d6838",
+              "DroppedCardWarpType": 3,
+              "Quantity": {
+                "x": 1.0,
+                "y": 1.0
+              }
+            }
+          ],
+          "DroppedEncounter": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedEncounterWarpData": "",
+          "DroppedEncounterWarpType": 3,
+          "DurabilitiesDropChanceModifier": {
+            "Fuel": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Progress": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special1": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special2": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special3": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special4": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Spoilage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Usage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            }
+          },
+          "DurabilityModifications": {
+            "ChargesChange": {},
+            "FuelChange": {},
+            "Special1Change": {},
+            "Special2Change": {},
+            "Special3Change": {},
+            "Special4Change": {},
+            "SpoilageChange": {},
+            "UsageChange": {}
+          },
+          "StatModifications": [],
+          "StatsDropChanceModifiers": []
+        }
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "\u56DB\u9636\u6BB5",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatOptions": 2,
+      "StatChangeTrigger": [
+        {
+          "HideAllWhenNotMet": false,
+          "NotifyWhenNotMet": false,
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "dd944a6171ea2ebad27415dfe8d2387e",
+          "StatWarpType": 3,
+          "TriggerRange": {
+            "x": 16.0,
+            "y": 16.0
+          }
+        }
+      ],
+      "ProducedCards": [
+        {
+          "CardDropChanceModifiers": [],
+          "CollectionMessages": [],
+          "CollectionName": "col_0",
+          "CollectionUses": {
+            "x": 0,
+            "y": 0
+          },
+          "CollectionWeight": 0,
+          "CreatedLiquid": {
+            "LiquidCard": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "Quantity": {}
+          },
+          "DroppedCards": [
+            {
+              "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "DroppedCardWarpData": "e7d1ed032e9ac281d2ef4a70e34d6838",
+              "DroppedCardWarpType": 3,
+              "Quantity": {
+                "x": 1.0,
+                "y": 1.0
+              }
+            }
+          ],
+          "DroppedEncounter": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedEncounterWarpData": "",
+          "DroppedEncounterWarpType": 3,
+          "DurabilitiesDropChanceModifier": {
+            "Fuel": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Progress": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special1": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special2": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special3": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special4": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Spoilage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Usage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            }
+          },
+          "DurabilityModifications": {
+            "ChargesChange": {},
+            "FuelChange": {},
+            "Special1Change": {},
+            "Special2Change": {},
+            "Special3Change": {},
+            "Special4Change": {},
+            "SpoilageChange": {},
+            "UsageChange": {}
+          },
+          "StatModifications": [],
+          "StatsDropChanceModifiers": []
+        }
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "\u4E94\u9636\u6BB5",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatOptions": 2,
+      "StatChangeTrigger": [
+        {
+          "HideAllWhenNotMet": false,
+          "NotifyWhenNotMet": false,
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "dd944a6171ea2ebad27415dfe8d2387e",
+          "StatWarpType": 3,
+          "TriggerRange": {
+            "x": 18.0,
+            "y": 18.0
+          }
+        }
+      ],
+      "ProducedCards": [
+        {
+          "CardDropChanceModifiers": [],
+          "CollectionMessages": [],
+          "CollectionName": "col_0",
+          "CollectionUses": {
+            "x": 0,
+            "y": 0
+          },
+          "CollectionWeight": 0,
+          "CreatedLiquid": {
+            "LiquidCard": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "Quantity": {}
+          },
+          "DroppedCards": [
+            {
+              "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "DroppedCardWarpData": "506ba0b31477dda57dfca21bab0f6364",
+              "DroppedCardWarpType": 3,
+              "Quantity": {
+                "x": 1.0,
+                "y": 1.0
+              }
+            }
+          ],
+          "DroppedEncounter": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedEncounterWarpData": "",
+          "DroppedEncounterWarpType": 3,
+          "DurabilitiesDropChanceModifier": {
+            "Fuel": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Progress": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special1": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special2": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special3": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special4": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Spoilage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Usage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            }
+          },
+          "DurabilityModifications": {
+            "ChargesChange": {},
+            "FuelChange": {},
+            "Special1Change": {},
+            "Special2Change": {},
+            "Special3Change": {},
+            "Special4Change": {},
+            "SpoilageChange": {},
+            "UsageChange": {}
+          },
+          "StatModifications": [],
+          "StatsDropChanceModifiers": []
+        }
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "\u516D\u9636\u6BB5",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatOptions": 2,
+      "StatChangeTrigger": [
+        {
+          "HideAllWhenNotMet": false,
+          "NotifyWhenNotMet": false,
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "dd944a6171ea2ebad27415dfe8d2387e",
+          "StatWarpType": 3,
+          "TriggerRange": {
+            "x": 20.0,
+            "y": 20.0
+          }
+        }
+      ],
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "dd944a6171ea2ebad27415dfe8d2387e",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": -20.0,
+            "y": -20.0
+          }
+        }
+      ],
+      "ProducedCards": [
+        {
+          "CardDropChanceModifiers": [],
+          "CollectionMessages": [],
+          "CollectionName": "col_0",
+          "CollectionUses": {
+            "x": 0,
+            "y": 0
+          },
+          "CollectionWeight": 10,
+          "CreatedLiquid": {
+            "LiquidCard": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "Quantity": {}
+          },
+          "DroppedCards": [
+            {
+              "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "DroppedCardWarpData": "76e15d6d2ee199844a4812b3dc361c74",
+              "DroppedCardWarpType": 3,
+              "Quantity": {
+                "x": 1.0,
+                "y": 1.0
+              }
+            }
+          ],
+          "DroppedEncounter": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedEncounterWarpData": "",
+          "DroppedEncounterWarpType": 3,
+          "DurabilitiesDropChanceModifier": {
+            "Fuel": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Progress": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special1": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special2": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special3": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special4": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Spoilage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Usage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            }
+          },
+          "DurabilityModifications": {
+            "ChargesChange": {},
+            "FuelChange": {},
+            "Special1Change": {},
+            "Special2Change": {},
+            "Special3Change": {},
+            "Special4Change": {},
+            "SpoilageChange": {},
+            "UsageChange": {}
+          },
+          "StatModifications": [],
+          "StatsDropChanceModifiers": []
+        },
+        {
+          "CardDropChanceModifiers": [],
+          "CollectionMessages": [],
+          "CollectionName": "col_1",
+          "CollectionUses": {
+            "x": 0,
+            "y": 0
+          },
+          "CollectionWeight": 10,
+          "CreatedLiquid": {
+            "LiquidCard": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "Quantity": {}
+          },
+          "DroppedCards": [
+            {
+              "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "DroppedCardWarpData": "a16ea348288688841b3119f930506e77",
+              "DroppedCardWarpType": 3,
+              "Quantity": {
+                "x": 1.0,
+                "y": 1.0
+              }
+            }
+          ],
+          "DroppedEncounter": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedEncounterWarpData": "",
+          "DroppedEncounterWarpType": 3,
+          "DurabilitiesDropChanceModifier": {
+            "Fuel": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Progress": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special1": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special2": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special3": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special4": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Spoilage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Usage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            }
+          },
+          "DurabilityModifications": {
+            "ChargesChange": {},
+            "FuelChange": {},
+            "Special1Change": {},
+            "Special2Change": {},
+            "Special3Change": {},
+            "Special4Change": {},
+            "SpoilageChange": {},
+            "UsageChange": {}
+          },
+          "StatModifications": [],
+          "StatsDropChanceModifiers": []
+        },
+        {
+          "CardDropChanceModifiers": [],
+          "CollectionMessages": [],
+          "CollectionName": "col_2",
+          "CollectionUses": {
+            "x": 0,
+            "y": 0
+          },
+          "CollectionWeight": 60,
+          "CreatedLiquid": {
+            "LiquidCard": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "Quantity": {}
+          },
+          "DroppedCards": [
+            {
+              "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "DroppedCardWarpData": "dc4523f5854ec904b971af4bf6f08858",
+              "DroppedCardWarpType": 3,
+              "Quantity": {
+                "x": 1.0,
+                "y": 1.0
+              }
+            }
+          ],
+          "DroppedEncounter": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedEncounterWarpData": "",
+          "DroppedEncounterWarpType": 3,
+          "DurabilitiesDropChanceModifier": {
+            "Fuel": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Progress": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special1": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special2": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special3": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special4": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Spoilage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Usage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            }
+          },
+          "DurabilityModifications": {
+            "ChargesChange": {},
+            "FuelChange": {},
+            "Special1Change": {},
+            "Special2Change": {},
+            "Special3Change": {},
+            "Special4Change": {},
+            "SpoilageChange": {},
+            "UsageChange": {}
+          },
+          "StatModifications": [],
+          "StatsDropChanceModifiers": []
+        },
+        {
+          "CardDropChanceModifiers": [],
+          "CollectionMessages": [],
+          "CollectionName": "col_3",
+          "CollectionUses": {
+            "x": 0,
+            "y": 0
+          },
+          "CollectionWeight": 5,
+          "CreatedLiquid": {
+            "LiquidCard": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "Quantity": {}
+          },
+          "DroppedCards": [
+            {
+              "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "DroppedCardWarpData": "7d3c97dbef2089d44bc6abe0578fa45f",
+              "DroppedCardWarpType": 3,
+              "Quantity": {
+                "x": 1.0,
+                "y": 1.0
+              }
+            }
+          ],
+          "DroppedEncounter": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedEncounterWarpData": "",
+          "DroppedEncounterWarpType": 3,
+          "DurabilitiesDropChanceModifier": {
+            "Fuel": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Progress": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special1": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special2": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special3": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special4": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Spoilage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Usage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            }
+          },
+          "DurabilityModifications": {
+            "ChargesChange": {},
+            "FuelChange": {},
+            "Special1Change": {},
+            "Special2Change": {},
+            "Special3Change": {},
+            "Special4Change": {},
+            "SpoilageChange": {},
+            "UsageChange": {}
+          },
+          "StatModifications": [],
+          "StatsDropChanceModifiers": []
+        },
+        {
+          "CardDropChanceModifiers": [],
+          "CollectionMessages": [],
+          "CollectionName": "col_4",
+          "CollectionUses": {
+            "x": 0,
+            "y": 0
+          },
+          "CollectionWeight": 5,
+          "CreatedLiquid": {
+            "LiquidCard": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "Quantity": {}
+          },
+          "DroppedCards": [
+            {
+              "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "DroppedCardWarpData": "bbaf57503d11c3d4e9c494793f4b34cf",
+              "DroppedCardWarpType": 3,
+              "Quantity": {
+                "x": 1.0,
+                "y": 1.0
+              }
+            }
+          ],
+          "DroppedEncounter": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedEncounterWarpData": "",
+          "DroppedEncounterWarpType": 3,
+          "DurabilitiesDropChanceModifier": {
+            "Fuel": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Progress": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special1": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special2": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special3": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special4": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Spoilage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Usage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            }
+          },
+          "DurabilityModifications": {
+            "ChargesChange": {},
+            "FuelChange": {},
+            "Special1Change": {},
+            "Special2Change": {},
+            "Special3Change": {},
+            "Special4Change": {},
+            "SpoilageChange": {},
+            "UsageChange": {}
+          },
+          "StatModifications": [],
+          "StatsDropChanceModifiers": []
+        }
+      ]
+    }
+  ],
+  "UniqueID": "ccdc8e0c9c7436ad72e05eaac37a7052"
+}

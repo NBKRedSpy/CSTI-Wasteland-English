@@ -1,1 +1,32 @@
-{"AssociatedEntry":{"m_FileID":0,"m_PathID":0},"IncludedCards":[],"IncludedCardsWarpData":["605db110919887702607552d3971e265","c0b50b10716beba4cbf6aa3f8ff20f0e","71a5d49f33b914c4ca6818bc3a47ebc1","489036c91a3944b45bf2f9e39a63ee29","1c63601bc66c174a60e6d5108d1d072f","873a2f5b487654c43a1346d176da643e","\u65e0","a1ae5f8886364994b8397ac0f2cd95dd","e54d112f1ec37e7acadcedca263e2262"],"IncludedCardsWarpType":3,"ShopSortingList":[],"SubGroups":[],"TabIcon":{"m_FileID":0,"m_PathID":0},"TabIconWarpData":"\u852c\u83dc","TabIconWarpType":3,"TabName":{"DefaultText":"\u852c\u83dc","LocalizationKey":"","ParentObjectID":""}}
+{
+  "AssociatedEntry": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "IncludedCards": [],
+  "IncludedCardsWarpData": [
+    "605db110919887702607552d3971e265",
+    "c0b50b10716beba4cbf6aa3f8ff20f0e",
+    "71a5d49f33b914c4ca6818bc3a47ebc1",
+    "489036c91a3944b45bf2f9e39a63ee29",
+    "1c63601bc66c174a60e6d5108d1d072f",
+    "873a2f5b487654c43a1346d176da643e",
+    "\u65E0",
+    "a1ae5f8886364994b8397ac0f2cd95dd",
+    "e54d112f1ec37e7acadcedca263e2262"
+  ],
+  "IncludedCardsWarpType": 3,
+  "ShopSortingList": [],
+  "SubGroups": [],
+  "TabIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TabIconWarpData": "\u852C\u83DC",
+  "TabIconWarpType": 3,
+  "TabName": {
+    "DefaultText": "\u852C\u83DC",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  }
+}

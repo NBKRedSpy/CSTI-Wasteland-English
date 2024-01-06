@@ -1,1 +1,34 @@
-{"AssociatedCards":[],"AssociatedStats":[],"OverrideIllustration":{"m_FileID":0,"m_PathID":0},"OverrideTitle":{"DefaultText":"\u522e\u76ae\u5200","LocalizationKey":"","ParentObjectID":""},"OverrideDescription":{"DefaultText":"\u6211\u662f\u522e\u76ae\u5200\u7684\u6307\u5357","LocalizationKey":"","ParentObjectID":""},"RelatedEntries":[],"ExplicitPage":{"m_FileID":0,"m_PathID":0},"AssociatedCardsWarpType":3,"AssociatedCardsWarpData":["133fa25dae43ffb5faa1d60b15e19b0d"],"RelatedEntriesWarpType":3,"RelatedEntriesWarpData":["\u6253\u706b\u673a","\u5f00\u7f50\u5668"],"OverrideIllustrationWarpType":3,"OverrideIllustrationWarpData":"\u522e\u76ae\u5200"}
+{
+  "AssociatedCards": [],
+  "AssociatedStats": [],
+  "OverrideIllustration": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideTitle": {
+    "DefaultText": "\u522E\u76AE\u5200",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "OverrideDescription": {
+    "DefaultText": "\u6211\u662F\u522E\u76AE\u5200\u7684\u6307\u5357",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "RelatedEntries": [],
+  "ExplicitPage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "AssociatedCardsWarpType": 3,
+  "AssociatedCardsWarpData": [
+    "133fa25dae43ffb5faa1d60b15e19b0d"
+  ],
+  "RelatedEntriesWarpType": 3,
+  "RelatedEntriesWarpData": [
+    "\u6253\u706B\u673A",
+    "\u5F00\u7F50\u5668"
+  ],
+  "OverrideIllustrationWarpType": 3,
+  "OverrideIllustrationWarpData": "\u522E\u76AE\u5200"
+}

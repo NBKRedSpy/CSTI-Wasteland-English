@@ -1,1 +1,193 @@
-{"BarColor":{"a":0.0,"b":0.264437615871429,"g":0.0293698757886887,"r":0.415094316005707},"BarHighlightColor":{"a":0.0,"b":0.0,"g":0.0,"r":0.0},"BaseRatePerTick":0.0,"BaseValue":0.0,"CannotBeInspected":false,"DefaultStatusDescription":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"DefaultStatusIcon":{"m_FileID":0,"m_PathID":0},"DefaultStatusIconWarpData":"\u73a9\u5076\u7684\u4eb2\u5bc6\u5173\u7cfb","DefaultStatusIconWarpType":3,"DefaultStatusName":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"Description":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"FeedbackInfo":{"Icon":{"m_FileID":0,"m_PathID":0},"Inverted":false,"NegativeIcon":{"m_FileID":0,"m_PathID":0},"StepValue":1.0},"GameName":{"DefaultText":"\u73a9\u5076\u7684\u4eb2\u5bc6\u5173\u7cfb","LocalizationKey":"","ParentObjectID":""},"InvertedDirection":false,"MaxStalenessStack":0,"MinMaxRate":{"x":0.0,"y":0.0},"MinMaxValue":{"x":0.0,"y":5000.0},"NotEnoughIcon":{"m_FileID":0,"m_PathID":0},"NotEnoughText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"NoveltyCooldownDuration":0,"OverrideFeedbackPrefab":{"m_FileID":0,"m_PathID":0},"RequiredPerks":[],"ShowActionEffects":false,"StalenessMultiplier":0.0,"StatPriority":0,"StatusDebugMode":false,"Statuses":[{"ActionsMaxTicks":0,"AlertLevel":0,"AlertSounds":[],"ConfidenceModifier":0.0,"Description":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"EffectsOnActions":[],"EffectsOnStats":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":-1.0,"y":-1.0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"3dc9b7924c4bec142af1c255f6df235d","StatWarpType":3,"ValueModifier":{"x":0.0,"y":0.0}},{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":-1.0,"y":-1.0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"c672b35248e9f2349a084e1514d6c9f8","StatWarpType":3,"ValueModifier":{"x":0.0,"y":0.0}}],"GameName":{"DefaultText":"\u4eb2\u5bc6\u7684\u670b\u53cb","LocalizationKey":"","ParentObjectID":""},"GameOver":false,"Icon":{"m_FileID":0,"m_PathID":0},"IconWarpData":"\u73a9\u5076\u7684\u4eb2\u5bc6\u5173\u7cfb","IconWarpType":3,"NotifyPlayer":1,"PreventingActionMessage":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"RepeatAlertSounds":0,"RepeatTextNotification":0,"StatusLog":{"Category":{"m_FileID":0,"m_PathID":0},"LogText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"TicksToRegister":0},"ValueRange":{"x":4000.0,"y":5000.0}}],"StatusesHaveNoBar":false,"TimeOfDayMods":[],"TooMuchText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"TrendIndicatorRateRange":{"x":0.0,"y":0.0},"UniqueID":"3ee7359662a5ff5deef305bec38858dc","UsesNovelty":false,"Visibility":2,"VisibleInDetailedList":false,"VisibleValueRange":{"x":0.0,"y":0.0}}
+{
+  "BarColor": {
+    "a": 0.0,
+    "b": 0.264437615871429,
+    "g": 0.0293698757886887,
+    "r": 0.415094316005707
+  },
+  "BarHighlightColor": {
+    "a": 0.0,
+    "b": 0.0,
+    "g": 0.0,
+    "r": 0.0
+  },
+  "BaseRatePerTick": 0.0,
+  "BaseValue": 0.0,
+  "CannotBeInspected": false,
+  "DefaultStatusDescription": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "DefaultStatusIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DefaultStatusIconWarpData": "\u73A9\u5076\u7684\u4EB2\u5BC6\u5173\u7CFB",
+  "DefaultStatusIconWarpType": 3,
+  "DefaultStatusName": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "Description": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "FeedbackInfo": {
+    "Icon": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "Inverted": false,
+    "NegativeIcon": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "StepValue": 1.0
+  },
+  "GameName": {
+    "DefaultText": "\u73A9\u5076\u7684\u4EB2\u5BC6\u5173\u7CFB",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "InvertedDirection": false,
+  "MaxStalenessStack": 0,
+  "MinMaxRate": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "MinMaxValue": {
+    "x": 0.0,
+    "y": 5000.0
+  },
+  "NotEnoughIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "NotEnoughText": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "NoveltyCooldownDuration": 0,
+  "OverrideFeedbackPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RequiredPerks": [],
+  "ShowActionEffects": false,
+  "StalenessMultiplier": 0.0,
+  "StatPriority": 0,
+  "StatusDebugMode": false,
+  "Statuses": [
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 0,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": -1.0,
+            "y": -1.0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "3dc9b7924c4bec142af1c255f6df235d",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": -1.0,
+            "y": -1.0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "c672b35248e9f2349a084e1514d6c9f8",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "\u4EB2\u5BC6\u7684\u670B\u53CB",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "\u73A9\u5076\u7684\u4EB2\u5BC6\u5173\u7CFB",
+      "IconWarpType": 3,
+      "NotifyPlayer": 1,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 4000.0,
+        "y": 5000.0
+      }
+    }
+  ],
+  "StatusesHaveNoBar": false,
+  "TimeOfDayMods": [],
+  "TooMuchText": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "TrendIndicatorRateRange": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "UniqueID": "3ee7359662a5ff5deef305bec38858dc",
+  "UsesNovelty": false,
+  "Visibility": 2,
+  "VisibleInDetailedList": false,
+  "VisibleValueRange": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

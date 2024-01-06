@@ -1,1 +1,156 @@
-{"PageTitle":{"DefaultText":"\u57fa\u672c\u5de5\u5177","LocalizationKey":"","ParentObjectID":""},"RightButton":{"m_FileID":0,"m_PathID":0},"LeftButton":{"m_FileID":0,"m_PathID":0},"BackButton":{"m_FileID":0,"m_PathID":0},"PageIllustration":{"m_FileID":0,"m_PathID":0},"PageDisplay":1,"SpaceBtwnSections":0.0,"TitleSeparator":false,"Sections":[{"SectionDisplay":0,"SpaceBtwnEntries":0.0,"Entries":[{"SpaceBtwnElements":0.0,"Title":{"ParentObjectID":"","LocalizationKey":"","DefaultText":""},"InfoDisplay":2,"OverrideAlignment":false,"ContentAlignment":0,"Image":{"m_FileID":0,"m_PathID":0},"Content":{"ParentObjectID":"","LocalizationKey":"","DefaultText":""},"ImageSizeMultiplier":0.0,"RelatedObjective":{"m_FileID":0,"m_PathID":0},"AnchorObjectiveTo":0,"ObjectiveDisplayOptions":0,"PageLinks":[],"WebLinks":[],"StretchButtons":false,"SpaceBtwnButtons":0.0,"OrderOfElements":[1,2,0],"Conditions":[],"RelatedObjectiveWarpType":3,"RelatedObjectiveWarpData":"f4c19ad95965d6f5e2201f163171e472"},{"SpaceBtwnElements":0.0,"Title":{"ParentObjectID":"","LocalizationKey":"","DefaultText":""},"InfoDisplay":2,"OverrideAlignment":false,"ContentAlignment":0,"Image":{"m_FileID":0,"m_PathID":0},"Content":{"ParentObjectID":"","LocalizationKey":"","DefaultText":""},"ImageSizeMultiplier":0.0,"RelatedObjective":{"m_FileID":0,"m_PathID":0},"AnchorObjectiveTo":0,"ObjectiveDisplayOptions":0,"PageLinks":[],"WebLinks":[],"StretchButtons":false,"SpaceBtwnButtons":0.0,"OrderOfElements":[1,2,0],"Conditions":[],"RelatedObjectiveWarpType":3,"RelatedObjectiveWarpData":"234e365c4e0d80c7d35b8bb32bff4eb3"},{"SpaceBtwnElements":0.0,"Title":{"ParentObjectID":"","LocalizationKey":"","DefaultText":""},"InfoDisplay":2,"OverrideAlignment":false,"ContentAlignment":0,"Image":{"m_FileID":0,"m_PathID":0},"Content":{"ParentObjectID":"","LocalizationKey":"","DefaultText":""},"ImageSizeMultiplier":0.0,"RelatedObjective":{"m_FileID":0,"m_PathID":0},"AnchorObjectiveTo":0,"ObjectiveDisplayOptions":0,"PageLinks":[],"WebLinks":[],"StretchButtons":false,"SpaceBtwnButtons":0.0,"OrderOfElements":[1,2,0],"Conditions":[],"RelatedObjectiveWarpType":3,"RelatedObjectiveWarpData":"17c490c00542ebebe6536bfac2fa88f5"}]}],"GlobalPageLinks":[],"LeftButtonWarpType":3,"LeftButtonWarpData":"\u89d2\u8272\u5267\u672c_\u53d8\u79cd\u4eba\u514b\u91cc\u65af\u4eba\u7269\u76ee\u6807_Default","RightButtonWarpType":3,"RightButtonWarpData":"\u53d8\u79cd\u4eba\u514b\u91cc\u65af\u7b2c2\u9875"}
+{
+  "PageTitle": {
+    "DefaultText": "\u57FA\u672C\u5DE5\u5177",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "RightButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "LeftButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "BackButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PageIllustration": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PageDisplay": 1,
+  "SpaceBtwnSections": 0.0,
+  "TitleSeparator": false,
+  "Sections": [
+    {
+      "SectionDisplay": 0,
+      "SpaceBtwnEntries": 0.0,
+      "Entries": [
+        {
+          "SpaceBtwnElements": 0.0,
+          "Title": {
+            "ParentObjectID": "",
+            "LocalizationKey": "",
+            "DefaultText": ""
+          },
+          "InfoDisplay": 2,
+          "OverrideAlignment": false,
+          "ContentAlignment": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "Content": {
+            "ParentObjectID": "",
+            "LocalizationKey": "",
+            "DefaultText": ""
+          },
+          "ImageSizeMultiplier": 0.0,
+          "RelatedObjective": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnchorObjectiveTo": 0,
+          "ObjectiveDisplayOptions": 0,
+          "PageLinks": [],
+          "WebLinks": [],
+          "StretchButtons": false,
+          "SpaceBtwnButtons": 0.0,
+          "OrderOfElements": [
+            1,
+            2,
+            0
+          ],
+          "Conditions": [],
+          "RelatedObjectiveWarpType": 3,
+          "RelatedObjectiveWarpData": "f4c19ad95965d6f5e2201f163171e472"
+        },
+        {
+          "SpaceBtwnElements": 0.0,
+          "Title": {
+            "ParentObjectID": "",
+            "LocalizationKey": "",
+            "DefaultText": ""
+          },
+          "InfoDisplay": 2,
+          "OverrideAlignment": false,
+          "ContentAlignment": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "Content": {
+            "ParentObjectID": "",
+            "LocalizationKey": "",
+            "DefaultText": ""
+          },
+          "ImageSizeMultiplier": 0.0,
+          "RelatedObjective": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnchorObjectiveTo": 0,
+          "ObjectiveDisplayOptions": 0,
+          "PageLinks": [],
+          "WebLinks": [],
+          "StretchButtons": false,
+          "SpaceBtwnButtons": 0.0,
+          "OrderOfElements": [
+            1,
+            2,
+            0
+          ],
+          "Conditions": [],
+          "RelatedObjectiveWarpType": 3,
+          "RelatedObjectiveWarpData": "234e365c4e0d80c7d35b8bb32bff4eb3"
+        },
+        {
+          "SpaceBtwnElements": 0.0,
+          "Title": {
+            "ParentObjectID": "",
+            "LocalizationKey": "",
+            "DefaultText": ""
+          },
+          "InfoDisplay": 2,
+          "OverrideAlignment": false,
+          "ContentAlignment": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "Content": {
+            "ParentObjectID": "",
+            "LocalizationKey": "",
+            "DefaultText": ""
+          },
+          "ImageSizeMultiplier": 0.0,
+          "RelatedObjective": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnchorObjectiveTo": 0,
+          "ObjectiveDisplayOptions": 0,
+          "PageLinks": [],
+          "WebLinks": [],
+          "StretchButtons": false,
+          "SpaceBtwnButtons": 0.0,
+          "OrderOfElements": [
+            1,
+            2,
+            0
+          ],
+          "Conditions": [],
+          "RelatedObjectiveWarpType": 3,
+          "RelatedObjectiveWarpData": "17c490c00542ebebe6536bfac2fa88f5"
+        }
+      ]
+    }
+  ],
+  "GlobalPageLinks": [],
+  "LeftButtonWarpType": 3,
+  "LeftButtonWarpData": "\u89D2\u8272\u5267\u672C_\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u4EBA\u7269\u76EE\u6807_Default",
+  "RightButtonWarpType": 3,
+  "RightButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C2\u9875"
+}

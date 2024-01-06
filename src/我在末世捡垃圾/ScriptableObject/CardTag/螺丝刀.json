@@ -1,1 +1,7 @@
-{"InGameName":{"DefaultText":"\u87ba\u4e1d\u5200","LocalizationKey":"","ParentObjectID":""}}
+{
+  "InGameName": {
+    "DefaultText": "\u87BA\u4E1D\u5200",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  }
+}
