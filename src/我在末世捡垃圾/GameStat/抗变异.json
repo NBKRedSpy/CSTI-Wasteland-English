@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6297\u53D8\u5F02",
+  "DefaultStatusIconWarpData": "抗变异",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6297\u53D8\u5F02",
-    "LocalizationKey": "",
+    "DefaultText": "抗变异",
+    "LocalizationKey": "T-DNhmlxqS4LQEU7IfMZQpIqTIwYY=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -115,8 +115,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u6297\u53D8\u5F02\u7684\u7B2C1\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "抗变异的第1阶段",
+        "LocalizationKey": "T-KLC1m06MOZfHPulMzoalstfmkik=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -124,7 +124,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u6297\u53D8\u5F02",
+      "IconWarpData": "抗变异",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

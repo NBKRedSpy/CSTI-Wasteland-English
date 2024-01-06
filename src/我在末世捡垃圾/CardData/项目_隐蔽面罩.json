@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9690\u853D\u9762\u7F69",
-    "LocalizationKey": "",
+    "DefaultText": "隐蔽面罩",
+    "LocalizationKey": "T-KrLccEYApo4JMoS6G1fCFjzANRo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5341\u5206\u73CD\u8D35\uFF0C\u5B83\u5947\u8FF9\u822C\u5730\u9690\u85CF\u4E86\u6211\u7684\u6C14\u606F(boss\u548C\u7CBE\u82F1\u602A\u4E0D\u80FD\u9690\u85CF)",
-    "LocalizationKey": "",
+    "DefaultText": "十分珍贵，它奇迹般地隐藏了我的气息(boss和精英怪不能隐藏)",
+    "LocalizationKey": "T-qb6w4KAFZ9SnnSJ8an9Ev3dnN48=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9690\u853D\u9762\u7F69",
+  "CardImageWarpData": "隐蔽面罩",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3518,8 +3518,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u9690\u853D\u9762\u7F69\u7528\u5B8C\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "隐蔽面罩用完了！",
+        "LocalizationKey": "T-tiR+9TnPqZKJQNghvH+CWmfC1oU=",
         "ParentObjectID": ""
       },
       "ActionLog": {

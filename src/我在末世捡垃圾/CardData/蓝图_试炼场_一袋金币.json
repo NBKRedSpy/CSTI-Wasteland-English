@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4E00\u888B\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "一袋金币",
+    "LocalizationKey": "T-vkGll5CGaD/dA8PRTeVtL34FplM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E00\u888B\u91D1\u5E01",
+  "CardImageWarpData": "一袋金币",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "47ca7d3ff05d6652e7002eddd5929de8",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u7B80\u5355\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机简单难度",
+    "LocalizationKey": "T-OV2rsa7TYmJmc1DlMSq4Qzijhno=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

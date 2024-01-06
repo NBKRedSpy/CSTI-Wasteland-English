@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u788E\u73BB\u7483\u6E23",
-    "LocalizationKey": "",
+    "DefaultText": "碎玻璃渣",
+    "LocalizationKey": "T-DD5d90p6wmZfOAlU6nRGvHlmKsk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5C0F\u5FC3\u522B\u8E29\u5230\u4E86\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "小心别踩到了！",
+    "LocalizationKey": "T-biMzCn1aIjk71z6Tuwo923rEpQw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u788E\u73BB\u7483\u6E23",
+  "CardImageWarpData": "碎玻璃渣",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7075\u9B42\u7403\u6A21\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "灵魂球模具",
+    "LocalizationKey": "T-rldtjc1LWeNciOC2R2/voxpHgbo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -370,7 +370,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7075\u9B42\u7403\u6A21\u5177",
+  "CardImageWarpData": "灵魂球模具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3551,8 +3551,8 @@
   "UniqueID": "151622c63847ad62dcdf6a501efc12e8",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6CE5\u5806",
-    "LocalizationKey": "",
+    "DefaultText": "需要泥堆",
+    "LocalizationKey": "T-0ES6cbILbroDVtTOVpA7NpTpTXI=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u827E\u8349\u79CD\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "艾草种子",
+    "LocalizationKey": "T-Bnps+ttOztZDokxiVZHCR3VlG2o=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u53EF\u4EE5\u5403\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "这可以吃？",
+    "LocalizationKey": "T-tQOye79u42CleJUY8PqfcJu5Qlk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

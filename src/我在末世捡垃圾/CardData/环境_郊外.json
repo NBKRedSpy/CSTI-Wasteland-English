@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u90CA\u5916",
-    "LocalizationKey": "",
+    "DefaultText": "郊外",
+    "LocalizationKey": "T-do3xsnEuqWxFmKn529CY1W1KLVA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u90CA\u5916",
+  "CardImageWarpData": "郊外",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

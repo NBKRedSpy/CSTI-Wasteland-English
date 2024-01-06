@@ -4,13 +4,13 @@
   "BaseAndItemCardsWarpData": [],
   "BaseAndItemCardsWarpType": 3,
   "CharacterDescription": {
-    "DefaultText": "\u4F60\u4ECE\u5E9F\u5F03\u7684\u5B9E\u9A8C\u5BA4\u9192\u6765\uFF0C\u672A\u77E5\u7684\u4E16\u754C\u7B49\u5F85\u4F60\u53BB\u63A2\u7D22\u2026\u2026",
-    "LocalizationKey": "",
+    "DefaultText": "你从废弃的实验室醒来，未知的世界等待你去探索……",
+    "LocalizationKey": "T-PtHlLCQg7Wv1VLkHbyrhafH69f4=",
     "ParentObjectID": ""
   },
   "CharacterName": {
-    "DefaultText": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF",
-    "LocalizationKey": "",
+    "DefaultText": "变种人克里斯",
+    "LocalizationKey": "T-NgFXa96nyQhwQZWMlVkNN7crdmw=",
     "ParentObjectID": ""
   },
   "CharacterPerks": [],
@@ -26,7 +26,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CharacterPortraitWarpData": "\u514B\u91CC\u65AF",
+  "CharacterPortraitWarpData": "克里斯",
   "CharacterPortraitWarpType": 3,
   "EasyPackage": {
     "m_FileID": 0,
@@ -88,5 +88,5 @@
   },
   "WeatherWarpData": "24c3c1920ab17a44f8d0879ab93da943",
   "WeatherWarpType": 3,
-  "PlayerCharacterJournalName": "\u89D2\u8272\u5267\u672C_\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u4EBA\u7269\u76EE\u6807"
+  "PlayerCharacterJournalName": "角色剧本_变种人克里斯人物目标"
 }

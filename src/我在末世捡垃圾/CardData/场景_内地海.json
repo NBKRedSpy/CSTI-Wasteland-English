@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5185\u5730\u6D77",
-    "LocalizationKey": "",
+    "DefaultText": "内地海",
+    "LocalizationKey": "T-AbL4ZQUmyzG17uKYAj8CJjDUMgs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8BD5\u7740\u9493\u9C7C\u770B\u770B\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "试着钓鱼看看？",
+    "LocalizationKey": "T-aKtl/5uaKaCfYiTH3KQyZaeup88=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5185\u5730\u6D77",
+  "CardImageWarpData": "内地海",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53C9\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "叉鱼",
+        "LocalizationKey": "T-+HJCHyFlUn88MG+lJWrCGk9MmEU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1094,8 +1094,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2112,8 +2112,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "取水",
+        "LocalizationKey": "T-Xm/Syr6MbK1yeBRKrUKahdQRlDI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2460,8 +2460,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3478,8 +3478,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3843,8 +3843,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "轰隆！",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4376,8 +4376,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u996E\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "饮用",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4650,8 +4650,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6F5C\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "潜水",
+        "LocalizationKey": "T-dbxun872Dd91UttbujbiPaJNsGY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5568,8 +5568,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D17\u4E2A\u6FA1",
-        "LocalizationKey": "",
+        "DefaultText": "洗个澡",
+        "LocalizationKey": "T-XHayfKwch1ne2InFQT3Fnu8/iL4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6093,8 +6093,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u8B66\u544A\uFF1A\u8FD9\u4F1A\u7ED3\u675F\u6E38\u620F\u3002",
-        "LocalizationKey": "",
+        "DefaultText": "警告：这会结束游戏。",
+        "LocalizationKey": "T-O0jw/X1Dr5N55KSvkZgswDjeFOk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -6109,8 +6109,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u56DE\u5F52\u5927\u6D77",
-        "LocalizationKey": "",
+        "DefaultText": "回归大海",
+        "LocalizationKey": "T-18OFLA/9Lk+dNotwIF9DJ3ecwd0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -7271,8 +7271,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6D0B\u6D41\u51B2\u5237",
-      "LocalizationKey": "",
+      "DefaultText": "洋流冲刷",
+      "LocalizationKey": "T-8a/cZIWBIjLbYL3ksM34YKnGm+4=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

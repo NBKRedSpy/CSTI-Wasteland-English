@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E3B\u63A7\u7535\u8111",
-    "LocalizationKey": "",
+    "DefaultText": "主控电脑",
+    "LocalizationKey": "T-J7lBmSHSw9WnIFDVmGQmokRzBLM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u591A\u770B\u8BF4\u660E\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "多看说明！",
+    "LocalizationKey": "T-8q40elPeGvOueSb+pdfm67TbDEc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E3B\u63A7\u7535\u8111",
+  "CardImageWarpData": "主控电脑",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4E5D\u4E94\u5F0F\u81EA\u52A8\u6B65\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "九五式自动步枪",
+    "LocalizationKey": "T-BT3953qJucFeIbdLRYsmAjiODOE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E5D\u4E94\u5F0F\u81EA\u52A8\u6B65\u67AA",
+  "CardImageWarpData": "九五式自动步枪",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "5f126c166da539b0c29afbe0a1e9f0d2",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u666E\u901A\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机普通难度",
+    "LocalizationKey": "T-+CqYpoqLCHQzDUa7VOeQ9oYgnWw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

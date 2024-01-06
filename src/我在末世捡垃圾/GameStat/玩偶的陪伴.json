@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6D3E\u8499\u73A9\u5076",
+  "DefaultStatusIconWarpData": "派蒙玩偶",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u73A9\u5076\u7684\u966A\u4F34",
-    "LocalizationKey": "",
+    "DefaultText": "玩偶的陪伴",
+    "LocalizationKey": "T-tRkU+Fe8yFfnUupWM/pRsCVSH5E=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -172,8 +172,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u73A9\u5076\u7684\u966A\u4F34",
-        "LocalizationKey": "",
+        "DefaultText": "玩偶的陪伴",
+        "LocalizationKey": "T-tRkU+Fe8yFfnUupWM/pRsCVSH5E=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -181,7 +181,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u6D3E\u8499\u73A9\u5076",
+      "IconWarpData": "派蒙玩偶",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

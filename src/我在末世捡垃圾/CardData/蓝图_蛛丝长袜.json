@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u86DB\u4E1D\u957F\u889C",
-    "LocalizationKey": "",
+    "DefaultText": "蛛丝长袜",
+    "LocalizationKey": "T-tXPQn++7bwskfDq/sEvzTLSppEs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -371,7 +371,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u86DB\u4E1D\u957F\u889C",
+  "CardImageWarpData": "蛛丝长袜",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3552,8 +3552,8 @@
   "UniqueID": "7826de2fc4dd4e0a1e8c90427107bc82",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u8718\u86DB\u4E1D",
-    "LocalizationKey": "",
+    "DefaultText": "需要蜘蛛丝",
+    "LocalizationKey": "T-jGqsHvVgKALxPxeIqG7l0znsUbo=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

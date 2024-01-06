@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7D20\u63CF\u5973\u4EBA",
-    "LocalizationKey": "",
+    "DefaultText": "素描女人",
+    "LocalizationKey": "T-mRNVdNpJa74hvceTZJM1liYptng=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u7528\u5FC3\u753B\u7684\u7D20\u63CF\uFF0C\u53EF\u4EE5\u6446\u653E\u5728\u67B6\u5B50\u4E0A",
-    "LocalizationKey": "",
+    "DefaultText": "我用心画的素描，可以摆放在架子上",
+    "LocalizationKey": "T-KsN3hsR8GQMz8sOc0DWB/ufvw4M=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -14,7 +14,7 @@
     "tag_Decoration",
     "tag_Sticks",
     "",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7D20\u63CF\u5973\u4EBA",
+  "CardImageWarpData": "素描女人",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

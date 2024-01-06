@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u79BB\u5F00",
-    "LocalizationKey": "",
+    "DefaultText": "离开",
+    "LocalizationKey": "T-C6GJBTwNxnbvd9Es2vwp8HQAVKI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u79BB\u5F00\u94C1\u7B3C",
-    "LocalizationKey": "",
+    "DefaultText": "离开铁笼",
+    "LocalizationKey": "T-vLA8yHj12ji9zPfKO4etLOV4vMU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u7B3C",
+  "CardImageWarpData": "铁笼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79BB\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "离开",
+        "LocalizationKey": "T-C6GJBTwNxnbvd9Es2vwp8HQAVKI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

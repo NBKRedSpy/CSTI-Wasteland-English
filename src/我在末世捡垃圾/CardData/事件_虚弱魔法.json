@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u865A\u5F31\u9B54\u6CD5",
-    "LocalizationKey": "",
+    "DefaultText": "虚弱魔法",
+    "LocalizationKey": "T-RtFDYM1SH0YO1eRLntXCy9jmrDA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F60\u611F\u89C9\u6D51\u8EAB\u65E0\u529B\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "你感觉浑身无力。",
+    "LocalizationKey": "T-G80tt3z5lJj5BIhAs3+KH4ZR8tE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u865A\u5F31\u9B54\u6CD5",
+  "CardImageWarpData": "虚弱魔法",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4048,7 +4048,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u865A\u5F31\u9B54\u6CD5"
+    "虚弱魔法"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

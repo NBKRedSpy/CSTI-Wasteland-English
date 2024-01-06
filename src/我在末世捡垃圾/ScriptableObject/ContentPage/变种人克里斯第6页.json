@@ -1,7 +1,7 @@
 {
   "PageTitle": {
-    "DefaultText": "\u751F\u5B58\u5EFA\u9020",
-    "LocalizationKey": "",
+    "DefaultText": "生存建造",
+    "LocalizationKey": "T-a7Khpjc2CB+Q9ycxKfgM31EmPTg=",
     "ParentObjectID": ""
   },
   "RightButton": {
@@ -111,7 +111,7 @@
   ],
   "GlobalPageLinks": [],
   "LeftButtonWarpType": 3,
-  "LeftButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C5\u9875",
+  "LeftButtonWarpData": "变种人克里斯第5页",
   "RightButtonWarpType": 3,
-  "RightButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C7\u9875"
+  "RightButtonWarpData": "变种人克里斯第7页"
 }

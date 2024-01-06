@@ -14,8 +14,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u5EA6\u8FC7\u7B2C\u4E00\u4E2A\u66B4\u4E71",
-    "LocalizationKey": "",
+    "DefaultText": "度过第一个暴乱",
+    "LocalizationKey": "T-DxGpOy1nhXQ5+FHT47yneTF4VdE=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

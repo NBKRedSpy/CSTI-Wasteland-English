@@ -2,8 +2,8 @@
   "Actions": [
     {
       "ActionName": {
-        "DefaultText": "\u5408\u4F53",
-        "LocalizationKey": "",
+        "DefaultText": "合体",
+        "LocalizationKey": "T-XEn3o986iYyqS1xgiGZYqM6me0E=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 0,

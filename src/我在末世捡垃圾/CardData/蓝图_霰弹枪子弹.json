@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9730\u5F39\u67AA\u5B50\u5F39",
-    "LocalizationKey": "",
+    "DefaultText": "霰弹枪子弹",
+    "LocalizationKey": "T-0sX+q644fTHIBqzo/JBeMEAUQiQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9730\u5F39\u67AA\u5B50\u5F39",
+  "CardImageWarpData": "霰弹枪子弹",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "c280d840166d551ec13ae98f92e326b6",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u9730\u5F39\u67AA\u5F39\u58F3",
-    "LocalizationKey": "",
+    "DefaultText": "需要霰弹枪弹壳",
+    "LocalizationKey": "T-TIND/WPOaxMJ1wAWf0NEh29e4z8=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

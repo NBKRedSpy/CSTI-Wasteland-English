@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6DF1\u9083\u5730\u9053",
-    "LocalizationKey": "",
+    "DefaultText": "深邃地道",
+    "LocalizationKey": "T-c1/ICZCKio09rEqyjg+70+BYkgQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6DF1\u9083\u5730\u9053",
+  "CardImageWarpData": "深邃地道",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

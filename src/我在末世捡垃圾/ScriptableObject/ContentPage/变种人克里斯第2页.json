@@ -1,7 +1,7 @@
 {
   "PageTitle": {
-    "DefaultText": "\u6536\u96C6\u67AA\u68B0",
-    "LocalizationKey": "",
+    "DefaultText": "收集枪械",
+    "LocalizationKey": "T-4EBnk+7eghux49bP9rA2Vx4zH8o=",
     "ParentObjectID": ""
   },
   "RightButton": {
@@ -82,8 +82,8 @@
             "m_PathID": 0
           },
           "Content": {
-            "DefaultText": "\u4F60\u53BB\u9700\u8981\u4ED3\u5E93\u5730\u56FE",
-            "LocalizationKey": "",
+            "DefaultText": "你去需要仓库地图",
+            "LocalizationKey": "T-z8YaEO/70q+vJVjWdbRRFQ7sokQ=",
             "ParentObjectID": ""
           },
           "ImageSizeMultiplier": 0.0,
@@ -150,7 +150,7 @@
   ],
   "GlobalPageLinks": [],
   "LeftButtonWarpType": 3,
-  "LeftButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C1\u9875",
+  "LeftButtonWarpData": "变种人克里斯第1页",
   "RightButtonWarpType": 3,
-  "RightButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C3\u9875"
+  "RightButtonWarpData": "变种人克里斯第3页"
 }

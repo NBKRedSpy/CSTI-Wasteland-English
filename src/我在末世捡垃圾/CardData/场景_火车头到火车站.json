@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u706B\u8F66\u7AD9",
-    "LocalizationKey": "",
+    "DefaultText": "火车站",
+    "LocalizationKey": "T-MFVyxTOD+yMpB/AlkxpKwG33GTQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u524D\u5F80\u706B\u8F66\u7AD9\u3002\n\n\u003Cb\u003E\uFF08\u53EA\u6709\u624B\u724C\u53EF\u4EE5\u5E26\u8D70\uFF09\u003C/b\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "前往火车站。\n\n<b>（只有手牌可以带走）</b>",
+    "LocalizationKey": "T-Pq7Y5byfKSUbhtPfDXDfyFIQuCw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u706B\u8F66\u7AD9",
+  "CardImageWarpData": "火车站",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80",
-        "LocalizationKey": "",
+        "DefaultText": "前往",
+        "LocalizationKey": "T-I5JtYUaM5gqjt7WyL+xsaNA49jY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

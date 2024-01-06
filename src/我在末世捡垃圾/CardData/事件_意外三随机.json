@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u610F\u5916\u4E09\u968F\u673A",
-    "LocalizationKey": "",
+    "DefaultText": "意外三随机",
+    "LocalizationKey": "T-OLT1tUAfma28+osxdWz/FuHco1E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u662F\u4EC0\u4E48\uFF1F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "这是什么？！",
+    "LocalizationKey": "T-FUhqYK7FuB69C5M2E4MRYpvRUeQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u610F\u5916\u4E09\u968F\u673A",
+  "CardImageWarpData": "意外三随机",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4361,7 +4361,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u7CBE\u7075\u7684\u8D50\u798F"
+    "精灵的赐福"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

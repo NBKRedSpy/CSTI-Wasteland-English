@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u706B\u8F66\u7AD9",
-    "LocalizationKey": "",
+    "DefaultText": "火车站",
+    "LocalizationKey": "T-MFVyxTOD+yMpB/AlkxpKwG33GTQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u706B\u8F66\u7AD9",
+  "CardImageWarpData": "火车站",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

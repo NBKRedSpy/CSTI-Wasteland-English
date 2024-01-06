@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u8F90\u5C04\u96E8\u6C34\u503C",
+  "DefaultStatusIconWarpData": "辐射雨水值",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u8F90\u5C04\u96E8\u6C34\u503C",
-    "LocalizationKey": "",
+    "DefaultText": "辐射雨水值",
+    "LocalizationKey": "T-VKS0moZ3HKu9rrCoe64OOMxiA4o=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

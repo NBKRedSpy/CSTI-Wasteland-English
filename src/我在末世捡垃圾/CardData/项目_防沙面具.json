@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9632\u6C99\u9762\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "防沙面具",
+    "LocalizationKey": "T-d4Ypblqtn3e6rJx2LNJL3UxECf0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u6700\u597D\u5728\u6C99\u5C18\u66B4\u6765\u4E34\u65F6\u6234\u4E0A\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "我最好在沙尘暴来临时戴上它",
+    "LocalizationKey": "T-IG1lQcJAujN+1fICrMnYgkSRSi4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9632\u6C99\u9762\u5177",
+  "CardImageWarpData": "防沙面具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

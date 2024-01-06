@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u785D\u77F3",
-    "LocalizationKey": "",
+    "DefaultText": "硝石",
+    "LocalizationKey": "T-Db/O20jKHGMa23Vty/moCvMPQBQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u785D\u77F3",
+  "CardImageWarpData": "硝石",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "b4b547d2fdc4ec5ab3c191d6c01dfd38",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u666E\u901A\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机普通难度",
+    "LocalizationKey": "T-+CqYpoqLCHQzDUa7VOeQ9oYgnWw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

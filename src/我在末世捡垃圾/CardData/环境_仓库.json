@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4ED3\u5E93",
-    "LocalizationKey": "",
+    "DefaultText": "仓库",
+    "LocalizationKey": "T-VZFOHFDfnJ7WMxvj2mek9vVnodg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4ED3\u5E93",
+  "CardImageWarpData": "仓库",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

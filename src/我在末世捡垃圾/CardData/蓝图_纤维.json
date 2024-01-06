@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7EA4\u7EF4",
-    "LocalizationKey": "",
+    "DefaultText": "纤维",
+    "LocalizationKey": "T-BMf0rWCMafyQ+VzereoiTTef+XY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4E2A\u53D8\u4E09\u4E2A\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "一个变三个！",
+    "LocalizationKey": "T-I/afY1WZzskekAzHVGuX5htVoy0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -3475,8 +3475,8 @@
   "UniqueID": "929302d983543d57f7bf035c9e428009",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u8718\u86DB\u4E1D",
-    "LocalizationKey": "",
+    "DefaultText": "需要蜘蛛丝",
+    "LocalizationKey": "T-jGqsHvVgKALxPxeIqG7l0znsUbo=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

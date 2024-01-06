@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94DC\u77FF\u77F3",
-    "LocalizationKey": "",
+    "DefaultText": "铜矿石",
+    "LocalizationKey": "T-PH00FR8oSUTIUl8FHv5s3Biptfo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94DC\u77FF\u77F3",
+  "CardImageWarpData": "铜矿石",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "ca66d6fb28a4b2f9e80afa28d43de2d1",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u666E\u901A\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机普通难度",
+    "LocalizationKey": "T-+CqYpoqLCHQzDUa7VOeQ9oYgnWw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

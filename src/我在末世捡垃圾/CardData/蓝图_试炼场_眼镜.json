@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u773C\u955C",
-    "LocalizationKey": "",
+    "DefaultText": "眼镜",
+    "LocalizationKey": "T-3josGuPKi6SqMBY5LSSKCcB17vs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -3475,8 +3475,8 @@
   "UniqueID": "36d74abf6ebbea9124fe733ba47ef86b",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u7B80\u5355\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机简单难度",
+    "LocalizationKey": "T-OV2rsa7TYmJmc1DlMSq4Qzijhno=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

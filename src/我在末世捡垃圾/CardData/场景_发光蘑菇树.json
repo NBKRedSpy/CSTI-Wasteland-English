@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u53D1\u5149\u8611\u83C7\u6811",
-    "LocalizationKey": "",
+    "DefaultText": "发光蘑菇树",
+    "LocalizationKey": "T-x/JFV/M6/GhMk1W8M4zxGF9RsYU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4E2A\u88AB\u84DD\u6708\u50AC\u5316\u7684\u53D1\u5149\u8611\u83C7\u6811\uFF0C\u80FD\u591F\u4E00\u5B9A\u7A0B\u5EA6\u4E0A\u63D0\u4F9B\u7167\u660E\uFF0C\u9047\u5230\u592A\u9633\u5C31\u4F1A\u8150\u70C2",
-    "LocalizationKey": "",
+    "DefaultText": "一个被蓝月催化的发光蘑菇树，能够一定程度上提供照明，遇到太阳就会腐烂",
+    "LocalizationKey": "T-sfwA0fjBr4IMKeROKE7+91zMZjY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u53D1\u5149\u8611\u83C7\u6811",
+  "CardImageWarpData": "发光蘑菇树",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u780D\u4F10\u6728\u6750",
-        "LocalizationKey": "",
+        "DefaultText": "砍伐木材",
+        "LocalizationKey": "T-qq2HrxTCJjK6r+0J+bsVpVjfcH0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -656,8 +656,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u780D\u4F10\u6728\u6750",
-        "LocalizationKey": "",
+        "DefaultText": "砍伐木材",
+        "LocalizationKey": "T-qq2HrxTCJjK6r+0J+bsVpVjfcH0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1812,7 +1812,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u8150\u70C2",
+      "EffectName": "腐烂",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

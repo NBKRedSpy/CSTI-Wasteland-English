@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u88C5\u7740\u7075\u9B42\u7403\u7684\u6A21\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "装着灵魂球的模具",
+    "LocalizationKey": "T-vfzRnG0QlQI5CSuu86ZzwsAyPgY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u5E94\u8BE5\u53BB\u9664\u70E7\u597D\u7684\u7075\u9B42\u7403",
-    "LocalizationKey": "",
+    "DefaultText": "我应该去除烧好的灵魂球",
+    "LocalizationKey": "T-X8FwtXaY1o5MF6e62GhITvsJ6uY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u70E7\u5236\u7684"
+    "可烧制的"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u88C5\u7740\u7075\u9B42\u7403\u7684\u6A21\u5177",
+  "CardImageWarpData": "装着灵魂球的模具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u51FA\u7075\u9B42\u7403",
-        "LocalizationKey": "",
+        "DefaultText": "取出灵魂球",
+        "LocalizationKey": "T-XAx8nNCd4MfjhQAKstkYGg4Y9cM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

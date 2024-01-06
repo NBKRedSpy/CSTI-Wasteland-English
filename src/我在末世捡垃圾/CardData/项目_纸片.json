@@ -1,19 +1,19 @@
 {
   "CardName": {
-    "DefaultText": "\u7EB8\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "纸片",
+    "LocalizationKey": "T-X9sDT7GT5AMrOuvNnue4OO8HXCU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u5F20\u539A\u539A\u7684\u7EB8\u7247\uFF0C\u7528\u6765\u505A\u6210\u7EB8\u5C51\uFF08\u62FF\u6728\u70AD\u4E92\u52A8\u4F1A\u600E\u4E48\u6837\u5462?\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "一张厚厚的纸片，用来做成纸屑（拿木炭互动会怎么样呢?）",
+    "LocalizationKey": "T-e9aGhwEWNWLyG3L9QCMOxfovvhA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Tinder",
     "tag_Dressing",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7EB8\u7247",
+  "CardImageWarpData": "纸片",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "切碎",
+        "LocalizationKey": "T-6gieAzsBqWOQwo58rwRQqBCTNe8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -568,8 +568,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4F5C\u753B",
-        "LocalizationKey": "",
+        "DefaultText": "作画",
+        "LocalizationKey": "T-rbJ6ptgiBg7gAkaGJZWM+27u05c=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1392,8 +1392,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3\u706B\u7ED2",
-        "LocalizationKey": "",
+        "DefaultText": "点燃火绒",
+        "LocalizationKey": "T-hZuMep9FQ/HWyWwk/Y3Kyr+fW9Q=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1417,7 +1417,7 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_FireSource",
-          "\u70B9\u706B\u5DE5\u5177"
+          "点火工具"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -1773,8 +1773,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u94BB\u6728\u53D6\u706B",
-        "LocalizationKey": "",
+        "DefaultText": "钻木取火",
+        "LocalizationKey": "T-9FjQLVtehvmqfXEbY8tby9y7phE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2165,8 +2165,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u94BB\u6728\u53D6\u706B",
-        "LocalizationKey": "",
+        "DefaultText": "钻木取火",
+        "LocalizationKey": "T-9FjQLVtehvmqfXEbY8tby9y7phE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2557,8 +2557,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3\u706B\u7ED2",
-        "LocalizationKey": "",
+        "DefaultText": "点燃火绒",
+        "LocalizationKey": "T-hZuMep9FQ/HWyWwk/Y3Kyr+fW9Q=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

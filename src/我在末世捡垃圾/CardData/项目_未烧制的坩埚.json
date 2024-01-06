@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u672A\u70E7\u5236\u7684\u5769\u57DA",
-    "LocalizationKey": "",
+    "DefaultText": "未烧制的坩埚",
+    "LocalizationKey": "T-YEoFOd7nE9MaddVgQuIdliXhu+I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4E2A\u5DE8\u5927\u7684\u5BB9\u5668\uFF0C\u9700\u8981\u70E7\u5236",
-    "LocalizationKey": "",
+    "DefaultText": "一个巨大的容器，需要烧制",
+    "LocalizationKey": "T-QSVfiRVxDwpZ9GH8Rm8pSoA3+N8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u70E7\u5236\u7684"
+    "可烧制的"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u672A\u70E7\u5236\u7684\u5769\u57DA",
+  "CardImageWarpData": "未烧制的坩埚",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

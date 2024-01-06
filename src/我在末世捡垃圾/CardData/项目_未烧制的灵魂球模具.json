@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u672A\u70E7\u5236\u7684\u7075\u9B42\u7403\u6A21\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "未烧制的灵魂球模具",
+    "LocalizationKey": "T-3ONo6+m1MAdgpZYRcXVe6aSifJs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u628A\u5B83\u653E\u8FDB\u7194\u7089\u70E7",
-    "LocalizationKey": "",
+    "DefaultText": "把它放进熔炉烧",
+    "LocalizationKey": "T-Bm3e1hj5oUB4UQ1IeBk2CUWEI7M=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u70E7\u5236\u7684"
+    "可烧制的"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u672A\u70E7\u5236\u7684\u7075\u9B42\u7403\u6A21\u5177",
+  "CardImageWarpData": "未烧制的灵魂球模具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

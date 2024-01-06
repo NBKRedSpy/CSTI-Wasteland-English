@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5C01\u5370\u7684\u68FA\u6750",
-    "LocalizationKey": "",
+    "DefaultText": "封印的棺材",
+    "LocalizationKey": "T-EnagtypF29y1S2X1wnKuxMpbpUw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u9700\u8981\u7528\u8840\u6C34\u6676\u6253\u5F00\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "我需要用血水晶打开它",
+    "LocalizationKey": "T-LZLieT6WkVy4KakqZxch9rH3x9A=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5C01\u5370\u7684\u68FA\u6750",
+  "CardImageWarpData": "封印的棺材",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u89E3\u5C01",
-        "LocalizationKey": "",
+        "DefaultText": "解封",
+        "LocalizationKey": "T-R9uaWol96GWiZJzt7lBXS7H+iH8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1473,8 +1473,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u8840\u6C34\u6676",
-      "LocalizationKey": "",
+      "DefaultText": "血水晶",
+      "LocalizationKey": "T-UIZhi5wyTlWFzvzyY8A+sf/Txqw=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -1901,7 +1901,7 @@
     "ShowPopupOnZero": false,
     "TextDisplay": 0,
     "OverrideIconWarpType": 3,
-    "OverrideIconWarpData": "\u8840\u6C34\u6676"
+    "OverrideIconWarpData": "血水晶"
   },
   "SpecialDurability2": {
     "Active": false,

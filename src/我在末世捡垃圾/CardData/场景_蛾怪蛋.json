@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u86FE\u602A\u86CB",
-    "LocalizationKey": "",
+    "DefaultText": "蛾怪蛋",
+    "LocalizationKey": "T-NGAbigluo4CxXuJ5qMg57zjFOQA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u795E\u79D8\u7684\u86FE\u86F9\uFF0C\u91CC\u9762\u597D\u50CF\u6709\u4E1C\u897F\u8981\u51B2\u51FA\u6765\u4E86(\u53CA\u65F6\u5207\u5F00\u5C31\u4E0D\u4F1A\u51FA\u86FE\u602A)",
-    "LocalizationKey": "",
+    "DefaultText": "神秘的蛾蛹，里面好像有东西要冲出来了(及时切开就不会出蛾怪)",
+    "LocalizationKey": "T-x/JnQ7T2Kaak+kDYXup0mjoZHqE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u86FE\u602A\u86CB",
+  "CardImageWarpData": "蛾怪蛋",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5272\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "割开",
+        "LocalizationKey": "T-RQI7sx3rxPvi+Ofm9ZCopZb+4F4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8840\u8272\u9AB7\u9AC5\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "血色骷髅头",
+    "LocalizationKey": "T-/EeCYviwX6428EKbULIFVD5QWvo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F53\u4F60\u53D7\u4F24\u65F6\uFF0C\u6253\u5F00\u5B83\u5427",
-    "LocalizationKey": "",
+    "DefaultText": "当你受伤时，打开它吧",
+    "LocalizationKey": "T-8/Z6gH9SNa+v7FHmBmBZAKu+KoM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8840\u8272\u9AB7\u9AC5\u5934",
+  "CardImageWarpData": "血色骷髅头",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4FEE\u590D",
-        "LocalizationKey": "",
+        "DefaultText": "修复",
+        "LocalizationKey": "T-WQJTr0jMwjxIfGj+MO7AMZ0zO1k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -541,8 +541,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5F00\u542F",
-        "LocalizationKey": "",
+        "DefaultText": "开启",
+        "LocalizationKey": "T-JWeDt9TqDsbzB52yv4h31mpeWME=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

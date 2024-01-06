@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u003Ccolor=\u0022blue\u0022\u003E\u5E72\u6270\u4EEA\u003C/color\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "<color=\"blue\">干扰仪</color>",
+    "LocalizationKey": "T-YXUwQWxFQnOv1H6DZqZujmQh3/8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7528\u6765\u5BF9\u4ED8\u7535\u5B50\u673A\u68B0(\u7528\u6676\u6838\u8865\u5145\u71C3\u6599)",
-    "LocalizationKey": "",
+    "DefaultText": "用来对付电子机械(用晶核补充燃料)",
+    "LocalizationKey": "T-tlXxDxYegUhvr3Wuk1bGf8ADn1Q=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E72\u6270\u4EEA",
+  "CardImageWarpData": "干扰仪",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5145\u80FD",
-        "LocalizationKey": "",
+        "DefaultText": "充能",
+        "LocalizationKey": "T-QM6JPRsGD7PiyGbXRbeM+OYf9Io=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -538,8 +538,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5173\u95ED",
-        "LocalizationKey": "",
+        "DefaultText": "关闭",
+        "LocalizationKey": "T-bBS9f2+eVORgJNNd/ixFSMmjgh0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

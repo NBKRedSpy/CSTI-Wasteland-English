@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u5F03\u7684\u632F\u91D1",
-    "LocalizationKey": "",
+    "DefaultText": "废弃的振金",
+    "LocalizationKey": "T-cEZrSMPFfM0V9KKpuuKx8f764qY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u5F7B\u5E95\u574F\u4E86\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "它彻底坏了！",
+    "LocalizationKey": "T-kAjyakFVNCCTG4fqT5fhC52mgsI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u5F03\u7684\u632F\u91D1",
+  "CardImageWarpData": "废弃的振金",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u94C1\u6C34\u4FEE\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "铁水修补",
+        "LocalizationKey": "T-G40LQL1dxWU4ZS20wkP6Rbyq50I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

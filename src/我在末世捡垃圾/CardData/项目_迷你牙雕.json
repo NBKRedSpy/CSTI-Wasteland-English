@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8FF7\u4F60\u7259\u96D5",
-    "LocalizationKey": "",
+    "DefaultText": "迷你牙雕",
+    "LocalizationKey": "T-3LT4IjjEF1OsfGcVWO6wpy584mA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FF7\u4F60\u7259\u96D5\uFF0C\u5C0F\u5C0F\u7684\u4E5F\u5F88\u53EF\u7231\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "迷你牙雕，小小的也很可爱！",
+    "LocalizationKey": "T-vSeqyn2RgxR1BWxf/A3RysBJV1Q=",
     "ParentObjectID": ""
   },
   "CardTags": [],

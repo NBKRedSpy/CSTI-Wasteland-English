@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u827E\u8349",
-    "LocalizationKey": "",
+    "DefaultText": "艾草",
+    "LocalizationKey": "T-qEw+fjip0dwKaKxXTaPqlIq4ojQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u95FB\u8D77\u6765\u8BA9\u4EBA\u6E05\u9192\uFF0C\u6211\u8FD8\u4E0D\u80FD\u76F4\u63A5\u5403",
-    "LocalizationKey": "",
+    "DefaultText": "闻起来让人清醒，我还不能直接吃",
+    "LocalizationKey": "T-tg1nagScbYJienyRkymSg1xZOEQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u827E\u8349",
+  "CardImageWarpData": "艾草",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6363\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "捣碎",
+        "LocalizationKey": "T-Xlj97ZeqmTnWDayUuA/31S2cDgw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

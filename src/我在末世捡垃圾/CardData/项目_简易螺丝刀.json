@@ -1,19 +1,19 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u87BA\u4E1D\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "简易螺丝刀",
+    "LocalizationKey": "T-FbFGXdjt6X//JxVd+KWR28xQUdQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u87BA\u4E1D\u5200\u4E5F\u662F\u5200\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "螺丝刀也是刀！",
+    "LocalizationKey": "T-SHWgIpMqMLeM08LXDMPI5dcV2iU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Scraper",
-    "\u5F00\u7F50\u5DE5\u5177",
-    "\u87BA\u4E1D\u5200"
+    "开罐工具",
+    "螺丝刀"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u87BA\u4E1D\u5200",
+  "CardImageWarpData": "简易螺丝刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u602A\u7269\u66B4\u4E71",
-    "LocalizationKey": "",
+    "DefaultText": "怪物暴乱",
+    "LocalizationKey": "T-woYqqPilS/XW/A/O66PSx9CxzTU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u602A\u7269\u5230\u5904\u90FD\u662F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "怪物到处都是！",
+    "LocalizationKey": "T-EmFSX/2EWzwrf0F9aJ/YqWMMxcE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5929\u6C14_\u602A\u7269\u66B4\u4E71",
+  "CardImageWarpData": "天气_怪物暴乱",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

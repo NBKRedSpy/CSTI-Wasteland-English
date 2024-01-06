@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u94F2\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "简易铲子",
+    "LocalizationKey": "T-gMAmwlqy4vvlWuJkHLvGCj9kBWM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u94F2\u5B50",
+  "CardImageWarpData": "简易铲子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "4baae1b1653dc5080aa07aab297a056a",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5C5E\u788E\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "需要金属碎片",
+    "LocalizationKey": "T-NFPIvrBPfjYghfwhozqVcKfxEvk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

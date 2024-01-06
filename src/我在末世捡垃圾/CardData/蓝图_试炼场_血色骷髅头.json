@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8840\u8272\u9AB7\u9AC5\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "血色骷髅头",
+    "LocalizationKey": "T-/EeCYviwX6428EKbULIFVD5QWvo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8840\u8272\u9AB7\u9AC5\u5934",
+  "CardImageWarpData": "血色骷髅头",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "3a3e20283538a0d8c324768448d84589",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u56F0\u96BE\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机困难难度",
+    "LocalizationKey": "T-B0BcysBt3fEXwm3GeF+vLO42l2g=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

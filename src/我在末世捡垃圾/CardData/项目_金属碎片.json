@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u91D1\u5C5E\u788E\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "金属碎片",
+    "LocalizationKey": "T-7sRH5u+nr9IPj42n/V57FNxBY9U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u5F97\u597D\u597D\u4F7F\u7528\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "我得好好使用它",
+    "LocalizationKey": "T-xKRHOdyuUjLq+kZaUoDhBfZDTLQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u91D1\u5C5E\u788E\u7247",
+  "CardImageWarpData": "金属碎片",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5236\u4F5C\u62E8\u7247",
-        "LocalizationKey": "",
+        "DefaultText": "制作拨片",
+        "LocalizationKey": "T-yjaVXgerLYtWJjwi7MV2PfsUQYk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -420,8 +420,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u5206",
-        "LocalizationKey": "",
+        "DefaultText": "拆分",
+        "LocalizationKey": "T-cmykeanNumptR2cKYHyJeCsMz84=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

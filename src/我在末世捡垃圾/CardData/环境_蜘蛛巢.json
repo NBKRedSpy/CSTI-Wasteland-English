@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8718\u86DB\u5DE2",
-    "LocalizationKey": "",
+    "DefaultText": "蜘蛛巢",
+    "LocalizationKey": "T-nhicziAJc0EEHjmAauv3l/nMPlw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8718\u86DB\u5DE2",
+  "CardImageWarpData": "蜘蛛巢",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

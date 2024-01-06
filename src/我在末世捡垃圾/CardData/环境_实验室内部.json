@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5B9E\u9A8C\u5BA4\u5185\u90E8",
-    "LocalizationKey": "",
+    "DefaultText": "实验室内部",
+    "LocalizationKey": "T-PjF3xnigX8ntfjr2Wwoes5HSgVU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5B9E\u9A8C\u5BA4\u5185\u90E8",
+  "CardImageWarpData": "实验室内部",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

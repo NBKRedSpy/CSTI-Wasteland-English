@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5458\u5DE5\u9910\u5385",
-    "LocalizationKey": "",
+    "DefaultText": "员工餐厅",
+    "LocalizationKey": "T-f0d6hC38npqzPYKfRWxVMgfmXY0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5458\u5DE5\u9910\u5385",
+  "CardImageWarpData": "员工餐厅",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u77F3\u4E2D\u5251",
-    "LocalizationKey": "",
+    "DefaultText": "石中剑",
+    "LocalizationKey": "T-94VXR2B2a1RE8opL/aJKkTvM8Gw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u77F3\u4E2D\u5251",
+  "CardImageWarpData": "石中剑",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u5251",
-        "LocalizationKey": "",
+        "DefaultText": "取剑",
+        "LocalizationKey": "T-uW9PmHh/c7GiV6iFuskhakjxzrM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

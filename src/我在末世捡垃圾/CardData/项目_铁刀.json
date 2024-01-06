@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "铁刀",
+    "LocalizationKey": "T-+6luEHt3zeW7da1EyP54w6bUjiM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u65E2\u65F6\u9AD8\u7EA7\u5200\u5177\uFF0C\u4E5F\u80FD\u9020\u6210\u4E0D\u4FD7\u7684\u4F24\u5BB3\uFF0C\u6211\u60F3\u4E0D\u5230\u8FD8\u6709\u6BD4\u8FD9\u66F4\u597D\u7684\u5DE5\u5177\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "既时高级刀具，也能造成不俗的伤害，我想不到还有比这更好的工具了",
+    "LocalizationKey": "T-wreW8riY288LxgyMtSz4TjEHgaw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -115,7 +115,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u5200",
+  "CardImageWarpData": "铁刀",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -136,8 +136,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u78E8\u5229",
-        "LocalizationKey": "",
+        "DefaultText": "磨利",
+        "LocalizationKey": "T-3bmm5CpfjW1RSP3YzbXEp6Cs0Og=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4240,7 +4240,7 @@
   ],
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ],
   "ItemCardDataCardTabGpGroup": [
     "GpTag_CutterAdv",

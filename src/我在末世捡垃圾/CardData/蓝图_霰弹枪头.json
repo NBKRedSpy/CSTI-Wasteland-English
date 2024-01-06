@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9730\u5F39\u67AA\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "霰弹枪头",
+    "LocalizationKey": "T-VXN5GxkAi1gUP+3zVrrRmxPbiFk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -401,7 +401,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9730\u5F39\u67AA\u5934",
+  "CardImageWarpData": "霰弹枪头",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3582,8 +3582,8 @@
   "UniqueID": "e40768bbe90992bfb0e3ca175caea8b7",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94C1\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "需要铁水",
+    "LocalizationKey": "T-d3xGUZLUgwh3aWbbmP5b8g4yers=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

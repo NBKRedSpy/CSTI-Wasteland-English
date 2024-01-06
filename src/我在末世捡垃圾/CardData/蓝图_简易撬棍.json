@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u64AC\u68CD",
-    "LocalizationKey": "",
+    "DefaultText": "简易撬棍",
+    "LocalizationKey": "T-7r4nlW7hlLuSVkyEE1j7EAw2HkQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -389,7 +389,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u64AC\u68CD",
+  "CardImageWarpData": "简易撬棍",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3570,8 +3570,8 @@
   "UniqueID": "b737820a4dd2d252101a042affb8724b",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5C5E\u788E\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "需要金属碎片",
+    "LocalizationKey": "T-NFPIvrBPfjYghfwhozqVcKfxEvk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

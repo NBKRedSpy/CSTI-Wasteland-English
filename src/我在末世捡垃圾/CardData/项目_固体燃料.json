@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u56FA\u4F53\u71C3\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "固体燃料",
+    "LocalizationKey": "T-uToBaPKKcsCELWg0Zc31LCZJVro=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u6709\u5F88\u591A\u7528\u5904",
-    "LocalizationKey": "",
+    "DefaultText": "它有很多用处",
+    "LocalizationKey": "T-byCkEpD++4EadRYxRjHI03cbdrY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u56FA\u4F53\u71C3\u6599",
+  "CardImageWarpData": "固体燃料",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5236\u4F5C\u706B\u70AC",
-        "LocalizationKey": "",
+        "DefaultText": "制作火炬",
+        "LocalizationKey": "T-LoRknvNc0v1fhV1g6bk7kzRmy0g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -693,8 +693,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -718,7 +718,7 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_FireSource",
-          "\u70B9\u706B\u5DE5\u5177"
+          "点火工具"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -1113,8 +1113,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

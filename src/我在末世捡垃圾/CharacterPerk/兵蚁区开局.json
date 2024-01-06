@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u5371\u9669\u7684\u5175\u8681\u533A\u5F00\u5C40",
-    "LocalizationKey": "",
+    "DefaultText": "危险的兵蚁区开局",
+    "LocalizationKey": "T-hMbhV0N4R4f0KOE4dlz4S3oQsmM=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u5175\u8681\u533A",
+  "PerkIconWarpData": "兵蚁区",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u5175\u8681\u533A\u5F00\u5C40",
-    "LocalizationKey": "",
+    "DefaultText": "兵蚁区开局",
+    "LocalizationKey": "T-KGtZsSz9gqjlc7XUAU3HhGrTRQY=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

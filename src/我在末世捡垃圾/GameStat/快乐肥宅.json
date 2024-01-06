@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u5FEB\u4E50\u80A5\u5B85",
+  "DefaultStatusIconWarpData": "快乐肥宅",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -31,8 +31,8 @@
     "ParentObjectID": ""
   },
   "Description": {
-    "DefaultText": "\u4F60\u73B0\u5728\u4F53\u4F1A\u5230\u5F53\u4E00\u4E2A\u80A5\u5B85\u7684\u5FEB\u4E50\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "你现在体会到当一个肥宅的快乐了",
+    "LocalizationKey": "T-poZB/3ENejgJoL19mXark7mhq58=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u5FEB\u4E50\u80A5\u5B85",
-    "LocalizationKey": "",
+    "DefaultText": "快乐肥宅",
+    "LocalizationKey": "T-Gj93TlgvJF6owxhm+NtOR3HRjrw=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -88,8 +88,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u4F60\u73B0\u5728\u4F53\u4F1A\u5230\u5F53\u4E00\u4E2A\u80A5\u5B85\u7684\u5FEB\u4E50\u4E86",
-        "LocalizationKey": "",
+        "DefaultText": "你现在体会到当一个肥宅的快乐了",
+        "LocalizationKey": "T-poZB/3ENejgJoL19mXark7mhq58=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -172,8 +172,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u4E2D\u7B49\u5FEB\u4E50\u80A5\u5B85",
-        "LocalizationKey": "",
+        "DefaultText": "中等快乐肥宅",
+        "LocalizationKey": "T-k4AilhYKdCerM1h0jVKGA+KVMn0=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -181,7 +181,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u5FEB\u4E50\u80A5\u5B85",
+      "IconWarpData": "快乐肥宅",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {
@@ -214,8 +214,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u4F60\u73B0\u5728\u4F53\u4F1A\u5230\u5F53\u4E00\u4E2A\u80A5\u5B85\u7684\u5FEB\u4E50\u4E86",
-        "LocalizationKey": "",
+        "DefaultText": "你现在体会到当一个肥宅的快乐了",
+        "LocalizationKey": "T-poZB/3ENejgJoL19mXark7mhq58=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -298,8 +298,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u9AD8\u5FEB\u4E50\u80A5\u5B85",
-        "LocalizationKey": "",
+        "DefaultText": "高快乐肥宅",
+        "LocalizationKey": "T-1bP9hFYy5EpNPXmtn0rGPwPau38=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -307,7 +307,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u5FEB\u4E50\u80A5\u5B85",
+      "IconWarpData": "快乐肥宅",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

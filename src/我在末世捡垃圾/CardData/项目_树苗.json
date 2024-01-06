@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6811\u82D7",
-    "LocalizationKey": "",
+    "DefaultText": "树苗",
+    "LocalizationKey": "T-8gDB4bShi6aGln8dZhX4uLlgbTU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6811\u82D7",
+  "CardImageWarpData": "树苗",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

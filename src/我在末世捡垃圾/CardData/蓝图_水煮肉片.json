@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6C34\u716E\u8089\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "水煮肉片",
+    "LocalizationKey": "T-WuTyAPTszjtzbkCfTrg7JqMsW/g=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u65AF\u54C8\u65AF\u54C8\uFF0C\u771F\u8FA3\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "斯哈斯哈，真辣！",
+    "LocalizationKey": "T-l8MKO6j9zL6pMi8DkLnJP6c13fQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -569,7 +569,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6C34\u716E\u8089\u7247",
+  "CardImageWarpData": "水煮肉片",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3753,8 +3753,8 @@
   "UniqueID": "fcdeae3924636ec208d5fbc02e69cb0c",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

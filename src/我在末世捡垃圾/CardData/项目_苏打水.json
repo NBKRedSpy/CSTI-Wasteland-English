@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u82CF\u6253\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "苏打水",
+    "LocalizationKey": "T-pfvKmZK6n3ZBEuS3i4cQlxaS6BM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8865\u5145\u4F53\u529B\u548C\u6C34\u5206\u7684\u597D\u4E1C\u897F\uFF0C\u5B83\u80FD\u591F\u8BA9\u4F60\u4ECE\u75B2\u60EB\u548C\u53E3\u6E34\u7684\u72B6\u6001\u4E2D\u7F13\u8FC7\u6765",
-    "LocalizationKey": "",
+    "DefaultText": "补充体力和水分的好东西，它能够让你从疲惫和口渴的状态中缓过来",
+    "LocalizationKey": "T-t3FE0ztj4nWAKSZ2Y5Iiibff2tg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u82CF\u6253\u6C34",
+  "CardImageWarpData": "苏打水",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

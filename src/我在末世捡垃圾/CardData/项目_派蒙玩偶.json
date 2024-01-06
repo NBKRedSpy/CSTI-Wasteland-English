@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D3E\u8499\u73A9\u5076",
-    "LocalizationKey": "",
+    "DefaultText": "派蒙玩偶",
+    "LocalizationKey": "T-Hnic+5IUMKD8fTIuvoHzRRXv8g4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u672B\u65E5\u91CC\u4E3A\u6570\u4E0D\u591A\u7684\u5B89\u6170",
-    "LocalizationKey": "",
+    "DefaultText": "末日里为数不多的安慰",
+    "LocalizationKey": "T-aBWzZ2tlMYpX0sFXARtr8PB9XA0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D3E\u8499\u73A9\u5076",
+  "CardImageWarpData": "派蒙玩偶",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62CD\u7167\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "拍照！",
+        "LocalizationKey": "T-O0VEYvqySZu6/31S9nGjIik1X0A=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -501,8 +501,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6740\u5BB3\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "杀害！",
+        "LocalizationKey": "T-rvQWLzAefA4xs4rX1cDGbXbXryo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -952,8 +952,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u73A9\u800D",
-        "LocalizationKey": "",
+        "DefaultText": "玩耍",
+        "LocalizationKey": "T-ghCNgnzUpbaXUq5dkApGPw47mZk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

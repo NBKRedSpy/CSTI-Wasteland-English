@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94DC\u76FE\u724C",
-    "LocalizationKey": "",
+    "DefaultText": "铜盾牌",
+    "LocalizationKey": "T-SaPUwvhY4I8OUbeackP0nGl3w1M=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -676,7 +676,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94DC\u76FE\u724C",
+  "CardImageWarpData": "铜盾牌",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3857,8 +3857,8 @@
   "UniqueID": "dfe228a2d7ba789f792480defc181d80",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94DC\u677F",
-    "LocalizationKey": "",
+    "DefaultText": "需要铜板",
+    "LocalizationKey": "T-w5LSW7pvI+xIbxspmn0YXyg8pwE=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u8718\u86DB\u4E1D",
-    "LocalizationKey": "",
+    "DefaultText": "蜘蛛丝",
+    "LocalizationKey": "T-jTO+mtHmd4fEStQ/gJmmsC0VgZg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u5F97\u597D\u597D\u5229\u7528\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "我得好好利用它",
+    "LocalizationKey": "T-mg00SqW1sLZHhZBrEaAIEZuzWwc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8718\u86DB\u4E1D",
+  "CardImageWarpData": "蜘蛛丝",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F16\u7EC7",
-        "LocalizationKey": "",
+        "DefaultText": "编织",
+        "LocalizationKey": "T-SZ6jwOSF9HPEvI6A9yoLREJTqBo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -567,8 +567,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u89E3\u7F16",
-        "LocalizationKey": "",
+        "DefaultText": "解编",
+        "LocalizationKey": "T-MuD3qzOatC653G+WRYONplXMleg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1074,8 +1074,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6495\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "撕开",
+        "LocalizationKey": "T-6YTeA4bczoVSrqAdyaMhfIlrbnI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

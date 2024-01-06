@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u4E2D\u578B\u5C38\u5757",
-    "LocalizationKey": "",
+    "DefaultText": "中型尸块",
+    "LocalizationKey": "T-2jJsRu2feLgLdGmgUxOArltXZPM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u518D\u52A0\u70B9\u8BD5\u8BD5\u770B\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "再加点试试看？",
+    "LocalizationKey": "T-o1rE3NaGkwa1hJGmNq1H3he8nGA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E2D\u578B\u5C38\u5757",
+  "CardImageWarpData": "中型尸块",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5408\u6210",
-        "LocalizationKey": "",
+        "DefaultText": "合成",
+        "LocalizationKey": "T-C7m7RvH5OM632WpjNc38vPbEwTs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -542,8 +542,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

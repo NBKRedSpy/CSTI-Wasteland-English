@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6838\u5B50\u53EF\u4E50",
-    "LocalizationKey": "",
+    "DefaultText": "核子可乐",
+    "LocalizationKey": "T-fR4Ip8JRD7kshqn6xX2/4qhqk/4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6838\u6218\u4E4B\u524D\u6700\u53D7\u6B22\u8FCE\u7684\u996E\u6599\u3002\u5728\u672B\u65E5\u6218\u4E89\u4E4B\u540E\uFF0C\u7531\u4E8E\u5176\u51FA\u8272\u7684\u9632\u8150\u63AA\u65BD\uFF08\u8FD9\u73A9\u610F\u513F\u672C\u8EAB\u5C31\u662F\u653E\u5C04\u6027\u7684\u2026\u2026\uFF09\uFF0C\u5C3D\u7BA1\u5DF2\u7ECF\u53D8\u5F97\u6E29\u541E\u541E\u8DD1\u6C7D\u4E86\u8FD8\u5E26\u6709\u653E\u5C04\u6027\uFF0C\u5B83\u4F9D\u65E7\u5728\u5E9F\u571F\u4E0A\u5E7F\u53D7\u6B22\u8FCE",
-    "LocalizationKey": "",
+    "DefaultText": "核战之前最受欢迎的饮料。在末日战争之后，由于其出色的防腐措施（这玩意儿本身就是放射性的……），尽管已经变得温吞吞跑汽了还带有放射性，它依旧在废土上广受欢迎",
+    "LocalizationKey": "T-O2npCL5xgUewNvBjW/FoFIVtsJw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6838\u5B50\u53EF\u4E50",
+  "CardImageWarpData": "核子可乐",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

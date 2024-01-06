@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u4E0A\u53E4\u9886\u4E3B\u6B7B\u4EA1",
+  "DefaultStatusIconWarpData": "上古领主死亡",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u4E0A\u53E4\u9886\u4E3B\u6B7B\u4EA1",
-    "LocalizationKey": "",
+    "DefaultText": "上古领主死亡",
+    "LocalizationKey": "T-rJWRqvrLtj2DKAVn4s6N+I29K3c=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

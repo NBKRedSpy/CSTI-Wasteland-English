@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5927\u8857",
-    "LocalizationKey": "",
+    "DefaultText": "大街",
+    "LocalizationKey": "T-FSjbki5Pm0aj8E6y1DhidXLsCjE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5927\u8857",
+  "CardImageWarpData": "大街",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

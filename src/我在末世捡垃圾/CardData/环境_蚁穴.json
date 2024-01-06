@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8681\u7A74",
-    "LocalizationKey": "",
+    "DefaultText": "蚁穴",
+    "LocalizationKey": "T-aBO0LhhKH4kquWK7/0gxD6GwDQc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8681\u7A74",
+  "CardImageWarpData": "蚁穴",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

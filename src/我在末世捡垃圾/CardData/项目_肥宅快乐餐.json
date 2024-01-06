@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u80A5\u5B85\u5FEB\u4E50\u9910",
-    "LocalizationKey": "",
+    "DefaultText": "肥宅快乐餐",
+    "LocalizationKey": "T-2kW9zCHWnuNJuTmRGcHj597aYDM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211tm\u5403\u5403\u5403\u5403\u5403\u5403\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "我tm吃吃吃吃吃吃！",
+    "LocalizationKey": "T-zoD1/P4SVwjpmX/mLi/D4a3eq1o=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u80A5\u5B85\u5FEB\u4E50\u9910",
+  "CardImageWarpData": "肥宅快乐餐",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

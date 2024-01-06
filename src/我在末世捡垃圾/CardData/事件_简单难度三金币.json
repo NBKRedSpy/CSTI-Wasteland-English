@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u5355\u96BE\u5EA6\u4E09\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "简单难度三金币",
+    "LocalizationKey": "T-hFu4hAdvDPKS1rTQDtwN1Sn/PxI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6B27\u7687\u9644\u4F53",
-    "LocalizationKey": "",
+    "DefaultText": "欧皇附体",
+    "LocalizationKey": "T-2uTFy3tYYv6VmULGGL6S/byep/U=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u5355\u96BE\u5EA6\u4E09\u91D1\u5E01",
+  "CardImageWarpData": "简单难度三金币",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5958,7 +5958,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u91D1\u5E01"
+    "金币"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

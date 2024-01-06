@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8682\u8681\u6740\u624B",
-    "LocalizationKey": "",
+    "DefaultText": "蚂蚁杀手",
+    "LocalizationKey": "T-zdDpfKUr0dCsnTsppoSKopCwObU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8682\u8681\u6740\u624B",
+  "CardImageWarpData": "蚂蚁杀手",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

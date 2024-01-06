@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "AI\u6838\u5FC3\u6B7B\u4EA1",
+  "DefaultStatusIconWarpData": "AI核心死亡",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "AI\u6838\u5FC3\u6B7B\u4EA1",
-    "LocalizationKey": "",
+    "DefaultText": "AI核心死亡",
+    "LocalizationKey": "T-YiILXUncO0WvGrfaSxwKQX34xR8=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u672A\u5C01\u9876\u7684\u571F\u8C46\u7F50\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "未封顶的土豆罐头",
+    "LocalizationKey": "T-e8SNI1RB16SxynG+r+JZ2JmZ018=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -565,7 +565,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u672A\u5C01\u9876\u7684\u571F\u8C46\u7F50\u5934",
+  "CardImageWarpData": "未封顶的土豆罐头",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3746,8 +3746,8 @@
   "UniqueID": "930ea871ff9f8792ea60fc3f2bb505da",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u672A\u5C01\u9876\u7684\u7F50\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "需要未封顶的罐头",
+    "LocalizationKey": "T-vWZO2uyAnNYbwWsbzxE/A0/iPcc=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

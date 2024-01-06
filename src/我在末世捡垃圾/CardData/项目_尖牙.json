@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5C16\u7259",
-    "LocalizationKey": "",
+    "DefaultText": "尖牙",
+    "LocalizationKey": "T-jNUpsHURKmrV3SJJ5xhanepsBow=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u950B\u5229\u7684\u7259\u9F7F\uFF0C\u770B\u8D77\u6765\u80FD\u505A\u9AA8\u5200\uFF08\u624B\u4E0A\u62FF\u7740\u7EC6\u7EBF\uFF0C\u7528\u5200\u5207\u5272\u5C16\u7259\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "锋利的牙齿，看起来能做骨刀（手上拿着细线，用刀切割尖牙）",
+    "LocalizationKey": "T-hmQUZAL8TH2hVb1WJ6UN57vyhwM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5C16\u7259",
+  "CardImageWarpData": "尖牙",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5236\u4F5C\u9AA8\u5200",
-        "LocalizationKey": "",
+        "DefaultText": "制作骨刀",
+        "LocalizationKey": "T-B1PRHXsErFm72k2cZ4jPGH3RpKQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -589,8 +589,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u78E8\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "磨碎",
+        "LocalizationKey": "T-P7EquFEgfu8ZRQbb34t8dm1JAwU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -943,8 +943,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u96D5\u523B",
-        "LocalizationKey": "",
+        "DefaultText": "雕刻",
+        "LocalizationKey": "T-7RcEmlnoq5Al3tYC6hI9K4nG1Ug=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

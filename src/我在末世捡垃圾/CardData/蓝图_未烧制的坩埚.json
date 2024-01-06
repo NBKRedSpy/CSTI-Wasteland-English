@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u672A\u70E7\u5236\u7684\u5769\u57DA",
-    "LocalizationKey": "",
+    "DefaultText": "未烧制的坩埚",
+    "LocalizationKey": "T-YEoFOd7nE9MaddVgQuIdliXhu+I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -389,7 +389,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u672A\u70E7\u5236\u7684\u5769\u57DA",
+  "CardImageWarpData": "未烧制的坩埚",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3570,8 +3570,8 @@
   "UniqueID": "a79b5b8368a236b1c52c1ea5e5e37749",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7C98\u571F",
-    "LocalizationKey": "",
+    "DefaultText": "需要粘土",
+    "LocalizationKey": "T-LRzwmbmE0d9Aa7g+2LVCQ7wgC20=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,19 +1,19 @@
 {
   "CardName": {
-    "DefaultText": "\u6BCD\u9F39\u9F20",
-    "LocalizationKey": "",
+    "DefaultText": "母鼹鼠",
+    "LocalizationKey": "T-A9ShpmDY6yzI/7cYdt1xq88uETk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u53EF\u4EE5\u628A\u5B83\u5708\u517B\u8D77\u6765\uFF0C\u5582\u5B83\u4E00\u4E9B\u77F3\u5934\u6216\u8005\u7532\u58F3\u8D28",
-    "LocalizationKey": "",
+    "DefaultText": "我可以把它圈养起来，喂它一些石头或者甲壳质",
+    "LocalizationKey": "T-GkyLdscTW3iTBitHTKwjEE2L5UA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u8089",
+    "肉",
     "tag_ProteinsMedium",
-    "\u9F39\u9F20"
+    "鼹鼠"
   ],
   "CardTagsWarpType": 3,
   "CardType": 1,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6BCD\u9F39\u9F20",
+  "CardImageWarpData": "母鼹鼠",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6572\u6655",
-        "LocalizationKey": "",
+        "DefaultText": "敲晕",
+        "LocalizationKey": "T-Ac7F7E2N3BnHOY4Ha8spl9qZ1m4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -487,8 +487,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5582\u98DF",
-        "LocalizationKey": "",
+        "DefaultText": "喂食",
+        "LocalizationKey": "T-WbzdULC8F33lZk95fgyebhdrV0o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -734,8 +734,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u4E0D\u997F",
-          "LocalizationKey": "",
+          "DefaultText": "不饿",
+          "LocalizationKey": "T-VmiRss+uLQ8iqsDOR6o5sdQRy/8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -838,8 +838,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5582\u98DF",
-        "LocalizationKey": "",
+        "DefaultText": "喂食",
+        "LocalizationKey": "T-WbzdULC8F33lZk95fgyebhdrV0o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1086,8 +1086,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u4E0D\u997F",
-          "LocalizationKey": "",
+          "DefaultText": "不饿",
+          "LocalizationKey": "T-VmiRss+uLQ8iqsDOR6o5sdQRy/8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1190,8 +1190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7ED9\u6C34\u559D",
-        "LocalizationKey": "",
+        "DefaultText": "给水喝",
+        "LocalizationKey": "T-kbU3ZuI8C57vORN9P51StB+KK+U=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1440,8 +1440,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u4E0D\u6E34",
-          "LocalizationKey": "",
+          "DefaultText": "不渴",
+          "LocalizationKey": "T-Hr9wM6KhPvjPykSlCbdHlsN61Kg=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1544,8 +1544,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5BB0\u6740",
-        "LocalizationKey": "",
+        "DefaultText": "宰杀",
+        "LocalizationKey": "T-QxkG/c06tNAWyEo83rYCgwsLN7k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2066,8 +2066,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6000\u5B55",
-      "LocalizationKey": "",
+      "DefaultText": "怀孕",
+      "LocalizationKey": "T-9ipYva2SjaSmOnR8VkhPfBdksKQ=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -2078,8 +2078,8 @@
     "MaxValue": 672.0,
     "OnFull": {
       "ActionDescription": {
-        "DefaultText": "\u9F39\u9F20\u5B9D\u5B9D\u51FA\u751F\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "鼹鼠宝宝出生了！",
+        "LocalizationKey": "T-/LENep/28IEzXoXypeTJzsAOEug=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -2796,7 +2796,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u53D7\u5B55",
+      "EffectName": "受孕",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2905,7 +2905,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u559D",
+      "EffectName": "喝",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -3033,7 +3033,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5403",
+      "EffectName": "吃",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -3142,7 +3142,7 @@
         "Active": true,
         "FloatValue": 10.0
       },
-      "EffectName": "\u5403\u9971\u559D\u8DB3",
+      "EffectName": "吃饱喝足",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -3234,8 +3234,8 @@
   "Progress": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u5FC3\u60C5",
-      "LocalizationKey": "",
+      "DefaultText": "心情",
+      "LocalizationKey": "T-MA7ljiTP1MgbfX7FTzjdzUgj6Zw=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5557,8 +5557,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u9965\u997F",
-      "LocalizationKey": "",
+      "DefaultText": "饥饿",
+      "LocalizationKey": "T-2SASeWGGAhqt6P1kGjxkLoyJ9Hc=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -6109,8 +6109,8 @@
   "UsageDurability": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6C34\u5206",
-      "LocalizationKey": "",
+      "DefaultText": "水分",
+      "LocalizationKey": "T-XXJYimzjmTRCjc8yXuQxB2SMNxg=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -6341,8 +6341,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6E34\u6B7B",
-        "LocalizationKey": "",
+        "DefaultText": "渴死",
+        "LocalizationKey": "T-RUW2za88P1q8y7DH3PJAjmgnnxo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

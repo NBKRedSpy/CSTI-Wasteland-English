@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5458\u5DE5\u9910\u5385\u63A2\u7D22\u5B8C\u6BD5",
-    "LocalizationKey": "",
+    "DefaultText": "员工餐厅探索完毕",
+    "LocalizationKey": "T-2+MBniZie0xs49jv5nCB/U9EByc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u89C9\u5F97\u5DF2\u7ECF\u627E\u5230\u5458\u5DE5\u9910\u5385\u6240\u6709\u53EF\u63A2\u7D22\u7684\u5730\u70B9\u4E86\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "我觉得已经找到员工餐厅所有可探索的地点了。",
+    "LocalizationKey": "T-El/aml9mBQ+7oghY2nZ0u/pHUqY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5458\u5DE5\u9910\u5385",
+  "CardImageWarpData": "员工餐厅",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

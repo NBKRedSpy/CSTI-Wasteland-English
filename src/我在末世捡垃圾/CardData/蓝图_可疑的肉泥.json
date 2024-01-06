@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u53EF\u7591\u7684\u8089\u6CE5",
-    "LocalizationKey": "",
+    "DefaultText": "可疑的肉泥",
+    "LocalizationKey": "T-8XUmUWXovCIoOkYKVld4eHHOOrs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -390,7 +390,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8089\u6CE5",
+  "CardImageWarpData": "肉泥",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3571,8 +3571,8 @@
   "UniqueID": "d256cc227c8152767fa9215c94a609a0",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u87D1\u8782\u5C38\u4F53",
-    "LocalizationKey": "",
+    "DefaultText": "需要蟑螂尸体",
+    "LocalizationKey": "T-Zk30xgMYGhpihCWcOhK44cjaDuU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

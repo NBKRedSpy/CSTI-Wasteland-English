@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u62A4\u80A4\u836F\u818F",
-    "LocalizationKey": "",
+    "DefaultText": "护肤药膏",
+    "LocalizationKey": "T-zsu68RySnf8i3+kOgqRbWMU1dpc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u62A4\u80A4\u836F\u818F",
+  "CardImageWarpData": "护肤药膏",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3666,8 +3666,8 @@
   "UniqueID": "8f0385e1ad464596d6e192eb12bd7349",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u8102\u80AA",
-    "LocalizationKey": "",
+    "DefaultText": "需要脂肪",
+    "LocalizationKey": "T-nKnvZnJfuz9ptuiHmH6JvSfseOA=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

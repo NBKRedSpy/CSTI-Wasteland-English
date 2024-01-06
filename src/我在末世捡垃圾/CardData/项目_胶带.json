@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u80F6\u5E26",
-    "LocalizationKey": "",
+    "DefaultText": "胶带",
+    "LocalizationKey": "T-0PGqfkgMuXipq1nrcbAcgxNvbkI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u5E76\u4E0D\u80FD\u6B62\u8840",
-    "LocalizationKey": "",
+    "DefaultText": "这并不能止血",
+    "LocalizationKey": "T-8AGVU1xzP0G6UDo+B+b1tKKj2Rk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u80F6\u5E26",
+  "CardImageWarpData": "胶带",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

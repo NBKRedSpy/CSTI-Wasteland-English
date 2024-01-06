@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7C89\u8272\u7C89\u672B",
-    "LocalizationKey": "",
+    "DefaultText": "粉色粉末",
+    "LocalizationKey": "T-cxtU4+KoWj4nsJIY5R3LVJqvzD0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u5E94\u8BE5\u80FD\u9632\u6B62\u8F90\u5C04",
-    "LocalizationKey": "",
+    "DefaultText": "这应该能防止辐射",
+    "LocalizationKey": "T-XGnRwkpMjib2u8xPOxoW1nYkr0E=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7C89\u8272\u7C89\u672B",
+  "CardImageWarpData": "粉色粉末",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

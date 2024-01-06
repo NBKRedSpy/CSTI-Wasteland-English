@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6B7B\u53BB\u7684\u9AB7\u9AC5",
-    "LocalizationKey": "",
+    "DefaultText": "死去的骷髅",
+    "LocalizationKey": "T-i1fA8yDe5FKt2XgMj1dPEd3Bdcc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E0D\u53CA\u65F6\u6D88\u706D\u5B83\uFF0C\u5C31\u4F1A\u91CD\u65B0\u4EA7\u751F\u65B0\u7684\u9AB7\u9AC5",
-    "LocalizationKey": "",
+    "DefaultText": "不及时消灭它，就会重新产生新的骷髅",
+    "LocalizationKey": "T-HZWl8nLtNWin9curJOLrWSBBUpY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6B7B\u53BB\u7684\u9AB7\u9AC5",
+  "CardImageWarpData": "死去的骷髅",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5288\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "劈碎",
+        "LocalizationKey": "T-25dwGrWeMJiaCXk92bRk8wtRA+E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -570,8 +570,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5288\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "劈碎",
+        "LocalizationKey": "T-25dwGrWeMJiaCXk92bRk8wtRA+E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1011,8 +1011,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5288\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "劈碎",
+        "LocalizationKey": "T-25dwGrWeMJiaCXk92bRk8wtRA+E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

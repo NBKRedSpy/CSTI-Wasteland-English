@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u62D4\u4E1D\u9999\u8549",
-    "LocalizationKey": "",
+    "DefaultText": "拔丝香蕉",
+    "LocalizationKey": "T-E4GAb4fQbKjl5gqpjMSdkG0bZhM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u662F\u751C\u70B9!",
-    "LocalizationKey": "",
+    "DefaultText": "是甜点!",
+    "LocalizationKey": "T-jJ2ae/1QIDetR4zMRGWXnNc9WLg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -368,7 +368,7 @@
               "m_FileID": 0,
               "m_PathID": 0
             },
-            "RequiredLiquidWarpData": "\u7EC4",
+            "RequiredLiquidWarpData": "组",
             "RequiredLiquidWarpType": 3,
             "RequiredQuantity": {
               "x": 100.0,
@@ -565,7 +565,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u62D4\u4E1D\u9999\u8549",
+  "CardImageWarpData": "拔丝香蕉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3749,8 +3749,8 @@
   "UniqueID": "26ebccde9e6548c0bfb8062a8e70c359",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

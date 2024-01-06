@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u571F\u5934\u76D4",
-    "LocalizationKey": "",
+    "DefaultText": "废土头盔",
+    "LocalizationKey": "T-eG+DG7Msj/0mYmFDJFJ30awHwsE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u571F\u5934\u76D4",
+  "CardImageWarpData": "废土头盔",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "8299a0828efc06f75bfc145d937a21d0",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

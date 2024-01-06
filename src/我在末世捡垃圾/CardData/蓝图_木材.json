@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u6750",
-    "LocalizationKey": "",
+    "DefaultText": "木材",
+    "LocalizationKey": "T-ttoEdpUbvYBFONgyFgOfUunQ6EE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -3475,8 +3475,8 @@
   "UniqueID": "de9885bc4af228c8ea685990ec4aba01",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u67F3\u6849\u6728",
-    "LocalizationKey": "",
+    "DefaultText": "需要柳桉木",
+    "LocalizationKey": "T-+4SorQfEkXVVPCBzVuSYT2YPpvs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

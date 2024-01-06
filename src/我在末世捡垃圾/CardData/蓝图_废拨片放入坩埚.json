@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u62E8\u7247\u653E\u5165\u5769\u57DA",
-    "LocalizationKey": "",
+    "DefaultText": "废拨片放入坩埚",
+    "LocalizationKey": "T-Y4NAaH84EUeX3JGNHAtdeIUnjl8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -389,7 +389,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5769\u57DA\uFF08\u5E9F\u62E8\u7247\uFF09",
+  "CardImageWarpData": "坩埚（废拨片）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3570,8 +3570,8 @@
   "UniqueID": "75d6d00ac0b32bc4f54a23d6f4f4a236",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5769\u57DA",
-    "LocalizationKey": "",
+    "DefaultText": "需要坩埚",
+    "LocalizationKey": "T-sCUIhkQyUM40GNrEvrwq8wlg1qE=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

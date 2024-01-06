@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8D85\u5E02",
-    "LocalizationKey": "",
+    "DefaultText": "超市",
+    "LocalizationKey": "T-KrpB2JvwHuh7lHNP5vD0ee7Jq3I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u524D\u5F80\u8D85\u5E02\u3002\n\n\u003Cb\u003E\uFF08\u53EA\u6709\u624B\u724C\u53EF\u4EE5\u5E26\u8D70\uFF09\u003C/b\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "前往超市。\n\n<b>（只有手牌可以带走）</b>",
+    "LocalizationKey": "T-I/njXCaXiX01bDO/UKOUNDiQgPM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8D85\u5E02",
+  "CardImageWarpData": "超市",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80",
-        "LocalizationKey": "",
+        "DefaultText": "前往",
+        "LocalizationKey": "T-I5JtYUaM5gqjt7WyL+xsaNA49jY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

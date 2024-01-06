@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u82CF\u6253\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "苏打水",
+    "LocalizationKey": "T-pfvKmZK6n3ZBEuS3i4cQlxaS6BM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -679,7 +679,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u82CF\u6253\u6C34",
+  "CardImageWarpData": "苏打水",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3860,8 +3860,8 @@
   "UniqueID": "979617b5a3a3c94abba393d4fe705b22",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7A7A\u82CF\u6253\u6C34\u7F50",
-    "LocalizationKey": "",
+    "DefaultText": "需要空苏打水罐",
+    "LocalizationKey": "T-aJ6X9cWDGOjQM17wXYfjdU9sPLw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "铁刀",
+    "LocalizationKey": "T-+6luEHt3zeW7da1EyP54w6bUjiM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u5200",
+  "CardImageWarpData": "铁刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "1a6323c85f8a01e99b1d4912b5b0ac94",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9632\u6C99\u9762\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "防沙面具",
+    "LocalizationKey": "T-d4Ypblqtn3e6rJx2LNJL3UxECf0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -751,7 +751,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9632\u6C99\u9762\u5177",
+  "CardImageWarpData": "防沙面具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3935,8 +3935,8 @@
   "UniqueID": "3057ebd747bd7eb4c3c99afe18518b9c",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7EBA\u7EC7\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要纺织技能",
+    "LocalizationKey": "T-gu5smweblc8msBSzMNfVw+nXfSs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

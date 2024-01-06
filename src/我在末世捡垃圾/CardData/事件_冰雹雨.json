@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u51B0\u96F9\u96E8",
-    "LocalizationKey": "",
+    "DefaultText": "冰雹雨",
+    "LocalizationKey": "T-N+Lv8netVfgLwaNTlly9yAD/mrA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u597D\u5927\u7684\u51B0\u96F9\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "好大的冰雹！",
+    "LocalizationKey": "T-dwCE7np+1FSZoKS5/yrPLC7BHIU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51B0\u96F9\u96E8",
+  "CardImageWarpData": "冰雹雨",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4302,7 +4302,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u5DE8\u77F3\u9677\u9631\u89E6\u53D1"
+    "巨石陷阱触发"
   ],
   "WhenCreatedSoundsWarpType": 3,
   "SpawningBlockedByWarpType": 3,

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u5F03\u7535\u7EBF",
-    "LocalizationKey": "",
+    "DefaultText": "废弃电线",
+    "LocalizationKey": "T-WprpEr3N0xdU7u2crnqPm30rqxE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u5F03\u7535\u7EBF",
+  "CardImageWarpData": "废弃电线",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -482,8 +482,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

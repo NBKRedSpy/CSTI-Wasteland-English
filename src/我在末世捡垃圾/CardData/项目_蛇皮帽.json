@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u86C7\u76AE\u5E3D",
-    "LocalizationKey": "",
+    "DefaultText": "蛇皮帽",
+    "LocalizationKey": "T-NdfLsEcxSaX3x2d2xn52ZJa52CE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9632\u6652\u9632\u96E8\u7684\u597D\u4E1C\u897F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "防晒防雨的好东西！",
+    "LocalizationKey": "T-OK1yGT4u026VW3a53XfazaZk2UE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u86C7\u76AE\u5E3D",
+  "CardImageWarpData": "蛇皮帽",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

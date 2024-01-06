@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u87BA\u4E1D\u5200\u8EAB",
-    "LocalizationKey": "",
+    "DefaultText": "螺丝刀身",
+    "LocalizationKey": "T-EITOyjdcMKmFqxVLTVsfEXnwGwQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -401,7 +401,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u87BA\u4E1D\u5200\u8EAB",
+  "CardImageWarpData": "螺丝刀身",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3582,8 +3582,8 @@
   "UniqueID": "06ee0ca8d6871d7774579ba6a8a26b4f",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94C1\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "需要铁水",
+    "LocalizationKey": "T-d3xGUZLUgwh3aWbbmP5b8g4yers=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

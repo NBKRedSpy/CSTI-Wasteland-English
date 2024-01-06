@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u672B\u4E16",
+  "DefaultStatusIconWarpData": "末世",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u672B\u4E16",
-    "LocalizationKey": "",
+    "DefaultText": "末世",
+    "LocalizationKey": "T-QLeAcXsPWhLgiHkvlyn2m8K4Xyg=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -115,8 +115,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u672B\u4E16\u7684\u7B2C1\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "末世的第1阶段",
+        "LocalizationKey": "T-C6c6ihfA+lFOnXd+pd8acoIfh9o=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -124,7 +124,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u672B\u4E16",
+      "IconWarpData": "末世",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

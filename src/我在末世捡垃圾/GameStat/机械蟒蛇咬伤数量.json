@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u673A\u68B0\u87D2\u86C7\u54AC\u4F24\u6570\u91CF",
+  "DefaultStatusIconWarpData": "机械蟒蛇咬伤数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u673A\u68B0\u87D2\u86C7\u54AC\u4F24\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "机械蟒蛇咬伤数量",
+    "LocalizationKey": "T-pCPz3n7A1IS4NWpOgc6gkVDFcbM=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

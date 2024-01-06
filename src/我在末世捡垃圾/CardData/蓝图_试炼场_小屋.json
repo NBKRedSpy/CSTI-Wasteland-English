@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5C0F\u5C4B",
-    "LocalizationKey": "",
+    "DefaultText": "小屋",
+    "LocalizationKey": "T-18YSmuLCZDR5LpxjwMviwhDzzhs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5C0F\u5C4B",
+  "CardImageWarpData": "小屋",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "4a78eeb293540e50e9b06587892652ce",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u7B80\u5355\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机简单难度",
+    "LocalizationKey": "T-OV2rsa7TYmJmc1DlMSq4Qzijhno=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

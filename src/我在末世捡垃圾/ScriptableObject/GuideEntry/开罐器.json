@@ -6,13 +6,13 @@
     "m_PathID": 0
   },
   "OverrideTitle": {
-    "DefaultText": "\u5F00\u7F50\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "开罐器",
+    "LocalizationKey": "T-mIsye8Kos4nXUcyVIIM2vAQjI5I=",
     "ParentObjectID": ""
   },
   "OverrideDescription": {
-    "DefaultText": "\u6211\u662F\u5F00\u7F50\u5668\u7684\u6307\u5357",
-    "LocalizationKey": "",
+    "DefaultText": "我是开罐器的指南",
+    "LocalizationKey": "T-fgSt5pkuFrpHwPrIxv0QRhZpM50=",
     "ParentObjectID": ""
   },
   "RelatedEntries": [],
@@ -27,9 +27,9 @@
   ],
   "RelatedEntriesWarpType": 3,
   "RelatedEntriesWarpData": [
-    "\u6253\u706B\u673A",
-    "\u522E\u76AE\u5200"
+    "打火机",
+    "刮皮刀"
   ],
   "OverrideIllustrationWarpType": 3,
-  "OverrideIllustrationWarpData": "\u5F00\u7F50\u5668"
+  "OverrideIllustrationWarpData": "开罐器"
 }

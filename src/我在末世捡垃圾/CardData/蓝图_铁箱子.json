@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u7BB1\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "铁箱子",
+    "LocalizationKey": "T-bzGcsFk8rgHJuqtwrfR15rG2eoA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -383,7 +383,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u87BA\u4E1D\u5200",
+          "RequiredTabGroupWarpData": "螺丝刀",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -864,7 +864,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u87BA\u4E1D\u5200",
+          "RequiredTabGroupWarpData": "螺丝刀",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -1157,7 +1157,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u7BB1\u5B50",
+  "CardImageWarpData": "铁箱子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -4338,8 +4338,8 @@
   "UniqueID": "449373afbb8d41b3a4d915bd7a3c18be",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94C1\u76AE",
-    "LocalizationKey": "",
+    "DefaultText": "需要铁皮",
+    "LocalizationKey": "T-lTERh9R50J/je67DYQ0n0dAkTPg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

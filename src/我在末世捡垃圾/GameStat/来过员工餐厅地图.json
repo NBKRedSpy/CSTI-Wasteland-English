@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6765\u8FC7\u5458\u5DE5\u9910\u5385\u5730\u56FE",
+  "DefaultStatusIconWarpData": "来过员工餐厅地图",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6765\u8FC7\u5458\u5DE5\u9910\u5385\u5730\u56FE",
-    "LocalizationKey": "",
+    "DefaultText": "来过员工餐厅地图",
+    "LocalizationKey": "T-5WB2Pf7udxz1/ov415K2pPliwPc=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

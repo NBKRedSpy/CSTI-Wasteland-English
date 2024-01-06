@@ -14,8 +14,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u6740\u6B7B\u4E00\u53EA\u53D8\u79CD\u72AC",
-    "LocalizationKey": "",
+    "DefaultText": "杀死一只变种犬",
+    "LocalizationKey": "T-a+7LoQ/nNfz6Y+0L/X+ivJESYTM=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

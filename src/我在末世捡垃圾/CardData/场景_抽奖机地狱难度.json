@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u62BD\u5956\u673A\u5730\u72F1\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "抽奖机地狱难度",
+    "LocalizationKey": "T-N1Qor2OwkeGDCzL0sMLC17nMr3E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u968F\u673A\u62BD\u5230\u571F\u8C46\u3001\u91D1\u5E01\u3001\u9AB7\u9AC5\u4E8B\u4EF6",
-    "LocalizationKey": "",
+    "DefaultText": "随机抽到土豆、金币、骷髅事件",
+    "LocalizationKey": "T-+8WK5gq/oPkKHuOPigYPoAO8cMs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u62BD\u5956\u673A\u5730\u72F1\u96BE\u5EA6",
+  "CardImageWarpData": "抽奖机地狱难度",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62BD\u5956",
-        "LocalizationKey": "",
+        "DefaultText": "抽奖",
+        "LocalizationKey": "T-uu9Z9MVlyGRNN8Mlv3r6nOFUtbE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -562,7 +562,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u62BD\u5956\u673A"
+        "抽奖机"
       ]
     }
   ],
@@ -642,8 +642,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62BD\u5956",
-        "LocalizationKey": "",
+        "DefaultText": "抽奖",
+        "LocalizationKey": "T-uu9Z9MVlyGRNN8Mlv3r6nOFUtbE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1267,7 +1267,7 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u62BD\u5956\u673A"
+        "抽奖机"
       ]
     }
   ],

@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u84DD\u6708\u89E6\u53D1\u72B6\u6001",
+  "DefaultStatusIconWarpData": "蓝月触发状态",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u84DD\u6708\u89E6\u53D1\u72B6\u6001",
-    "LocalizationKey": "",
+    "DefaultText": "蓝月触发状态",
+    "LocalizationKey": "T-YoRx300x46sAhJSEHKg3zYydQ1s=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

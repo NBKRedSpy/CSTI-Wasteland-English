@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9C7C\u6CE1",
-    "LocalizationKey": "",
+    "DefaultText": "鱼泡",
+    "LocalizationKey": "T-tCkRlUzXuEQAUAqrsaRAqLsOUNo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9C7C\u6CE1",
+  "CardImageWarpData": "鱼泡",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u810F\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "收集脏水",
+        "LocalizationKey": "T-y6ggPr5kNXfRufkl76RCI0SDF90=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -502,8 +502,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u96E8\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "收集雨水",
+        "LocalizationKey": "T-nDUbi05OYBCSine8w8e/Ul0Pwkc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

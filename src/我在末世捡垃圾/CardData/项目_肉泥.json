@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8089\u6CE5",
-    "LocalizationKey": "",
+    "DefaultText": "肉泥",
+    "LocalizationKey": "T-ECsAjqNTPekEuGQobQ5k0VhAqDU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E0D\u77E5\u9053\u4EC0\u4E48\u751F\u7269\u7684\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "不知道什么生物的肉",
+    "LocalizationKey": "T-8VSQGKaejvThPorc5ZPU+m3ISro=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8089\u6CE5",
+  "CardImageWarpData": "肉泥",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

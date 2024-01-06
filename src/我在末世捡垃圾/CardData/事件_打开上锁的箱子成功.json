@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6253\u5F00\u4E0A\u9501\u7684\u7BB1\u5B50\u6210\u529F",
-    "LocalizationKey": "",
+    "DefaultText": "打开上锁的箱子成功",
+    "LocalizationKey": "T-RcZW+VsITk9FJN8G7lisJIds4ng=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E0A\u9501\u7684\u7BB1\u5B50",
+  "CardImageWarpData": "上锁的箱子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

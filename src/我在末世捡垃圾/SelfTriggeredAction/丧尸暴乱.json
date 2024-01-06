@@ -2,13 +2,13 @@
   "Actions": [
     {
       "ActionName": {
-        "DefaultText": "\u89E6\u53D1",
-        "LocalizationKey": "",
+        "DefaultText": "触发",
+        "LocalizationKey": "T-J+zPl4UL+UPnVtbGOOtvzo3MudM=",
         "ParentObjectID": ""
       },
       "ActionDescription": {
-        "DefaultText": "\u4E27\u5C38\u66B4\u4E71",
-        "LocalizationKey": "",
+        "DefaultText": "丧尸暴乱",
+        "LocalizationKey": "T-WNcKX6M4qwRoD1vHIguo2a+ipSo=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,

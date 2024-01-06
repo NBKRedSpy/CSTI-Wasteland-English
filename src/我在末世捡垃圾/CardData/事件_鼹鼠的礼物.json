@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9F39\u9F20\u7684\u793C\u7269",
-    "LocalizationKey": "",
+    "DefaultText": "鼹鼠的礼物",
+    "LocalizationKey": "T-viTzNVpJ5FJ8tPm1iBtZpngeMm4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9F39\u9F20\u670B\u53CB",
+  "CardImageWarpData": "鼹鼠朋友",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

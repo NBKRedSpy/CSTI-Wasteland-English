@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u7981\u6B62\u653B\u51FB",
+  "DefaultStatusIconWarpData": "禁止攻击",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u7981\u6B62\u653B\u51FB",
-    "LocalizationKey": "",
+    "DefaultText": "禁止攻击",
+    "LocalizationKey": "T-Ut3Gfi1Fw+9sOvbF6cpLaJT76GA=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

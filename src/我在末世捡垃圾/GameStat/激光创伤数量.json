@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6FC0\u5149\u521B\u4F24\u6570\u91CF",
+  "DefaultStatusIconWarpData": "激光创伤数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6FC0\u5149\u521B\u4F24\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "激光创伤数量",
+    "LocalizationKey": "T-Zew0PC6lLR0FtEWtpImfwRuQ45E=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

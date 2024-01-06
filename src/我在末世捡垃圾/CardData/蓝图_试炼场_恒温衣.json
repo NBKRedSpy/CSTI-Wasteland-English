@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6052\u6E29\u8863",
-    "LocalizationKey": "",
+    "DefaultText": "恒温衣",
+    "LocalizationKey": "T-90QiY1t0Ha112AcvyQPEBsdQQjg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6052\u6E29\u8863",
+  "CardImageWarpData": "恒温衣",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "6908b61ce1a61a312cc301ca98deba2f",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u666E\u901A\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机普通难度",
+    "LocalizationKey": "T-+CqYpoqLCHQzDUa7VOeQ9oYgnWw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

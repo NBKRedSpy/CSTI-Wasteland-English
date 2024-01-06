@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u602A\u7269\u66B4\u4E71\u7981\u6B62\u589E\u957F",
+  "DefaultStatusIconWarpData": "怪物暴乱禁止增长",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u602A\u7269\u66B4\u4E71\u7981\u6B62\u589E\u957F",
-    "LocalizationKey": "",
+    "DefaultText": "怪物暴乱禁止增长",
+    "LocalizationKey": "T-HTuMqoMHcBp4p17Rc3YIM1lC/Og=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -115,8 +115,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u602A\u7269\u66B4\u4E71\u7981\u6B62\u589E\u957F\u7684\u7B2C1\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "怪物暴乱禁止增长的第1阶段",
+        "LocalizationKey": "T-gm9zXjdX8ItEm5WyY/Z28pb+i/s=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -124,7 +124,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u602A\u7269\u66B4\u4E71\u7981\u6B62\u589E\u957F",
+      "IconWarpData": "怪物暴乱禁止增长",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

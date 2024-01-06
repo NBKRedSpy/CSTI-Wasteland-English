@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u5200\u6A21\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "铁刀模具",
+    "LocalizationKey": "T-BgfRhpTNY3ovc3sqdDILyAGSPkc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -370,7 +370,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u5200\u6A21\u5177",
+  "CardImageWarpData": "铁刀模具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3551,8 +3551,8 @@
   "UniqueID": "04f1e915e31d48c77e1cd9eb0198ae49",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6CE5\u5806",
-    "LocalizationKey": "",
+    "DefaultText": "需要泥堆",
+    "LocalizationKey": "T-0ES6cbILbroDVtTOVpA7NpTpTXI=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

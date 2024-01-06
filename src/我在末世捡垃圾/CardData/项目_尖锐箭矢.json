@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5C16\u9510\u7BAD\u77E2",
-    "LocalizationKey": "",
+    "DefaultText": "尖锐箭矢",
+    "LocalizationKey": "T-bjB9YMzNqBDzs/ErKf6444yZ8WM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u770B\u8D77\u6765\u53EF\u4EE5\u7ED9\u5916\u9762\u90A3\u4E9B\u5BB6\u4F19\u81F4\u547D\u4E00\u51FB",
-    "LocalizationKey": "",
+    "DefaultText": "看起来可以给外面那些家伙致命一击",
+    "LocalizationKey": "T-CvoYyeOZVkv4qJyWxMhF2Ugwnio=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5C16\u9510\u7BAD\u77E2",
+  "CardImageWarpData": "尖锐箭矢",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3818,7 +3818,7 @@
   ],
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ],
   "ItemCardDataCardTabGpGroup": [
     "GpTag_Hammer"

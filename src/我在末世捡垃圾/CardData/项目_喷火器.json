@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u55B7\u706B\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "喷火器",
+    "LocalizationKey": "T-LS8VI4Dp8ouyj0ROuhlH6I2sfO4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7528\u9152\u7CBE\u586B\u88C5\u4F5C\u4E3A\u71C3\u6599\uFF0C\u5BF9\u602A\u7269\u9020\u6210\u706B\u7130\u4F24\u5BB3",
-    "LocalizationKey": "",
+    "DefaultText": "用酒精填装作为燃料，对怪物造成火焰伤害",
+    "LocalizationKey": "T-JGCRKWRiMjJ8SvnkriUhpgOfh4s=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u55B7\u706B\u5668",
+  "CardImageWarpData": "喷火器",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u9152\u7CBE",
-        "LocalizationKey": "",
+        "DefaultText": "装酒精",
+        "LocalizationKey": "T-4U8akTFnzPEKkisFDcCBLziODCo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -483,8 +483,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u52A0\u56FA\u4F53\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "加固体燃料",
+        "LocalizationKey": "T-nGBDhwLsiElGKnuBetkqxtO/ez8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4519,6 +4519,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

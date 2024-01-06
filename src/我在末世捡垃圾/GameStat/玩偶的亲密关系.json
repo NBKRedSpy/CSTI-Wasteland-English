@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u73A9\u5076\u7684\u4EB2\u5BC6\u5173\u7CFB",
+  "DefaultStatusIconWarpData": "玩偶的亲密关系",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u73A9\u5076\u7684\u4EB2\u5BC6\u5173\u7CFB",
-    "LocalizationKey": "",
+    "DefaultText": "玩偶的亲密关系",
+    "LocalizationKey": "T-I43AR9bLsnDIh9GC5P5DiBJxBmo=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -134,8 +134,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u4EB2\u5BC6\u7684\u670B\u53CB",
-        "LocalizationKey": "",
+        "DefaultText": "亲密的朋友",
+        "LocalizationKey": "T-StzJhWq/Oc096Z1isOHjSaFXK2Y=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -143,7 +143,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u73A9\u5076\u7684\u4EB2\u5BC6\u5173\u7CFB",
+      "IconWarpData": "玩偶的亲密关系",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

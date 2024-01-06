@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u8681\u540E\u5B9D\u5B9D\u6570\u91CF",
+  "DefaultStatusIconWarpData": "蚁后宝宝数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u8681\u540E\u5B9D\u5B9D\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "蚁后宝宝数量",
+    "LocalizationKey": "T-DRlJ7+vIgNG7Hp1waLRsCr2As6c=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u62C6\u4E00\u4E2A\u51F3\u5B50",
+  "DefaultStatusIconWarpData": "拆一个凳子",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u62C6\u4E00\u4E2A\u51F3\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "拆一个凳子",
+    "LocalizationKey": "T-o5zy+o3LIkgjO9RX6OPTyW42HrI=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

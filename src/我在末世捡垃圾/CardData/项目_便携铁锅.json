@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4FBF\u643A\u94C1\u9505",
-    "LocalizationKey": "",
+    "DefaultText": "便携铁锅",
+    "LocalizationKey": "T-rOuCQViFSKYUqfjl/mri+3QqN9M=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B8C\u7F8E\u7684\u70F9\u996A\u5DE5\u5177\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "完美的烹饪工具。",
+    "LocalizationKey": "T-yy0zskmpHwGTj38nXtxjVLngSok=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4FBF\u643A\u94C1\u9505",
+  "CardImageWarpData": "便携铁锅",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -154,7 +154,7 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_FireSource",
-          "\u70B9\u706B\u5DE5\u5177"
+          "点火工具"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -490,8 +490,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "放入",
+        "LocalizationKey": "T-00E3A0dgWRu7IasDZ09aT/Wn10Y=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -841,8 +841,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6930\u5B50\u58F3",
-        "LocalizationKey": "",
+        "DefaultText": "添入椰子壳",
+        "LocalizationKey": "T-Y0BNgZuR61Npi2NADQsTfG3y50w=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1191,8 +1191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6728\u6750",
-        "LocalizationKey": "",
+        "DefaultText": "添入木材",
+        "LocalizationKey": "T-lzDM9hce8AuAJqp2zyEXBiCp5B4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1541,8 +1541,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "添入燃料",
+        "LocalizationKey": "T-++5EOtax4hD8YpTwPneKP03efZo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1891,8 +1891,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5F31\u6548\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "弱效燃料",
+        "LocalizationKey": "T-2hewH9emlA0lVvpEX2qTErlRGOU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2241,8 +2241,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6728\u70AD",
-        "LocalizationKey": "",
+        "DefaultText": "添入木炭",
+        "LocalizationKey": "T-+EJE4D3Znk64Td3hazbO66aUCog=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2591,8 +2591,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6930\u5B50\u76AE",
-        "LocalizationKey": "",
+        "DefaultText": "添入椰子皮",
+        "LocalizationKey": "T-Cfo/qwOPAb7JmjFcxdO6FzfUqKg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2941,8 +2941,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "添入",
+        "LocalizationKey": "T-ZXLY4Zellclkc/YohfFfJhdyOnk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3291,8 +3291,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u71C3\u70E7\u74F6",
-        "LocalizationKey": "",
+        "DefaultText": "添入燃烧瓶",
+        "LocalizationKey": "T-IOPkPK8mzVjXdv6ReDJ9+MctMrY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3642,8 +3642,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u67F3\u6849\u6728",
-        "LocalizationKey": "",
+        "DefaultText": "添入柳桉木",
+        "LocalizationKey": "T-9gcectLFs/jayp+DuPsNfJZ+Bxs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3992,8 +3992,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u56FA\u4F53\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "添入固体燃料",
+        "LocalizationKey": "T-nrvGuejdhskV6xz+ucy3x2U7DC4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4342,8 +4342,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u7164\u77FF",
-        "LocalizationKey": "",
+        "DefaultText": "添入煤矿",
+        "LocalizationKey": "T-T4/2EVK6rOfxJK84Hi1LZ+T4pOI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4751,8 +4751,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4967,8 +4967,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u89E3",
-        "LocalizationKey": "",
+        "DefaultText": "拆解",
+        "LocalizationKey": "T-GDPFm/RajRVzs5OJeCACAa0Ba84=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

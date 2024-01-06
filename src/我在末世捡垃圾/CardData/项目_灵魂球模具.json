@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7075\u9B42\u7403\u6A21\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "灵魂球模具",
+    "LocalizationKey": "T-rldtjc1LWeNciOC2R2/voxpHgbo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7075\u9B42\u7403\u6A21\u5177",
+  "CardImageWarpData": "灵魂球模具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

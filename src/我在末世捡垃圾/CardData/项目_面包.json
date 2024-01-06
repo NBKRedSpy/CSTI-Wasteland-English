@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5168\u9EA6\u9762\u5305",
-    "LocalizationKey": "",
+    "DefaultText": "全麦面包",
+    "LocalizationKey": "T-tV/DgIphgyQQEWUFKCGYLyokG2k=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u53C8\u4FDD\u8D28\u671F\u591F\u957F\u7684\u98DF\u7269\uFF0C\u5F88\u9002\u5408\u51FA\u884C\u643A\u5E26",
-    "LocalizationKey": "",
+    "DefaultText": "美味又保质期够长的食物，很适合出行携带",
+    "LocalizationKey": "T-AO/7Lo/E6nrLeowujJMcyFvwwaQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9762\u5305",
+  "CardImageWarpData": "面包",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403",
-        "LocalizationKey": "",
+        "DefaultText": "吃",
+        "LocalizationKey": "T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

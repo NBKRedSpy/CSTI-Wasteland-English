@@ -1,24 +1,24 @@
 {
   "CardName": {
-    "DefaultText": "\u7F8E\u961F\u76FE\u724C",
-    "LocalizationKey": "",
+    "DefaultText": "美队盾牌",
+    "LocalizationKey": "T-CNd/S/XUYQz4X41uQjAdqtYclac=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u53EF\u4EE5\u73A9\u4E0A\u4E00\u6574\u5929",
-    "LocalizationKey": "",
+    "DefaultText": "我可以玩上一整天",
+    "LocalizationKey": "T-zPO+Ym83Px7BQtAIn8++9g5eznY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u9632\u5177",
+    "防具",
     "tag_Scraper",
     "tag_Cutter",
     "tag_CutterAdv",
     "tag_Hammer",
     "tag_Heavy",
     "tag_Pretty",
-    "\u5F00\u7F50\u5DE5\u5177"
+    "开罐工具"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -117,7 +117,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7F8E\u961F\u76FE\u724C",
+  "CardImageWarpData": "美队盾牌",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -138,8 +138,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u94C1\u6C34\u4FEE\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "铁水修补",
+        "LocalizationKey": "T-G40LQL1dxWU4ZS20wkP6Rbyq50I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3895,8 +3895,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u7F8E\u961F\u76FE\u724C\u7528\u5B8C\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "美队盾牌用完了！",
+        "LocalizationKey": "T-YDgtucL33bsKFNRcr1GPQIWtyEM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -4217,7 +4217,7 @@
   ],
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668",
+    "武器",
     "eTag_Shield"
   ],
   "ItemCardDataCardTabGpGroup": [

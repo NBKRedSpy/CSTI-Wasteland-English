@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6FC0\u5149\u901A\u9053",
-    "LocalizationKey": "",
+    "DefaultText": "激光通道",
+    "LocalizationKey": "T-l1Kpoaw9w6W/rBiqVRF5mcTD4To=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6FC0\u5149\u901A\u9053",
+  "CardImageWarpData": "激光通道",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u63A2\u7D22",
-        "LocalizationKey": "",
+        "DefaultText": "探索",
+        "LocalizationKey": "T-KRhjOsgRtvfjRiwhnw2VhbEq6+M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1031,7 +1031,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_0",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-LDEeDiuz73jNBkGE8hzR40LIfkc=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],
@@ -1321,7 +1321,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_1",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-nwJFHcfLimG7oy8Mf+99/Ko4Vbs=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],
@@ -1611,7 +1611,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_2",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-R0DpOuTk947xG+vxRHRveXotJzo=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],
@@ -2467,7 +2467,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6B7B\u4EA1",
+      "EffectName": "死亡",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

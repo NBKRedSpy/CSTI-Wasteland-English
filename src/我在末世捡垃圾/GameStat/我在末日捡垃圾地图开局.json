@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6211\u5728\u672B\u65E5\u6361\u5783\u573E\u5730\u56FE\u5F00\u5C40",
+  "DefaultStatusIconWarpData": "我在末日捡垃圾地图开局",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6211\u5728\u672B\u65E5\u6361\u5783\u573E\u5730\u56FE\u5F00\u5C40",
-    "LocalizationKey": "",
+    "DefaultText": "我在末日捡垃圾地图开局",
+    "LocalizationKey": "T-FRBfwORkk/I/CpYF9mEI40TseiM=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

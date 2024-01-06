@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E00\u888B\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "一袋金币",
+    "LocalizationKey": "T-vkGll5CGaD/dA8PRTeVtL34FplM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u6709\u94B1\u4E86\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "我有钱了！",
+    "LocalizationKey": "T-6cQtlGWBYZpdLd7zOC9T1ShKnNY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E00\u888B\u91D1\u5E01",
+  "CardImageWarpData": "一袋金币",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u51FA",
-        "LocalizationKey": "",
+        "DefaultText": "取出",
+        "LocalizationKey": "T-RP17PBwgqpkbjhMjr8i0/Rgedmg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

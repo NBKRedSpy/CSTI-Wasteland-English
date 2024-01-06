@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5DE8\u578B\u8718\u86DB\u5DE2",
-    "LocalizationKey": "",
+    "DefaultText": "巨型蜘蛛巢",
+    "LocalizationKey": "T-XtS5bsm4GmAbrpjddq312RQDIts=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u4E0D\u8BE5\u6253\u6270\u5B83\u4EEC",
-    "LocalizationKey": "",
+    "DefaultText": "我不该打扰它们",
+    "LocalizationKey": "T-E0tf4hqS+3UFy866Bt0/LPDGTII=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5DE8\u578B\u8718\u86DB\u5DE2",
+  "CardImageWarpData": "巨型蜘蛛巢",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -700,8 +700,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1330,8 +1330,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7834\u574F",
-        "LocalizationKey": "",
+        "DefaultText": "破坏",
+        "LocalizationKey": "T-S1occ2eIWalKwYhTAxB3eg/Csyg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5EFA\u7B51\u5E9F\u589F",
-    "LocalizationKey": "",
+    "DefaultText": "建筑废墟",
+    "LocalizationKey": "T-JhmRCmBNYLtbNKHjUF6Ejs/Q2pk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4EBA\u7C7B\u6587\u660E\u5012\u584C\u540E\u7684\u9057\u5B58\uFF0C\u8FD8\u6709\u4E9B\u6709\u7528\u7684\u6750\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "人类文明倒塌后的遗存，还有些有用的材料",
+    "LocalizationKey": "T-K9nFCV6UuuoR4ZPtJMTTEP1pBVk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5EFA\u7B51\u5E9F\u589F",
+  "CardImageWarpData": "建筑废墟",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u63A2\u7D22",
-        "LocalizationKey": "",
+        "DefaultText": "探索",
+        "LocalizationKey": "T-KRhjOsgRtvfjRiwhnw2VhbEq6+M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

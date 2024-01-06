@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u03B2\u963B\u65AD\u5242",
-    "LocalizationKey": "",
+    "DefaultText": "β阻断剂",
+    "LocalizationKey": "T-MZ5PGY1JNQEeEppz1lq/nauODRE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u51CF\u5C11\u5927\u91CF\u75BC\u75DB\uFF0C\u89E3\u51B3\u5FC3\u5F8B\u4E0D\u9F50\uFF0C\u4F46\u4E5F\u6709\u526F\u4F5C\u7528",
-    "LocalizationKey": "",
+    "DefaultText": "减少大量疼痛，解决心律不齐，但也有副作用",
+    "LocalizationKey": "T-3yb8+ugAsEhDuFpXHy7LPCU+T9c=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u03B2\u963B\u65AD\u5242",
+  "CardImageWarpData": "β阻断剂",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u670D\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "服用",
+        "LocalizationKey": "T-iMDWPI02dhLjJD4yAKKT1PgZ4H0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

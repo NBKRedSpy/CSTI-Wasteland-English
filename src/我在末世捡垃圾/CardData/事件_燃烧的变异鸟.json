@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u71C3\u70E7\u7684\u53D8\u5F02\u9E1F",
-    "LocalizationKey": "",
+    "DefaultText": "燃烧的变异鸟",
+    "LocalizationKey": "T-yvNtp9Rl2fawWOj0/AcZkrfWa4g=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u71C3\u70E7\u7684\u53D8\u5F02\u9E1F\u671D\u4F60\u76F4\u76F4\u7684\u5760\u843D",
-    "LocalizationKey": "",
+    "DefaultText": "燃烧的变异鸟朝你直直的坠落",
+    "LocalizationKey": "T-QFEGBKUoBK0686cZy3HUblpzXdE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u71C3\u70E7\u7684\u53D8\u5F02\u9E1F",
+  "CardImageWarpData": "燃烧的变异鸟",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4124,7 +4124,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u71C3\u70E7\u7684\u53D8\u5F02\u9E1F"
+    "燃烧的变异鸟"
   ],
   "WhenCreatedSoundsWarpType": 3,
   "SpawningBlockedByWarpType": 3,

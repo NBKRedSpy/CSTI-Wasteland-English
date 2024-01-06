@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8681\u7A74\u63A2\u7D22\u5B8C\u6BD5",
-    "LocalizationKey": "",
+    "DefaultText": "蚁穴探索完毕",
+    "LocalizationKey": "T-ALnY1rz15LlSbYrvv0snr0Eenb4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u89C9\u5F97\u5DF2\u7ECF\u627E\u5230\u8681\u7A74\u6240\u6709\u53EF\u63A2\u7D22\u7684\u5730\u70B9\u4E86\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "我觉得已经找到蚁穴所有可探索的地点了。",
+    "LocalizationKey": "T-WI//wiTg8rIeVE5J3NKpQQ8p3No=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8681\u7A74",
+  "CardImageWarpData": "蚁穴",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

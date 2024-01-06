@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8718\u86DB\u5DE2\u63A2\u7D22\u5B8C\u6BD5",
-    "LocalizationKey": "",
+    "DefaultText": "蜘蛛巢探索完毕",
+    "LocalizationKey": "T-HdwxLMVbCIK+oUje87rUUHDV6BQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u89C9\u5F97\u5DF2\u7ECF\u627E\u5230\u8718\u86DB\u5DE2\u6240\u6709\u53EF\u63A2\u7D22\u7684\u5730\u70B9\u4E86\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "我觉得已经找到蜘蛛巢所有可探索的地点了。",
+    "LocalizationKey": "T-Yp318mygeDvU9Hd9/3JWI49pF3s=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8718\u86DB\u5DE2",
+  "CardImageWarpData": "蜘蛛巢",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

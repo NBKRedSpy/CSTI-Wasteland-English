@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6309\u94AE\u9762\u677F",
-    "LocalizationKey": "",
+    "DefaultText": "按钮面板",
+    "LocalizationKey": "T-L+8+FN1sKSu39k6eLq5Xsjh6Ntc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u554A\uFF0C\u4E09\u9009\u4E00",
-    "LocalizationKey": "",
+    "DefaultText": "啊，三选一",
+    "LocalizationKey": "T-3qM6921NESTNxTU0NgNLfzXcvms=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6309\u94AE\u9762\u677F",
+  "CardImageWarpData": "按钮面板",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EA2\u8272\u6309\u94AE",
-        "LocalizationKey": "",
+        "DefaultText": "红色按钮",
+        "LocalizationKey": "T-lX6Exa47j5SFaih5y6KrOT8+4xs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -384,8 +384,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6309\u94AE\u9762\u677F\u635F\u574F",
-          "LocalizationKey": "",
+          "DefaultText": "按钮面板损坏",
+          "LocalizationKey": "T-htWMWjLC54UMUvxvt9VxpQ9ZmKE=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -503,8 +503,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EFF\u8272\u6309\u94AE",
-        "LocalizationKey": "",
+        "DefaultText": "绿色按钮",
+        "LocalizationKey": "T-VqCl4Xmoy6Q4WXG0LDkMLHBQILA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -700,8 +700,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6309\u94AE\u9762\u677F\u635F\u574F",
-          "LocalizationKey": "",
+          "DefaultText": "按钮面板损坏",
+          "LocalizationKey": "T-htWMWjLC54UMUvxvt9VxpQ9ZmKE=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -819,8 +819,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u84DD\u8272\u6309\u94AE",
-        "LocalizationKey": "",
+        "DefaultText": "蓝色按钮",
+        "LocalizationKey": "T-kjmXskK005jR2QvAxm9ktNcxhk0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1016,8 +1016,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6309\u94AE\u9762\u677F\u635F\u574F",
-          "LocalizationKey": "",
+          "DefaultText": "按钮面板损坏",
+          "LocalizationKey": "T-htWMWjLC54UMUvxvt9VxpQ9ZmKE=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,

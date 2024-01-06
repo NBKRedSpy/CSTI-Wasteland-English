@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u80F6\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "胶水",
+    "LocalizationKey": "T-khiMlMkKUOI9d5yIqsDo1nWTIlE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u80F6\u6C34",
+  "CardImageWarpData": "胶水",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

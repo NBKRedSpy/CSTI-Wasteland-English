@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u51B0\u6DC7\u6DCB\u9762\u5305",
-    "LocalizationKey": "",
+    "DefaultText": "冰淇淋面包",
+    "LocalizationKey": "T-IyxqFl8uRGiKpjGZ6rEMADrgNKc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -767,7 +767,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51B0\u6DC7\u6DCB\u9762\u5305",
+  "CardImageWarpData": "冰淇淋面包",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3948,8 +3948,8 @@
   "UniqueID": "5dbab37b77541ae198fe5e417e746121",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u51B0\u5757",
-    "LocalizationKey": "",
+    "DefaultText": "需要冰块",
+    "LocalizationKey": "T-/bLK1UStMAAdr5xqUqFmHQ8H87g=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

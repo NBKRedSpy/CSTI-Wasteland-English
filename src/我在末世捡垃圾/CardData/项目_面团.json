@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u9762\u56E2",
-    "LocalizationKey": "",
+    "DefaultText": "面团",
+    "LocalizationKey": "T-ie/sfTvwgxbTda0RJWlfyjULq7c=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u8981\u628A\u5B83\u653E\u5230\u706B\u4E0A\u70E4",
-    "LocalizationKey": "",
+    "DefaultText": "我要把它放到火上烤",
+    "LocalizationKey": "T-JJAX4TRghjan3RDPrMKvx71jwq4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9762\u56E2",
+  "CardImageWarpData": "面团",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

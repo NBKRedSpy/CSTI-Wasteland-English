@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u814C\u72D7\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "腌狗肉",
+    "LocalizationKey": "T-igBsfeTIMB/IoJo13lfvYlzwUvg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u54B8\u54B8\u7684\uFF0C\u5F88\u7F8E\u5473\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "咸咸的，很美味！",
+    "LocalizationKey": "T-I9ioNzqVccou9GSCCQ4z5ufcAWw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u814C\u72D7\u8089",
+  "CardImageWarpData": "腌狗肉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -193,8 +193,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u786B\u78FA\u77F3",
-    "LocalizationKey": "",
+    "DefaultText": "硫磺石",
+    "LocalizationKey": "T-KneHeHA7pVqHs0wFrq014BHt6dM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u786B\u78FA\u77F3",
+  "CardImageWarpData": "硫磺石",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "3ddb5aaaadecff14560c28462861254b",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u666E\u901A\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机普通难度",
+    "LocalizationKey": "T-+CqYpoqLCHQzDUa7VOeQ9oYgnWw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

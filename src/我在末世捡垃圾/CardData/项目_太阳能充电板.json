@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u592A\u9633\u80FD\u5145\u7535\u677F",
-    "LocalizationKey": "",
+    "DefaultText": "太阳能充电板",
+    "LocalizationKey": "T-cw7+S4zSQ9B3pMSriIzAr3gLIPw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u592A\u9633\u80FD\u5145\u7535\u677F",
+  "CardImageWarpData": "太阳能充电板",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

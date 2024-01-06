@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u73B0\u4EE3\u590D\u5408\u5F13",
-    "LocalizationKey": "",
+    "DefaultText": "现代复合弓",
+    "LocalizationKey": "T-jU1dN/m5s2hAbEdCxpbWFHTwgxM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4E2A\u73B0\u4EE3\u5316\u7684\u5F13\uFF0C\u5C04\u7BAD\u65F6\u4E0D\u4F1A\u53D1\u51FA\u566A\u97F3",
-    "LocalizationKey": "",
+    "DefaultText": "一个现代化的弓，射箭时不会发出噪音",
+    "LocalizationKey": "T-pEiDUWfAyHkAiDX22xeU15eT6Yo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73B0\u4EE3\u590D\u5408\u5F13",
+  "CardImageWarpData": "现代复合弓",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3813,6 +3813,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

@@ -14,8 +14,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u7ED9\u571F\u8C46\u65BD\u4E00\u6B21\u80A5",
-    "LocalizationKey": "",
+    "DefaultText": "给土豆施一次肥",
+    "LocalizationKey": "T-fVLt2Tww37hDsVoHGkFAZNaCCUo=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

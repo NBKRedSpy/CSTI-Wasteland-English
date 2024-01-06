@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u73BB\u7483\u74F6\u6A21\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "玻璃瓶模具",
+    "LocalizationKey": "T-WdfYrU2hACjpJbi1HaW4lDnDWs8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73BB\u7483\u74F6\u6A21\u5177",
+  "CardImageWarpData": "玻璃瓶模具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

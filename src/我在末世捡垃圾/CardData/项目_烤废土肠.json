@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70E4\u5E9F\u571F\u80A0",
-    "LocalizationKey": "",
+    "DefaultText": "烤废土肠",
+    "LocalizationKey": "T-xuOiOIcBWirpLLakL9FB0368h54=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u7684\u70E4\u80A0\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "美味的烤肠！",
+    "LocalizationKey": "T-mOoL89JhKfEYiJe6951+yG5hN7M=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70E4\u5E9F\u571F\u80A0",
+  "CardImageWarpData": "烤废土肠",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

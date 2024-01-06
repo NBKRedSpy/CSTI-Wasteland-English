@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6FC0\u5149\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "激光枪",
+    "LocalizationKey": "T-Wg9z5y7hbdyDL9E5Dw57OYBtdgU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6FC0\u5149\u67AA",
+  "CardImageWarpData": "激光枪",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "050107bad0f83b3ba12aab37d91766ab",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u5730\u72F1\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机地狱难度",
+    "LocalizationKey": "T-pzxT88D+oVMh3Tqlr7QM9FgqUIE=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

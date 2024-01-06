@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u8F90\u5C04",
+  "DefaultStatusIconWarpData": "辐射",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u8F90\u5C04",
-    "LocalizationKey": "",
+    "DefaultText": "辐射",
+    "LocalizationKey": "T-kLt8ZKaNypnky0xhV+fHIfX4v/k=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -153,8 +153,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u8F90\u5C04\u7684\u7B2C1\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "辐射的第1阶段",
+        "LocalizationKey": "T-d9bggEkbdAWi39b9VFthvoCJ/10=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -162,7 +162,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u8F90\u5C04",
+      "IconWarpData": "辐射",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {
@@ -260,8 +260,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u8F90\u5C04\u7684\u7B2C2\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "辐射的第2阶段",
+        "LocalizationKey": "T-7bjyPL/lLYTmdBdZQPR9SMqwC3A=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -269,7 +269,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u8F90\u5C04",
+      "IconWarpData": "辐射",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {
@@ -367,8 +367,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u8F90\u5C04\u7684\u7B2C3\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "辐射的第3阶段",
+        "LocalizationKey": "T-tGbqnjqlBOR2Hmll8O4qSumBfTo=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -376,7 +376,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u8F90\u5C04",
+      "IconWarpData": "辐射",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {
@@ -474,8 +474,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u8F90\u5C04\u7684\u7B2C4\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "辐射的第4阶段",
+        "LocalizationKey": "T-/F+IFawgcU2pm0nDHRS8Mi8lQmY=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -483,7 +483,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u8F90\u5C04",
+      "IconWarpData": "辐射",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

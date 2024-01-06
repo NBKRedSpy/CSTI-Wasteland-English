@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u87BA\u4E1D\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "螺丝刀",
+    "LocalizationKey": "T-Cdn6Ot2sY+jkq20P1N4OzLwCLKE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -581,7 +581,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u87BA\u4E1D\u5200",
+  "CardImageWarpData": "螺丝刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3762,8 +3762,8 @@
   "UniqueID": "7a103965eb08bf9e6b6cab720f330ba2",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u87BA\u4E1D\u5200\u8EAB",
-    "LocalizationKey": "",
+    "DefaultText": "需要螺丝刀身",
+    "LocalizationKey": "T-AKEaKdbQwZqbgGZoJBznGWVm7IU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

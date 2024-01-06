@@ -1,7 +1,7 @@
 {
   "PageTitle": {
-    "DefaultText": "\u5E9F\u571F\u8863\u670D",
-    "LocalizationKey": "",
+    "DefaultText": "废土衣服",
+    "LocalizationKey": "T-8Yt1eWWl4J5nghoLTF7eqcOQuNo=",
     "ParentObjectID": ""
   },
   "RightButton": {
@@ -150,7 +150,7 @@
   ],
   "GlobalPageLinks": [],
   "LeftButtonWarpType": 3,
-  "LeftButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C2\u9875",
+  "LeftButtonWarpData": "变种人克里斯第2页",
   "RightButtonWarpType": 3,
-  "RightButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C4\u9875"
+  "RightButtonWarpData": "变种人克里斯第4页"
 }

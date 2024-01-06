@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9999\u70DF\uFF08\u70B9\u71C3\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "香烟（点燃）",
+    "LocalizationKey": "T-IFu40lirOjgHP/HnPHtV3cB+gqs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u672B\u65E5\u91CC\u7684\u653E\u677E\u624B\u6BB5\uFF0C\u6211\u6700\u597D\u522B\u591A\u62BD",
-    "LocalizationKey": "",
+    "DefaultText": "末日里的放松手段，我最好别多抽",
+    "LocalizationKey": "T-pCQyvo0tBccpOlu+O/gnmuhIAE4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9999\u70DF\uFF08\u70B9\u71C3\uFF09",
+  "CardImageWarpData": "香烟（点燃）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

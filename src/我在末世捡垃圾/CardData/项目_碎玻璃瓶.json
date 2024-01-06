@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u788E\u73BB\u7483\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "碎玻璃瓶",
+    "LocalizationKey": "T-WxuAl3PqJvuG6Gvpw6H/LeyUKdQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u771F\u7684\u7B97\u4F5C\u6B66\u5668\u5417\u2026\u2026",
-    "LocalizationKey": "",
+    "DefaultText": "这真的算作武器吗……",
+    "LocalizationKey": "T-CPTiMzYH57ENftcigL6YCb07fYQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u788E\u73BB\u7483\u74F6",
+  "CardImageWarpData": "碎玻璃瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6572\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "敲碎",
+        "LocalizationKey": "T-PVNhuDjh7usj8LOkOZJrUsSnR6U=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

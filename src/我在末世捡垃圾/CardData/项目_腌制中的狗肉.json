@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u814C\u5236\u4E2D\u7684\u72D7\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "腌制中的狗肉",
+    "LocalizationKey": "T-ikFTsNI/G1htsZaooFuQjyLYUno=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u9700\u8981\u65F6\u95F4\u7B49\u5F85\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "美味需要时间等待。",
+    "LocalizationKey": "T-tF4jvpFM3ES0i8SJLlRA5J/pdDs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u814C\u72D7\u8089",
+  "CardImageWarpData": "腌狗肉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -192,8 +192,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -14,8 +14,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u6316\u4E00\u4E2A\u94C1\u77FF",
-    "LocalizationKey": "",
+    "DefaultText": "挖一个铁矿",
+    "LocalizationKey": "T-LMGmsGcNsbAXSIPwSCFPjFQm2bM=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

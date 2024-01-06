@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70E4\u719F\u7684\u53D8\u5F02\u9C7C\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "烤熟的变异鱼肉",
+    "LocalizationKey": "T-B9CcyxAo7dI6DlqtxzGaiMFxVc0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u73B0\u5728\u770B\u8D77\u6765\u597D\u591A\u4E86\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "现在看起来好多了！",
+    "LocalizationKey": "T-zFyFx29LJ+Ku5MJdc8EqgIkrNd4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70E4\u719F\u7684\u53D8\u5F02\u9C7C\u8089",
+  "CardImageWarpData": "烤熟的变异鱼肉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

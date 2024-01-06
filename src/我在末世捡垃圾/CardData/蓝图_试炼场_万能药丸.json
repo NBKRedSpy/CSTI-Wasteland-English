@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4E07\u80FD\u836F\u4E38",
-    "LocalizationKey": "",
+    "DefaultText": "万能药丸",
+    "LocalizationKey": "T-vxSSqKkgWORjkM+/CEJcVnKWgfo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E07\u80FD\u836F\u4E38",
+  "CardImageWarpData": "万能药丸",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "2c473ca42444b08557d8611a119f076e",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

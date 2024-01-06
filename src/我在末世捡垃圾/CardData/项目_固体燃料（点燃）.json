@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u56FA\u4F53\u71C3\u6599\uFF08\u70B9\u71C3\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "固体燃料（点燃）",
+    "LocalizationKey": "T-1677EDiGkLk58Ndo1OwO7QocjTM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F60\u4E0D\u5E94\u8BE5\u7528\u5B83\u6765\u7167\u660E\uFF0C\u66F4\u4E0D\u5E94\u8BE5\u7528\u56FA\u4F53\u71C3\u6599\u6765\u586B\u5145\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "你不应该用它来照明，更不应该用固体燃料来填充！",
+    "LocalizationKey": "T-Jz0H2M5IfHkPFTZxtVhnUt9zgOk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u56FA\u4F53\u71C3\u6599\uFF08\u70B9\u71C3\uFF09",
+  "CardImageWarpData": "固体燃料（点燃）",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u52A0",
-        "LocalizationKey": "",
+        "DefaultText": "添加",
+        "LocalizationKey": "T-lBkc4hDTZKt+NMcZPzkn5ygoK4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

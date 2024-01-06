@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u98DE\u8239",
-    "LocalizationKey": "",
+    "DefaultText": "飞船",
+    "LocalizationKey": "T-PesYuPZFe8uqEYrRgwP3pwpVVus=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7834\u635F\u7684\u98DE\u8239",
+  "CardImageWarpData": "破损的飞船",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -171,8 +171,8 @@
   "DismantleActions": [
     {
       "ActionDescription": {
-        "DefaultText": "\u4F60\u79BB\u5F00\u4E86\uFF0C\u5C31\u518D\u4E5F\u4E0D\u80FD\u8FD4\u56DE\u4E86\uFF01\uFF08\u6E38\u620F\u7ED3\u675F\uFF09",
-        "LocalizationKey": "",
+        "DefaultText": "你离开了，就再也不能返回了！（游戏结束）",
+        "LocalizationKey": "T-nNrc4ov/6IGQXVsQ3aQEyl5WEFk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79BB\u5F00\u5730\u7403",
-        "LocalizationKey": "",
+        "DefaultText": "离开地球",
+        "LocalizationKey": "T-mmhpZ8WxUM8BuzIfe33sKsxb8AM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -379,8 +379,8 @@
         "Victory": true,
         "SpecialEnding": false,
         "VictoryMessage": {
-          "DefaultText": "\u4F60\u79BB\u5F00\u4E86\u5730\u7403\uFF0C\u4F60\u7684\u5F81\u9014\u662F\u661F\u8FB0\u5927\u6D77\uFF01",
-          "LocalizationKey": "",
+          "DefaultText": "你离开了地球，你的征途是星辰大海！",
+          "LocalizationKey": "T-Oh0e8YeSyyyRBig0YE1gchmd+7Y=",
           "ParentObjectID": ""
         }
       },

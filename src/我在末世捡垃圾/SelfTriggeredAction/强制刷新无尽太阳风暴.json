@@ -2,8 +2,8 @@
   "Actions": [
     {
       "ActionName": {
-        "DefaultText": "\u5237\u65B0\u65E0\u5C3D\u592A\u9633\u98CE\u66B4",
-        "LocalizationKey": "",
+        "DefaultText": "刷新无尽太阳风暴",
+        "LocalizationKey": "T-c4ctNrJjn0peG2zdHYsGGg8lU6s=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 0,

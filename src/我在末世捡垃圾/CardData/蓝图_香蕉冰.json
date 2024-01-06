@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9999\u8549\u51B0",
-    "LocalizationKey": "",
+    "DefaultText": "香蕉冰",
+    "LocalizationKey": "T-haCxaPVEvNwzL8MO+e3+W48IfU4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -576,7 +576,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9999\u8549\u51B0",
+  "CardImageWarpData": "香蕉冰",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3757,8 +3757,8 @@
   "UniqueID": "921a59473a87a2ca286fda4bbe16cdaf",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u51B0\u5757",
-    "LocalizationKey": "",
+    "DefaultText": "需要冰块",
+    "LocalizationKey": "T-/bLK1UStMAAdr5xqUqFmHQ8H87g=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

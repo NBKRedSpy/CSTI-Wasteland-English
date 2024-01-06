@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u65E0\u5C3D\u592A\u9633\u98CE\u66B4\u6807\u8BB0",
+  "DefaultStatusIconWarpData": "无尽太阳风暴标记",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u65E0\u5C3D\u592A\u9633\u98CE\u66B4\u6807\u8BB0",
-    "LocalizationKey": "",
+    "DefaultText": "无尽太阳风暴标记",
+    "LocalizationKey": "T-ptcUpp26pydrCYvp05LLCvuY5PE=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8D85\u5E02\u5185\u90E8",
-    "LocalizationKey": "",
+    "DefaultText": "超市内部",
+    "LocalizationKey": "T-ooxaN3gJNnG0TOq9B7pl219yRxU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8D85\u5E02\u5185\u90E8",
+  "CardImageWarpData": "超市内部",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

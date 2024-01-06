@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5E02\u653F\u5385",
-    "LocalizationKey": "",
+    "DefaultText": "市政厅",
+    "LocalizationKey": "T-7DaXBFNZHSGGx8T4H8IenL4V3yo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E02\u653F\u5385",
+  "CardImageWarpData": "市政厅",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

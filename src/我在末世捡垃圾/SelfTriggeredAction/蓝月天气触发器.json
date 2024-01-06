@@ -2,8 +2,8 @@
   "Actions": [
     {
       "ActionName": {
-        "DefaultText": "\u84DD\u6708\u6765\u88AD",
-        "LocalizationKey": "",
+        "DefaultText": "蓝月来袭",
+        "LocalizationKey": "T-sGhgR9v1hddKOi2zAyr9uUeFSD8=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,

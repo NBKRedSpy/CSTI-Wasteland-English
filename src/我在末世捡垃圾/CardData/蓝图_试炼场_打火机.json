@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6253\u706B\u673A",
-    "LocalizationKey": "",
+    "DefaultText": "打火机",
+    "LocalizationKey": "T-BJ8lqQhCn4GDMHQDXKGEfQ7MEvM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6253\u706B\u673A",
+  "CardImageWarpData": "打火机",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "63575b6eaf447a86ec77f9a267d687e0",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

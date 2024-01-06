@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u87BA\u4E1D\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "螺丝刀",
+    "LocalizationKey": "T-Cdn6Ot2sY+jkq20P1N4OzLwCLKE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u87BA\u4E1D\u5200",
+  "CardImageWarpData": "螺丝刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "d2dad2faf4b3d13d265794e9abb48678",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

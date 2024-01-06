@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5C38\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "尸肉",
+    "LocalizationKey": "T-eejIPMfk2uCXiUNVpXFIPYlhkJY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -15,7 +15,7 @@
     "tag_Feed",
     "tag_Meat",
     "tag_ProteinsMedium",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5C38\u8089",
+  "CardImageWarpData": "尸肉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u91D1\u7C92",
-    "LocalizationKey": "",
+    "DefaultText": "金粒",
+    "LocalizationKey": "T-b2TPLCgvVoPebrwG6v7JNZ1wrpU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u706B\u7130\u628A\u91D1\u5E01\u53D8\u6210\u4E86\u5C0F\u9897\u7C92",
-    "LocalizationKey": "",
+    "DefaultText": "火焰把金币变成了小颗粒",
+    "LocalizationKey": "T-ocQ39E/wrmdIcycIUMVTzvnzcEE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u91D1\u7C92",
+  "CardImageWarpData": "金粒",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

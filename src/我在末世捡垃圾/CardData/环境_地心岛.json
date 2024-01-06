@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5730\u5FC3\u5C9B",
-    "LocalizationKey": "",
+    "DefaultText": "地心岛",
+    "LocalizationKey": "T-9pHkmSqP2cytPH4DUBTGVzsg5Do=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5730\u5FC3\u5C9B",
+  "CardImageWarpData": "地心岛",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

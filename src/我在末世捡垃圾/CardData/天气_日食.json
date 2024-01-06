@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u65E5\u98DF",
-    "LocalizationKey": "",
+    "DefaultText": "日食",
+    "LocalizationKey": "T-JF3EaRGuAahnfBfTXDqa+CPAi1U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E07\u7269\u7070\u6697\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "万物灰暗！",
+    "LocalizationKey": "T-akaIKhYjkBzebdOMiJD8CWB8h8I=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u65E5\u98DF",
+  "CardImageWarpData": "日食",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

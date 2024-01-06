@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u5769\u57DA\uFF08\u94C1\u76AE\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "坩埚（铁皮）",
+    "LocalizationKey": "T-IenSmlXRgcJc+mnLGJ8oOp9AOXI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u5E94\u8BE5\u628A\u5B83\u653E\u5230\u7194\u7089\u91CC",
-    "LocalizationKey": "",
+    "DefaultText": "我应该把它放到熔炉里",
+    "LocalizationKey": "T-MMgfjDvSAyu7Z6TmOA9nd643oNw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u70E7\u5236\u7684"
+    "可烧制的"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5769\u57DA\uFF08\u94C1\u76AE\uFF09",
+  "CardImageWarpData": "坩埚（铁皮）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u51FA\u94C1\u76AE",
-        "LocalizationKey": "",
+        "DefaultText": "取出铁皮",
+        "LocalizationKey": "T-5dgkqrNG6XdXA7rX8fCyJpgsH2s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

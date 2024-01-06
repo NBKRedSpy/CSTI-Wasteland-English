@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u810F\u5E03",
-    "LocalizationKey": "",
+    "DefaultText": "脏布",
+    "LocalizationKey": "T-1VrGR1TQU38CVAFhrQ7kyzK8LHM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u770B\u8D77\u6765\u4E0D\u80FD\u76F4\u63A5\u7528\uFF0C\u6211\u8981\u6D17\u5E72\u51C0\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "看起来不能直接用，我要洗干净它",
+    "LocalizationKey": "T-PmRy+fW8YkCVSUB87yM1zUXEOhU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Dressing",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u810F\u5E03",
+  "CardImageWarpData": "脏布",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6E05\u6D17",
-        "LocalizationKey": "",
+        "DefaultText": "清洗",
+        "LocalizationKey": "T-zVZHb1bF4mgo3BSaZWdw0cG5/pI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -313,8 +313,8 @@
       "RequiredGivenContainerTag": [],
       "RequiredGivenDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6C34\u4E0D\u591F",
-          "LocalizationKey": "",
+          "DefaultText": "水不够",
+          "LocalizationKey": "T-T5KyGPYoUBmwFRbM7+wnffBFx5s=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -483,8 +483,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6E05\u6D17",
-        "LocalizationKey": "",
+        "DefaultText": "清洗",
+        "LocalizationKey": "T-zVZHb1bF4mgo3BSaZWdw0cG5/pI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -665,8 +665,8 @@
       "RequiredGivenContainerTag": [],
       "RequiredGivenDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6C34\u4E0D\u591F",
-          "LocalizationKey": "",
+          "DefaultText": "水不够",
+          "LocalizationKey": "T-T5KyGPYoUBmwFRbM7+wnffBFx5s=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -835,8 +835,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6E05\u6D17",
-        "LocalizationKey": "",
+        "DefaultText": "清洗",
+        "LocalizationKey": "T-zVZHb1bF4mgo3BSaZWdw0cG5/pI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1017,8 +1017,8 @@
       "RequiredGivenContainerTag": [],
       "RequiredGivenDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6C34\u4E0D\u591F",
-          "LocalizationKey": "",
+          "DefaultText": "水不够",
+          "LocalizationKey": "T-T5KyGPYoUBmwFRbM7+wnffBFx5s=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,

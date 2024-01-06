@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u901A\u5173",
+  "DefaultStatusIconWarpData": "通关",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u901A\u5173",
-    "LocalizationKey": "",
+    "DefaultText": "通关",
+    "LocalizationKey": "T-+uBwOaXcG2aLR/0IMLbC8NWoJp8=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -95,8 +95,8 @@
       "EffectsOnActions": [],
       "EffectsOnStats": [],
       "GameName": {
-        "DefaultText": "\u901A\u5173",
-        "LocalizationKey": "",
+        "DefaultText": "通关",
+        "LocalizationKey": "T-+uBwOaXcG2aLR/0IMLbC8NWoJp8=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -104,7 +104,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u901A\u5173",
+      "IconWarpData": "通关",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

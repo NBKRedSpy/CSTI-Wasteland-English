@@ -31,8 +31,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u505A\u4E00\u4E2A\u70B8\u836F",
-    "LocalizationKey": "",
+    "DefaultText": "做一个炸药",
+    "LocalizationKey": "T-YoHGgcpRkfpa8nwdg3BQ7dPMk4Y=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

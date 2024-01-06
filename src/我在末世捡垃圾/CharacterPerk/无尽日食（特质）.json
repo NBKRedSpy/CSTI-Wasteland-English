@@ -37,11 +37,11 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u65E5\u98DF",
+  "PerkIconWarpData": "日食",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u65E0\u5C3D\u65E5\u98DF",
-    "LocalizationKey": "",
+    "DefaultText": "无尽日食",
+    "LocalizationKey": "T-ePQ1/JH6YMGz2KsSxHXHU4VuRdc=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

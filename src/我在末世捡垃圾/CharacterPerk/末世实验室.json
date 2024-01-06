@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u4F60\u5C06\u626E\u6F14\u4E00\u4E2A\u82CF\u9192\u5728\u5B9E\u9A8C\u5BA4\u7684\u514B\u9686\u4EBA(\u6709\u95EE\u9898\u591A\u770B\u770B\u8BF4\u660E\uFF0C\u5927\u90E8\u5206\u95EE\u9898\u90FD\u89E3\u91CA\u4E86)",
-    "LocalizationKey": "",
+    "DefaultText": "你将扮演一个苏醒在实验室的克隆人(有问题多看看说明，大部分问题都解释了)",
+    "LocalizationKey": "T-iuJ3Rn89iTLKaolEcUIxqAPZLMs=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u5B9E\u9A8C\u5BA4",
+  "PerkIconWarpData": "实验室",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u672B\u4E16\u5B9E\u9A8C\u5BA4",
-    "LocalizationKey": "",
+    "DefaultText": "末世实验室",
+    "LocalizationKey": "T-SewYo5ezp5HXCHyxNGxewGatC8g=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

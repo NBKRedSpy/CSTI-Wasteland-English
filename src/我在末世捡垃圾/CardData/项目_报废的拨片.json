@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u62A5\u5E9F\u7684\u62E8\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "报废的拨片",
+    "LocalizationKey": "T-qAAf0+L0vjeCBMv1Miw+rrlYX/I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u53EA\u80FD\u91CD\u65B0\u7194\u70BC\u624D\u80FD\u4F7F\u7528\u4E86\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "只能重新熔炼才能使用了。",
+    "LocalizationKey": "T-cOJdkiibHiErsz4C8Ck9JpHOa0Y=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u62E8\u7247",
+  "CardImageWarpData": "拨片",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

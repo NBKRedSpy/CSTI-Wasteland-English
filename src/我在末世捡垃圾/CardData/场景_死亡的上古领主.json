@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6B7B\u4EA1\u7684\u4E0A\u53E4\u9886\u4E3B",
-    "LocalizationKey": "",
+    "DefaultText": "死亡的上古领主",
+    "LocalizationKey": "T-WVRDx76iTnvyNB1vh8kpQWfW8ko=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6B7B\u4EA1\u7684\u4E0A\u53E4\u9886\u4E3B",
+  "CardImageWarpData": "死亡的上古领主",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -171,8 +171,8 @@
   "DismantleActions": [
     {
       "ActionDescription": {
-        "DefaultText": "\u5FEB\u4E50\u8001\u5BB6\uFF0C\u6211\u8FD8\u662F\u7559\u5728\u7740\u8352\u829C\u7684\u5E9F\u571F\u4E16\u754C\u5427\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "快乐老家，我还是留在着荒芜的废土世界吧！",
+        "LocalizationKey": "T-rImTsl94fDRC7krV2BxIV7r1AHU=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7559\u5728\u8FD9\u91CC",
-        "LocalizationKey": "",
+        "DefaultText": "留在这里",
+        "LocalizationKey": "T-4qVRxniXgVCtDsrRNChrxSOzSLg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -388,8 +388,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u6E38\u620F\u7ED3\u675F",
-        "LocalizationKey": "",
+        "DefaultText": "游戏结束",
+        "LocalizationKey": "T-Pl2niK8BCYu37rCigbgCUkSuoEY=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -404,8 +404,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7ED3\u675F",
-        "LocalizationKey": "",
+        "DefaultText": "结束",
+        "LocalizationKey": "T-drmICCngbmoZP3FOHuND2kdGzPQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -596,8 +596,8 @@
         "Victory": true,
         "SpecialEnding": false,
         "VictoryMessage": {
-          "DefaultText": "\u4F60\u6740\u6B7B\u4E86\u4E00\u5207\u7F6A\u6076\u7684\u6839\u6E90\uFF01",
-          "LocalizationKey": "",
+          "DefaultText": "你杀死了一切罪恶的根源！",
+          "LocalizationKey": "T-LW2Uwe33EsZ2H0KlHBIWKWgagLg=",
           "ParentObjectID": ""
         }
       },

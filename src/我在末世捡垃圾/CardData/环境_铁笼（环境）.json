@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u7B3C",
-    "LocalizationKey": "",
+    "DefaultText": "铁笼",
+    "LocalizationKey": "T-7Cr4nffKBtPynmOEEEUK7C4aNQc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9632\u6B62\u9F39\u9F20\u6316\u6D1E\u8DD1\u8D70",
-    "LocalizationKey": "",
+    "DefaultText": "防止鼹鼠挖洞跑走",
+    "LocalizationKey": "T-+J1bOxZJD/5TYDAy6Yf3ymhK700=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u7B3C",
+  "CardImageWarpData": "铁笼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

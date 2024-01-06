@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6297\u8F90\u5C04\u53E3\u7F69",
-    "LocalizationKey": "",
+    "DefaultText": "抗辐射口罩",
+    "LocalizationKey": "T-SSw9JElntwlGuem5FQegBOLlpoQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -580,7 +580,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6297\u8F90\u5C04\u53E3\u7F69",
+  "CardImageWarpData": "抗辐射口罩",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3761,8 +3761,8 @@
   "UniqueID": "08e17c6b4b219b3816e8d466a61b843a",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7C89\u8272\u7C89\u672B",
-    "LocalizationKey": "",
+    "DefaultText": "需要粉色粉末",
+    "LocalizationKey": "T-D6R4bdz44f8Le/ilmXew8Yb82oA=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

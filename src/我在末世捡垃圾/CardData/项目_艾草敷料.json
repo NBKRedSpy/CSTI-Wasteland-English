@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u827E\u8349\u6577\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "艾草敷料",
+    "LocalizationKey": "T-1AM6yA91FHP7BsQ5hI9anXRmpBY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6700\u5B9E\u7528\u7684\uFF01\u65E0\u83CC\u4F24\u53E3\u6577\u6599\uFF0C\u6709\u52A9\u4E8E\u9632\u6B62\u4F24\u53E3\u611F\u67D3\uFF0C\u5E76\u52A0\u5FEB\u4F24\u53E3\u6108\u5408\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "最实用的！无菌伤口敷料，有助于防止伤口感染，并加快伤口愈合。",
+    "LocalizationKey": "T-ue+//x8KVvBrSa7vTmV3q0wJXQE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u827E\u8349\u6577\u6599",
+  "CardImageWarpData": "艾草敷料",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53BB\u9664\u827E\u8349",
-        "LocalizationKey": "",
+        "DefaultText": "去除艾草",
+        "LocalizationKey": "T-axqVkue1EiSQTwy+/P1y5aJCSuQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

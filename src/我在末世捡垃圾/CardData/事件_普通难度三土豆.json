@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u666E\u901A\u96BE\u5EA6\u4E09\u571F\u8C46",
-    "LocalizationKey": "",
+    "DefaultText": "普通难度三土豆",
+    "LocalizationKey": "T-b5MxKAygCiv59bMnR3n72HtktIM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u666E\u666E\u901A\u901A",
-    "LocalizationKey": "",
+    "DefaultText": "普普通通",
+    "LocalizationKey": "T-5YXuueFQs3ng6VkxFfNhDLXhBwk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u5355\u96BE\u5EA6\u4E09\u571F\u8C46",
+  "CardImageWarpData": "简单难度三土豆",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5925,7 +5925,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u571F\u8C46"
+    "土豆"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

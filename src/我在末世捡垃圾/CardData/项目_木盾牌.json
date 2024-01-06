@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u76FE\u724C",
-    "LocalizationKey": "",
+    "DefaultText": "木盾牌",
+    "LocalizationKey": "T-/BdnWnHDCuV+joKGvBofoGU1/5w=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7B80\u5355\u5374\u8DB3\u591F\u6709\u6548",
-    "LocalizationKey": "",
+    "DefaultText": "简单却足够有效",
+    "LocalizationKey": "T-BdRi5cnWQyXDWsQVkRQG/5eiHyk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u9632\u5177",
+    "防具",
     "tag_Hammer",
     "tag_Heavy",
     "tag_Pretty"
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u76FE\u724C",
+  "CardImageWarpData": "木盾牌",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3539,8 +3539,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u6728\u76FE\u724C\u7528\u5B8C\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "木盾牌用完了！",
+        "LocalizationKey": "T-VKUuhV+lvu05fB8FVAv17xuQ8QY=",
         "ParentObjectID": ""
       },
       "ActionLog": {

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7075\u9B42\u7403",
-    "LocalizationKey": "",
+    "DefaultText": "灵魂球",
+    "LocalizationKey": "T-ScfT4WCfFkzVWD6nHEgomNdhnpU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5BC6\u5C01\u7684\u73BB\u7483\u5BB9\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "密封的玻璃容器",
+    "LocalizationKey": "T-k/X4VNowHrKTDPFjbQ6EW8u4Ivs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7075\u9B42\u7403",
+  "CardImageWarpData": "灵魂球",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -134,8 +134,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6572\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "敲碎",
+        "LocalizationKey": "T-PVNhuDjh7usj8LOkOZJrUsSnR6U=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -546,8 +546,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u810F\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "收集脏水",
+        "LocalizationKey": "T-y6ggPr5kNXfRufkl76RCI0SDF90=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -857,8 +857,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u96E8\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "收集雨水",
+        "LocalizationKey": "T-nDUbi05OYBCSine8w8e/Ul0Pwkc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

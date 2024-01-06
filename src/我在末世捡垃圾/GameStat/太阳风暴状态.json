@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u592A\u9633\u98CE\u66B4\u72B6\u6001",
+  "DefaultStatusIconWarpData": "太阳风暴状态",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u592A\u9633\u98CE\u66B4\u72B6\u6001",
-    "LocalizationKey": "",
+    "DefaultText": "太阳风暴状态",
+    "LocalizationKey": "T-TJ3QXXOMX+DjbEJTxWrKEhalVKk=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

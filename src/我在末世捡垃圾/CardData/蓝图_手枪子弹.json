@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u624B\u67AA\u5B50\u5F39",
-    "LocalizationKey": "",
+    "DefaultText": "手枪子弹",
+    "LocalizationKey": "T-yevwkzPmc5ElAV7ZRvJuUWeayIs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u624B\u67AA\u5B50\u5F39",
+  "CardImageWarpData": "手枪子弹",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "bcb11af7621157a659b7677e106793da",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u624B\u67AA\u5B50\u5F39\u5F39\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "需要手枪子弹弹头",
+    "LocalizationKey": "T-guzHditFHueQJA8Ls7BcrBPy/v8=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

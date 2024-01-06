@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5769\u57DA",
-    "LocalizationKey": "",
+    "DefaultText": "坩埚",
+    "LocalizationKey": "T-c9V5EL/Osq6WfqBwcMMFn0bS//Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u5E76\u4E0D\u80FD\u7528\u6765\u71AC\u836F",
-    "LocalizationKey": "",
+    "DefaultText": "它并不能用来熬药",
+    "LocalizationKey": "T-Ktxk+gmlGXEwzp8aCPwHjqDmNYk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -15,7 +15,7 @@
     "tag_ContainerOpen",
     "tag_ContainerBowl",
     "tag_Spillable",
-    "\u53EF\u70E7\u5236\u7684"
+    "可烧制的"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5769\u57DA",
+  "CardImageWarpData": "坩埚",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -135,8 +135,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "放入",
+        "LocalizationKey": "T-00E3A0dgWRu7IasDZ09aT/Wn10Y=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -547,8 +547,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u810F\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "收集脏水",
+        "LocalizationKey": "T-y6ggPr5kNXfRufkl76RCI0SDF90=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -858,8 +858,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u96E8\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "收集雨水",
+        "LocalizationKey": "T-nDUbi05OYBCSine8w8e/Ul0Pwkc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

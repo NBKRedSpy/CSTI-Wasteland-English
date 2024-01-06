@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5408\u6210\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "合成金币",
+    "LocalizationKey": "T-O+qvXqbbvbpWbMRoP0P3vKNNJLQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u91D1\u5E01",
+  "CardImageWarpData": "金币",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "5ae1f752406200c4030987bb22f42efd",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u7B80\u5355\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机简单难度",
+    "LocalizationKey": "T-OV2rsa7TYmJmc1DlMSq4Qzijhno=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

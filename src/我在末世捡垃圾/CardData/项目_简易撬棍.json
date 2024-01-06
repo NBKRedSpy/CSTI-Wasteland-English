@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u64AC\u68CD",
-    "LocalizationKey": "",
+    "DefaultText": "简易撬棍",
+    "LocalizationKey": "T-7r4nlW7hlLuSVkyEE1j7EAw2HkQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u65E2\u80FD\u6253\u67B6,\u4E5F\u80FD\u64AC\u7BB1\u5B50\uFF0C\u5B9E\u5728\u662F\u6740\u4EBA\u8D8A\u8D27\u7684\u5FC5\u5907\u826F\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "既能打架,也能撬箱子，实在是杀人越货的必备良器",
+    "LocalizationKey": "T-RJsl2OBiHG/3EepM1AOU2aywWu0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u64AC\u68CD",
+  "CardImageWarpData": "简易撬棍",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3818,7 +3818,7 @@
   ],
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ],
   "ItemCardDataCardTabGpGroup": [
     "GpTag_Hammer"

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u827E\u8349\u82B1\u73AF",
-    "LocalizationKey": "",
+    "DefaultText": "艾草花环",
+    "LocalizationKey": "T-ABoS4c1ztEh7vQjYoDzZUW4VchM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -370,7 +370,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u827E\u8349\u82B1\u73AF",
+  "CardImageWarpData": "艾草花环",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3551,8 +3551,8 @@
   "UniqueID": "fd3399bae2ce8f487c926f7c40191ccf",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u827E\u8349",
-    "LocalizationKey": "",
+    "DefaultText": "需要艾草",
+    "LocalizationKey": "T-1oofZXEElLuF+QFslWbwZL/Pn7s=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

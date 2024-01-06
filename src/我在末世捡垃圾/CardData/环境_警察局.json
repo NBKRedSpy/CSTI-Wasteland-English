@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8B66\u5BDF\u5C40",
-    "LocalizationKey": "",
+    "DefaultText": "警察局",
+    "LocalizationKey": "T-90kq8UPbkartVunOmhTnbFRVXqU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8B66\u5BDF\u5C40",
+  "CardImageWarpData": "警察局",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

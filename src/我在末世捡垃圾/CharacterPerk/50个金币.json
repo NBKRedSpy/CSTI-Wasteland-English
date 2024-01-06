@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u7ED9\u8BD5\u70BC\u573A\u4E13\u95E8\u51C6\u5907\u7684\u7279\u8D28",
-    "LocalizationKey": "",
+    "DefaultText": "给试炼场专门准备的特质",
+    "LocalizationKey": "T-6SA/UoVDJLZQboXAUIZjAE0ZvM0=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u91D1\u5E01",
+  "PerkIconWarpData": "金币",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "50\u4E2A\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "50个金币",
+    "LocalizationKey": "T-U6Ef9C7OAwlDTvc79UgDtZH8dAQ=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

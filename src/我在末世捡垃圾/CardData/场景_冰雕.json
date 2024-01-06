@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u51B0\u96D5",
-    "LocalizationKey": "",
+    "DefaultText": "冰雕",
+    "LocalizationKey": "T-XuInt7kAeAxN9nHhxPZMrh1btA4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u51B0\u827A\u672F\u54C1\uFF0C\u80FD\u591F\u7528\u51B0\u5757\u6765\u4FEE\u590D",
-    "LocalizationKey": "",
+    "DefaultText": "冰艺术品，能够用冰块来修复",
+    "LocalizationKey": "T-igts0Bdkotm6IV3n6K1xsw7vyxo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51B0\u96D5",
+  "CardImageWarpData": "冰雕",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4FEE\u590D",
-        "LocalizationKey": "",
+        "DefaultText": "修复",
+        "LocalizationKey": "T-WQJTr0jMwjxIfGj+MO7AMZ0zO1k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

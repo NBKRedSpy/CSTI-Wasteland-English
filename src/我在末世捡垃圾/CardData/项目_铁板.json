@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u677F",
-    "LocalizationKey": "",
+    "DefaultText": "铁板",
+    "LocalizationKey": "T-PMrbnwgeu8nJYtWAaI90bvB/jjs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F88\u6709\u7528\u7684\u672B\u65E5\u6750\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "很有用的末日材料",
+    "LocalizationKey": "T-Q5XRZORYpa+cW/7dFhTI8X0MhOs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u677F",
+  "CardImageWarpData": "铁板",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

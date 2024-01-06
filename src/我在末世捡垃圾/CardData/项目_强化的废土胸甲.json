@@ -1,19 +1,19 @@
 {
   "CardName": {
-    "DefaultText": "\u5F3A\u5316\u7684\u5E9F\u571F\u80F8\u7532",
-    "LocalizationKey": "",
+    "DefaultText": "强化的废土胸甲",
+    "LocalizationKey": "T-IqwdsCExz8Z6zHtZ3k3Mht1Wp6c=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F3A\u5316\u540E\u7684\u9632\u5177\u66F4\u52A0\u7A33\u56FA",
-    "LocalizationKey": "",
+    "DefaultText": "强化后的防具更加稳固",
+    "LocalizationKey": "T-Q6NN1BBUcqxoSKO0DO2I8AyT6bg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Ears",
     "tag_InnerLegs",
-    "\u9632\u5177"
+    "防具"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5F3A\u5316\u7684\u5E9F\u571F\u80F8\u7532",
+  "CardImageWarpData": "强化的废土胸甲",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u94C1\u6C34\u4FEE\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "铁水修补",
+        "LocalizationKey": "T-G40LQL1dxWU4ZS20wkP6Rbyq50I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

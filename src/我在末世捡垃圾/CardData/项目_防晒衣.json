@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9632\u6652\u8863",
-    "LocalizationKey": "",
+    "DefaultText": "防晒衣",
+    "LocalizationKey": "T-NYQycEh0uMqzChFSanq8MQaOVhA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4EF6\u86DB\u4E1D\u548C\u86C7\u76AE\u505A\u6210\u7684\u9632\u55EE\u8863\uFF0C\u53EF\u4EE5\u5E2E\u6211\u5F88\u597D\u7684\u963B\u6321\u9633\u5149\u3002\u003Cb\u003E\u5FC5\u987B\u88C5\u5907\u5728\u88C5\u5907\u680F\u624D\u80FD\u751F\u6548\u003C/b\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "一件蛛丝和蛇皮做成的防嗮衣，可以帮我很好的阻挡阳光。<b>必须装备在装备栏才能生效</b>",
+    "LocalizationKey": "T-n8m1X1LFPJXnh54KKJLkH2kpC4k=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9632\u6652\u8863",
+  "CardImageWarpData": "防晒衣",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F1D\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "缝补",
+        "LocalizationKey": "T-aDH+nnisXWjpHOdPFi/L5gDAWFg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -544,8 +544,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u89E3",
-        "LocalizationKey": "",
+        "DefaultText": "拆解",
+        "LocalizationKey": "T-GDPFm/RajRVzs5OJeCACAa0Ba84=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

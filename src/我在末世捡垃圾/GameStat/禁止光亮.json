@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u7981\u6B62\u5149\u4EAE",
+  "DefaultStatusIconWarpData": "禁止光亮",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u7981\u6B62\u5149\u4EAE",
-    "LocalizationKey": "",
+    "DefaultText": "禁止光亮",
+    "LocalizationKey": "T-Fh6aQrwcP3bngqMlWb8AU3+CPW4=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

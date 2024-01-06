@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8BF4\u660E",
-    "LocalizationKey": "",
+    "DefaultText": "说明",
+    "LocalizationKey": "T-JmcN2kIfXFmvrvOnHNpN+TpsF80=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8BE5Mod\u8BF4\u660E\u53EF\u5728\u4E3B\u63A7\u7535\u8111\u5361\u770B\uFF0C\u8BE6\u7EC6\u8BF4\u660E\u70B9\u51FB\u4E3B\u63A7\u7535\u8111\u53F3\u4E0A\u89D2\u7684\u95EE\u53F7\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "该Mod说明可在主控电脑卡看，详细说明点击主控电脑右上角的问号！",
+    "LocalizationKey": "T-ceFpAB4ebwzT8RG4KFKmvHHLJiU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E3B\u63A7\u7535\u8111",
+  "CardImageWarpData": "主控电脑",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

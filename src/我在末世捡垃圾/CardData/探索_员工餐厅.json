@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5458\u5DE5\u9910\u5385",
-    "LocalizationKey": "",
+    "DefaultText": "员工餐厅",
+    "LocalizationKey": "T-f0d6hC38npqzPYKfRWxVMgfmXY0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5458\u5DE5\u9910\u5385",
+  "CardImageWarpData": "员工餐厅",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u63A2\u7D22",
-        "LocalizationKey": "",
+        "DefaultText": "探索",
+        "LocalizationKey": "T-KRhjOsgRtvfjRiwhnw2VhbEq6+M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1529,7 +1529,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_0",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-LDEeDiuz73jNBkGE8hzR40LIfkc=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],
@@ -1819,7 +1819,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_1",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-nwJFHcfLimG7oy8Mf+99/Ko4Vbs=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],
@@ -2109,7 +2109,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_2",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-R0DpOuTk947xG+vxRHRveXotJzo=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],

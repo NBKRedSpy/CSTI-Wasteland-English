@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u67F3\u6849\u6811",
-    "LocalizationKey": "",
+    "DefaultText": "柳桉树",
+    "LocalizationKey": "T-XI+9nKrKA4Aqizwq+OWVlSgiu8k=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u67F3\u6849\u6811",
+  "CardImageWarpData": "柳桉树",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u780D\u4F10",
-        "LocalizationKey": "",
+        "DefaultText": "砍伐",
+        "LocalizationKey": "T-R5f9+Ml8rknbEY6gSYyhoGgthj8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -482,8 +482,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u780D\u4F10",
-        "LocalizationKey": "",
+        "DefaultText": "砍伐",
+        "LocalizationKey": "T-R5f9+Ml8rknbEY6gSYyhoGgthj8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

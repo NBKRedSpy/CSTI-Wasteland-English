@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u68EE\u6797\u795E\u5E99\u63A2\u7D22\u5B8C\u6BD5",
-    "LocalizationKey": "",
+    "DefaultText": "森林神庙探索完毕",
+    "LocalizationKey": "T-fu5rWHWvT80bi6P44OehRqsNoLc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u89C9\u5F97\u5DF2\u7ECF\u627E\u5230\u68EE\u6797\u795E\u5E99\u6240\u6709\u53EF\u63A2\u7D22\u7684\u5730\u70B9\u4E86\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "我觉得已经找到森林神庙所有可探索的地点了。",
+    "LocalizationKey": "T-vrirbKCRv98Y+m+Q930olECcV40=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u68EE\u6797\u795E\u5E99",
+  "CardImageWarpData": "森林神庙",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

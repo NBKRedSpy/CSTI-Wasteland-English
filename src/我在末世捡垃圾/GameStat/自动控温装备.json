@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u81EA\u52A8\u63A7\u6E29\u88C5\u5907",
+  "DefaultStatusIconWarpData": "自动控温装备",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u81EA\u52A8\u63A7\u6E29\u88C5\u5907",
-    "LocalizationKey": "",
+    "DefaultText": "自动控温装备",
+    "LocalizationKey": "T-Vg60SE0j4BRlrILe5lHvP3V3wVA=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

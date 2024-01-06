@@ -1,7 +1,7 @@
 {
   "PageTitle": {
-    "DefaultText": "\u5E9F\u571F\u88C5\u5907",
-    "LocalizationKey": "",
+    "DefaultText": "废土装备",
+    "LocalizationKey": "T-X+habdewXWF+HcJANbXLVtPBYlY=",
     "ParentObjectID": ""
   },
   "RightButton": {
@@ -150,7 +150,7 @@
   ],
   "GlobalPageLinks": [],
   "LeftButtonWarpType": 3,
-  "LeftButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C3\u9875",
+  "LeftButtonWarpData": "变种人克里斯第3页",
   "RightButtonWarpType": 3,
-  "RightButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C5\u9875"
+  "RightButtonWarpData": "变种人克里斯第5页"
 }

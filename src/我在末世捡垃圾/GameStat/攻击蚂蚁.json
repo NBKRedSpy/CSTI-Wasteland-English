@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u653B\u51FB\u8682\u8681",
+  "DefaultStatusIconWarpData": "攻击蚂蚁",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u653B\u51FB\u8682\u8681",
-    "LocalizationKey": "",
+    "DefaultText": "攻击蚂蚁",
+    "LocalizationKey": "T-w7bwtdILCOsBQUaH+klIQ/19VdY=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -115,8 +115,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u653B\u51FB\u8682\u8681\u7684\u7B2C1\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "攻击蚂蚁的第1阶段",
+        "LocalizationKey": "T-TtodQBbSEPFoeh36SnydX+MvtNA=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -124,7 +124,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u653B\u51FB\u8682\u8681",
+      "IconWarpData": "攻击蚂蚁",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

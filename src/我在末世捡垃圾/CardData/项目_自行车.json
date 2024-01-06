@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u81EA\u884C\u8F66",
-    "LocalizationKey": "",
+    "DefaultText": "自行车",
+    "LocalizationKey": "T-yuYscmWOOvVD64auC3JDU11smL8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u81EA\u884C\u8F66",
+  "CardImageWarpData": "自行车",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

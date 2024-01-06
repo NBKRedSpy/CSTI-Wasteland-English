@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u810F\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "脏水",
+    "LocalizationKey": "T-VM2qU21oFw0Q3iNPTcFOZV4ZCp8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u4E48\u6D51\u6D4A\uFF0C\u80FD\u559D\u5417\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "这么浑浊，能喝吗。",
+    "LocalizationKey": "T-IhZ4L3a8R4LNPtw1O2tqDzM/OfQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u810F\u6C34",
+  "CardImageWarpData": "脏水",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u51C0\u5316",
-        "LocalizationKey": "",
+        "DefaultText": "净化",
+        "LocalizationKey": "T-SZ7j77pzXuuHrdyqXEoQvI8bXH0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -496,8 +496,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DF7\u5408",
-        "LocalizationKey": "",
+        "DefaultText": "混合",
+        "LocalizationKey": "T-pKBuCGLhCNTpsZ2n70/fyo4DONY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -903,8 +903,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u996E\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "饮用",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1275,8 +1275,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D17\u4E2A\u6FA1",
-        "LocalizationKey": "",
+        "DefaultText": "洗个澡",
+        "LocalizationKey": "T-XHayfKwch1ne2InFQT3Fnu8/iL4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2386,7 +2386,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u8F90\u5C04\u96E8",
+      "EffectName": "辐射雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2499,7 +2499,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u655E\u53E3",
+      "EffectName": "敞口",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2612,7 +2612,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u84C4\u6C34\u6C60",
+      "EffectName": "蓄水池",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2740,7 +2740,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2868,7 +2868,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2996,7 +2996,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

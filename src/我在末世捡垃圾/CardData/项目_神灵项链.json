@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u795E\u7075\u9879\u94FE",
-    "LocalizationKey": "",
+    "DefaultText": "神灵项链",
+    "LocalizationKey": "T-gh4zKBno77A8j48TfE3J2/pLk5E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u6563\u53D1\u7740\u65E0\u5C3D\u7684\u795D\u798F",
-    "LocalizationKey": "",
+    "DefaultText": "它散发着无尽的祝福",
+    "LocalizationKey": "T-lHD7+PNGSI1DH7nAEC7fv6cnxkw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u795E\u7075\u9879\u94FE",
+  "CardImageWarpData": "神灵项链",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

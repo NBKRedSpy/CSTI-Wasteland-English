@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7EB8\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "纸片",
+    "LocalizationKey": "T-X9sDT7GT5AMrOuvNnue4OO8HXCU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7B49\u91CF\u4EE3\u6362\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "等量代换！",
+    "LocalizationKey": "T-PC0iylAPdSA57VuEqqFzZ1W+2xc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7EB8\u7247",
+  "CardImageWarpData": "纸片",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "eb8d3c9ed50b887d9b0854e224021683",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6811\u76AE",
-    "LocalizationKey": "",
+    "DefaultText": "需要树皮",
+    "LocalizationKey": "T-QZ3AZr7uTbFmwQOlLTpaZkRZ+bo=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

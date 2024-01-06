@@ -34,11 +34,11 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "TabIconWarpData": "\u6361\u5783\u573E\u5236\u9020\u680F",
+  "TabIconWarpData": "捡垃圾制造栏",
   "TabIconWarpType": 3,
   "TabName": {
-    "DefaultText": "\u672B\u4E16",
-    "LocalizationKey": "",
+    "DefaultText": "末世",
+    "LocalizationKey": "T-QLeAcXsPWhLgiHkvlyn2m8K4Xyg=",
     "ParentObjectID": ""
   }
 }

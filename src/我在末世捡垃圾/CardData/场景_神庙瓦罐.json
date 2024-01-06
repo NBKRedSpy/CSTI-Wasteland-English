@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u795E\u5E99\u74E6\u7F50",
-    "LocalizationKey": "",
+    "DefaultText": "神庙瓦罐",
+    "LocalizationKey": "T-fYRsHDFajJSmY1tknaLLxFkrle0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u53E4\u8001\u7684\u74E6\u7F50\u91CC\u88C5\u7740\u4EC0\u4E48?",
-    "LocalizationKey": "",
+    "DefaultText": "古老的瓦罐里装着什么?",
+    "LocalizationKey": "T-4fp/FziGaDk2t/NzZElSpMmAvaw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u795E\u5E99\u74E6\u7F50",
+  "CardImageWarpData": "神庙瓦罐",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6572\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "敲开",
+        "LocalizationKey": "T-gum5HxLu8PGqzx9thMWjsg+jzvk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -145,7 +145,7 @@
         "TriggerTags": [],
         "TriggerTagsWarpData": [
           "tag_Hammer",
-          "\u64AC\u68CD"
+          "撬棍"
         ],
         "TriggerTagsWarpType": 3
       },

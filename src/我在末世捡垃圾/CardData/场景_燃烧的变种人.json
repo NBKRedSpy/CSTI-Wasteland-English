@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u71C3\u70E7\u7684\u53D8\u79CD\u4EBA",
-    "LocalizationKey": "",
+    "DefaultText": "燃烧的变种人",
+    "LocalizationKey": "T-48yaCz/QNCWH8F8BlW/IhxnbnjY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u8981\u62FF\u6C34\u6CFC\u5B83\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "我要拿水泼它！",
+    "LocalizationKey": "T-IyG4JP5eWCdB19TlB/VAA8qs7Yk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u71C3\u70E7\u7684\u53D8\u79CD\u4EBA",
+  "CardImageWarpData": "燃烧的变种人",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6CFC\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "泼水",
+        "LocalizationKey": "T-hwJGjt27mEK2JS7/tC//qeFG2P0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1118,7 +1118,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u98DE\u5954",
+      "EffectName": "飞奔",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1227,7 +1227,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u98DE\u5954",
+      "EffectName": "飞奔",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1336,7 +1336,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u98DE\u5954",
+      "EffectName": "飞奔",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

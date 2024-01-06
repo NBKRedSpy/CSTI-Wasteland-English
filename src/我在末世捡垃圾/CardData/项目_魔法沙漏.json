@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9B54\u6CD5\u6C99\u6F0F",
-    "LocalizationKey": "",
+    "DefaultText": "魔法沙漏",
+    "LocalizationKey": "T-Cw0gJbctY1XuUVF8CjXg1JrIEuE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F3A\u5236\u8DF3\u8FC7\u5F53\u5929\u7684\u5929\u6C14,\u9700\u8981\u4E94\u5929\u6765\u6062\u590D\u5145\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "强制跳过当天的天气,需要五天来恢复充能",
+    "LocalizationKey": "T-GfvbcKqyvfSk8Eh67BZchb/vLiw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9B54\u6CD5\u6C99\u6F0F",
+  "CardImageWarpData": "魔法沙漏",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8DF3\u8FC7",
-        "LocalizationKey": "",
+        "DefaultText": "跳过",
+        "LocalizationKey": "T-MamFk/FtSCZmAnm/atmAQ1fX77I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -382,8 +382,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5145\u80FD\u4E0D\u591F",
-          "LocalizationKey": "",
+          "DefaultText": "充能不够",
+          "LocalizationKey": "T-AtWi1ptAWKEX1gRVaZ1Fx78NIdI=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,

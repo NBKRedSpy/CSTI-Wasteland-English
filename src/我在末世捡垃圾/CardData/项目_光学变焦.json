@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5149\u5B66\u53D8\u7126",
-    "LocalizationKey": "",
+    "DefaultText": "光学变焦",
+    "LocalizationKey": "T-5BMFYR6zv8/yOVKX4qpkpK2uQ5Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F88\u663E\u7136\u6211\u4E0D\u80FD\u62FF\u5B83\u6765\u62CD\u7167\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "很显然我不能拿它来拍照了",
+    "LocalizationKey": "T-KDbceCzlU5yx6ciZEKhkMqH1JzA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5149\u5B66\u53D8\u7126",
+  "CardImageWarpData": "光学变焦",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

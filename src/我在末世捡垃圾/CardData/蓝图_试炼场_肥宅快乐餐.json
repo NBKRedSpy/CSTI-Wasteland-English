@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u80A5\u5B85\u5FEB\u4E50\u9910",
-    "LocalizationKey": "",
+    "DefaultText": "肥宅快乐餐",
+    "LocalizationKey": "T-2kW9zCHWnuNJuTmRGcHj597aYDM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u80A5\u5B85\u5FEB\u4E50\u9910",
+  "CardImageWarpData": "肥宅快乐餐",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "870496475ce8e4fff1efe6492a5b21b9",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

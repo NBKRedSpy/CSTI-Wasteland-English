@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u84DD\u6708",
-    "LocalizationKey": "",
+    "DefaultText": "蓝月",
+    "LocalizationKey": "T-ib3gND1LSbAgrCU7htfXSxo04sU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u795E\u79D8\u7684\u84DD\u6708\u5347\u8D77\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "神秘的蓝月升起！",
+    "LocalizationKey": "T-JEfYX5vR2q3Fwkmoj0fLqNuREGE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u84DD\u6708",
+  "CardImageWarpData": "蓝月",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

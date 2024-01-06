@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9AA8\u7259\u9879\u94FE",
-    "LocalizationKey": "",
+    "DefaultText": "骨牙项链",
+    "LocalizationKey": "T-ax2l7UXC1yTFAKw+kH37vTb6xG4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u5C55\u793A\u7740\u4F69\u6234\u8005\u7684\u52C7\u731B",
-    "LocalizationKey": "",
+    "DefaultText": "它展示着佩戴者的勇猛",
+    "LocalizationKey": "T-RPn1zuxLCacymFTuCB9RDNJiSOQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9AA8\u7259\u9879\u94FE",
+  "CardImageWarpData": "骨牙项链",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u89E3",
-        "LocalizationKey": "",
+        "DefaultText": "拆解",
+        "LocalizationKey": "T-GDPFm/RajRVzs5OJeCACAa0Ba84=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

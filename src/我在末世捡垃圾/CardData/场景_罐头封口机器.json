@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7F50\u5934\u5C01\u53E3\u673A\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "罐头封口机器",
+    "LocalizationKey": "T-XCjfUPZAsszu6uLhdlBIfVB1PGM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6CA1\u6709\u5B83\u6211\u7684\u7F50\u5934\u53EA\u80FD\u70C2\u6389\n\u003Cb\u003E\u003Ci\u003E\u4FEE\u7406\u9700\u8981\u96F6\u4EF6\u5728\u624B\u4E2D\u518D\u7528\u5DE5\u5177\u4FEE\u7406\u3002\u003C/i\u003E\u003C/b\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "没有它我的罐头只能烂掉\n<b><i>修理需要零件在手中再用工具修理。</i></b>",
+    "LocalizationKey": "T-DDkO8RjuaL4P6k4kwNIFcVnKItU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7F50\u5934\u5C01\u53E3\u673A\u5668",
+  "CardImageWarpData": "罐头封口机器",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EF4\u4FEE",
-        "LocalizationKey": "",
+        "DefaultText": "维修",
+        "LocalizationKey": "T-K4Oky5yliMskRk3wedp+xsdQ5H8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -180,7 +180,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u5C0F\u96F6\u4EF6"
+            "小零件"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 4,
@@ -471,8 +471,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u4E0D\u9700\u8981\u7EF4\u4FEE",
-          "LocalizationKey": "",
+          "DefaultText": "不需要维修",
+          "LocalizationKey": "T-aqw0HmXxvNmL6XVRZj0VMx5xo7U=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -545,7 +545,7 @@
             "m_FileID": 0,
             "m_PathID": 0
           },
-          "TriggerTagWarpData": "\u5C0F\u96F6\u4EF6"
+          "TriggerTagWarpData": "小零件"
         }
       ],
       "ResetWhenDone": {
@@ -588,8 +588,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F50\u5934\u5C01\u9876",
-        "LocalizationKey": "",
+        "DefaultText": "罐头封顶",
+        "LocalizationKey": "T-Fnz51c53I+wu6CHHTlFvnZIzcuY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -835,8 +835,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u9700\u8981\u7EF4\u4FEE",
-          "LocalizationKey": "",
+          "DefaultText": "需要维修",
+          "LocalizationKey": "T-+2jJi8Whcf2YXlcohD3xevuYjg0=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -939,8 +939,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F50\u5934\u5C01\u9876",
-        "LocalizationKey": "",
+        "DefaultText": "罐头封顶",
+        "LocalizationKey": "T-Fnz51c53I+wu6CHHTlFvnZIzcuY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1186,8 +1186,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u9700\u8981\u7EF4\u4FEE",
-          "LocalizationKey": "",
+          "DefaultText": "需要维修",
+          "LocalizationKey": "T-+2jJi8Whcf2YXlcohD3xevuYjg0=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1290,8 +1290,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F50\u5934\u5C01\u9876",
-        "LocalizationKey": "",
+        "DefaultText": "罐头封顶",
+        "LocalizationKey": "T-Fnz51c53I+wu6CHHTlFvnZIzcuY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1537,8 +1537,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u9700\u8981\u7EF4\u4FEE",
-          "LocalizationKey": "",
+          "DefaultText": "需要维修",
+          "LocalizationKey": "T-+2jJi8Whcf2YXlcohD3xevuYjg0=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1700,8 +1700,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4FEE\u7406",
-        "LocalizationKey": "",
+        "DefaultText": "修理",
+        "LocalizationKey": "T-5jxoK+mhK5np+Rv8jydQ1Z05+GU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1732,7 +1732,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u5C0F\u96F6\u4EF6"
+            "小零件"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 4,
@@ -2009,8 +2009,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u4E0D\u9700\u8981\u7EF4\u4FEE",
-          "LocalizationKey": "",
+          "DefaultText": "不需要维修",
+          "LocalizationKey": "T-aqw0HmXxvNmL6XVRZj0VMx5xo7U=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -2083,7 +2083,7 @@
             "m_FileID": 0,
             "m_PathID": 0
           },
-          "TriggerTagWarpData": "\u5C0F\u96F6\u4EF6"
+          "TriggerTagWarpData": "小零件"
         }
       ],
       "ResetWhenDone": {
@@ -2126,8 +2126,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u642C\u8D70",
-        "LocalizationKey": "",
+        "DefaultText": "搬走",
+        "LocalizationKey": "T-DOpL2mBkHjmaeRi18Z0PdBDux68=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

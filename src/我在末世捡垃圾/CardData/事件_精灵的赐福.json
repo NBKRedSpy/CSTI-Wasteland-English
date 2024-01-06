@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7CBE\u7075\u7684\u8D50\u798F",
-    "LocalizationKey": "",
+    "DefaultText": "精灵的赐福",
+    "LocalizationKey": "T-MXX7wqLKJ2joJpY1FHImRKwnKNA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u795E\u79D8\u7684\u5C0F\u7CBE\u7075\u7ED9\u4F60\u51C6\u5907\u4E86\u793C\u7269\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "神秘的小精灵给你准备了礼物。",
+    "LocalizationKey": "T-vq8lKjPZq1OgrHcA3I0wiBbsfB4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7CBE\u7075\u7684\u8D50\u798F",
+  "CardImageWarpData": "精灵的赐福",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4361,7 +4361,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u7CBE\u7075\u7684\u8D50\u798F"
+    "精灵的赐福"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

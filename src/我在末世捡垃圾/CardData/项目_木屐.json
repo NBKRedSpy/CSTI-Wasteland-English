@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u5C50",
-    "LocalizationKey": "",
+    "DefaultText": "木屐",
+    "LocalizationKey": "T-V6TL4K0ZPaLKYkxLL9Ae4hrKbO4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E0D\u662F\u6700\u8212\u670D\u7684\uFF0C\u4F46\u80FD\u4FDD\u62A4\u6211\u53EF\u601C\u7684\u811A\u3002\n\n\u003Cb\u003E\u5FC5\u987B\u88C5\u5907\u5728\u88C5\u5907\u680F\u624D\u80FD\u751F\u6548\u003C/b\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "不是最舒服的，但能保护我可怜的脚。\n\n<b>必须装备在装备栏才能生效</b>",
+    "LocalizationKey": "T-UFD1qcmwYv5hJmPbxTDcXrH14QU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u5C50",
+  "CardImageWarpData": "木屐",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

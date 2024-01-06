@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u591C\u89C6\u4EEA",
-    "LocalizationKey": "",
+    "DefaultText": "夜视仪",
+    "LocalizationKey": "T-wweWUa33I/eCjs5rrr5BpmN5M5M=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u73B0\u5728\u6211\u53EF\u4EE5\u770B\u6E05\u9ED1\u591C\u4E86(\u7528\u6676\u6838\u8865\u5145\u71C3\u6599)",
-    "LocalizationKey": "",
+    "DefaultText": "现在我可以看清黑夜了(用晶核补充燃料)",
+    "LocalizationKey": "T-Auu03xrtW/znPxeHU/RKexqXhig=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u591C\u89C6\u4EEA",
+  "CardImageWarpData": "夜视仪",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5145\u80FD",
-        "LocalizationKey": "",
+        "DefaultText": "充能",
+        "LocalizationKey": "T-QM6JPRsGD7PiyGbXRbeM+OYf9Io=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -541,8 +541,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6253\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "打开",
+        "LocalizationKey": "T-ZfyB4WEZi8Zws8gGLIUZraaWRr0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

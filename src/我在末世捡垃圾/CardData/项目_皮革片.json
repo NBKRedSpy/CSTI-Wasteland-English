@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u76AE\u9769\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "皮革片",
+    "LocalizationKey": "T-CoH4J0myvTq2dhyrRN0NJ9tBOQk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u76AE\u9769\u7247",
+  "CardImageWarpData": "皮革片",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

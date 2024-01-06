@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u5355\u96BE\u5EA6\u4E09\u9AB7\u9AC5",
-    "LocalizationKey": "",
+    "DefaultText": "简单难度三骷髅",
+    "LocalizationKey": "T-Dwv9/mHreFoasgpz7VTY94wFltg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F60\u592A\u975E\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "你太非了",
+    "LocalizationKey": "T-QZeHB0NWHVqzEDVrxGij+ntDnSA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u5355\u96BE\u5EA6\u4E09\u9AB7\u9AC5",
+  "CardImageWarpData": "简单难度三骷髅",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5792,7 +5792,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u4E09\u9AB7\u9AC5"
+    "三骷髅"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

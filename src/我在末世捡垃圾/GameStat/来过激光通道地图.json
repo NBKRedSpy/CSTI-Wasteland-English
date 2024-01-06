@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6765\u8FC7\u6FC0\u5149\u901A\u9053\u5730\u56FE",
+  "DefaultStatusIconWarpData": "来过激光通道地图",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6765\u8FC7\u6FC0\u5149\u901A\u9053\u5730\u56FE",
-    "LocalizationKey": "",
+    "DefaultText": "来过激光通道地图",
+    "LocalizationKey": "T-LG87pGxdEvodfQYgbTaezx+tzTw=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

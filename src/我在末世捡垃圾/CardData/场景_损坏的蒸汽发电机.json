@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u635F\u574F\u7684\u84B8\u6C7D\u53D1\u7535\u673A",
-    "LocalizationKey": "",
+    "DefaultText": "损坏的蒸汽发电机",
+    "LocalizationKey": "T-uj8fG8Ph6AxUaGgxE68sJb7rAUY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u635F\u574F\u7684\u84B8\u6C7D\u53D1\u7535\u673A",
+  "CardImageWarpData": "损坏的蒸汽发电机",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

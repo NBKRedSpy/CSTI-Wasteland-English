@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8F90\u5C04\u82B1",
-    "LocalizationKey": "",
+    "DefaultText": "辐射花",
+    "LocalizationKey": "T-563GkRvlSMuPTdHr9WbcmH9IU3k=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u6563\u53D1\u7740\u8FF7\u4EBA\u7684\u9999\u6C14\uFF0C\u8BA9\u4EBA\u7740\u8FF7\u2026\u2026",
-    "LocalizationKey": "",
+    "DefaultText": "它散发着迷人的香气，让人着迷……",
+    "LocalizationKey": "T-/nGwxVqcMri2Vuc/s/ey+Rc6fLU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8F90\u5C04\u82B1",
+  "CardImageWarpData": "辐射花",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -135,8 +135,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D78\u6CE1",
-        "LocalizationKey": "",
+        "DefaultText": "浸泡",
+        "LocalizationKey": "T-cJ6RiWplRkUFJpEh5BRs7C0U0os=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -549,8 +549,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403",
-        "LocalizationKey": "",
+        "DefaultText": "吃",
+        "LocalizationKey": "T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u795E\u7075\u9879\u94FE",
-    "LocalizationKey": "",
+    "DefaultText": "神灵项链",
+    "LocalizationKey": "T-gh4zKBno77A8j48TfE3J2/pLk5E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -775,7 +775,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u795E\u7075\u9879\u94FE",
+  "CardImageWarpData": "神灵项链",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3956,8 +3956,8 @@
   "UniqueID": "00cb015e9cb214b9fa07fb0db05b9973",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u795E\u7075\u77F3",
-    "LocalizationKey": "",
+    "DefaultText": "需要神灵石",
+    "LocalizationKey": "T-pl+xlJ17DhRUrmiBa7/Qo6y0Quw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

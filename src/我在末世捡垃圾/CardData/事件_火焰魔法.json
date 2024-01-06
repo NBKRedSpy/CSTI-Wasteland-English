@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u706B\u7130\u9B54\u6CD5",
-    "LocalizationKey": "",
+    "DefaultText": "火焰魔法",
+    "LocalizationKey": "T-v92tgA2xoNmaO+Qy9JrO/aqttG8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u70BD\u70ED\u7684\u706B\u7403\u5411\u4F60\u88AD\u6765",
-    "LocalizationKey": "",
+    "DefaultText": "炽热的火球向你袭来",
+    "LocalizationKey": "T-v+F8Xwnh/3oHDgGX7FuY1gPQqnw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u706B\u7130\u9B54\u6CD5",
+  "CardImageWarpData": "火焰魔法",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4048,7 +4048,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u55B7\u706B\u673A\u5173\u89E6\u53D1"
+    "喷火机关触发"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

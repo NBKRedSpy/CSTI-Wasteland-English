@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u73BB\u7483\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "玻璃刀",
+    "LocalizationKey": "T-BR3B1ryROVkVk7Rsg2YIVICx9tQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73BB\u7483\u5200",
+  "CardImageWarpData": "玻璃刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "051446bac774714fa26f48c02fc2e077",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

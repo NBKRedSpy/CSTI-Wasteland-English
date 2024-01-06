@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u5851\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "塑料",
+    "LocalizationKey": "T-vzPVFMGnA9338cL9KX4kLW/NHFE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8F7B\u8584\u7684\u5851\u6599\uFF0C\u5B83\u80FD\u7528\u6765\u5E72\u561B\u5462?",
-    "LocalizationKey": "",
+    "DefaultText": "轻薄的塑料，它能用来干嘛呢?",
+    "LocalizationKey": "T-JBFU/6H+qkHPjzZJKQcUBDmwbf0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5851\u6599",
+  "CardImageWarpData": "塑料",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

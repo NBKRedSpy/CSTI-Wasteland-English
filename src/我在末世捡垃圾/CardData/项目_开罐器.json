@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u5F00\u7F50\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "开罐器",
+    "LocalizationKey": "T-mIsye8Kos4nXUcyVIIM2vAQjI5I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u897F\u65B9\u53EF\u4EE5\u6CA1\u6709\u8036\u8DEF\u6492\u51B7\uFF0C\u4F46\u7F50\u5934\u4E0D\u80FD\u6CA1\u6709\u5F00\u7F50\u5668\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "西方可以没有耶路撒冷，但罐头不能没有开罐器。",
+    "LocalizationKey": "T-L6FBMViDNuH4JpHS5MAeKOoGuHA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u5F00\u7F50\u5DE5\u5177"
+    "开罐工具"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5F00\u7F50\u5668",
+  "CardImageWarpData": "开罐器",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

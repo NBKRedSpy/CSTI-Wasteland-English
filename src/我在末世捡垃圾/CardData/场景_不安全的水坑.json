@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E0D\u5B89\u5168\u7684\u6C34\u5751",
-    "LocalizationKey": "",
+    "DefaultText": "不安全的水坑",
+    "LocalizationKey": "T-wy/WCiujf7AkWhsrbQCpE7LUScM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4E2A\u5929\u7136\u7684\u8D2E\u6C34\u5730\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "一个天然的贮水地。",
+    "LocalizationKey": "T-9fSyP2i52j7opApF/UdLlEg/AUo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6C34\u5751",
+  "CardImageWarpData": "水坑",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9632\u868A",
-        "LocalizationKey": "",
+        "DefaultText": "防蚊",
+        "LocalizationKey": "T-6pZ9PCUP3djeX9gG3G+L6wXliSo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -547,8 +547,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u9632\u868A",
-      "LocalizationKey": "",
+      "DefaultText": "防蚊",
+      "LocalizationKey": "T-6pZ9PCUP3djeX9gG3G+L6wXliSo=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -1120,7 +1120,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -1246,7 +1246,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u868A\u866B",
+      "EffectName": "蚊虫",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1375,7 +1375,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u868A\u866B\u9632\u62A4",
+      "EffectName": "蚊虫防护",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

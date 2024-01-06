@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6363\u788E\u7684\u827E\u8349",
-    "LocalizationKey": "",
+    "DefaultText": "捣碎的艾草",
+    "LocalizationKey": "T-WVDc2zZPbRuWylSVmUeJxSCIrB8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u5BF9\u6211\u7684\u8EAB\u4F53\u53D8\u5F02\u5E94\u8BE5\u6709\u76CA\u5904(\u548C\u88C5\u7740\u5F00\u6C34\u7684\u94C1\u7897\u5408\u6210\u6C64\u6548\u679C\u66F4\u597D)",
-    "LocalizationKey": "",
+    "DefaultText": "这对我的身体变异应该有益处(和装着开水的铁碗合成汤效果更好)",
+    "LocalizationKey": "T-E0ta/xCTjuIHkgjFK+YRI2qlsts=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6363\u788E\u7684\u827E\u8349",
+  "CardImageWarpData": "捣碎的艾草",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D78\u6CE1",
-        "LocalizationKey": "",
+        "DefaultText": "浸泡",
+        "LocalizationKey": "T-cJ6RiWplRkUFJpEh5BRs7C0U0os=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -547,8 +547,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u71C3\u70E7\u7684\u53D8\u79CD\u4EBA\u5411\u4F60\u8DD1\u6765",
-    "LocalizationKey": "",
+    "DefaultText": "燃烧的变种人向你跑来",
+    "LocalizationKey": "T-7YgDHVq+McPPkc5kZqYQk7yz/1s=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u71C3\u70E7\u7684\u53D8\u79CD\u4EBA\u5411\u4F60\u8DD1\u6765",
-    "LocalizationKey": "",
+    "DefaultText": "燃烧的变种人向你跑来",
+    "LocalizationKey": "T-7YgDHVq+McPPkc5kZqYQk7yz/1s=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u71C3\u70E7\u7684\u53D8\u79CD\u4EBA",
+  "CardImageWarpData": "燃烧的变种人",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4048,7 +4048,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u543C\u53EB"
+    "吼叫"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

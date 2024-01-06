@@ -1,24 +1,24 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u76FE\u724C",
-    "LocalizationKey": "",
+    "DefaultText": "铁盾牌",
+    "LocalizationKey": "T-/FL+PiDgxqGRkxeWLujc2r1gE44=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6BD4\u94DC\u7684\u66F4\u5F3A\uFF0C\u4F46\u9700\u8981\u4FEE\u590D",
-    "LocalizationKey": "",
+    "DefaultText": "比铜的更强，但需要修复",
+    "LocalizationKey": "T-JoYwch6ElZfAHqs8E7/8UfOQst4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u9632\u5177",
+    "防具",
     "tag_Scraper",
     "tag_Cutter",
     "tag_CutterAdv",
     "tag_Hammer",
     "tag_Heavy",
     "tag_Pretty",
-    "\u5F00\u7F50\u5DE5\u5177"
+    "开罐工具"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -117,7 +117,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u76FE\u724C",
+  "CardImageWarpData": "铁盾牌",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -138,8 +138,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u94C1\u6C34\u4FEE\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "铁水修补",
+        "LocalizationKey": "T-G40LQL1dxWU4ZS20wkP6Rbyq50I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3895,8 +3895,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u94C1\u76FE\u724C\u7528\u5B8C\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "铁盾牌用完了！",
+        "LocalizationKey": "T-UytqnI7GHM/5fagwKvuv4FS6WLQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -4217,7 +4217,7 @@
   ],
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668",
+    "武器",
     "eTag_Shield"
   ],
   "ItemCardDataCardTabGpGroup": [

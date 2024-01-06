@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7532\u58F3\u8D28",
-    "LocalizationKey": "",
+    "DefaultText": "甲壳质",
+    "LocalizationKey": "T-VzYuGO/5F06kOkSkEjTqPZ/Kwtg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u770B\u8D77\u6765\u80FD\u4FEE\u590D\u6211\u635F\u574F\u7684\u62A4\u7532",
-    "LocalizationKey": "",
+    "DefaultText": "看起来能修复我损坏的护甲",
+    "LocalizationKey": "T-2cGntKHEiC+bYXuJWuY1oJzQVaY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7532\u58F3\u8D28",
+  "CardImageWarpData": "甲壳质",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

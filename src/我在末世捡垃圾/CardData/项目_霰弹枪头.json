@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9730\u5F39\u67AA\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "霰弹枪头",
+    "LocalizationKey": "T-VXN5GxkAi1gUP+3zVrrRmxPbiFk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9730\u5F39\u67AA\u5934",
+  "CardImageWarpData": "霰弹枪头",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

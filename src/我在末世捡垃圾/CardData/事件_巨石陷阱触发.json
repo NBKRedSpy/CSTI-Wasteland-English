@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5DE8\u77F3\u9677\u9631\u89E6\u53D1",
-    "LocalizationKey": "",
+    "DefaultText": "巨石陷阱触发",
+    "LocalizationKey": "T-qD26YuJN2D49VtpHKBW2RAF3y+Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5DE8\u77F3\u671D\u4F60\u6EDA\u6765\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "巨石朝你滚来。",
+    "LocalizationKey": "T-L+apTkBpKMxabmfWjfLQKVmuqH8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5DE8\u77F3\u9677\u9631\u89E6\u53D1",
+  "CardImageWarpData": "巨石陷阱触发",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4278,7 +4278,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u5DE8\u77F3\u9677\u9631\u89E6\u53D1"
+    "巨石陷阱触发"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

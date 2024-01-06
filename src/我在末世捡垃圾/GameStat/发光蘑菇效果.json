@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u53D1\u5149\u8611\u83C7\u6548\u679C",
+  "DefaultStatusIconWarpData": "发光蘑菇效果",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -31,8 +31,8 @@
     "ParentObjectID": ""
   },
   "Description": {
-    "DefaultText": "\u4F60\u6563\u53D1\u7740\u5149\u8292\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "你散发着光芒！",
+    "LocalizationKey": "T-Im36rtNnhfXbkTjBoMKWBzCe/4Y=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u53D1\u5149\u8611\u83C7\u6548\u679C",
-    "LocalizationKey": "",
+    "DefaultText": "发光蘑菇效果",
+    "LocalizationKey": "T-ZFxL2z61gVgYPe2lz5De3ixkBU8=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -88,8 +88,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u4F60\u6563\u53D1\u7740\u5149\u8292\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "你散发着光芒！",
+        "LocalizationKey": "T-Im36rtNnhfXbkTjBoMKWBzCe/4Y=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -153,8 +153,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u53D1\u5149\u8611\u83C7\u6548\u679C",
-        "LocalizationKey": "",
+        "DefaultText": "发光蘑菇效果",
+        "LocalizationKey": "T-ZFxL2z61gVgYPe2lz5De3ixkBU8=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -162,7 +162,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u53D1\u5149\u8611\u83C7\u6548\u679C",
+      "IconWarpData": "发光蘑菇效果",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "5\u4E2A\u5E72\u571F\u5806",
-    "LocalizationKey": "",
+    "DefaultText": "5个干土堆",
+    "LocalizationKey": "T-B6dEryUQKNSLNc/p1dCqYaiE24U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E72\u571F\u5806",
+  "CardImageWarpData": "干土堆",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "500895c8d03721ebe8573f01b1b1cc9a",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6B65\u67AA\u5B50\u5F39\u6A21\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "步枪子弹模具",
+    "LocalizationKey": "T-PbOb4XuLpSByMpnLtD5oLTAmCeI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -370,7 +370,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6B65\u67AA\u5B50\u5F39\u6A21\u5177",
+  "CardImageWarpData": "步枪子弹模具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3551,8 +3551,8 @@
   "UniqueID": "e6685945a8f66a62933fe361a3da5769",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6CE5\u5806",
-    "LocalizationKey": "",
+    "DefaultText": "需要泥堆",
+    "LocalizationKey": "T-0ES6cbILbroDVtTOVpA7NpTpTXI=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

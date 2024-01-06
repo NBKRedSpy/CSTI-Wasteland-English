@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u57F9\u6839\u714E\u86CB",
-    "LocalizationKey": "",
+    "DefaultText": "培根煎蛋",
+    "LocalizationKey": "T-gC+wDKCV6S07G7Pua03VMq+5lr0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B8C\u7F8E\u7684\u65E9\u9910!",
-    "LocalizationKey": "",
+    "DefaultText": "完美的早餐!",
+    "LocalizationKey": "T-pGF6Vyg7PFwePqTZEYIC+DirRlI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -368,7 +368,7 @@
               "m_FileID": 0,
               "m_PathID": 0
             },
-            "RequiredLiquidWarpData": "\u7EC4",
+            "RequiredLiquidWarpData": "组",
             "RequiredLiquidWarpType": 3,
             "RequiredQuantity": {
               "x": 100.0,
@@ -565,7 +565,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u57F9\u6839\u714E\u86CB",
+  "CardImageWarpData": "培根煎蛋",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3749,8 +3749,8 @@
   "UniqueID": "c72def328028f0072d3b728db283d140",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

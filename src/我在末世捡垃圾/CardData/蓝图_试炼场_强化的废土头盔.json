@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5F3A\u5316\u7684\u5E9F\u571F\u5934\u76D4",
-    "LocalizationKey": "",
+    "DefaultText": "强化的废土头盔",
+    "LocalizationKey": "T-wG2dziO/mS9Df+Vn84aiAlqE/0o=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5F3A\u5316\u7684\u5E9F\u571F\u5934\u76D4",
+  "CardImageWarpData": "强化的废土头盔",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "023c2f42ec1d410c743d49908e865d82",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u56F0\u96BE\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机困难难度",
+    "LocalizationKey": "T-B0BcysBt3fEXwm3GeF+vLO42l2g=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

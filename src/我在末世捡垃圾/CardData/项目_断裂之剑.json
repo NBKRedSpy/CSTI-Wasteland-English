@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u65AD\u88C2\u4E4B\u5251",
-    "LocalizationKey": "",
+    "DefaultText": "断裂之剑",
+    "LocalizationKey": "T-5k7FBTA6RguH74ppBvFWFR1+W4E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u53E4\u8001\u7684\u5251\u73B0\u5728\u5DF2\u7ECF\u65AD\u88C2\uFF0C\u4F46\u662F\u4F9D\u7136\u5F88\u5F3A",
-    "LocalizationKey": "",
+    "DefaultText": "古老的剑现在已经断裂，但是依然很强",
+    "LocalizationKey": "T-3Cu/Ia0n3Eq3wPPG7LOjr+61LPE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u65AD\u88C2\u4E4B\u5251",
+  "CardImageWarpData": "断裂之剑",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3819,7 +3819,7 @@
   ],
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ],
   "ItemCardDataCardTabGpGroup": [
     "GpTag_CutterAdv",

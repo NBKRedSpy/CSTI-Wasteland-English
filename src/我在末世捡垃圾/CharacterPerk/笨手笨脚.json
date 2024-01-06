@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u4F60\u7B28\u91CD\u7684\u624B\u811A\u8BA9\u6295\u63B7\u7269\u54C1\u65F6\u95F4\u5EF6\u957F\u4E86(\u5305\u62EC\u629B\u6C99)",
-    "LocalizationKey": "",
+    "DefaultText": "你笨重的手脚让投掷物品时间延长了(包括抛沙)",
+    "LocalizationKey": "T-n8wCac8VivAl/aHiYqklO2Ug0m8=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u7B28\u624B\u7B28\u811A",
+  "PerkIconWarpData": "笨手笨脚",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u7B28\u624B\u7B28\u811A",
-    "LocalizationKey": "",
+    "DefaultText": "笨手笨脚",
+    "LocalizationKey": "T-2xfyk5eeb6h50AMMFjrTE9o+2EE=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

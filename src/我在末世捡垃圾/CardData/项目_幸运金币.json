@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5E78\u8FD0\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "幸运金币",
+    "LocalizationKey": "T-db7drbu0fwraMO19J/Z1xj3uoq0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u6B21\u4E0D\u4F1A\u5931\u8D25\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "这次不会失败了",
+    "LocalizationKey": "T-NB+ZXjsiveAjOk787z7R9hXIFsY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E78\u8FD0\u91D1\u5E01",
+  "CardImageWarpData": "幸运金币",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

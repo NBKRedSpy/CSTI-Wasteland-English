@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u65E0\u5C3D\u8F90\u5C04\u96E8",
-    "LocalizationKey": "",
+    "DefaultText": "无尽辐射雨",
+    "LocalizationKey": "T-STqtfk3kw6npIU88ziLxZVP72Qs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E07\u7269\u67AF\u8363\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "万物枯荣！",
+    "LocalizationKey": "T-pslKLp/7ClUxckYERFv/DS8BMKU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8F90\u5C04\u96E8",
+  "CardImageWarpData": "辐射雨",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

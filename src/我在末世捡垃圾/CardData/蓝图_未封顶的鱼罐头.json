@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u672A\u5C01\u9876\u7684\u9C7C\u7F50\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "未封顶的鱼罐头",
+    "LocalizationKey": "T-X5imzaFn4TmN2KQpWuMQucywq7U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -386,7 +386,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u6D77\u9C7C\u8089",
+          "RequiredTabGroupWarpData": "海鱼肉",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -565,7 +565,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u672A\u5C01\u9876\u7684\u9C7C\u7F50\u5934",
+  "CardImageWarpData": "未封顶的鱼罐头",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3746,8 +3746,8 @@
   "UniqueID": "4a8679d68623c9699558fe57753005ad",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u672A\u5C01\u9876\u7684\u7F50\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "需要未封顶的罐头",
+    "LocalizationKey": "T-vWZO2uyAnNYbwWsbzxE/A0/iPcc=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

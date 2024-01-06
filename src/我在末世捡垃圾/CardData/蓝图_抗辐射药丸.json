@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6297\u8F90\u5C04\u836F\u4E38",
-    "LocalizationKey": "",
+    "DefaultText": "抗辐射药丸",
+    "LocalizationKey": "T-wTZ+sRFWpbdxXRHin8gC7eeOAVM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -489,7 +489,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6297\u8F90\u5C04\u836F\u4E38",
+  "CardImageWarpData": "抗辐射药丸",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3670,8 +3670,8 @@
   "UniqueID": "9c071a3cc03e9c83cad833e8c3c203a2",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7C89\u8272\u7C89\u672B",
-    "LocalizationKey": "",
+    "DefaultText": "需要粉色粉末",
+    "LocalizationKey": "T-D6R4bdz44f8Le/ilmXew8Yb82oA=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

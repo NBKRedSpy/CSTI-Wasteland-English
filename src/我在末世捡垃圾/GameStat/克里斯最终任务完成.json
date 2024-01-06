@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u514B\u91CC\u65AF\u6700\u7EC8\u4EFB\u52A1\u5B8C\u6210",
+  "DefaultStatusIconWarpData": "克里斯最终任务完成",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u514B\u91CC\u65AF\u6700\u7EC8\u4EFB\u52A1\u5B8C\u6210",
-    "LocalizationKey": "",
+    "DefaultText": "克里斯最终任务完成",
+    "LocalizationKey": "T-rdgEGfBn9my2lZiNW7k3CUCCpeo=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

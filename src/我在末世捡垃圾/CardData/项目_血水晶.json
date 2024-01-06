@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8840\u6C34\u6676",
-    "LocalizationKey": "",
+    "DefaultText": "血水晶",
+    "LocalizationKey": "T-UIZhi5wyTlWFzvzyY8A+sf/Txqw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u76F4\u63A5\u5403\u6389\u6216\u8005\u7528\u6765\u4FEE\u590D\u8840\u8272\u9053\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "直接吃掉或者用来修复血色道具",
+    "LocalizationKey": "T-lPDByzecmRRa77vw5Bb5LYWUSvI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8840\u6C34\u6676",
+  "CardImageWarpData": "血水晶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

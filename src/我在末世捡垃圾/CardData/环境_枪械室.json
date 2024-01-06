@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u67AA\u68B0\u5BA4",
-    "LocalizationKey": "",
+    "DefaultText": "枪械室",
+    "LocalizationKey": "T-T0vsARSfZGHpDfwJfkxLlGkUvEQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u67AA\u68B0\u5BA4",
+  "CardImageWarpData": "枪械室",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

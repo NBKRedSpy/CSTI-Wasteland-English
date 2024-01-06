@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "简易刀",
+    "LocalizationKey": "T-d+M4MGM7gbh+G5J5zNz9NoORrU8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u628A\u7B80\u6613\u5200\uFF0C\u53EF\u7528\u4E8E\u5207\u5272\u6216\u523A\u7A7F\u4E1C\u897F\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "一把简易刀，可用于切割或刺穿东西。",
+    "LocalizationKey": "T-7fXSxF8Y+n4wWmL04BbtLvstvAU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u5200",
+  "CardImageWarpData": "简易刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

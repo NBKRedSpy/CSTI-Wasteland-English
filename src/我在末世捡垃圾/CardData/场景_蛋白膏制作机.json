@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u86CB\u767D\u818F\u5236\u4F5C\u673A",
-    "LocalizationKey": "",
+    "DefaultText": "蛋白膏制作机",
+    "LocalizationKey": "T-N3RUKsXu24I8oeT90aZNR5jDTfE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5C31\u8FD9\u4E48\u4E00\u4E2A\uFF0C\u4F60\u786E\u5B9A\u8981\u62C6\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "就这么一个，你确定要拆？",
+    "LocalizationKey": "T-JfwO0VB9kwMgCXTD3RXoIZMn9fk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u86CB\u767D\u818F\u5236\u4F5C\u673A",
+  "CardImageWarpData": "蛋白膏制作机",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6254\u8FDB\u53BB",
-        "LocalizationKey": "",
+        "DefaultText": "扔进去",
+        "LocalizationKey": "T-Hvk+srjbArj3xJfmsMAAYQE1n3o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -479,8 +479,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6254\u8FDB\u53BB",
-        "LocalizationKey": "",
+        "DefaultText": "扔进去",
+        "LocalizationKey": "T-Hvk+srjbArj3xJfmsMAAYQE1n3o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -829,8 +829,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6254\u8FDB\u53BB",
-        "LocalizationKey": "",
+        "DefaultText": "扔进去",
+        "LocalizationKey": "T-Hvk+srjbArj3xJfmsMAAYQE1n3o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1179,8 +1179,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6254\u8FDB\u53BB",
-        "LocalizationKey": "",
+        "DefaultText": "扔进去",
+        "LocalizationKey": "T-Hvk+srjbArj3xJfmsMAAYQE1n3o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1522,8 +1522,8 @@
   "ContentWeightReduction": 0.0,
   "CookingConditions": {
     "CookingPausedNotification": {
-      "DefaultText": "\u9700\u8981\u4F18\u8D28\u86CB\u767D\u548C\u5851\u6599\uFF01",
-      "LocalizationKey": "",
+      "DefaultText": "需要优质蛋白和塑料！",
+      "LocalizationKey": "T-nLMPrOdOzSBES/Glq9XGqGSpcxM=",
       "ParentObjectID": ""
     },
     "CookingPausedSound": {
@@ -1552,8 +1552,8 @@
   "CookingRecipes": [
     {
       "ActionName": {
-        "DefaultText": "\u5236\u4F5C\u86CB\u767D\u818F",
-        "LocalizationKey": "",
+        "DefaultText": "制作蛋白膏",
+        "LocalizationKey": "T-EVDAZnxY2n+1FThkuNlAB+KrqXU=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -1627,8 +1627,8 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "\u5236\u4F5C\u4E2D\u2026\u2026",
-        "LocalizationKey": "",
+        "DefaultText": "制作中……",
+        "LocalizationKey": "T-AsaGplAKGj02h4AwQGwdzo9pLLg=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -1761,8 +1761,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u89E3",
-        "LocalizationKey": "",
+        "DefaultText": "拆解",
+        "LocalizationKey": "T-GDPFm/RajRVzs5OJeCACAa0Ba84=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2086,8 +2086,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u642C\u8D70",
-        "LocalizationKey": "",
+        "DefaultText": "搬走",
+        "LocalizationKey": "T-DOpL2mBkHjmaeRi18Z0PdBDux68=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2302,8 +2302,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u4F18\u8D28\u86CB\u767D",
-      "LocalizationKey": "",
+      "DefaultText": "优质蛋白",
+      "LocalizationKey": "T-1vTHu4dycPqUyuFfOqKWkHqIDQQ=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5041,8 +5041,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u5851\u6599",
-      "LocalizationKey": "",
+      "DefaultText": "塑料",
+      "LocalizationKey": "T-vzPVFMGnA9338cL9KX4kLW/NHFE=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5468,7 +5468,7 @@
     "ShowPopupOnZero": false,
     "TextDisplay": 0,
     "OverrideIconWarpType": 3,
-    "OverrideIconWarpData": "\u5851\u6599"
+    "OverrideIconWarpData": "塑料"
   },
   "StatValues": [],
   "TagsOnBoard": [],

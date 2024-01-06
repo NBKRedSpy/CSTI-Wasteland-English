@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "8\u4E2A\u6B65\u67AA\u5B50\u5F39",
-    "LocalizationKey": "",
+    "DefaultText": "8个步枪子弹",
+    "LocalizationKey": "T-MK8R51z5fVK1gQLP46UhnQwyYnU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6B65\u67AA\u5B50\u5F39",
+  "CardImageWarpData": "步枪子弹",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "69f674727dbe0388d507228ab57aa6ef",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u666E\u901A\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机普通难度",
+    "LocalizationKey": "T-+CqYpoqLCHQzDUa7VOeQ9oYgnWw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

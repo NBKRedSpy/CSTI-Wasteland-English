@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u5D29\u89E3\u70D9\u5370\u6570\u91CF",
+  "DefaultStatusIconWarpData": "崩解烙印数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u5D29\u89E3\u70D9\u5370\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "崩解烙印数量",
+    "LocalizationKey": "T-2B6uQ+Xi83tAk0Rhs2UOqsYIPCQ=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

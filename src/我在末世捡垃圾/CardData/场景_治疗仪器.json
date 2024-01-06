@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6CBB\u7597\u4EEA\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "治疗仪器",
+    "LocalizationKey": "T-kZCweptYz0zoRL9hIHFQu9SikuA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u8981\u7528\u91D1\u5E01\u6FC0\u6D3B\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "我要用金币激活它",
+    "LocalizationKey": "T-q3j6Gw7cB6the9AS2594mMJL6gU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6CBB\u7597\u4EEA\u5668",
+  "CardImageWarpData": "治疗仪器",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5145\u80FD",
-        "LocalizationKey": "",
+        "DefaultText": "充能",
+        "LocalizationKey": "T-QM6JPRsGD7PiyGbXRbeM+OYf9Io=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -375,8 +375,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u52A0\u6EE1\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "加满了",
+          "LocalizationKey": "T-5zekWBlCp9THMdlOw8IeQk6Suss=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -538,8 +538,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u52A0\u901F\u6062\u590D",
-        "LocalizationKey": "",
+        "DefaultText": "加速恢复",
+        "LocalizationKey": "T-wo6lizQ0t0dzdepM3P9vydKHhO8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2357,7 +2357,7 @@
           "Active": false,
           "FloatValue": 0.0
         },
-        "EffectName": "\u6CBB\u7597\u4EEA\u5668",
+        "EffectName": "治疗仪器",
         "EffectStacksWithRequiredCards": false,
         "FuelRateModifier": {
           "Active": false,
@@ -4573,8 +4573,8 @@
   "UsageDurability": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u5145\u80FD",
-      "LocalizationKey": "",
+      "DefaultText": "充能",
+      "LocalizationKey": "T-QM6JPRsGD7PiyGbXRbeM+OYf9Io=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -4805,8 +4805,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5145\u80FD\u4E0D\u591F",
-        "LocalizationKey": "",
+        "DefaultText": "充能不够",
+        "LocalizationKey": "T-AtWi1ptAWKEX1gRVaZ1Fx78NIdI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

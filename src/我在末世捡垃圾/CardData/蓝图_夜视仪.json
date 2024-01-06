@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u591C\u89C6\u4EEA",
-    "LocalizationKey": "",
+    "DefaultText": "夜视仪",
+    "LocalizationKey": "T-wweWUa33I/eCjs5rrr5BpmN5M5M=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -1250,7 +1250,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u591C\u89C6\u4EEA",
+  "CardImageWarpData": "夜视仪",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -4431,8 +4431,8 @@
   "UniqueID": "f388511e67ab8786fd64a0f154488bcb",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u773C\u955C",
-    "LocalizationKey": "",
+    "DefaultText": "需要眼镜",
+    "LocalizationKey": "T-sIDpdmyMVhgMPbY/s0ZS3AfvfBE=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

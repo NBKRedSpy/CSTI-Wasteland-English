@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5384\u8FD0\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "厄运金币",
+    "LocalizationKey": "T-bSmbVViwI9U1L6K5wF6HXbsAXv4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5384\u8FD0\u91D1\u5E01",
+  "CardImageWarpData": "厄运金币",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "eedd15dc0cc14ee4a983cd5617586c95",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u666E\u901A\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机普通难度",
+    "LocalizationKey": "T-+CqYpoqLCHQzDUa7VOeQ9oYgnWw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

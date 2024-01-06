@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u7B3C",
-    "LocalizationKey": "",
+    "DefaultText": "铁笼",
+    "LocalizationKey": "T-7Cr4nffKBtPynmOEEEUK7C4aNQc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9632\u6B62\u9F39\u9F20\u6316\u6D1E\u8DD1\u8D70",
-    "LocalizationKey": "",
+    "DefaultText": "防止鼹鼠挖洞跑走",
+    "LocalizationKey": "T-+J1bOxZJD/5TYDAy6Yf3ymhK700=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -717,7 +717,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u87BA\u4E1D\u5200",
+          "RequiredTabGroupWarpData": "螺丝刀",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -1198,7 +1198,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u87BA\u4E1D\u5200",
+          "RequiredTabGroupWarpData": "螺丝刀",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -1316,7 +1316,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u7B3C",
+  "CardImageWarpData": "铁笼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -4500,8 +4500,8 @@
   "UniqueID": "5978ec8fb49984f415f510563fd33fb9",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u9F39\u9F20\u6570\u91CF\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要鼹鼠数量技能",
+    "LocalizationKey": "T-eF4pcBBs6HBrnb3BtecaQniLSKc=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

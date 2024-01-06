@@ -1,7 +1,7 @@
 {
   "PageTitle": {
-    "DefaultText": "\u5730\u4E0B\u63A2\u9669",
-    "LocalizationKey": "",
+    "DefaultText": "地下探险",
+    "LocalizationKey": "T-+RDM9lQ8vJlO4MowfFcq+KIQs6A=",
     "ParentObjectID": ""
   },
   "RightButton": {
@@ -111,7 +111,7 @@
   ],
   "GlobalPageLinks": [],
   "LeftButtonWarpType": 3,
-  "LeftButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C4\u9875",
+  "LeftButtonWarpData": "变种人克里斯第4页",
   "RightButtonWarpType": 3,
-  "RightButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C6\u9875"
+  "RightButtonWarpData": "变种人克里斯第6页"
 }

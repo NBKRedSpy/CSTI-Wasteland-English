@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "简易刀",
+    "LocalizationKey": "T-d+M4MGM7gbh+G5J5zNz9NoORrU8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u5200",
+  "CardImageWarpData": "简易刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3666,8 +3666,8 @@
   "UniqueID": "175bd4006bb83073d8fe6414899e54c0",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5C5E\u788E\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "需要金属碎片",
+    "LocalizationKey": "T-NFPIvrBPfjYghfwhozqVcKfxEvk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

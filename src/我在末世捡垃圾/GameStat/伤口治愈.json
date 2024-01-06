@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u4F24\u53E3\u6CBB\u6108",
+  "DefaultStatusIconWarpData": "伤口治愈",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u4F24\u53E3\u6CBB\u6108",
-    "LocalizationKey": "",
+    "DefaultText": "伤口治愈",
+    "LocalizationKey": "T-68L0j3rFrcqRsMtzwaANmIVEi7M=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

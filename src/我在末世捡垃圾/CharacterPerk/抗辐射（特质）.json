@@ -37,11 +37,11 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u6297\u8F90\u5C04",
+  "PerkIconWarpData": "抗辐射",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u6297\u8F90\u5C04\uFF08\u7279\u8D28\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "抗辐射（特质）",
+    "LocalizationKey": "T-UCA9G+tpEoyUOKzVW25jTWmMU3E=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u571F\u62A4\u8155",
-    "LocalizationKey": "",
+    "DefaultText": "废土护腕",
+    "LocalizationKey": "T-XpUcFFkhywmRxgvfnWevFmoX/mk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5E9F\u571F\u751F\u7269\u7684\u76AE\u6BDB\u6210\u4E3A\u4E86\u62B5\u5FA1\u5B83\u4EEC\u7684\u9632\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "废土生物的皮毛成为了抵御它们的防具",
+    "LocalizationKey": "T-A3zQ/w5AblH69ew7alZ8n8iNsOg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u624B\u5957",
-    "\u9632\u5177"
+    "手套",
+    "防具"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u571F\u62A4\u8155",
+  "CardImageWarpData": "废土护腕",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4FEE\u590D",
-        "LocalizationKey": "",
+        "DefaultText": "修复",
+        "LocalizationKey": "T-WQJTr0jMwjxIfGj+MO7AMZ0zO1k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

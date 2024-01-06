@@ -31,8 +31,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u505A\u4E00\u4E2A\u5E9F\u571F\u5934\u76D4",
-    "LocalizationKey": "",
+    "DefaultText": "做一个废土头盔",
+    "LocalizationKey": "T-QtWiBzkbPnoatHhB57VOj5Gxe6U=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

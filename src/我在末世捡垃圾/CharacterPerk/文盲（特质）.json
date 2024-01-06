@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u4F60\u770B\u4E0D\u4E86\u6280\u80FD\u4E66\u548C\u6545\u4E8B\u4E66",
-    "LocalizationKey": "",
+    "DefaultText": "你看不了技能书和故事书",
+    "LocalizationKey": "T-NaDoc6b+iPSYkAG0emmEB7YRJ8k=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u6587\u76F2",
+  "PerkIconWarpData": "文盲",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u6587\u76F2",
-    "LocalizationKey": "",
+    "DefaultText": "文盲",
+    "LocalizationKey": "T-sa5YiRU/77IgQ0yBoA4Aa2kOoAo=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

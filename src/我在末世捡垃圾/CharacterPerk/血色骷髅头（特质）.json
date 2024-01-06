@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u6253\u5F00\u5B83\u80FD\u591F\u52A0\u901F\u4F24\u53E3\u6062\u590D\uFF0C\u63D0\u4F9B\u7167\u660E\uFF0C\u51CF\u5C11\u75BC\u75DB(\u8840\u6C34\u6676\u5145\u80FD)",
-    "LocalizationKey": "",
+    "DefaultText": "打开它能够加速伤口恢复，提供照明，减少疼痛(血水晶充能)",
+    "LocalizationKey": "T-Sg2cWPQahSFW7vlq2nhnGX5HsG0=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u8840\u8272\u9AB7\u9AC5\u5934",
+  "PerkIconWarpData": "血色骷髅头",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u8840\u8272\u9AB7\u9AC5\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "血色骷髅头",
+    "LocalizationKey": "T-/EeCYviwX6428EKbULIFVD5QWvo=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

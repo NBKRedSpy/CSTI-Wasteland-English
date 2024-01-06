@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u592A\u9633\u711A\u70E7",
-    "LocalizationKey": "",
+    "DefaultText": "太阳焚烧",
+    "LocalizationKey": "T-1Fe0QJW83XzGlfKCPfXGH0UDVjQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9AD8\u6E29\u70E7\u6BC1\u4E86\u4F60\u6CA1\u6536\u8D77\u6765\u7684\u4E1C\u897F",
-    "LocalizationKey": "",
+    "DefaultText": "高温烧毁了你没收起来的东西",
+    "LocalizationKey": "T-l06T8o4DERAAm5NNY4XtZDNKoes=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u592A\u9633\u711A\u70E7",
+  "CardImageWarpData": "太阳焚烧",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -219,7 +219,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u53EF\u88AB\u71C3\u70E7"
+            "可被燃烧"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -320,8 +320,8 @@
         "y": 0
       },
       "NoCardsAffectedMessage": {
-        "DefaultText": "\u6CA1\u6709\u4E1C\u897F\u88AB\u9AD8\u6E29\u70E7\u6BC1",
-        "LocalizationKey": "",
+        "DefaultText": "没有东西被高温烧毁",
+        "LocalizationKey": "T-IwmDvclMCYMMIha7k6G1jN9Q5dA=",
         "ParentObjectID": ""
       },
       "NotBaseAction": false,
@@ -4121,7 +4121,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u55B7\u706B\u673A\u5173\u89E6\u53D1"
+    "喷火机关触发"
   ],
   "WhenCreatedSoundsWarpType": 3,
   "SpawningBlockedByWarpType": 3,

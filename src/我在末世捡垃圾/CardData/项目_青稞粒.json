@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9752\u7A1E\u7C92",
-    "LocalizationKey": "",
+    "DefaultText": "青稞粒",
+    "LocalizationKey": "T-JY3iLOpJvcb60ueMrnK8/aGtEm8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u51D1\u8FD1\u95FB\u8FD8\u80FD\u611F\u53D7\u5230\u7530\u91CE\u7684\u6C14\u606F",
-    "LocalizationKey": "",
+    "DefaultText": "凑近闻还能感受到田野的气息",
+    "LocalizationKey": "T-yY1usqCr6GCjEWf0m0k/fl7oUSo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9752\u7A1E\u7C92",
+  "CardImageWarpData": "青稞粒",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -134,8 +134,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u78BE\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "碾碎",
+        "LocalizationKey": "T-2lez9ZE7TIqdCg8YIWjg8IFkU24=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -581,8 +581,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u78BE\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "碾碎",
+        "LocalizationKey": "T-2lez9ZE7TIqdCg8YIWjg8IFkU24=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

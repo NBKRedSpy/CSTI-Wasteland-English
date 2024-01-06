@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8840\u8272\u6C34\u6676\u5251",
-    "LocalizationKey": "",
+    "DefaultText": "血色水晶剑",
+    "LocalizationKey": "T-vbtin/peDsAcP/OGUBVY3hKzlrw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8574\u542B\u7740\u65E0\u5C3D\u7684\u529B\u91CF(\u7528\u8840\u6C34\u6676\u5145\u80FD\u540E\u53D8\u4E3A\u8303\u56F4\u4F24\u5BB3)",
-    "LocalizationKey": "",
+    "DefaultText": "蕴含着无尽的力量(用血水晶充能后变为范围伤害)",
+    "LocalizationKey": "T-068zXe4FsvcoSlNbGqDK6o/RSXI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8840\u8272\u6C34\u6676\u5251",
+  "CardImageWarpData": "血色水晶剑",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -134,8 +134,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5145\u80FD",
-        "LocalizationKey": "",
+        "DefaultText": "充能",
+        "LocalizationKey": "T-QM6JPRsGD7PiyGbXRbeM+OYf9Io=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4177,7 +4177,7 @@
   ],
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ],
   "ItemCardDataCardTabGpGroup": [
     "GpTag_CutterAdv",

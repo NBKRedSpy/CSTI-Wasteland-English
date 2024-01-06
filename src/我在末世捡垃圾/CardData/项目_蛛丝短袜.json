@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u86DB\u4E1D\u77ED\u889C",
-    "LocalizationKey": "",
+    "DefaultText": "蛛丝短袜",
+    "LocalizationKey": "T-AQQ9cvEeMyZvvRjXLKnfZwStxdM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8F7B\u8584\u7EC6\u817B\u7684\u8718\u86DB\u4E1D\u505A\u6210\u7684\u77ED\u889C\uFF0C\u5341\u5206\u8212\u9002",
-    "LocalizationKey": "",
+    "DefaultText": "轻薄细腻的蜘蛛丝做成的短袜，十分舒适",
+    "LocalizationKey": "T-wprZ35m7P3Fsy79MWRe4JdjHAmw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u86DB\u4E1D\u77ED\u889C",
+  "CardImageWarpData": "蛛丝短袜",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F1D\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "缝补",
+        "LocalizationKey": "T-aDH+nnisXWjpHOdPFi/L5gDAWFg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -545,8 +545,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6495\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "撕开",
+        "LocalizationKey": "T-6YTeA4bczoVSrqAdyaMhfIlrbnI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1404,7 +1404,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6DCB\u96E8",
+      "EffectName": "淋雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1562,7 +1562,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,

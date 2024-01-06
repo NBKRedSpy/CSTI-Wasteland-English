@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8840\u8272\u6C34\u6676\u5251",
-    "LocalizationKey": "",
+    "DefaultText": "血色水晶剑",
+    "LocalizationKey": "T-vbtin/peDsAcP/OGUBVY3hKzlrw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8840\u8272\u6C34\u6676\u5251",
+  "CardImageWarpData": "血色水晶剑",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "44ee540a549048eed0ebcbc5de0fd949",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u5730\u72F1\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机地狱难度",
+    "LocalizationKey": "T-pzxT88D+oVMh3Tqlr7QM9FgqUIE=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u592A\u9633\u80FD\u84B8\u998F\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "太阳能蒸馏器",
+    "LocalizationKey": "T-81qDDmEI0p6HgfAGSY+KlZzoWVM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u592A\u9633\u80FD\u84B8\u998F\u5668",
+  "CardImageWarpData": "太阳能蒸馏器",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3666,8 +3666,8 @@
   "UniqueID": "66491cdfa8aeea2a86efa20f35909e3f",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5851\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "需要塑料",
+    "LocalizationKey": "T-q6mD+oLJHzRoHzMt1pmUAmCy9l4=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

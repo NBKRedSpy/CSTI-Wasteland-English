@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u53D8\u79CD\u72AC\u6B7B\u4EA1\u6570\u91CF",
+  "DefaultStatusIconWarpData": "变种犬死亡数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u53D8\u79CD\u72AC\u6B7B\u4EA1\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "变种犬死亡数量",
+    "LocalizationKey": "T-W8R5sETbyAbtn0xsErWLjDsyIns=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

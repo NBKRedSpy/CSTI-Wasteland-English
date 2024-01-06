@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8840\u8272\u9AB7\u9AC5\u5934\uFF08\u5F00\u542F\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "血色骷髅头（开启）",
+    "LocalizationKey": "T-YNPcxf9yAMnrlrE3cwf6I2E8dqs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F60\u5145\u6EE1\u4E86\u529B\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "你充满了力量",
+    "LocalizationKey": "T-kjezHNOQcql8B98iakjtS4gb9Nc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8840\u8272\u9AB7\u9AC5\u5934\uFF08\u5F00\u542F\uFF09",
+  "CardImageWarpData": "血色骷髅头（开启）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5173\u95ED",
-        "LocalizationKey": "",
+        "DefaultText": "关闭",
+        "LocalizationKey": "T-bBS9f2+eVORgJNNd/ixFSMmjgh0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1946,7 +1946,7 @@
           "Active": false,
           "FloatValue": 0.0
         },
-        "EffectName": "\u8840\u8272\u529B\u91CF",
+        "EffectName": "血色力量",
         "EffectStacksWithRequiredCards": false,
         "FuelRateModifier": {
           "Active": false,

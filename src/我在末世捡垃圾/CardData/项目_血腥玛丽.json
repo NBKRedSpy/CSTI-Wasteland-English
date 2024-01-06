@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8840\u8165\u739B\u4E3D",
-    "LocalizationKey": "",
+    "DefaultText": "血腥玛丽",
+    "LocalizationKey": "T-gG9FXCSMIX8RqkLMZwaKXCXFstQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9999\u751C\u7684\u8840\u6DB2",
-    "LocalizationKey": "",
+    "DefaultText": "香甜的血液",
+    "LocalizationKey": "T-jzbll5nKENoRUUB18OO/zc/6iW0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8840\u8165\u739B\u4E3D",
+  "CardImageWarpData": "血腥玛丽",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8BD5\u70BC\u573A",
-    "LocalizationKey": "",
+    "DefaultText": "试炼场",
+    "LocalizationKey": "T-yXF+nDxqTFKDyZd7SmqCFKVQj3c=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8BD5\u70BC\u573A",
+  "CardImageWarpData": "试炼场",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

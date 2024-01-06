@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u5582\u6C34\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "铁喂水器",
+    "LocalizationKey": "T-HyV8NF2jqxmd2IYDmjoYPW3Q990=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9F39\u9F20\u4EEC\u53EF\u4EE5\u5728\u8FD9\u559D\u6C34\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "鼹鼠们可以在这喝水。",
+    "LocalizationKey": "T-NdpmH14Ep7X+xOBk6nB39cdPHu0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u5582\u6C34\u5668",
+  "CardImageWarpData": "铁喂水器",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -742,14 +742,14 @@
         "RequiredTagsOnBoard": [],
         "RequiredTagsOnBoardWarpType": 3,
         "RequiredTagsOnBoardWarpData": [
-          "\u9F39\u9F20"
+          "鼹鼠"
         ]
       },
       "ConsumableChargesModifier": {
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u9F39\u9F20\u66B4\u98CE\u5438\u5165",
+      "EffectName": "鼹鼠暴风吸入",
       "EffectStacksWithRequiredCards": true,
       "FuelRateModifier": {
         "Active": false,
@@ -873,7 +873,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

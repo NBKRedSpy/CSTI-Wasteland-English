@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u73BB\u7483\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "玻璃刀",
+    "LocalizationKey": "T-BR3B1ryROVkVk7Rsg2YIVICx9tQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -287,7 +287,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u87BA\u4E1D\u5200",
+          "RequiredTabGroupWarpData": "螺丝刀",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -486,7 +486,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73BB\u7483\u5200",
+  "CardImageWarpData": "玻璃刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3667,8 +3667,8 @@
   "UniqueID": "1c0c64608d66cf90ffc63c93472baa6c",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5C5E\u788E\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "需要金属碎片",
+    "LocalizationKey": "T-NFPIvrBPfjYghfwhozqVcKfxEvk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

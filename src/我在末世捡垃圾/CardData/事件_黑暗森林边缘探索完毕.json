@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u6697\u68EE\u6797\u8FB9\u7F18\u63A2\u7D22\u5B8C\u6BD5",
-    "LocalizationKey": "",
+    "DefaultText": "黑暗森林边缘探索完毕",
+    "LocalizationKey": "T-oo9njRxabo1mKZ2opxLDMaA/fL4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u89C9\u5F97\u5DF2\u7ECF\u627E\u5230\u9ED1\u6697\u68EE\u6797\u8FB9\u7F18\u6240\u6709\u53EF\u63A2\u7D22\u7684\u5730\u70B9\u4E86\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "我觉得已经找到黑暗森林边缘所有可探索的地点了。",
+    "LocalizationKey": "T-NAWqL8jaFmkifo6S0myvUQD+Vag=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u6697\u68EE\u6797\u8FB9\u7F18",
+  "CardImageWarpData": "黑暗森林边缘",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

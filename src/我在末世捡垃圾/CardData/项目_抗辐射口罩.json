@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6297\u8F90\u5C04\u53E3\u7F69",
-    "LocalizationKey": "",
+    "DefaultText": "抗辐射口罩",
+    "LocalizationKey": "T-SSw9JElntwlGuem5FQegBOLlpoQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u6700\u597D\u6234\u4E0A\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "我最好戴上它",
+    "LocalizationKey": "T-SBGnwpuqk3H4ohvvbfHwPNiqfVg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6297\u8F90\u5C04\u53E3\u7F69",
+  "CardImageWarpData": "抗辐射口罩",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6E7F\u5EA6",
-      "LocalizationKey": "",
+      "DefaultText": "湿度",
+      "LocalizationKey": "T-3uGdpQ+6aFwAi+4ENdFS0Kw7SxE=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -776,7 +776,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6DCB\u6E7F",
+      "EffectName": "淋湿",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,

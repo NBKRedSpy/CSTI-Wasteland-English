@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9762\u7C89",
-    "LocalizationKey": "",
+    "DefaultText": "面粉",
+    "LocalizationKey": "T-GIY/EpeuXFY2SBSBoseU6iKFfRU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u548C\u6C34\u6DF7\u5408\u505A\u6210\u9762\u56E2",
-    "LocalizationKey": "",
+    "DefaultText": "和水混合做成面团",
+    "LocalizationKey": "T-lQA8FlromC0+OpOx6bBQrvMOqLs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9762\u7C89",
+  "CardImageWarpData": "面粉",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u505A\u9762\u56E2",
-        "LocalizationKey": "",
+        "DefaultText": "做面团",
+        "LocalizationKey": "T-3EDoTBUnhuI1zsZBijJw4Jkfk4k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -576,8 +576,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u505A\u9762\u56E2",
-        "LocalizationKey": "",
+        "DefaultText": "做面团",
+        "LocalizationKey": "T-3EDoTBUnhuI1zsZBijJw4Jkfk4k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -829,8 +829,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u810F\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "收集脏水",
+        "LocalizationKey": "T-y6ggPr5kNXfRufkl76RCI0SDF90=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

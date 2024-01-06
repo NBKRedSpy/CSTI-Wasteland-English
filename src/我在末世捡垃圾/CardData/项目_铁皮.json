@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u76AE",
-    "LocalizationKey": "",
+    "DefaultText": "铁皮",
+    "LocalizationKey": "T-c59ex4xPP8lGl4Zo11g7xnGgImg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u8981\u597D\u597D\u5229\u7528\u8FD9\u4E9B\u91D1\u5C5E",
-    "LocalizationKey": "",
+    "DefaultText": "我要好好利用这些金属",
+    "LocalizationKey": "T-uUVDiXH0gmMnF4I3HkiLDJfck2I=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u76AE",
+  "CardImageWarpData": "铁皮",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9524\u9020",
-        "LocalizationKey": "",
+        "DefaultText": "锤造",
+        "LocalizationKey": "T-3zrtmzhvTVahd30euig3ktNsKDg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -487,8 +487,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5408\u6210",
-        "LocalizationKey": "",
+        "DefaultText": "合成",
+        "LocalizationKey": "T-C7m7RvH5OM632WpjNc38vPbEwTs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

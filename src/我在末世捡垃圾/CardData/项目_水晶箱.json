@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6C34\u6676\u7BB1",
-    "LocalizationKey": "",
+    "DefaultText": "水晶箱",
+    "LocalizationKey": "T-B9ify/256bJAECGNvQl0GDaijLk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u795E\u79D8\u7684\u7BB1\u5B50\u9694\u7EDD\u4E86\u5916\u754C\u7EC6\u83CC\u7684\u4FB5\u8680",
-    "LocalizationKey": "",
+    "DefaultText": "神秘的箱子隔绝了外界细菌的侵蚀",
+    "LocalizationKey": "T-JdPixtgZl5V3emxGCEG9yN5CCW4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6C34\u6676\u7BB1",
+  "CardImageWarpData": "水晶箱",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -452,7 +452,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4FDD\u9C9C",
+      "EffectName": "保鲜",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

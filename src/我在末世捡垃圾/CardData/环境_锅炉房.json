@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9505\u7089\u623F",
-    "LocalizationKey": "",
+    "DefaultText": "锅炉房",
+    "LocalizationKey": "T-jk32DpYqxVBYbMu+tWGcBCvxOSU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9505\u7089\u623F",
+  "CardImageWarpData": "锅炉房",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

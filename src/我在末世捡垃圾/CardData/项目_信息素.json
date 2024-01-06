@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4FE1\u606F\u7D20",
-    "LocalizationKey": "",
+    "DefaultText": "信息素",
+    "LocalizationKey": "T-Ykl6ZcmMBOx4RyPYZbKK6B66QhA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4FE1\u606F\u7D20",
+  "CardImageWarpData": "信息素",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

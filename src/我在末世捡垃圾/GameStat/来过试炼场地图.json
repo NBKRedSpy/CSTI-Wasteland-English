@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6765\u8FC7\u8BD5\u70BC\u573A\u5730\u56FE",
+  "DefaultStatusIconWarpData": "来过试炼场地图",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6765\u8FC7\u8BD5\u70BC\u573A\u5730\u56FE",
-    "LocalizationKey": "",
+    "DefaultText": "来过试炼场地图",
+    "LocalizationKey": "T-KgU2uehJ4ZS2bB3o88q1o+RwrNg=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

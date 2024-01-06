@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u827E\u8349\u82B1\u73AF",
-    "LocalizationKey": "",
+    "DefaultText": "艾草花环",
+    "LocalizationKey": "T-ABoS4c1ztEh7vQjYoDzZUW4VchM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u827E\u8349\u7B80\u5355\u7F20\u7ED5\u505A\u51FA\u7684\u82B1\u73AF\uFF0C\u80FD\u591F\u5B89\u629A\u7126\u8E81\u7684\u5FC3\u7075",
-    "LocalizationKey": "",
+    "DefaultText": "艾草简单缠绕做出的花环，能够安抚焦躁的心灵",
+    "LocalizationKey": "T-dHKTNIS3kkAkmck6WCyPRC0T550=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u827E\u8349\u82B1\u73AF",
+  "CardImageWarpData": "艾草花环",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6E7F\u5EA6",
-      "LocalizationKey": "",
+      "DefaultText": "湿度",
+      "LocalizationKey": "T-3uGdpQ+6aFwAi+4ENdFS0Kw7SxE=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -776,7 +776,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6DCB\u6E7F",
+      "EffectName": "淋湿",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,

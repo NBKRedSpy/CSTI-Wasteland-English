@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u6469\u6258\u8F66",
-    "LocalizationKey": "",
+    "DefaultText": "废摩托车",
+    "LocalizationKey": "T-gXtXwMXxfW80rC5jSHVXKrlAgNY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u9700\u8981\u7528\u6750\u6599\u548C\u5DE5\u5177\u4FEE\u590D\u5B83\uFF08\u94C1\u76AE\u3001\u87BA\u4E1D\u5200\u3001\u9524\u5B50\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "我需要用材料和工具修复它（铁皮、螺丝刀、锤子）",
+    "LocalizationKey": "T-9ZKB4d681tkq9/Kq0oTzY9yCumI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u6469\u6258\u8F66",
+  "CardImageWarpData": "废摩托车",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EF4\u4FEE",
-        "LocalizationKey": "",
+        "DefaultText": "维修",
+        "LocalizationKey": "T-K4Oky5yliMskRk3wedp+xsdQ5H8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -272,7 +272,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u87BA\u4E1D\u5200"
+            "螺丝刀"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 4,
@@ -649,7 +649,7 @@
             "m_FileID": 0,
             "m_PathID": 0
           },
-          "TriggerTagWarpData": "\u87BA\u4E1D\u5200"
+          "TriggerTagWarpData": "螺丝刀"
         }
       ],
       "ResetWhenDone": {
@@ -1683,8 +1683,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u94C1\u76AE",
-      "LocalizationKey": "",
+      "DefaultText": "铁皮",
+      "LocalizationKey": "T-c59ex4xPP8lGl4Zo11g7xnGgImg=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -2111,7 +2111,7 @@
     "ShowPopupOnZero": false,
     "TextDisplay": 0,
     "OverrideIconWarpType": 3,
-    "OverrideIconWarpData": "\u94C1\u76AE"
+    "OverrideIconWarpData": "铁皮"
   },
   "SpecialDurability2": {
     "Active": false,

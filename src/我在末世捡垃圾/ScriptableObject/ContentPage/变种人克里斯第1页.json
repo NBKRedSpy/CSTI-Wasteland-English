@@ -1,7 +1,7 @@
 {
   "PageTitle": {
-    "DefaultText": "\u57FA\u672C\u5DE5\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "基本工具",
+    "LocalizationKey": "T-OWolcIgrep2lSkc9pUdf/YNstxw=",
     "ParentObjectID": ""
   },
   "RightButton": {
@@ -150,7 +150,7 @@
   ],
   "GlobalPageLinks": [],
   "LeftButtonWarpType": 3,
-  "LeftButtonWarpData": "\u89D2\u8272\u5267\u672C_\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u4EBA\u7269\u76EE\u6807_Default",
+  "LeftButtonWarpData": "角色剧本_变种人克里斯人物目标_Default",
   "RightButtonWarpType": 3,
-  "RightButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C2\u9875"
+  "RightButtonWarpData": "变种人克里斯第2页"
 }

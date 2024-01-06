@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5E03",
-    "LocalizationKey": "",
+    "DefaultText": "布",
+    "LocalizationKey": "T-DVLgZbtzPM9AFTckzGp0DG1aQdY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E03",
+  "CardImageWarpData": "布",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "12001fe50fad38efb8a154195561582a",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

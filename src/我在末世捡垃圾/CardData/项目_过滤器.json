@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8FC7\u6EE4\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "过滤器",
+    "LocalizationKey": "T-zIH/9YlNGv4qr9VlrHV6fPlRCRM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u672B\u65E5\u91CC\u9664\u4E86\u96E8\u6C34\u548C\u77FF\u6CC9\u6C34\uFF0C\u90FD\u9700\u8981\u8FC7\u6EE4",
-    "LocalizationKey": "",
+    "DefaultText": "末日里除了雨水和矿泉水，都需要过滤",
+    "LocalizationKey": "T-M7MrTwMgbpeD6KXK/QIJAu2Rszw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8FC7\u6EE4\u5668",
+  "CardImageWarpData": "过滤器",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5012\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "倒入",
+        "LocalizationKey": "T-5nk2vAzl/pmAnibAmP10JI/lb6g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -377,8 +377,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5DF2\u7ECF\u6EE1\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "已经满了",
+          "LocalizationKey": "T-roNzw8p4EB2kYLZeKb9LxJQSzBQ=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -474,8 +474,8 @@
   "ContentWeightReduction": 0.0,
   "CookingConditions": {
     "CookingPausedNotification": {
-      "DefaultText": "\u9700\u8981\u6C61\u6C34\uFF01",
-      "LocalizationKey": "",
+      "DefaultText": "需要污水！",
+      "LocalizationKey": "T-NOl/TnjINnt4bVZ8yF1u6vk1uuU=",
       "ParentObjectID": ""
     },
     "CookingPausedSound": {
@@ -504,8 +504,8 @@
   "CookingRecipes": [
     {
       "ActionName": {
-        "DefaultText": "\u5269\u4F59",
-        "LocalizationKey": "",
+        "DefaultText": "剩余",
+        "LocalizationKey": "T-83wDSpe740iyv0fvE1iBCbhBwBs=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -579,8 +579,8 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "DefaultText": "{0}后完成",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -668,8 +668,8 @@
     },
     {
       "ActionName": {
-        "DefaultText": "\u51C0\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "净水",
+        "LocalizationKey": "T-DyXJ3bxkQneOCOOKJGa/Cggkroo=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -743,8 +743,8 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "DefaultText": "{0}后完成",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -1895,8 +1895,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6C61\u6C34",
-      "LocalizationKey": "",
+      "DefaultText": "污水",
+      "LocalizationKey": "T-V0+qNY8RYbGn2Xl1poFYGXfinoA=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

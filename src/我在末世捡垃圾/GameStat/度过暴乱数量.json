@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u5EA6\u8FC7\u66B4\u4E71\u6570\u91CF",
+  "DefaultStatusIconWarpData": "度过暴乱数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u5EA6\u8FC7\u66B4\u4E71\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "度过暴乱数量",
+    "LocalizationKey": "T-lHmne+Nxve/mI3NJBlh3wLMjDUg=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

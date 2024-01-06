@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u5FC3\u5F8B\u4E0D\u9F50",
+  "DefaultStatusIconWarpData": "心律不齐",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u5FC3\u5F8B\u4E0D\u9F50",
-    "LocalizationKey": "",
+    "DefaultText": "心律不齐",
+    "LocalizationKey": "T-rt+gqOejuy6dKyJknappYBykqk4=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

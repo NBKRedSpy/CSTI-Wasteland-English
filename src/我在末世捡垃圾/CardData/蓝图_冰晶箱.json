@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u51B0\u6676\u7BB1",
-    "LocalizationKey": "",
+    "DefaultText": "冰晶箱",
+    "LocalizationKey": "T-L4nw27UTtf1g+/fH4TfAWwgwz4I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -389,7 +389,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51B0\u6676\u7BB1",
+  "CardImageWarpData": "冰晶箱",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3570,8 +3570,8 @@
   "UniqueID": "0ee0b501b13cb5ac901a05287a78ffe2",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u51B0\u5757",
-    "LocalizationKey": "",
+    "DefaultText": "需要冰块",
+    "LocalizationKey": "T-/bLK1UStMAAdr5xqUqFmHQ8H87g=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

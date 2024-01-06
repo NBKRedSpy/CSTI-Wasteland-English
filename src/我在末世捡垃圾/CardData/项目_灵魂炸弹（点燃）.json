@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7075\u9B42\u70B8\u5F39\uFF08\u70B9\u71C3\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "灵魂炸弹（点燃）",
+    "LocalizationKey": "T-9GIoVPhscaIrIHOaCFxXnp0uxZ4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u591A\u5E0C\u671B\u4F60\u4E0D\u7528\u5B83\u6765\u7167\u660E",
-    "LocalizationKey": "",
+    "DefaultText": "多希望你不用它来照明",
+    "LocalizationKey": "T-QzB6yA8g7QWo4MJyCBI+f581S8I=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7075\u9B42\u70B8\u5F39\uFF08\u70B9\u71C3\uFF09",
+  "CardImageWarpData": "灵魂炸弹（点燃）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5173\u95ED",
-        "LocalizationKey": "",
+        "DefaultText": "关闭",
+        "LocalizationKey": "T-bBS9f2+eVORgJNNd/ixFSMmjgh0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

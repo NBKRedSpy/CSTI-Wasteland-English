@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u4F60\u66F4\u96BE\u88AB\u602A\u7269\u653B\u51FB\u5230(\u81EA\u5E26100\u9632\u5FA1)",
-    "LocalizationKey": "",
+    "DefaultText": "你更难被怪物攻击到(自带100防御)",
+    "LocalizationKey": "T-o6y0gSp135QQ5Gegqbs2wf/9QTA=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u8EB2\u95EA\u5927\u5E08",
+  "PerkIconWarpData": "躲闪大师",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u8EB2\u95EA\u5927\u5E08",
-    "LocalizationKey": "",
+    "DefaultText": "躲闪大师",
+    "LocalizationKey": "T-hJJ01rfsbBG3AknwR4PjDWw87U0=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

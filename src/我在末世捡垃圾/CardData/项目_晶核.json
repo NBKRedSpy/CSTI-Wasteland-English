@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6676\u6838",
-    "LocalizationKey": "",
+    "DefaultText": "晶核",
+    "LocalizationKey": "T-rrljS5+VUt7LC1+fMraleW7nXwg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8574\u542B\u795E\u79D8\u7684\u529B\u91CF(\u6211\u8981\u628A\u5B83\u78E8\u788E)",
-    "LocalizationKey": "",
+    "DefaultText": "蕴含神秘的力量(我要把它磨碎)",
+    "LocalizationKey": "T-Sm8mvG7pDzNT9vkt67iNwKYeQas=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6676\u6838",
+  "CardImageWarpData": "晶核",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u78BE\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "碾碎",
+        "LocalizationKey": "T-2lez9ZE7TIqdCg8YIWjg8IFkU24=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

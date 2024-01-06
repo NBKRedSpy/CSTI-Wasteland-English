@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6297\u751F\u7D20",
-    "LocalizationKey": "",
+    "DefaultText": "抗生素",
+    "LocalizationKey": "T-n7rB+8q3YsrNXvptayQGQZFD8GA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5E94\u8BE5\u80FD\u5E94\u5BF9\u611F\u67D3\u548C\u53D8\u5F02\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "应该能应对感染和变异。",
+    "LocalizationKey": "T-9d7glLs8FRtYnUHFCvH32cJckLA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403\u836F",
-        "LocalizationKey": "",
+        "DefaultText": "吃药",
+        "LocalizationKey": "T-6ZpbjnK3W2fNPANan6q/sWvpiCA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

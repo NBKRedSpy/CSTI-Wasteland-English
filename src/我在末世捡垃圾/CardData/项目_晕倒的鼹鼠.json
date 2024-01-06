@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6655\u5012\u7684\u9F39\u9F20",
-    "LocalizationKey": "",
+    "DefaultText": "晕倒的鼹鼠",
+    "LocalizationKey": "T-zXXbn7pQzhmPK+kxN0SNjZH5KYo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5982\u679C\u5B83\u4E0D\u54AC\u6211\uFF0C\u6211\u4F1A\u8BD5\u7740\u9972\u517B\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "如果它不咬我，我会试着饲养它",
+    "LocalizationKey": "T-T2jap4s+QDQ5v6eA0ORr9yw37TM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6655\u5012\u7684\u9F39\u9F20",
+  "CardImageWarpData": "晕倒的鼹鼠",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5B9E\u9A8C\u4EEA\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "实验仪器",
+    "LocalizationKey": "T-k6TGtEmYmsC+jgRIdHXHNUh4vCk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u5E94\u8BE5\u627E\u4E2A\u5DE5\u5177\u6765\u62C6\u5378\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "我应该找个工具来拆卸它",
+    "LocalizationKey": "T-uGgT7janbya+oLlCPV1CoOCCLGs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5B9E\u9A8C\u4EEA\u5668",
+  "CardImageWarpData": "实验仪器",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u5378",
-        "LocalizationKey": "",
+        "DefaultText": "拆卸",
+        "LocalizationKey": "T-JfVe9ZcrjfjKM7EvUw5NHEbVwYw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -637,8 +637,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u5378",
-        "LocalizationKey": "",
+        "DefaultText": "拆卸",
+        "LocalizationKey": "T-JfVe9ZcrjfjKM7EvUw5NHEbVwYw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

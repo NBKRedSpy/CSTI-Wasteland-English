@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u62BD\u5956\u673A",
-    "LocalizationKey": "",
+    "DefaultText": "抽奖机",
+    "LocalizationKey": "T-p7OFoEAc3T12Dm8DtEhRjH885eY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u672B\u65E5\u91CC\u7684\u5A31\u4E50\u6D3B\u52A8\uFF0C\u522B\u4E0A\u763E\u4E86\uFF01(\u7528\u91D1\u5C5E\u788E\u7247\u6216\u8005\u6676\u6838\u4F5C\u4E3A\u7B79\u7801)",
-    "LocalizationKey": "",
+    "DefaultText": "末日里的娱乐活动，别上瘾了！(用金属碎片或者晶核作为筹码)",
+    "LocalizationKey": "T-tNqyBcJsql5k0ruViDRGkxNCDG8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u62BD\u5956\u673A",
+  "CardImageWarpData": "抽奖机",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62BD\u5956",
-        "LocalizationKey": "",
+        "DefaultText": "抽奖",
+        "LocalizationKey": "T-uu9Z9MVlyGRNN8Mlv3r6nOFUtbE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1750,7 +1750,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u62BD\u5956\u673A"
+        "抽奖机"
       ]
     },
     {
@@ -1771,8 +1771,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62BD\u5956",
-        "LocalizationKey": "",
+        "DefaultText": "抽奖",
+        "LocalizationKey": "T-uu9Z9MVlyGRNN8Mlv3r6nOFUtbE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3392,7 +3392,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u62BD\u5956\u673A"
+        "抽奖机"
       ]
     }
   ],
@@ -3472,8 +3472,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

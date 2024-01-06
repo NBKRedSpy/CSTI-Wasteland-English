@@ -1,19 +1,19 @@
 {
   "CardName": {
-    "DefaultText": "\u9632\u5F39\u8863",
-    "LocalizationKey": "",
+    "DefaultText": "防弹衣",
+    "LocalizationKey": "T-CANMpkQlS240xr6PPmSiIyACOYI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u6C89\u91CD\u7684\u5206\u91CF\u8BA9\u6211\u5F88\u5B89\u5FC3",
-    "LocalizationKey": "",
+    "DefaultText": "它沉重的分量让我很安心",
+    "LocalizationKey": "T-BtZ44ca1ok3KFEbJowctV4Zi1qQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Ears",
     "tag_InnerLegs",
-    "\u9632\u5177"
+    "防具"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9632\u5F39\u8863",
+  "CardImageWarpData": "防弹衣",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

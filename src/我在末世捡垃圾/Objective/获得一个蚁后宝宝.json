@@ -31,8 +31,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u83B7\u5F97\u4E00\u4E2A\u8681\u540E\u5B9D\u5B9D",
-    "LocalizationKey": "",
+    "DefaultText": "获得一个蚁后宝宝",
+    "LocalizationKey": "T-/apCf3tm2LcaCFFDHBc5NBRYo0Q=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

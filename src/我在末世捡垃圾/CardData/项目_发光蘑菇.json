@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u53D1\u5149\u8611\u83C7",
-    "LocalizationKey": "",
+    "DefaultText": "发光蘑菇",
+    "LocalizationKey": "T-p3QJJvig1d/8PcM6mi8+t/us2vU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u6563\u53D1\u7740\u5E7D\u84DD\u7684\u5149\u8292\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "它散发着幽蓝的光芒！",
+    "LocalizationKey": "T-mRSEOfCgaDhGXAyoRRoR5OiMjXs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u53D1\u5149\u8611\u83C7",
+  "CardImageWarpData": "发光蘑菇",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

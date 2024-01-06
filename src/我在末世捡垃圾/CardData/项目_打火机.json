@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u6253\u706B\u673A",
-    "LocalizationKey": "",
+    "DefaultText": "打火机",
+    "LocalizationKey": "T-BJ8lqQhCn4GDMHQDXKGEfQ7MEvM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u518D\u4E5F\u4E0D\u7528\u8D39\u52B2\u751F\u706B\u4E86(\u53EF\u4EE5\u7528\u9152\u7CBE\u548C\u56FA\u4F53\u71C3\u6599\u52A0\u8010\u4E45)",
-    "LocalizationKey": "",
+    "DefaultText": "我再也不用费劲生火了(可以用酒精和固体燃料加耐久)",
+    "LocalizationKey": "T-bZtHDzc2/l3gaDppiX8HrAxWbyA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u70B9\u706B\u5DE5\u5177"
+    "点火工具"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6253\u706B\u673A",
+  "CardImageWarpData": "打火机",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -482,8 +482,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u52A0\u9152\u7CBE",
-        "LocalizationKey": "",
+        "DefaultText": "加酒精",
+        "LocalizationKey": "T-gir3UfJ3THUrOK7XNw9ByvKM0xU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -836,8 +836,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u52A0\u56FA\u4F53\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "加固体燃料",
+        "LocalizationKey": "T-nGBDhwLsiElGKnuBetkqxtO/ez8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1186,8 +1186,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1537,8 +1537,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1888,8 +1888,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2239,8 +2239,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2590,8 +2590,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2941,8 +2941,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3292,8 +3292,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3643,8 +3643,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3994,8 +3994,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4345,8 +4345,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4696,8 +4696,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5047,8 +5047,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5398,8 +5398,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5749,8 +5749,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6100,8 +6100,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6451,8 +6451,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6802,8 +6802,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -7153,8 +7153,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

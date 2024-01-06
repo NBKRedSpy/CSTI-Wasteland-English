@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u68EE\u6797\u795E\u5E99",
-    "LocalizationKey": "",
+    "DefaultText": "森林神庙",
+    "LocalizationKey": "T-nkMU76fGMKDqPLPP+gmez4FKMTs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u68EE\u6797\u795E\u5E99",
+  "CardImageWarpData": "森林神庙",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6316\u571F",
-        "LocalizationKey": "",
+        "DefaultText": "挖土",
+        "LocalizationKey": "T-rSRHaBKdeDVVCKTbW0kI3nlvPl8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -646,8 +646,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6316\u5E72\u571F",
-        "LocalizationKey": "",
+        "DefaultText": "挖干土",
+        "LocalizationKey": "T-ZBSxyrZRXj4XiN4rfXMBAEOdQCk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1153,8 +1153,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u63A2\u7D22",
-        "LocalizationKey": "",
+        "DefaultText": "探索",
+        "LocalizationKey": "T-KRhjOsgRtvfjRiwhnw2VhbEq6+M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2521,7 +2521,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_0",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-LDEeDiuz73jNBkGE8hzR40LIfkc=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],

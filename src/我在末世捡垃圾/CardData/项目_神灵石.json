@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u795E\u7075\u77F3",
-    "LocalizationKey": "",
+    "DefaultText": "神灵石",
+    "LocalizationKey": "T-rvqp2O+ER40TWx8alQ3GM4MxDmA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8574\u542B\u7740\u65E0\u5C3D\u7684\u751F\u673A",
-    "LocalizationKey": "",
+    "DefaultText": "蕴含着无尽的生机",
+    "LocalizationKey": "T-TMAVDcuFM0E2AP4HLkMs/m7epRI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u795E\u7075\u77F3",
+  "CardImageWarpData": "神灵石",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

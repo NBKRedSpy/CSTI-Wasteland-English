@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u602A\u7269\u66B4\u4E71\u7684\u602A\u7269\u6570\u91CF\u4E0D\u4F1A\u968F\u7740\u65F6\u95F4\u589E\u957F",
-    "LocalizationKey": "",
+    "DefaultText": "怪物暴乱的怪物数量不会随着时间增长",
+    "LocalizationKey": "T-x67SlAy9I95o1bvEpanm70CQevA=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u602A\u7269\u66B4\u4E71",
+  "PerkIconWarpData": "怪物暴乱",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u602A\u7269\u66B4\u4E71\u4E0D\u589E\u957F",
-    "LocalizationKey": "",
+    "DefaultText": "怪物暴乱不增长",
+    "LocalizationKey": "T-urU6Sts96RZdX1nBYu0bv8/Qapk=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

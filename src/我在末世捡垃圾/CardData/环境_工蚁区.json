@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5DE5\u8681\u533A",
-    "LocalizationKey": "",
+    "DefaultText": "工蚁区",
+    "LocalizationKey": "T-JJekqAH8f9K3zknAv4ypO9wnm60=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5DE5\u8681\u533A",
+  "CardImageWarpData": "工蚁区",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

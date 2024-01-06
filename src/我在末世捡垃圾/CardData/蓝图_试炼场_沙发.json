@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6C99\u53D1",
-    "LocalizationKey": "",
+    "DefaultText": "沙发",
+    "LocalizationKey": "T-6Vtc+btj4kfDpVL2sRJHdKOaloM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6C99\u53D1",
+  "CardImageWarpData": "沙发",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "c6a5245712c0f52c2c50676a76732f23",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

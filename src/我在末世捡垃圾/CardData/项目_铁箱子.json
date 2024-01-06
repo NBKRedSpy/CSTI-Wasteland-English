@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u7BB1\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "铁箱子",
+    "LocalizationKey": "T-bzGcsFk8rgHJuqtwrfR15rG2eoA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u53EF\u4EE5\u628A\u7269\u54C1\u50A8\u5B58\u5728\u91CC\u9762\u3002\u003Cb\u003E\u53EF\u5728\u88C5\u5907\u680F\u88C5\u5907\u003C/b\u003E\n\n",
-    "LocalizationKey": "",
+    "DefaultText": "我可以把物品储存在里面。<b>可在装备栏装备</b>\n\n",
+    "LocalizationKey": "T-Kul6qt13LIO8h70rTYlyq9+qFBo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u7BB1\u5B50",
+  "CardImageWarpData": "铁箱子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

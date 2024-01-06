@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8840\u8272\u6597\u7BF7",
-    "LocalizationKey": "",
+    "DefaultText": "血色斗篷",
+    "LocalizationKey": "T-UfWYuKF0xU727SYs9MPCd12L/yo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8574\u542B\u7740\u65E0\u5C3D\u7684\u529B\u91CF\u3002\u003Cb\u003E\u5FC5\u987B\u88C5\u5907\u5728\u88C5\u5907\u680F\u624D\u80FD\u751F\u6548\u003C/b\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "蕴含着无尽的力量。<b>必须装备在装备栏才能生效</b>",
+    "LocalizationKey": "T-cNBcUwIMTLRPLCMerMQjrObSs7c=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8840\u8272\u6597\u7BF7",
+  "CardImageWarpData": "血色斗篷",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4FEE\u590D",
-        "LocalizationKey": "",
+        "DefaultText": "修复",
+        "LocalizationKey": "T-WQJTr0jMwjxIfGj+MO7AMZ0zO1k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

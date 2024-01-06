@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u84DD\u8272\u86CB\u7CD5",
-    "LocalizationKey": "",
+    "DefaultText": "蓝色蛋糕",
+    "LocalizationKey": "T-tcNPszVj1wYIvjCdgNKtiLnxJiA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u7684\u86CB\u7CD5\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "美味的蛋糕！",
+    "LocalizationKey": "T-QEmZCZ834klz6lkfJ/fj7X1ea9E=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u84DD\u8272\u86CB\u7CD5",
+  "CardImageWarpData": "蓝色蛋糕",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5E72\u6270\u4EEA",
-    "LocalizationKey": "",
+    "DefaultText": "干扰仪",
+    "LocalizationKey": "T-D1ASKW0otneX9UHbmVtbyoTv+GE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -1155,7 +1155,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E72\u6270\u4EEA",
+  "CardImageWarpData": "干扰仪",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -4336,8 +4336,8 @@
   "UniqueID": "c9a0408feb5640f913a68b37a9f1f920",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6676\u6838",
-    "LocalizationKey": "",
+    "DefaultText": "需要晶核",
+    "LocalizationKey": "T-GgY1h6svlGCJhXZ04nNV5BfICGk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

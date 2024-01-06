@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5851\u6599\u96E8\u8863",
-    "LocalizationKey": "",
+    "DefaultText": "塑料雨衣",
+    "LocalizationKey": "T-qn5FGNkm/NVM1/TDmpYghkrUaDw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5851\u6599\u96E8\u8863",
+  "CardImageWarpData": "塑料雨衣",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3666,8 +3666,8 @@
   "UniqueID": "e0efc927e95a7e8dfffa1931b6373e22",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5851\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "需要塑料",
+    "LocalizationKey": "T-q6mD+oLJHzRoHzMt1pmUAmCy9l4=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

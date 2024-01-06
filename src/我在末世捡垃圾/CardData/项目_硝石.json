@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u785D\u77F3",
-    "LocalizationKey": "",
+    "DefaultText": "硝石",
+    "LocalizationKey": "T-Db/O20jKHGMa23Vty/moCvMPQBQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u628A\u5B83\u78E8\u788E\u52A0\u4E0A\u786B\u78FA\u548C\u6C34\u5236\u6210\u786B\u9178",
-    "LocalizationKey": "",
+    "DefaultText": "把它磨碎加上硫磺和水制成硫酸",
+    "LocalizationKey": "T-w+QD0ozgpZ7EyjngVgrs0SyH4NQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u785D\u77F3",
+  "CardImageWarpData": "硝石",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7814\u78E8",
-        "LocalizationKey": "",
+        "DefaultText": "研磨",
+        "LocalizationKey": "T-xmwAZ90e3VV8Sa/RWeFSKEMcLiE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

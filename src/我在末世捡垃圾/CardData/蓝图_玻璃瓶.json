@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u73BB\u7483\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "玻璃瓶",
+    "LocalizationKey": "T-n/esIbHiyuU3gPaJ8QusJ1F3Kt4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73BB\u7483\u74F6",
+  "CardImageWarpData": "玻璃瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "8f278f75d7915f5c6c3b59af9e0003eb",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6C99\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "需要沙子",
+    "LocalizationKey": "T-DyfoNO756EPEsYa/sDDvEX2aqck=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

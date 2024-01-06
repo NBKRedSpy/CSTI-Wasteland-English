@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6FC0\u5149\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "激光枪",
+    "LocalizationKey": "T-Wg9z5y7hbdyDL9E5Dw57OYBtdgU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6BD5\u4E1A\u6B66\u5668\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "毕业武器！",
+    "LocalizationKey": "T-7lis7AQ0Js4FK/5/HUKfJPwKbCU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6FC0\u5149\u67AA",
+  "CardImageWarpData": "激光枪",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u5F39",
-        "LocalizationKey": "",
+        "DefaultText": "装弹",
+        "LocalizationKey": "T-vIjU4Dvi5bXpIk/uGnmgulRU3H8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -375,8 +375,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5B50\u5F39\u5DF2\u6EE1",
-          "LocalizationKey": "",
+          "DefaultText": "子弹已满",
+          "LocalizationKey": "T-Q1rpQSuUSO/8H/yKDMeIQIcZMv8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -4167,6 +4167,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

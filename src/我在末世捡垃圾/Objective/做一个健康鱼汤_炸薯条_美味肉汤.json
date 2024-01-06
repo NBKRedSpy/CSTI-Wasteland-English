@@ -63,8 +63,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u505A\u4E00\u4E2A\u5065\u5EB7\u9C7C\u6C64_\u70B8\u85AF\u6761_\u7F8E\u5473\u8089\u6C64",
-    "LocalizationKey": "",
+    "DefaultText": "做一个健康鱼汤_炸薯条_美味肉汤",
+    "LocalizationKey": "T-hhLeN60sLNVmSODSvBnh6EFqkTg=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

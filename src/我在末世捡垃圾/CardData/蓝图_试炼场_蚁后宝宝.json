@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8681\u540E\u5B9D\u5B9D",
-    "LocalizationKey": "",
+    "DefaultText": "蚁后宝宝",
+    "LocalizationKey": "T-qM/XNB5xwGyM6EO7EAYKcewY08U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8681\u540E\u5B9D\u5B9D",
+  "CardImageWarpData": "蚁后宝宝",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "af48a88d1a532f892375c552e831376e",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

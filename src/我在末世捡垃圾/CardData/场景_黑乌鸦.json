@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u4E4C\u9E26",
-    "LocalizationKey": "",
+    "DefaultText": "黑乌鸦",
+    "LocalizationKey": "T-dOHqb1Va3S6ZY6qj/NZHqF+oiQE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u5B89\u9759\u7684\u770B\u7740\u4F60(\u5B83\u559C\u6B22\u5C38\u5757\u548C\u5F69\u8272\u7684\u5B9D\u77F3\uFF0C\u4F60\u6700\u597D\u522B\u7528\u67AA\u6253\u5B83)",
-    "LocalizationKey": "",
+    "DefaultText": "它安静的看着你(它喜欢尸块和彩色的宝石，你最好别用枪打它)",
+    "LocalizationKey": "T-5sl/W5T599fgCAOREEVE9Q6UNck=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u4E4C\u9E26",
+  "CardImageWarpData": "黑乌鸦",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -605,8 +605,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1081,8 +1081,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "攻击",
+        "LocalizationKey": "T-hmnSkmlYUSWK0exnCO1ICv5pDp0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1557,8 +1557,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "攻击",
+        "LocalizationKey": "T-hmnSkmlYUSWK0exnCO1ICv5pDp0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2033,8 +2033,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "攻击",
+        "LocalizationKey": "T-hmnSkmlYUSWK0exnCO1ICv5pDp0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6194,7 +6194,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u4E4C\u9E26\u53EB"
+    "乌鸦叫"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

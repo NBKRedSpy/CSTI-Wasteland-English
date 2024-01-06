@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u86C7\u76AE\u5E3D",
-    "LocalizationKey": "",
+    "DefaultText": "蛇皮帽",
+    "LocalizationKey": "T-NdfLsEcxSaX3x2d2xn52ZJa52CE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -775,7 +775,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u86C7\u76AE\u5E3D",
+  "CardImageWarpData": "蛇皮帽",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3959,8 +3959,8 @@
   "UniqueID": "96abb715bbd12b6443a7e58e912953ae",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7EBA\u7EC7\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要纺织技能",
+    "LocalizationKey": "T-gu5smweblc8msBSzMNfVw+nXfSs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

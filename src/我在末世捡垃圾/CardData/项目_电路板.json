@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u7535\u8DEF\u677F",
-    "LocalizationKey": "",
+    "DefaultText": "电路板",
+    "LocalizationKey": "T-J9+ZR4K+D+Hax6cWEj3aIXRRFaM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u5927\u5757\u7684\u7535\u8DEF\u677F\uFF0C\u6211\u662F\u9009\u62E9\u76F4\u63A5\u62C6\u8FD8\u662F\u7528\u87BA\u4E1D\u5200\u6765\u62C6",
-    "LocalizationKey": "",
+    "DefaultText": "一大块的电路板，我是选择直接拆还是用螺丝刀来拆",
+    "LocalizationKey": "T-JhMV+bZ/eS3wbsNHS3FY2kl9tbw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u5C0F\u96F6\u4EF6"
+    "小零件"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7535\u8DEF\u677F",
+  "CardImageWarpData": "电路板",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "切碎",
+        "LocalizationKey": "T-6gieAzsBqWOQwo58rwRQqBCTNe8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -590,8 +590,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u89E3",
-        "LocalizationKey": "",
+        "DefaultText": "拆解",
+        "LocalizationKey": "T-GDPFm/RajRVzs5OJeCACAa0Ba84=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -605,7 +605,7 @@
         "TriggerCards": [],
         "TriggerTags": [],
         "TriggerTagsWarpData": [
-          "\u87BA\u4E1D\u5200"
+          "螺丝刀"
         ],
         "TriggerTagsWarpType": 3
       },

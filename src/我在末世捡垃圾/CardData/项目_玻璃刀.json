@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u73BB\u7483\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "玻璃刀",
+    "LocalizationKey": "T-BR3B1ryROVkVk7Rsg2YIVICx9tQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u65E2\u53EF\u4EE5\u5F53\u4F5C\u5200\uFF0C\u4E5F\u53EF\u4EE5\u5F53\u6210\u4E00\u4E2A\u6B66\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "既可以当作刀，也可以当成一个武器",
+    "LocalizationKey": "T-fvDDx17OjD1vJ2WX2Zh0xfFjYig=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73BB\u7483\u5200",
+  "CardImageWarpData": "玻璃刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3820,7 +3820,7 @@
   ],
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ],
   "ItemCardDataCardTabGpGroup": [
     "GpTag_CutterAdv",

@@ -1,19 +1,19 @@
 {
   "CardName": {
-    "DefaultText": "\u53D8\u5F02\u9C7C\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "变异鱼肉",
+    "LocalizationKey": "T-bJQnx5U4dd7QbEEpUcCpeY5VTwA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u770B\u8D77\u6765\u8FD8\u884C\uFF0C\u4F46\u662F\u6211\u6700\u597D\u8FD8\u662F\u522B\u751F\u5403\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "看起来还行，但是我最好还是别生吃！",
+    "LocalizationKey": "T-3BJKSv36xrh1RbPjiojAnxvmVyQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
     "tag_Fish",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u53D8\u5F02\u9C7C\u8089",
+  "CardImageWarpData": "变异鱼肉",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u814C\u5236",
-        "LocalizationKey": "",
+        "DefaultText": "腌制",
+        "LocalizationKey": "T-RJFTND74Wqdt5oLJNu7yOqJLZeg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -712,8 +712,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5236\u4F5C\u8BF1\u9975",
-        "LocalizationKey": "",
+        "DefaultText": "制作诱饵",
+        "LocalizationKey": "T-ru66cQDIbaGXhWvojRYnXrUbSag=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1223,8 +1223,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

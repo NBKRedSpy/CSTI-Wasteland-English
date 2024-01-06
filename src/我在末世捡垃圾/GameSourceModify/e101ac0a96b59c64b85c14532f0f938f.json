@@ -2,8 +2,8 @@
   "CookingRecipesWarpData": [
     {
       "ActionName": {
-        "DefaultText": "\u5939\u677F",
-        "LocalizationKey": "",
+        "DefaultText": "夹板",
+        "LocalizationKey": "T-ghMXdDSotorzP3cekEQdZnF1GaQ=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -77,8 +77,8 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "\u56FA\u5B9A\u80A2\u4F53\u4E2D",
-        "LocalizationKey": "",
+        "DefaultText": "固定肢体中",
+        "LocalizationKey": "T-2xxHNX5X1WXMdsZPO8SpJFz52mI=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -230,7 +230,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5939\u677F",
+      "EffectName": "夹板",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -343,7 +343,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u827E\u8349\u6577\u6599",
+      "EffectName": "艾草敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -534,7 +534,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u7279\u6B8A\u6577\u6599",
+      "EffectName": "特殊敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -724,7 +724,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u810F\u5E03",
+      "EffectName": "脏布",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -859,7 +859,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6728\u8D28\u6577\u6599",
+      "EffectName": "木质敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -992,7 +992,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u827E\u8349\u6577\u6599",
+      "EffectName": "艾草敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -1183,7 +1183,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u7279\u6B8A\u6577\u6599",
+      "EffectName": "特殊敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -1373,7 +1373,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u810F\u5E03",
+      "EffectName": "脏布",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -1508,7 +1508,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6728\u8D28\u6577\u6599",
+      "EffectName": "木质敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -1641,7 +1641,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u827E\u8349\u6577\u6599",
+      "EffectName": "艾草敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -1832,7 +1832,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u7279\u6B8A\u6577\u6599",
+      "EffectName": "特殊敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2022,7 +2022,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u810F\u5E03",
+      "EffectName": "脏布",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2157,7 +2157,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6728\u8D28\u6577\u6599",
+      "EffectName": "木质敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2290,7 +2290,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u827E\u8349\u6577\u6599",
+      "EffectName": "艾草敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2481,7 +2481,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u7279\u6B8A\u6577\u6599",
+      "EffectName": "特殊敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2671,7 +2671,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u810F\u5E03",
+      "EffectName": "脏布",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2806,7 +2806,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6728\u8D28\u6577\u6599",
+      "EffectName": "木质敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2939,7 +2939,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u827E\u8349\u6577\u6599",
+      "EffectName": "艾草敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -3130,7 +3130,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u7279\u6B8A\u6577\u6599",
+      "EffectName": "特殊敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -3320,7 +3320,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u810F\u5E03",
+      "EffectName": "脏布",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -3455,7 +3455,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6728\u8D28\u6577\u6599",
+      "EffectName": "木质敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -3588,7 +3588,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u827E\u8349\u6577\u6599",
+      "EffectName": "艾草敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -3779,7 +3779,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u7279\u6B8A\u6577\u6599",
+      "EffectName": "特殊敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -3969,7 +3969,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u810F\u5E03",
+      "EffectName": "脏布",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -4104,7 +4104,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6728\u8D28\u6577\u6599",
+      "EffectName": "木质敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -4237,7 +4237,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u827E\u8349\u6577\u6599",
+      "EffectName": "艾草敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -4428,7 +4428,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u7279\u6B8A\u6577\u6599",
+      "EffectName": "特殊敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -4618,7 +4618,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u810F\u5E03",
+      "EffectName": "脏布",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -4753,7 +4753,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6728\u8D28\u6577\u6599",
+      "EffectName": "木质敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -4886,7 +4886,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u827E\u8349\u6577\u6599",
+      "EffectName": "艾草敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -5077,7 +5077,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u7279\u6B8A\u6577\u6599",
+      "EffectName": "特殊敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -5267,7 +5267,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u810F\u5E03",
+      "EffectName": "脏布",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -5402,7 +5402,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6728\u8D28\u6577\u6599",
+      "EffectName": "木质敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,

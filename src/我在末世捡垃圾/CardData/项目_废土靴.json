@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u571F\u9774",
-    "LocalizationKey": "",
+    "DefaultText": "废土靴",
+    "LocalizationKey": "T-+FLC1eEBs8o9i8WxBwsmfqyHotM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u94C1\u76AE\u548C\u76AE\u9769\u505A\u6210\u7684\u9774\u5B50\uFF0C\u8010\u7528\u4E14\u539A\u91CD",
-    "LocalizationKey": "",
+    "DefaultText": "铁皮和皮革做成的靴子，耐用且厚重",
+    "LocalizationKey": "T-F0tpOA8xUbgUK43gqlkBe87HKnA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u571F\u9774",
+  "CardImageWarpData": "废土靴",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F1D\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "缝补",
+        "LocalizationKey": "T-aDH+nnisXWjpHOdPFi/L5gDAWFg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

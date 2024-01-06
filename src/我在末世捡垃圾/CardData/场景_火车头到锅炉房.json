@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9501\u7740\u7684\u9505\u7089\u623F",
-    "LocalizationKey": "",
+    "DefaultText": "锁着的锅炉房",
+    "LocalizationKey": "T-qlbsGYXoLpSbYNZt5gJXfZ8HFqQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9700\u8981\u7528\u62E8\u7247\u6253\u5F00\n\n\u003Cb\u003E\uFF08\u53EA\u6709\u624B\u724C\u53EF\u4EE5\u5E26\u8D70\uFF09\u003C/b\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "需要用拨片打开\n\n<b>（只有手牌可以带走）</b>",
+    "LocalizationKey": "T-Bx6KXowCutkLwXJQNtKeyw85fU4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9501\u7740\u7684\u9505\u7089\u623F",
+  "CardImageWarpData": "锁着的锅炉房",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5F00\u9501",
-        "LocalizationKey": "",
+        "DefaultText": "开锁",
+        "LocalizationKey": "T-Q08K4++EI0rNc7xooN647jIRbzs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -541,8 +541,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80",
-        "LocalizationKey": "",
+        "DefaultText": "前往",
+        "LocalizationKey": "T-I5JtYUaM5gqjt7WyL+xsaNA49jY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -751,8 +751,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u672A\u89E3\u9501",
-          "LocalizationKey": "",
+          "DefaultText": "未解锁",
+          "LocalizationKey": "T-slpQnVYfnO08+8mlQkN17SN73KY=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u827E\u8349\u751F\u5316\u516C\u53F8",
-    "LocalizationKey": "",
+    "DefaultText": "艾草生化公司",
+    "LocalizationKey": "T-dAJ6qPRJyp2svTBuQfrJado9+yc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u827E\u8349\u751F\u5316\u516C\u53F8",
+  "CardImageWarpData": "艾草生化公司",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

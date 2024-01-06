@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6587\u76F2",
+  "DefaultStatusIconWarpData": "文盲",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6587\u76F2",
-    "LocalizationKey": "",
+    "DefaultText": "文盲",
+    "LocalizationKey": "T-sa5YiRU/77IgQ0yBoA4Aa2kOoAo=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

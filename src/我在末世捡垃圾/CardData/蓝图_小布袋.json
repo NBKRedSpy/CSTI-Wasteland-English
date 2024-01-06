@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5C0F\u5E03\u888B",
-    "LocalizationKey": "",
+    "DefaultText": "小布袋",
+    "LocalizationKey": "T-hAN+MgyAcNMnpI4h302UcGrtph0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5C0F\u5E03\u888B",
+  "CardImageWarpData": "小布袋",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3666,8 +3666,8 @@
   "UniqueID": "18d4ece8ee5bbea4d78bee352f178383",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7EA4\u7EF4",
-    "LocalizationKey": "",
+    "DefaultText": "需要纤维",
+    "LocalizationKey": "T-7xfhinPZEHt2JGMj6KQmribdKWE=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

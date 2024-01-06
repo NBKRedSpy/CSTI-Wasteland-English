@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u9999\u8549\u51B0",
-    "LocalizationKey": "",
+    "DefaultText": "香蕉冰",
+    "LocalizationKey": "T-haCxaPVEvNwzL8MO+e3+W48IfU4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u51B0\u68CD\u91CC\u9762\u85CF\u7740\u9999\u8549",
-    "LocalizationKey": "",
+    "DefaultText": "冰棍里面藏着香蕉",
+    "LocalizationKey": "T-ITCy5idR5Ttbvp39oB7iovD+EwE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9999\u8549\u51B0",
+  "CardImageWarpData": "香蕉冰",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

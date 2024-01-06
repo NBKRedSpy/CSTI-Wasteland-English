@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5851\u6599\u96E8\u8863",
-    "LocalizationKey": "",
+    "DefaultText": "塑料雨衣",
+    "LocalizationKey": "T-qn5FGNkm/NVM1/TDmpYghkrUaDw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4EF6\u5851\u6599\u96E8\u8863\uFF0C\u53EF\u4EE5\u5E2E\u6211\u6321\u96E8\u3002\u003Cb\u003E\u5FC5\u987B\u88C5\u5907\u5728\u88C5\u5907\u680F\u624D\u80FD\u751F\u6548\u003C/b\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "一件塑料雨衣，可以帮我挡雨。<b>必须装备在装备栏才能生效</b>",
+    "LocalizationKey": "T-oWI+FMff6L5K7Za46ynwWft0h+g=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5851\u6599\u96E8\u8863",
+  "CardImageWarpData": "塑料雨衣",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F1D\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "缝补",
+        "LocalizationKey": "T-aDH+nnisXWjpHOdPFi/L5gDAWFg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -544,8 +544,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u89E3",
-        "LocalizationKey": "",
+        "DefaultText": "拆解",
+        "LocalizationKey": "T-GDPFm/RajRVzs5OJeCACAa0Ba84=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

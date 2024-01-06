@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u62D4\u4E1D\u9999\u8549",
-    "LocalizationKey": "",
+    "DefaultText": "拔丝香蕉",
+    "LocalizationKey": "T-E4GAb4fQbKjl5gqpjMSdkG0bZhM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u751C\u751C\u7684\uFF0C\u5F88\u7F8E\u5473\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "甜甜的，很美味！",
+    "LocalizationKey": "T-uSolevOh7f/EEFRs+WoafpqoF2A=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u62D4\u4E1D\u9999\u8549",
+  "CardImageWarpData": "拔丝香蕉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -192,8 +192,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403",
-        "LocalizationKey": "",
+        "DefaultText": "吃",
+        "LocalizationKey": "T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

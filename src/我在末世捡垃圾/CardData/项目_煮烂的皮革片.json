@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u716E\u70C2\u7684\u76AE\u9769\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "煮烂的皮革片",
+    "LocalizationKey": "T-dIgH8iBXBNmASKl0lFgbDWhK1o4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u716E\u70C2\u7684\u76AE\u9769\u7247",
+  "CardImageWarpData": "煮烂的皮革片",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

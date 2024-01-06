@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E07\u80FD\u836F\u4E38",
-    "LocalizationKey": "",
+    "DefaultText": "万能药丸",
+    "LocalizationKey": "T-vxSSqKkgWORjkM+/CEJcVnKWgfo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u65E0\u654C\u7684\u5C0F\u836F\u4E38",
-    "LocalizationKey": "",
+    "DefaultText": "无敌的小药丸",
+    "LocalizationKey": "T-K5UJAdtbsk4OeknSQ91U7CQtOTw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E07\u80FD\u836F\u4E38",
+  "CardImageWarpData": "万能药丸",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403\u4E86\u5B83",
-        "LocalizationKey": "",
+        "DefaultText": "吃了它",
+        "LocalizationKey": "T-f33Sh19leB6JrVLwUpk0zcC8NKw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

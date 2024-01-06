@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u706B\u70AC",
-    "LocalizationKey": "",
+    "DefaultText": "火炬",
+    "LocalizationKey": "T-JMwQ/ZyiKn/UP5nXb+GZet/Qba8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u706B\u70AC",
+  "CardImageWarpData": "火炬",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "3ec1552cc6473d6473655177b2f193f8",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u56FA\u4F53\u71C3\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "需要固体燃料",
+    "LocalizationKey": "T-mgewZh01khNH7D9PF409+N10kso=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u98DF\u4EBA\u82B1",
-    "LocalizationKey": "",
+    "DefaultText": "食人花",
+    "LocalizationKey": "T-T4p3mMrQTYdCxP13c96VUMpXPLA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u770B\u8D77\u6765\u5F88\u997F\uFF0C\u7ED9\u5B83\u4E9B\u5C38\u5757\u8BD5\u8BD5",
-    "LocalizationKey": "",
+    "DefaultText": "它看起来很饿，给它些尸块试试",
+    "LocalizationKey": "T-9oPYzFBvD1EuIussHmnIsfc7hXY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u98DF\u4EBA\u82B1",
+  "CardImageWarpData": "食人花",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u94B3\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "钳子",
+    "LocalizationKey": "T-lpPl2iA8fxXj1HO58OlWg9NWlno=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u53EF\u4EE5\u5FEB\u901F\u62C6\u5F00\u7BB1\u5B50\uFF0C\u4E5F\u662F\u9AD8\u7EA7\u5236\u4F5C\u7684\u5FC5\u9700\u54C1",
-    "LocalizationKey": "",
+    "DefaultText": "可以快速拆开箱子，也是高级制作的必需品",
+    "LocalizationKey": "T-wiS9WbGslD91qvPf2ZUupYkADx0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Hammer",
-    "\u94B3\u5B50"
+    "钳子"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94B3\u5B50",
+  "CardImageWarpData": "钳子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5904\u7406\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "处理器",
+    "LocalizationKey": "T-tDZnScQetXFcCgYDQWIVPzBs4lc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u8FD8\u4E0D\u77E5\u9053\u5B83\u6709\u4EC0\u4E48\u7528",
-    "LocalizationKey": "",
+    "DefaultText": "我还不知道它有什么用",
+    "LocalizationKey": "T-xRZt+dRhXao/+/2WhOYVLw09Ir8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5904\u7406\u5668",
+  "CardImageWarpData": "处理器",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

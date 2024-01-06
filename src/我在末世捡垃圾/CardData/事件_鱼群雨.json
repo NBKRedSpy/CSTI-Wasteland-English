@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9C7C\u7FA4\u96E8",
-    "LocalizationKey": "",
+    "DefaultText": "鱼群雨",
+    "LocalizationKey": "T-G035bntrbkq04AfojGhVJsc+qbc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5929\u4E0A\u843D\u4E0B\u4E86\u4E00\u5806\u9C7C\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "天上落下了一堆鱼！",
+    "LocalizationKey": "T-Gj+U6595t2NqA/jZ3xyA+iKLvpU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9C7C\u7FA4\u96E8",
+  "CardImageWarpData": "鱼群雨",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4527,7 +4527,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u9C7C\u7FA4\u96E8"
+    "鱼群雨"
   ],
   "WhenCreatedSoundsWarpType": 3,
   "SpawningBlockedByWarpType": 3,

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9F39\u9F20\u670B\u53CB",
-    "LocalizationKey": "",
+    "DefaultText": "鼹鼠朋友",
+    "LocalizationKey": "T-3Y7ErCcvBIgLMUHjFQiEfcYWagM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5927\u591A\u6570\u60C5\u51B5\u4E0B\uFF0C\u5B83\u662F\u4E00\u4E2A\u5FE0\u8BDA\u53CB\u597D\u7684\u540C\u4F34\u2026\u2026",
-    "LocalizationKey": "",
+    "DefaultText": "大多数情况下，它是一个忠诚友好的同伴……",
+    "LocalizationKey": "T-bb/81hAUI3ZwPt/tmXZ5RCFgcg8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9F39\u9F20\u670B\u53CB",
+  "CardImageWarpData": "鼹鼠朋友",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5582\u98DF",
-        "LocalizationKey": "",
+        "DefaultText": "喂食",
+        "LocalizationKey": "T-WbzdULC8F33lZk95fgyebhdrV0o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -611,8 +611,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u8FD8\u4E0D\u997F\u3002",
-          "LocalizationKey": "",
+          "DefaultText": "还不饿。",
+          "LocalizationKey": "T-ogrrCmhUeJoMBv1ryf0WdjCT5TE=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -715,8 +715,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5582\u98DF",
-        "LocalizationKey": "",
+        "DefaultText": "喂食",
+        "LocalizationKey": "T-WbzdULC8F33lZk95fgyebhdrV0o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1192,8 +1192,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u8FD8\u4E0D\u997F\u3002",
-          "LocalizationKey": "",
+          "DefaultText": "还不饿。",
+          "LocalizationKey": "T-ogrrCmhUeJoMBv1ryf0WdjCT5TE=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1296,8 +1296,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5582\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "喂水",
+        "LocalizationKey": "T-z+JJ1C4kSnw+0zRqKj7ReZp5Hmg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1546,8 +1546,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u8FD8\u4E0D\u6E34\u3002",
-          "LocalizationKey": "",
+          "DefaultText": "还不渴。",
+          "LocalizationKey": "T-0oIFhBCPSGBIRD0AFQuuVEhFJ2k=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1650,8 +1650,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6740\u5BB3\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "杀害！",
+        "LocalizationKey": "T-rvQWLzAefA4xs4rX1cDGbXbXryo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2301,8 +2301,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u629A\u6478",
-        "LocalizationKey": "",
+        "DefaultText": "抚摸",
+        "LocalizationKey": "T-Ro3uUd9UeHFxQGRzyaXEXp7g17c=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3303,7 +3303,7 @@
         "Active": true,
         "FloatValue": 10.0
       },
-      "EffectName": "\u5403\u9971\u559D\u8DB3",
+      "EffectName": "吃饱喝足",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -3376,8 +3376,8 @@
   "Progress": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u538B\u529B",
-      "LocalizationKey": "",
+      "DefaultText": "压力",
+      "LocalizationKey": "T-rvTLnQD0AnGy2Zt/WR1qCMhNK5g=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -3895,8 +3895,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u72EC\u5904\u65F6\u95F4",
-      "LocalizationKey": "",
+      "DefaultText": "独处时间",
+      "LocalizationKey": "T-6F6muvPXBJltlqHGibP4QqB7AvE=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5270,8 +5270,8 @@
   "SpecialDurability4": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u4FBF\u4FBF",
-      "LocalizationKey": "",
+      "DefaultText": "便便",
+      "LocalizationKey": "T-KRF5HSKxAHKRIHrjPhWGz9uT4WE=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5786,8 +5786,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u9965\u997F",
-      "LocalizationKey": "",
+      "DefaultText": "饥饿",
+      "LocalizationKey": "T-2SASeWGGAhqt6P1kGjxkLoyJ9Hc=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -6357,8 +6357,8 @@
   "UsageDurability": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u53E3\u6E34",
-      "LocalizationKey": "",
+      "DefaultText": "口渴",
+      "LocalizationKey": "T-csSTnKC73dFSPymbWZ0vE3+CzjI=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -6589,8 +6589,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6E34\u6B7B\u4E86",
-        "LocalizationKey": "",
+        "DefaultText": "渴死了",
+        "LocalizationKey": "T-z9Y0oFFhMV3ruGA+yjE+RJSgrS4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

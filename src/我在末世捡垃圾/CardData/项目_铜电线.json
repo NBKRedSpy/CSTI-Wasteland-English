@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94DC\u7535\u7EBF",
-    "LocalizationKey": "",
+    "DefaultText": "铜电线",
+    "LocalizationKey": "T-ds492j4h7s5gs2eznQdyzGzAMxM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94DC\u7535\u7EBF",
+  "CardImageWarpData": "铜电线",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

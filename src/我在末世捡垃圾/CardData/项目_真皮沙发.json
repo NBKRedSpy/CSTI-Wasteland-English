@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u771F\u76AE\u6C99\u53D1",
-    "LocalizationKey": "",
+    "DefaultText": "真皮沙发",
+    "LocalizationKey": "T-q+Cn3IV0vVw84NaDEdm1B5CTDFw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u771F\u76AE\u6C99\u53D1",
+  "CardImageWarpData": "真皮沙发",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -566,8 +566,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

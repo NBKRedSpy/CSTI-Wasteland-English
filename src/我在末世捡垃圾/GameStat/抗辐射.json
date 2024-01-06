@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6297\u8F90\u5C04",
+  "DefaultStatusIconWarpData": "抗辐射",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6297\u8F90\u5C04",
-    "LocalizationKey": "",
+    "DefaultText": "抗辐射",
+    "LocalizationKey": "T-T8EEJwEZ7PLOmF98NMSP/2ETdYI=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -115,8 +115,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u6297\u8F90\u5C04\u7684\u7B2C1\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "抗辐射的第1阶段",
+        "LocalizationKey": "T-0llqqU7sKflCYK0H+ny+YYkCJhE=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -124,7 +124,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u6297\u8F90\u5C04",
+      "IconWarpData": "抗辐射",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

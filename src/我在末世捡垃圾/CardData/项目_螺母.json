@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u87BA\u6BCD",
-    "LocalizationKey": "",
+    "DefaultText": "螺母",
+    "LocalizationKey": "T-q5XtsZviFqPALeph3S3oPQVEPEU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5DE5\u4E1A\u5236\u4F5C\u5FC5\u4E0D\u53EF\u5C11\u7684\u5B58\u5728",
-    "LocalizationKey": "",
+    "DefaultText": "工业制作必不可少的存在",
+    "LocalizationKey": "T-Cxqpq69sY7QYWdncVLqna7Q7SAo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u5C0F\u96F6\u4EF6"
+    "小零件"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u87BA\u6BCD",
+  "CardImageWarpData": "螺母",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

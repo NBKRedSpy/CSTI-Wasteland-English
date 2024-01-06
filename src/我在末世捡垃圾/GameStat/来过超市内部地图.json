@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6765\u8FC7\u8D85\u5E02\u5185\u90E8\u5730\u56FE",
+  "DefaultStatusIconWarpData": "来过超市内部地图",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6765\u8FC7\u8D85\u5E02\u5185\u90E8\u5730\u56FE",
-    "LocalizationKey": "",
+    "DefaultText": "来过超市内部地图",
+    "LocalizationKey": "T-/AmkupPwxHBBdmhSF335pql1oR4=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

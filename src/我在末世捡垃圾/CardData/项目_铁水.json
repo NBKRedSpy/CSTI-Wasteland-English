@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "铁水",
+    "LocalizationKey": "T-rPUcNc+OupiokyqiqKdqbZVnR6E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u5E94\u8BE5\u628A\u5B83\u653E\u5230\u7194\u7089\u91CC",
-    "LocalizationKey": "",
+    "DefaultText": "我应该把它放到熔炉里",
+    "LocalizationKey": "T-MMgfjDvSAyu7Z6TmOA9nd643oNw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u70E7\u5236\u7684"
+    "可烧制的"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u6C34",
+  "CardImageWarpData": "铁水",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D47\u7B51",
-        "LocalizationKey": "",
+        "DefaultText": "浇筑",
+        "LocalizationKey": "T-58iGLTfJ5aQiI7lqMvTzy8n/Wc0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -486,8 +486,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D47\u7B51",
-        "LocalizationKey": "",
+        "DefaultText": "浇筑",
+        "LocalizationKey": "T-58iGLTfJ5aQiI7lqMvTzy8n/Wc0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1115,8 +1115,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u94C1\u6C34\u51C9\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "铁水凉了！",
+        "LocalizationKey": "T-mjTZ7cFCbtOn7rDECE0wMLrdS6A=",
         "ParentObjectID": ""
       },
       "ActionLog": {

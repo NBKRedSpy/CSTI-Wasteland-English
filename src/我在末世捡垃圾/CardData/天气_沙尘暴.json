@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6C99\u5C18\u66B4",
-    "LocalizationKey": "",
+    "DefaultText": "沙尘暴",
+    "LocalizationKey": "T-oA9gReusJ8fSWbrGG2pA6yvUJF0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E07\u7269\u98DE\u5C18\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "万物飞尘！",
+    "LocalizationKey": "T-AxpM522DSAVlU98WDLkc/ILYeV4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6C99\u5C18\u66B4",
+  "CardImageWarpData": "沙尘暴",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

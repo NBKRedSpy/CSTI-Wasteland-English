@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4E00\u76D2\u9999\u70DF",
-    "LocalizationKey": "",
+    "DefaultText": "一盒香烟",
+    "LocalizationKey": "T-hn7XZ3D92Q4R5cZq9z2GaKpHR2k=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E00\u76D2\u9999\u70DF",
+  "CardImageWarpData": "一盒香烟",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "48de31a328b085a770906c6fe1c71cea",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u8FF7\u7CCA\u83C7",
-    "LocalizationKey": "",
+    "DefaultText": "需要迷糊菇",
+    "LocalizationKey": "T-eDRyMFMnzoWjxBK4G7yp9STPKoY=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

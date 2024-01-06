@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5F3A\u5316\u7684\u5E9F\u571F\u76AE\u88E4",
-    "LocalizationKey": "",
+    "DefaultText": "强化的废土皮裤",
+    "LocalizationKey": "T-308KtcNj7y8zw4SNg1u0LAlQKiU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -592,7 +592,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5F3A\u5316\u7684\u5E9F\u571F\u76AE\u88E4",
+  "CardImageWarpData": "强化的废土皮裤",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3776,8 +3776,8 @@
   "UniqueID": "5622604e38b82cb9964973898cbff0a7",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7EBA\u7EC7\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要纺织技能",
+    "LocalizationKey": "T-gu5smweblc8msBSzMNfVw+nXfSs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

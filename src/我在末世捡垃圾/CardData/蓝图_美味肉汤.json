@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7F8E\u5473\u8089\u6C64",
-    "LocalizationKey": "",
+    "DefaultText": "美味肉汤",
+    "LocalizationKey": "T-ItAZEozQGlnajK9h1KruW5mwGSs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u6C49\u5821\u8089",
+          "RequiredTabGroupWarpData": "汉堡肉",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -569,7 +569,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7F8E\u5473\u8089\u6C64",
+  "CardImageWarpData": "美味肉汤",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3750,8 +3750,8 @@
   "UniqueID": "4649c6cff1ab2ddbbb07fc89dc640482",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u9505",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪锅",
+    "LocalizationKey": "T-EZ2lCGtDFxlbmwVGFCO7QHAFLiY=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

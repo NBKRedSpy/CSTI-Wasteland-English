@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5012\u4E0B\u7684\u67F3\u6849\u6811",
-    "LocalizationKey": "",
+    "DefaultText": "倒下的柳桉树",
+    "LocalizationKey": "T-y5t0AY8HOgkIDMtqcKhA2lC1fec=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5012\u4E0B\u7684\u67F3\u6849\u6811",
+  "CardImageWarpData": "倒下的柳桉树",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u780D\u4F10",
-        "LocalizationKey": "",
+        "DefaultText": "砍伐",
+        "LocalizationKey": "T-R5f9+Ml8rknbEY6gSYyhoGgthj8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -566,8 +566,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u780D\u4F10",
-        "LocalizationKey": "",
+        "DefaultText": "砍伐",
+        "LocalizationKey": "T-R5f9+Ml8rknbEY6gSYyhoGgthj8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1062,8 +1062,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5BFB\u627E",
-        "LocalizationKey": "",
+        "DefaultText": "寻找",
+        "LocalizationKey": "T-qOIq2CyTEZE4lrwl6wRLee4vtLc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1271,8 +1271,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6CA1\u4EC0\u4E48\u80FD\u7EE7\u7EED\u53D1\u73B0\u7684\u4E86\u3002",
-          "LocalizationKey": "",
+          "DefaultText": "没什么能继续发现的了。",
+          "LocalizationKey": "T-cWT44wtit7zkurojAAynJo1Q9HI=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,

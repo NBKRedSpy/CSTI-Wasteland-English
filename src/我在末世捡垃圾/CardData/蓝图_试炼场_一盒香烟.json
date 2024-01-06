@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4E00\u76D2\u9999\u70DF",
-    "LocalizationKey": "",
+    "DefaultText": "一盒香烟",
+    "LocalizationKey": "T-hn7XZ3D92Q4R5cZq9z2GaKpHR2k=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E00\u76D2\u9999\u70DF",
+  "CardImageWarpData": "一盒香烟",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "3ac2320c08f8e530f25386f31a2ed3b8",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

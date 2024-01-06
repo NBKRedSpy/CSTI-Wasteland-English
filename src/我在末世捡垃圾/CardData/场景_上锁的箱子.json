@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E0A\u9501\u7684\u7BB1\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "上锁的箱子",
+    "LocalizationKey": "T-3yxgmNOBjTX2aXD+5F3kJuAZp7w=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u91CC\u9762\u85CF\u7740\u597D\u4E1C\u897F",
-    "LocalizationKey": "",
+    "DefaultText": "里面藏着好东西",
+    "LocalizationKey": "T-uLG48AdST+N1dPRj9Qh/DfB1CgY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E0A\u9501\u7684\u7BB1\u5B50",
+  "CardImageWarpData": "上锁的箱子",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D82\u62B9",
-        "LocalizationKey": "",
+        "DefaultText": "涂抹",
+        "LocalizationKey": "T-1QKi0UtNarv6J/ig3avIVkqHA5g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -479,8 +479,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u66B4\u529B\u5F00\u9501",
-        "LocalizationKey": "",
+        "DefaultText": "暴力开锁",
+        "LocalizationKey": "T-Hp/6D3uImVr1/Er5HUqp1SXVuOU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -499,7 +499,7 @@
         ],
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
-          "\u94B3\u5B50"
+          "钳子"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -834,8 +834,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u66B4\u529B\u5F00\u9501",
-        "LocalizationKey": "",
+        "DefaultText": "暴力开锁",
+        "LocalizationKey": "T-Hp/6D3uImVr1/Er5HUqp1SXVuOU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -853,8 +853,8 @@
         ],
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
-          "\u6273\u624B",
-          "\u87BA\u4E1D\u5200"
+          "扳手",
+          "螺丝刀"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -1189,8 +1189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u66B4\u529B\u5F00\u9501",
-        "LocalizationKey": "",
+        "DefaultText": "暴力开锁",
+        "LocalizationKey": "T-Hp/6D3uImVr1/Er5HUqp1SXVuOU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1540,8 +1540,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u66B4\u529B\u5F00\u9501",
-        "LocalizationKey": "",
+        "DefaultText": "暴力开锁",
+        "LocalizationKey": "T-Hp/6D3uImVr1/Er5HUqp1SXVuOU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1891,8 +1891,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5F00\u9501",
-        "LocalizationKey": "",
+        "DefaultText": "开锁",
+        "LocalizationKey": "T-Q08K4++EI0rNc7xooN647jIRbzs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2613,8 +2613,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8E39\u4E00\u811A",
-        "LocalizationKey": "",
+        "DefaultText": "踹一脚",
+        "LocalizationKey": "T-Mmz+rsSx4sPV/NVrIp/Cae+xugg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5507,8 +5507,8 @@
   "SpecialDurability3": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u795E\u4E4B\u4E00\u811A",
-      "LocalizationKey": "",
+      "DefaultText": "神之一脚",
+      "LocalizationKey": "T-oxrkItkaZ0MxB+W/EYskhYwnC3A=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5937,8 +5937,8 @@
   "SpecialDurability4": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6DA6\u6ED1",
-      "LocalizationKey": "",
+      "DefaultText": "润滑",
+      "LocalizationKey": "T-vfkaBveMz/gtpPjERs/4eUkWKHY=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

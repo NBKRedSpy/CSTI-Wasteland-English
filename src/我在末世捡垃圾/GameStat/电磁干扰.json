@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u7535\u78C1\u5E72\u6270",
+  "DefaultStatusIconWarpData": "电磁干扰",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u7535\u78C1\u5E72\u6270",
-    "LocalizationKey": "",
+    "DefaultText": "电磁干扰",
+    "LocalizationKey": "T-Bsy2U53NirZLpgyBUYinxE0cnPc=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

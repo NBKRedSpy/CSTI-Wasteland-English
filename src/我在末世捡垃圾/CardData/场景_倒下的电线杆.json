@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5012\u4E0B\u7684\u7535\u7EBF\u6746",
-    "LocalizationKey": "",
+    "DefaultText": "倒下的电线杆",
+    "LocalizationKey": "T-5qtP6mJOD55cmdJQHHV7uU7lJiM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5012\u4E0B\u7684\u7535\u7EBF\u6746",
+  "CardImageWarpData": "倒下的电线杆",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u526A",
-        "LocalizationKey": "",
+        "DefaultText": "剪",
+        "LocalizationKey": "T-5xzwQ969W4r7Kv50bU82CO121cY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -147,7 +147,7 @@
         "TriggerCards": [],
         "TriggerTags": [],
         "TriggerTagsWarpData": [
-          "\u94B3\u5B50"
+          "钳子"
         ],
         "TriggerTagsWarpType": 3
       },

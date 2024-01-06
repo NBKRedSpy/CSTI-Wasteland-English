@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6052\u6E29\u8863",
-    "LocalizationKey": "",
+    "DefaultText": "恒温衣",
+    "LocalizationKey": "T-90QiY1t0Ha112AcvyQPEBsdQQjg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6052\u6E29\u8863",
+  "CardImageWarpData": "恒温衣",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u52A0\u9152\u7CBE",
-        "LocalizationKey": "",
+        "DefaultText": "加酒精",
+        "LocalizationKey": "T-gir3UfJ3THUrOK7XNw9ByvKM0xU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -379,8 +379,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u52A0\u6EE1\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "加满了",
+          "LocalizationKey": "T-5zekWBlCp9THMdlOw8IeQk6Suss=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -483,8 +483,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u52A0\u56FA\u4F53\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "加固体燃料",
+        "LocalizationKey": "T-nGBDhwLsiElGKnuBetkqxtO/ez8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -729,8 +729,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u52A0\u6EE1\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "加满了",
+          "LocalizationKey": "T-5zekWBlCp9THMdlOw8IeQk6Suss=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -3358,8 +3358,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6E29\u5EA6",
-      "LocalizationKey": "",
+      "DefaultText": "温度",
+      "LocalizationKey": "T-076p77G57fasOX2AEeKODopQfPM=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

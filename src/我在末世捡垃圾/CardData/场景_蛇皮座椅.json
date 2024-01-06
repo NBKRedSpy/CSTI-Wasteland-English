@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u86C7\u76AE\u5EA7\u6905",
-    "LocalizationKey": "",
+    "DefaultText": "蛇皮座椅",
+    "LocalizationKey": "T-5QYnBrJZoKITXT5VQP6+QSoBPG4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4E2A\u8986\u76D6\u7740\u86C7\u76AE\u7684\u5EA7\u6905\uFF0C\u6BD4\u4E00\u822C\u7684\u6728\u6905\u5B50\u66F4\u7CBE\u81F4",
-    "LocalizationKey": "",
+    "DefaultText": "一个覆盖着蛇皮的座椅，比一般的木椅子更精致",
+    "LocalizationKey": "T-sUqbCNbl1RU9GL0zA6iRu1QrfEk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u86C7\u76AE\u5EA7\u6905",
+  "CardImageWarpData": "蛇皮座椅",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8FD0\u8F6C",
-        "LocalizationKey": "",
+        "DefaultText": "运转",
+        "LocalizationKey": "T-45BUoBoLQxhUn7qvGaIwYdk0Tp0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -449,8 +449,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4F11\u606F",
-        "LocalizationKey": "",
+        "DefaultText": "休息",
+        "LocalizationKey": "T-2hHVdjS2dR8+ztPlsIiJYRNI6Hk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -711,8 +711,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u51A5\u60F3",
-        "LocalizationKey": "",
+        "DefaultText": "冥想",
+        "LocalizationKey": "T-n4NK9inFQTzqPbdrwjIEwGBCUYA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1030,8 +1030,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u642C\u8D70",
-        "LocalizationKey": "",
+        "DefaultText": "搬走",
+        "LocalizationKey": "T-DOpL2mBkHjmaeRi18Z0PdBDux68=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9AA8\u7259\u9879\u94FE",
-    "LocalizationKey": "",
+    "DefaultText": "骨牙项链",
+    "LocalizationKey": "T-ax2l7UXC1yTFAKw+kH37vTb6xG4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u53EF\u4EE5\u6234\u4E24\u4E2A\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "我可以戴两个！",
+    "LocalizationKey": "T-ZXJXJ7c9DioBl2l4n9RThHSILeg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -389,7 +389,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9AA8\u7259\u9879\u94FE",
+  "CardImageWarpData": "骨牙项链",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3570,8 +3570,8 @@
   "UniqueID": "3b3b470b94b3346382accd8a487096ff",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5C16\u7259",
-    "LocalizationKey": "",
+    "DefaultText": "需要尖牙",
+    "LocalizationKey": "T-Av3itmKUO9srrDyVqHBn+JjFRFk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

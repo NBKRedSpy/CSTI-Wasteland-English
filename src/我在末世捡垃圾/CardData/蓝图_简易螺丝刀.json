@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u87BA\u4E1D\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "简易螺丝刀",
+    "LocalizationKey": "T-FbFGXdjt6X//JxVd+KWR28xQUdQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -389,7 +389,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u87BA\u4E1D\u5200",
+  "CardImageWarpData": "简易螺丝刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3570,8 +3570,8 @@
   "UniqueID": "42d954a07a14debae2f31f20a6854f2c",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5C5E\u788E\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "需要金属碎片",
+    "LocalizationKey": "T-NFPIvrBPfjYghfwhozqVcKfxEvk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

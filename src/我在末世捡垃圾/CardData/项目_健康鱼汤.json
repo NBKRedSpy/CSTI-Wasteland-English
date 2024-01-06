@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5065\u5EB7\u9C7C\u6C64",
-    "LocalizationKey": "",
+    "DefaultText": "健康鱼汤",
+    "LocalizationKey": "T-0IA4kx/bEtLOSwtshCsIeTjJTPo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u65E2\u7F8E\u5473\u53C8\u80FD\u6CBB\u7597\u8EAB\u5FC3\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "既美味又能治疗身心！",
+    "LocalizationKey": "T-xXQDtqJJYZiJy8VB2OoqcXs0wJ8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5065\u5EB7\u9C7C\u6C64",
+  "CardImageWarpData": "健康鱼汤",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

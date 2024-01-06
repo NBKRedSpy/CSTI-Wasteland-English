@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6C61\u6CE5",
-    "LocalizationKey": "",
+    "DefaultText": "污泥",
+    "LocalizationKey": "T-J5LcqhEwUJm6ZNb16/NCfi1mauo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6216\u8BB8\u653E\u5230\u706B\u4E0A\u70E4\u70E4\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "或许放到火上烤烤？",
+    "LocalizationKey": "T-sPQsujHkXKT5KqciOccaQ7v07O0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6C61\u6CE5",
+  "CardImageWarpData": "污泥",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

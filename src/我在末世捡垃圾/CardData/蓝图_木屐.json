@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u5C50",
-    "LocalizationKey": "",
+    "DefaultText": "木屐",
+    "LocalizationKey": "T-V6TL4K0ZPaLKYkxLL9Ae4hrKbO4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u5C50",
+  "CardImageWarpData": "木屐",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3666,8 +3666,8 @@
   "UniqueID": "0547a934fa2a9297bf2d3f55bbf593cf",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u67F3\u6849\u6728",
-    "LocalizationKey": "",
+    "DefaultText": "需要柳桉木",
+    "LocalizationKey": "T-+4SorQfEkXVVPCBzVuSYT2YPpvs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

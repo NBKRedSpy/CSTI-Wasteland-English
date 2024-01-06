@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u82CF\u6253\u6C34\u6548\u679C",
+  "DefaultStatusIconWarpData": "苏打水效果",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -31,8 +31,8 @@
     "ParentObjectID": ""
   },
   "Description": {
-    "DefaultText": "\u4F60\u611F\u89C9\u53C8\u6709\u52B2\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "你感觉又有劲了",
+    "LocalizationKey": "T-lhP3WhwSCya1e3RC/Fg9fLvsxko=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u82CF\u6253\u6C34\u6548\u679C",
-    "LocalizationKey": "",
+    "DefaultText": "苏打水效果",
+    "LocalizationKey": "T-Us97BNAltMI3vOheufcm4L7uRA8=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -88,8 +88,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u4F60\u611F\u89C9\u53C8\u6709\u52B2\u4E86",
-        "LocalizationKey": "",
+        "DefaultText": "你感觉又有劲了",
+        "LocalizationKey": "T-lhP3WhwSCya1e3RC/Fg9fLvsxko=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -153,8 +153,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u82CF\u6253\u6C34\u6548\u679C",
-        "LocalizationKey": "",
+        "DefaultText": "苏打水效果",
+        "LocalizationKey": "T-Us97BNAltMI3vOheufcm4L7uRA8=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -162,7 +162,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u82CF\u6253\u6C34\u6548\u679C",
+      "IconWarpData": "苏打水效果",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

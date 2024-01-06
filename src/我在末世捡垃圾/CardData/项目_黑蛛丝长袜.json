@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u86DB\u4E1D\u957F\u889C",
-    "LocalizationKey": "",
+    "DefaultText": "黑蛛丝长袜",
+    "LocalizationKey": "T-HaRZ3zrgAEyEyUHhF30ga2xf+6A=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6D17\u5E72\u51C0\u5C31\u662F\u767D\u4E1D\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "洗干净就是白丝了",
+    "LocalizationKey": "T-0jHP8h6cIter6P5JgpWIXv9rn2E=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u86DB\u4E1D\u957F\u889C",
+  "CardImageWarpData": "黑蛛丝长袜",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F1D\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "缝补",
+        "LocalizationKey": "T-aDH+nnisXWjpHOdPFi/L5gDAWFg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -486,8 +486,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6E05\u6D17",
-        "LocalizationKey": "",
+        "DefaultText": "清洗",
+        "LocalizationKey": "T-zVZHb1bF4mgo3BSaZWdw0cG5/pI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -668,8 +668,8 @@
       "RequiredGivenContainerTag": [],
       "RequiredGivenDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6C34\u4E0D\u591F",
-          "LocalizationKey": "",
+          "DefaultText": "水不够",
+          "LocalizationKey": "T-T5KyGPYoUBmwFRbM7+wnffBFx5s=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -838,8 +838,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6E05\u6D17",
-        "LocalizationKey": "",
+        "DefaultText": "清洗",
+        "LocalizationKey": "T-zVZHb1bF4mgo3BSaZWdw0cG5/pI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1019,8 +1019,8 @@
       "RequiredGivenContainerTag": [],
       "RequiredGivenDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6C34\u4E0D\u591F",
-          "LocalizationKey": "",
+          "DefaultText": "水不够",
+          "LocalizationKey": "T-T5KyGPYoUBmwFRbM7+wnffBFx5s=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1248,8 +1248,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6495\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "撕开",
+        "LocalizationKey": "T-6YTeA4bczoVSrqAdyaMhfIlrbnI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2107,7 +2107,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6DCB\u96E8",
+      "EffectName": "淋雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2265,7 +2265,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,

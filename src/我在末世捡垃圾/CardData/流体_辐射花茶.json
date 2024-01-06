@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8F90\u5C04\u82B1\u8336",
-    "LocalizationKey": "",
+    "DefaultText": "辐射花茶",
+    "LocalizationKey": "T-IpfIiJqagSFKZfFUso5mOpQD/6I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E0E\u5F00\u6C34\u53D1\u751F\u5316\u5B66\u53CD\u5E94\u7684\u8F90\u5C04\u82B1\u50AC\u751F\u51FA\u72EC\u7279\u7684\u8F90\u5C04\u82B1\u6548\u679C\uFF0C\u62E5\u6709\u7740\u5F3A\u5927\u7684\u7CBE\u795E\u52A0\u6210",
-    "LocalizationKey": "",
+    "DefaultText": "与开水发生化学反应的辐射花催生出独特的辐射花效果，拥有着强大的精神加成",
+    "LocalizationKey": "T-+Yhnkv854tAOMRJoXB93B/0PxCc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8F90\u5C04\u82B1\u8336",
+  "CardImageWarpData": "辐射花茶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u559D",
-        "LocalizationKey": "",
+        "DefaultText": "喝",
+        "LocalizationKey": "T-mYLFztGa7MR3eYQxvsuzRaYu/cA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1081,7 +1081,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u655E\u53E3\u5BB9\u5668",
+      "EffectName": "敞口容器",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

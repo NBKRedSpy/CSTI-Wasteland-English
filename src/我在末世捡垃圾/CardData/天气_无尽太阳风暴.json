@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u65E0\u5C3D\u592A\u9633\u98CE\u66B4",
-    "LocalizationKey": "",
+    "DefaultText": "无尽太阳风暴",
+    "LocalizationKey": "T-e21tInMWA6wRqznnJgOLWlxI5Vo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E07\u7269\u7194\u708E\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "万物熔炎！",
+    "LocalizationKey": "T-B3coA9tjm8FEH6/+X4uuSpXGG70=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u592A\u9633\u98CE\u66B4",
+  "CardImageWarpData": "太阳风暴",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

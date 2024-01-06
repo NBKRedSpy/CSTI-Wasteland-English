@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5730\u4E0B\u5BA4",
-    "LocalizationKey": "",
+    "DefaultText": "地下室",
+    "LocalizationKey": "T-iGeIap8PRIMFDNyNQTVrH9nunbM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5730\u4E0B\u5BA4",
+  "CardImageWarpData": "地下室",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

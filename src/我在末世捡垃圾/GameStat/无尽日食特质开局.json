@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u65E0\u5C3D\u65E5\u98DF\u7279\u8D28\u5F00\u5C40",
+  "DefaultStatusIconWarpData": "无尽日食特质开局",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u65E0\u5C3D\u65E5\u98DF\u7279\u8D28\u5F00\u5C40",
-    "LocalizationKey": "",
+    "DefaultText": "无尽日食特质开局",
+    "LocalizationKey": "T-usQiMyktdUpptAWHEZIl6ZnuJdQ=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

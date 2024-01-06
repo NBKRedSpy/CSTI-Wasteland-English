@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u571F\u8170\u5305",
-    "LocalizationKey": "",
+    "DefaultText": "废土腰包",
+    "LocalizationKey": "T-zL2qXpKiHzQHohQaBqbFsRir9ZY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5E03\u6599\u548C\u76AE\u9769\u7B80\u5355\u7F1D\u5236\u800C\u6210\u7684\u8170\u5305\uFF0C\u80FD\u88C5\u4E0D\u5C11\u4E1C\u897F",
-    "LocalizationKey": "",
+    "DefaultText": "布料和皮革简单缝制而成的腰包，能装不少东西",
+    "LocalizationKey": "T-2ktOzKCBPLJLW9JLz+ttYgLPKj0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u571F\u8170\u5305",
+  "CardImageWarpData": "废土腰包",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F1D\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "缝补",
+        "LocalizationKey": "T-aDH+nnisXWjpHOdPFi/L5gDAWFg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

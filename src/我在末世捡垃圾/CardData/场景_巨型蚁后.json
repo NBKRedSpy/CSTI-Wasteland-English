@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5DE8\u578B\u8681\u540E",
-    "LocalizationKey": "",
+    "DefaultText": "巨型蚁后",
+    "LocalizationKey": "T-/TdrcVUx832e2rUxZVj7M9+2CjA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8681\u65CF\u7684\u9886\u5BFC\u8005\uFF0C\u732E\u7ED9\u5979\u8DB3\u591F\u591A\u7684\u98DF\u7269\u6709\u60CA\u559C",
-    "LocalizationKey": "",
+    "DefaultText": "蚁族的领导者，献给她足够多的食物有惊喜",
+    "LocalizationKey": "T-dZXKD1WCxquPTalZvgQgCN2Lb3E=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5DE8\u578B\u8681\u540E",
+  "CardImageWarpData": "巨型蚁后",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2122,7 +2122,7 @@
     "ShowPopupOnZero": false,
     "TextDisplay": 0,
     "OverrideIconWarpType": 3,
-    "OverrideIconWarpData": "\u5927\u578B\u5C38\u5757"
+    "OverrideIconWarpData": "大型尸块"
   },
   "SpecialDurability2": {
     "Active": false,

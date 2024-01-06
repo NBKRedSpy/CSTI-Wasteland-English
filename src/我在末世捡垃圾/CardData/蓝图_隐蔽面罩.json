@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9690\u853D\u9762\u7F69",
-    "LocalizationKey": "",
+    "DefaultText": "隐蔽面罩",
+    "LocalizationKey": "T-KrLccEYApo4JMoS6G1fCFjzANRo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -580,7 +580,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9690\u853D\u9762\u7F69",
+  "CardImageWarpData": "隐蔽面罩",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3761,8 +3761,8 @@
   "UniqueID": "75ef6db9e9594415618b76fad268fb9d",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u9ED1\u7FBD\u6BDB",
-    "LocalizationKey": "",
+    "DefaultText": "需要黑羽毛",
+    "LocalizationKey": "T-yNTnbgWckPW16mpzFxY75cyVh5o=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

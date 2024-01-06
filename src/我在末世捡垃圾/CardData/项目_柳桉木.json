@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u67F3\u6849\u6728",
-    "LocalizationKey": "",
+    "DefaultText": "柳桉木",
+    "LocalizationKey": "T-ap8CVo2/CbNsL9MrUK7WjYvjEhI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8868\u9762\u55B7\u4E0A\u7279\u6B8A\u7684\u9632\u8150\u8010\u706B\u55B7\u6F06\uFF0C\u5E38\u7528\u4E8E\u5BB6\u5177\u5EFA\u6750\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "表面喷上特殊的防腐耐火喷漆，常用于家具建材！",
+    "LocalizationKey": "T-O/4cEZtW/HOSRDXSCW4wzNnCgrg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u67F3\u6849\u6728",
+  "CardImageWarpData": "柳桉木",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5236\u4F5C\u6728\u94F2",
-        "LocalizationKey": "",
+        "DefaultText": "制作木铲",
+        "LocalizationKey": "T-hDesdQ/phlk0LHzJxavEfiJhq8g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -590,8 +590,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5236\u4F5C\u6728\u94F2",
-        "LocalizationKey": "",
+        "DefaultText": "制作木铲",
+        "LocalizationKey": "T-hDesdQ/phlk0LHzJxavEfiJhq8g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1049,8 +1049,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1428,8 +1428,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1807,8 +1807,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2245,8 +2245,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u6210\u6728\u6750",
-        "LocalizationKey": "",
+        "DefaultText": "切成木材",
+        "LocalizationKey": "T-LYgCOUtUKrveWJk91xp6r8IhW8E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2667,8 +2667,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u6210\u6728\u677F",
-        "LocalizationKey": "",
+        "DefaultText": "切成木板",
+        "LocalizationKey": "T-aY2fG4YQFGcNatP27M/JxizS/yM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3089,8 +3089,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u6210\u5C0F\u6811\u679D",
-        "LocalizationKey": "",
+        "DefaultText": "切成小树枝",
+        "LocalizationKey": "T-MIbB9fTYZSQWIY3OM4fFH8kgm/s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3511,8 +3511,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u6210\u957F\u6728\u68CD",
-        "LocalizationKey": "",
+        "DefaultText": "切成长木棍",
+        "LocalizationKey": "T-qGQaAvimGWG+hKhQG8xgK1tk38Y=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3933,8 +3933,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u6210\u6728\u677F",
-        "LocalizationKey": "",
+        "DefaultText": "切成木板",
+        "LocalizationKey": "T-aY2fG4YQFGcNatP27M/JxizS/yM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4355,8 +4355,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u6210\u6728\u6750",
-        "LocalizationKey": "",
+        "DefaultText": "切成木材",
+        "LocalizationKey": "T-LYgCOUtUKrveWJk91xp6r8IhW8E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4777,8 +4777,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u6210\u5C0F\u6811\u679D",
-        "LocalizationKey": "",
+        "DefaultText": "切成小树枝",
+        "LocalizationKey": "T-MIbB9fTYZSQWIY3OM4fFH8kgm/s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5199,8 +5199,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u6210\u957F\u6728\u68CD",
-        "LocalizationKey": "",
+        "DefaultText": "切成长木棍",
+        "LocalizationKey": "T-qGQaAvimGWG+hKhQG8xgK1tk38Y=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

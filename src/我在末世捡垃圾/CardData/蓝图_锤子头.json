@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9524\u5B50\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "锤子头",
+    "LocalizationKey": "T-x0ZPcl1kkgzKppACivPLYyuGE8E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -401,7 +401,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9524\u5B50\u5934",
+  "CardImageWarpData": "锤子头",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3582,8 +3582,8 @@
   "UniqueID": "73bfa8f88b42dede3abede63199b99c0",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94C1\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "需要铁水",
+    "LocalizationKey": "T-d3xGUZLUgwh3aWbbmP5b8g4yers=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

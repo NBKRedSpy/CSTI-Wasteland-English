@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6676\u6838",
-    "LocalizationKey": "",
+    "DefaultText": "晶核",
+    "LocalizationKey": "T-rrljS5+VUt7LC1+fMraleW7nXwg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6676\u6838",
+  "CardImageWarpData": "晶核",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "99030e5d214dede3a16425de134d509c",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u666E\u901A\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机普通难度",
+    "LocalizationKey": "T-+CqYpoqLCHQzDUa7VOeQ9oYgnWw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

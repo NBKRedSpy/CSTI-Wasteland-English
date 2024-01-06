@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u8F66\uFF08\u672A\u5B8C\u6210\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "废车（未完成）",
+    "LocalizationKey": "T-twlxzsdmc6wdTPK1AgkV6LjpTVo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u9700\u8981\u7528\u6750\u6599\u548C\u5DE5\u5177\u4FEE\u590D\u5B83\uFF08\u94C1\u76AE\u3001\u87BA\u4E1D\u5200\u3001\u9524\u5B50\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "我需要用材料和工具修复它（铁皮、螺丝刀、锤子）",
+    "LocalizationKey": "T-9ZKB4d681tkq9/Kq0oTzY9yCumI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u8F66\uFF08\u672A\u5B8C\u6210\uFF09",
+  "CardImageWarpData": "废车（未完成）",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u5378",
-        "LocalizationKey": "",
+        "DefaultText": "拆卸",
+        "LocalizationKey": "T-JfVe9ZcrjfjKM7EvUw5NHEbVwYw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -147,8 +147,8 @@
         "TriggerCards": [],
         "TriggerTags": [],
         "TriggerTagsWarpData": [
-          "\u6273\u624B",
-          "\u87BA\u4E1D\u5200"
+          "扳手",
+          "螺丝刀"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -181,7 +181,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u6273\u624B"
+            "扳手"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 4,
@@ -273,7 +273,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u87BA\u4E1D\u5200"
+            "螺丝刀"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 4,
@@ -722,7 +722,7 @@
             "m_FileID": 0,
             "m_PathID": 0
           },
-          "TriggerTagWarpData": "\u6273\u624B"
+          "TriggerTagWarpData": "扳手"
         },
         {
           "ExcludeInventories": false,
@@ -734,7 +734,7 @@
             "m_FileID": 0,
             "m_PathID": 0
           },
-          "TriggerTagWarpData": "\u87BA\u4E1D\u5200"
+          "TriggerTagWarpData": "螺丝刀"
         }
       ],
       "ResetWhenDone": {
@@ -777,8 +777,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u5378",
-        "LocalizationKey": "",
+        "DefaultText": "拆卸",
+        "LocalizationKey": "T-JfVe9ZcrjfjKM7EvUw5NHEbVwYw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -795,8 +795,8 @@
         "TriggerCards": [],
         "TriggerTags": [],
         "TriggerTagsWarpData": [
-          "\u6273\u624B",
-          "\u87BA\u4E1D\u5200"
+          "扳手",
+          "螺丝刀"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -1215,8 +1215,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6572",
-        "LocalizationKey": "",
+        "DefaultText": "敲",
+        "LocalizationKey": "T-Ckc3LZkd2rgjXZ9m6Adu9eSJl2s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1237,8 +1237,8 @@
         ],
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
-          "\u6273\u624B",
-          "\u94B3\u5B50"
+          "扳手",
+          "钳子"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -1469,8 +1469,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5DF2\u7ECF\u6572\u5F00\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "已经敲开了",
+          "LocalizationKey": "T-OhYu/raPDZhyHw/0nAi1W/A9ve0=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1573,8 +1573,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6572",
-        "LocalizationKey": "",
+        "DefaultText": "敲",
+        "LocalizationKey": "T-Ckc3LZkd2rgjXZ9m6Adu9eSJl2s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1822,8 +1822,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5DF2\u7ECF\u6572\u5F00\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "已经敲开了",
+          "LocalizationKey": "T-OhYu/raPDZhyHw/0nAi1W/A9ve0=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -2915,8 +2915,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u771F\u76AE\u6C99\u53D1",
-      "LocalizationKey": "",
+      "DefaultText": "真皮沙发",
+      "LocalizationKey": "T-q+Cn3IV0vVw84NaDEdm1B5CTDFw=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -3345,8 +3345,8 @@
   "SpecialDurability2": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u5F15\u64CE\u76D6",
-      "LocalizationKey": "",
+      "DefaultText": "引擎盖",
+      "LocalizationKey": "T-RyT3F4JmkhnTpsGWD9XIgBMEl/A=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -3775,8 +3775,8 @@
   "SpecialDurability3": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u8F6E\u80CE",
-      "LocalizationKey": "",
+      "DefaultText": "轮胎",
+      "LocalizationKey": "T-pwhCK1cuzO9KjfY9W8XhapN7P68=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -4205,8 +4205,8 @@
   "SpecialDurability4": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u7535\u6C60",
-      "LocalizationKey": "",
+      "DefaultText": "电池",
+      "LocalizationKey": "T-eOQuOM8Ro2hO66jKzcaIxmeUxnQ=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

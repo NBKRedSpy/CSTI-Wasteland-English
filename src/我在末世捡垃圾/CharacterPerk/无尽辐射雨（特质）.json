@@ -37,11 +37,11 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u8F90\u5C04\u96E8",
+  "PerkIconWarpData": "辐射雨",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u65E0\u5C3D\u8F90\u5C04\u96E8",
-    "LocalizationKey": "",
+    "DefaultText": "无尽辐射雨",
+    "LocalizationKey": "T-STqtfk3kw6npIU88ziLxZVP72Qs=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

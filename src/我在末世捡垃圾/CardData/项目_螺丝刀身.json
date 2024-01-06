@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u87BA\u4E1D\u5200\u8EAB",
-    "LocalizationKey": "",
+    "DefaultText": "螺丝刀身",
+    "LocalizationKey": "T-EITOyjdcMKmFqxVLTVsfEXnwGwQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u87BA\u4E1D\u5200\u8EAB",
+  "CardImageWarpData": "螺丝刀身",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -18,8 +18,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u71C3\u70E7\u74F6",
-        "LocalizationKey": "",
+        "DefaultText": "添入燃烧瓶",
+        "LocalizationKey": "T-IOPkPK8mzVjXdv6ReDJ9+MctMrY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -369,8 +369,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u67F3\u6849\u6728",
-        "LocalizationKey": "",
+        "DefaultText": "添入柳桉木",
+        "LocalizationKey": "T-9gcectLFs/jayp+DuPsNfJZ+Bxs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -719,8 +719,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u56FA\u4F53\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "添入固体燃料",
+        "LocalizationKey": "T-nrvGuejdhskV6xz+ucy3x2U7DC4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1069,8 +1069,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u7164\u77FF",
-        "LocalizationKey": "",
+        "DefaultText": "添入煤矿",
+        "LocalizationKey": "T-T4/2EVK6rOfxJK84Hi1LZ+T4pOI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

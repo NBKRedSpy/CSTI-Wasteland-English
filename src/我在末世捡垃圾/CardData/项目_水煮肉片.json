@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6C34\u716E\u8089\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "水煮肉片",
+    "LocalizationKey": "T-WuTyAPTszjtzbkCfTrg7JqMsW/g=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FA3\u6B7B\u4E86\uFF01\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "辣死了！！",
+    "LocalizationKey": "T-oAJpRIdGoHW4koVpbMr+XzXwNm0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6C34\u716E\u8089\u7247",
+  "CardImageWarpData": "水煮肉片",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -192,8 +192,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403",
-        "LocalizationKey": "",
+        "DefaultText": "吃",
+        "LocalizationKey": "T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

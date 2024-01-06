@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5927\u578B\u5C38\u5757",
-    "LocalizationKey": "",
+    "DefaultText": "大型尸块",
+    "LocalizationKey": "T-e6DnI/ll5BEVEJ+1tX5Ti+E9DsM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -191,7 +191,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u6C49\u5821\u8089",
+          "RequiredTabGroupWarpData": "汉堡肉",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -286,7 +286,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u6C49\u5821\u8089",
+          "RequiredTabGroupWarpData": "汉堡肉",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -381,7 +381,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u6C49\u5821\u8089",
+          "RequiredTabGroupWarpData": "汉堡肉",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -476,7 +476,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u6C49\u5821\u8089",
+          "RequiredTabGroupWarpData": "汉堡肉",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -579,7 +579,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5927\u578B\u5C38\u5757",
+  "CardImageWarpData": "大型尸块",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3763,8 +3763,8 @@
   "UniqueID": "b611600726ab481ea150b380e91a5ee1",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

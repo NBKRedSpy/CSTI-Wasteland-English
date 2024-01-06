@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6545\u4E8B\u4E66",
-    "LocalizationKey": "",
+    "DefaultText": "故事书",
+    "LocalizationKey": "T-YhhI969rHqv6tj/MHrk37WCMfOU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8001\u5957\u7684\u6545\u4E8B\uFF0C\u4F46\u662F\u5374\u5F88\u597D\u770B",
-    "LocalizationKey": "",
+    "DefaultText": "老套的故事，但是却很好看",
+    "LocalizationKey": "T-hF5PTKEiUxH31xZiMQlDO6kQsm4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6545\u4E8B\u4E66",
+  "CardImageWarpData": "故事书",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4E92\u52A8",
-        "LocalizationKey": "",
+        "DefaultText": "互动",
+        "LocalizationKey": "T-R39fRq83pxtSuLGmQggi+iK2CHM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -475,8 +475,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6495\u6BC1",
-        "LocalizationKey": "",
+        "DefaultText": "撕毁",
+        "LocalizationKey": "T-6t1gYWL5nFIAVkqBzHnHnTH0fC8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

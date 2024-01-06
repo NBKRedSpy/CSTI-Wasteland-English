@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u751F\u547D\u6E90\u6CC9",
-    "LocalizationKey": "",
+    "DefaultText": "生命源泉",
+    "LocalizationKey": "T-KcRFnTsXCvUG02uDzH7A3K5ZCjg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6563\u53D1\u7740\u5FAE\u5F31\u7684\u751F\u547D\u529B\uFF0C\u5B83\u80FD\u5F88\u597D\u7684\u6CBB\u6108\u6211\u7684\u6DE4\u9752",
-    "LocalizationKey": "",
+    "DefaultText": "散发着微弱的生命力，它能很好的治愈我的淤青",
+    "LocalizationKey": "T-4kyBbfTN1+Zaxk+FT3YWMg4Ap9Y=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u751F\u547D\u6E90\u6CC9",
+  "CardImageWarpData": "生命源泉",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D82\u62B9",
-        "LocalizationKey": "",
+        "DefaultText": "涂抹",
+        "LocalizationKey": "T-1QKi0UtNarv6J/ig3avIVkqHA5g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "12\u53E3\u5F84\u9730\u5F39\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "12口径霰弹枪",
+    "LocalizationKey": "T-WyxO3X3evt3HKIJU+tTHYswM1k4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5A01\u529B\u5F88\u5927\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "威力很大！",
+    "LocalizationKey": "T-E53F7i27kajvrMu/PJroOrpVdPk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "12\u53E3\u5F84\u9730\u5F39\u67AA",
+  "CardImageWarpData": "12口径霰弹枪",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u5F39",
-        "LocalizationKey": "",
+        "DefaultText": "装弹",
+        "LocalizationKey": "T-vIjU4Dvi5bXpIk/uGnmgulRU3H8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -375,8 +375,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5B50\u5F39\u5DF2\u6EE1",
-          "LocalizationKey": "",
+          "DefaultText": "子弹已满",
+          "LocalizationKey": "T-Q1rpQSuUSO/8H/yKDMeIQIcZMv8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -4167,6 +4167,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

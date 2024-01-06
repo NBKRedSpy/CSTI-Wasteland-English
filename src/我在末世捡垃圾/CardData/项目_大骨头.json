@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u5927\u9AA8\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "大骨头",
+    "LocalizationKey": "T-gMg73AmzbpJIax1XyqxF23TomSc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4E2A\u6709\u5206\u91CF\u7684\u9AA8\u5934\uFF0C\u770B\u8D77\u6765\u53EF\u4EE5\u6572\u788E(\u653E\u706B\u91CC\u8BD5\u8BD5\u5462)",
-    "LocalizationKey": "",
+    "DefaultText": "一个有分量的骨头，看起来可以敲碎(放火里试试呢)",
+    "LocalizationKey": "T-pPoerW/FZAcxF9aFDksWPjtn/Bs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5927\u9AA8\u5934",
+  "CardImageWarpData": "大骨头",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6572",
-        "LocalizationKey": "",
+        "DefaultText": "敲",
+        "LocalizationKey": "T-Ckc3LZkd2rgjXZ9m6Adu9eSJl2s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

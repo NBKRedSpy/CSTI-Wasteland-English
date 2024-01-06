@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u81ED\u6C34\u6C9F",
-    "LocalizationKey": "",
+    "DefaultText": "臭水沟",
+    "LocalizationKey": "T-4H6NuqhTJyE0KbWXTNXc5pk5IHE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u80AE\u810F\u7684\u6C34\u6E90\uFF0C\u4E5F\u8BB8\u53EF\u4EE5\u9493\u9C7C\u548C\u6316\u6C61\u6CE5",
-    "LocalizationKey": "",
+    "DefaultText": "肮脏的水源，也许可以钓鱼和挖污泥",
+    "LocalizationKey": "T-gpLdRMy0V1jjDN25BwHux/pnBIc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u81ED\u6C34\u6C9F",
+  "CardImageWarpData": "臭水沟",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53C9\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "叉鱼",
+        "LocalizationKey": "T-+HJCHyFlUn88MG+lJWrCGk9MmEU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -929,8 +929,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1615,8 +1615,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2301,8 +2301,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2666,8 +2666,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "轰隆！",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3128,8 +3128,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6316\u6C61\u6CE5",
-        "LocalizationKey": "",
+        "DefaultText": "挖污泥",
+        "LocalizationKey": "T-0Q49JMnqxsxzIvljP7tvjfTjSf0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3588,8 +3588,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6316\u6C61\u6CE5",
-        "LocalizationKey": "",
+        "DefaultText": "挖污泥",
+        "LocalizationKey": "T-0Q49JMnqxsxzIvljP7tvjfTjSf0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5433,8 +5433,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6D0B\u6D41\u51B2\u5237",
-      "LocalizationKey": "",
+      "DefaultText": "洋流冲刷",
+      "LocalizationKey": "T-8a/cZIWBIjLbYL3ksM34YKnGm+4=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

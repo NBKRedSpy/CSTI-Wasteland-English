@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u673A\u68B0\u8001\u864E\u54AC\u4F24\u6570\u91CF",
+  "DefaultStatusIconWarpData": "机械老虎咬伤数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u673A\u68B0\u8001\u864E\u54AC\u4F24\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "机械老虎咬伤数量",
+    "LocalizationKey": "T-+oyDcgkI7du5ZHVucwcHyrEjw/c=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

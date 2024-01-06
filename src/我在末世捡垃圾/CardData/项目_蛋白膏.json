@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u86CB\u767D\u818F",
-    "LocalizationKey": "",
+    "DefaultText": "蛋白膏",
+    "LocalizationKey": "T-ibov20dilMrFBBXkqwR7hpHjwS4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u505A\u7684\u597D\u770B\uFF0C\u4F46\u662F\u8FD8\u662F\u96BE\u4EE5\u4E0B\u54BD\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "做的好看，但是还是难以下咽！",
+    "LocalizationKey": "T-XdftWKuPPDkWuDIeXJIPyaEAyhE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u86CB\u767D\u818F",
+  "CardImageWarpData": "蛋白膏",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

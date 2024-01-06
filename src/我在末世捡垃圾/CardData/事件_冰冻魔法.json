@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u51B0\u51BB\u9B54\u6CD5",
-    "LocalizationKey": "",
+    "DefaultText": "冰冻魔法",
+    "LocalizationKey": "T-kQxT4MJpM4qU6LkriRVxT/eQ73Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5BD2\u51B7\u7684\u51B0\u523A\u5728\u4F60\u8EAB\u8FB9\u7A81\u8D77",
-    "LocalizationKey": "",
+    "DefaultText": "寒冷的冰刺在你身边突起",
+    "LocalizationKey": "T-/7hAcXCF2Hmcl0p0Doa2hokpir4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51B0\u51BB\u9B54\u6CD5",
+  "CardImageWarpData": "冰冻魔法",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4195,7 +4195,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u51B0\u51BB\u9B54\u6CD5"
+    "冰冻魔法"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

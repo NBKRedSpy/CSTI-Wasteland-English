@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6B65\u67AA\u5B50\u5F39\u5F39\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "步枪子弹弹头",
+    "LocalizationKey": "T-GPzVtZgF+2DJ48BcIBPrPeZCpD0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -486,7 +486,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6B65\u67AA\u5B50\u5F39\u5F39\u5934",
+  "CardImageWarpData": "步枪子弹弹头",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3667,8 +3667,8 @@
   "UniqueID": "2715c26a475f836ac9c985368ed17825",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94DC",
-    "LocalizationKey": "",
+    "DefaultText": "需要铜",
+    "LocalizationKey": "T-cRdZKELpW+sVNDn0m3aCf3sAOIo=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

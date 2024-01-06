@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u70B8\u85AF\u6761",
-    "LocalizationKey": "",
+    "DefaultText": "炸薯条",
+    "LocalizationKey": "T-EwtskACVQ3iH7G6QORGgSvuChnU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -470,7 +470,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70B8\u85AF\u6761",
+  "CardImageWarpData": "炸薯条",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3651,8 +3651,8 @@
   "UniqueID": "2a41aff084aaba4d925724d6151ec80f",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u9505",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪锅",
+    "LocalizationKey": "T-EZ2lCGtDFxlbmwVGFCO7QHAFLiY=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

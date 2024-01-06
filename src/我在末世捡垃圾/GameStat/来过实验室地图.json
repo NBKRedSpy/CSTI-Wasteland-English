@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6765\u8FC7\u5B9E\u9A8C\u5BA4\u5730\u56FE",
+  "DefaultStatusIconWarpData": "来过实验室地图",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6765\u8FC7\u5B9E\u9A8C\u5BA4\u5730\u56FE",
-    "LocalizationKey": "",
+    "DefaultText": "来过实验室地图",
+    "LocalizationKey": "T-55OU734m4cl56G1IOzZS8TKoTEU=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

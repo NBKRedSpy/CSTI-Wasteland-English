@@ -31,8 +31,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u4FEE\u7406\u597D\u6469\u6258\u8F66",
-    "LocalizationKey": "",
+    "DefaultText": "修理好摩托车",
+    "LocalizationKey": "T-VjX8TuevZnDTtxEvCCebtOG2MGk=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

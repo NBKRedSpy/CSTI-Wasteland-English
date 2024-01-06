@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "3\u4E2A\u73BB\u7483\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "3个玻璃瓶",
+    "LocalizationKey": "T-6NpGM5aty0l6sMIhJ1lKxnASsm8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73BB\u7483\u74F6",
+  "CardImageWarpData": "玻璃瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "a62531d6dd4dbebdce8427d8d5508b01",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u666E\u901A\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机普通难度",
+    "LocalizationKey": "T-+CqYpoqLCHQzDUa7VOeQ9oYgnWw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

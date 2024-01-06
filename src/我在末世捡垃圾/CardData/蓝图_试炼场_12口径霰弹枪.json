@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "12\u53E3\u5F84\u9730\u5F39\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "12口径霰弹枪",
+    "LocalizationKey": "T-WyxO3X3evt3HKIJU+tTHYswM1k4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "12\u53E3\u5F84\u9730\u5F39\u67AA",
+  "CardImageWarpData": "12口径霰弹枪",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "8d0ea9687068aacf8e179bc095d99d43",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u56F0\u96BE\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机困难难度",
+    "LocalizationKey": "T-B0BcysBt3fEXwm3GeF+vLO42l2g=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

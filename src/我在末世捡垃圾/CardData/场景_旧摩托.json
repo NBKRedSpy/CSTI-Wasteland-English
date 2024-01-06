@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u65E7\u6469\u6258",
-    "LocalizationKey": "",
+    "DefaultText": "旧摩托",
+    "LocalizationKey": "T-ntX2dajrlraV1Blpd1xUzQ3UdbQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u8981\u7528\u56FA\u4F53\u71C3\u6599\u6216\u8005\u9152\u7CBE\u88C5\u586B\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "我要用固体燃料或者酒精装填它",
+    "LocalizationKey": "T-U6LvWZLcrcFu3VU2Tuj+zIJCDGA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u65E7\u6469\u6258",
+  "CardImageWarpData": "旧摩托",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u52A0\u9152\u7CBE",
-        "LocalizationKey": "",
+        "DefaultText": "加酒精",
+        "LocalizationKey": "T-gir3UfJ3THUrOK7XNw9ByvKM0xU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -379,8 +379,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u52A0\u6EE1\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "加满了",
+          "LocalizationKey": "T-5zekWBlCp9THMdlOw8IeQk6Suss=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -483,8 +483,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u52A0\u56FA\u4F53\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "加固体燃料",
+        "LocalizationKey": "T-nGBDhwLsiElGKnuBetkqxtO/ez8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -729,8 +729,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u52A0\u6EE1\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "加满了",
+          "LocalizationKey": "T-5zekWBlCp9THMdlOw8IeQk6Suss=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -833,8 +833,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5220\u9664\u591A\u4F59\u6469\u6258",
-        "LocalizationKey": "",
+        "DefaultText": "删除多余摩托",
+        "LocalizationKey": "T-s3TNDxbG9J0sYdLq6uQKhmeP+gQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1242,8 +1242,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5DE5\u8681\u533A",
-        "LocalizationKey": "",
+        "DefaultText": "前往工蚁区",
+        "LocalizationKey": "T-VrkhucH5QDZax2pa5zAoAr1sKL0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1674,8 +1674,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4E0B\u6C34\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往下水道",
+        "LocalizationKey": "T-hz2XHFqasi2Ib/cdlkNoe0QlOr4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2106,8 +2106,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u540E\u5DE2\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁后巢穴",
+        "LocalizationKey": "T-t682KVz9aLrpvMYhv51M24G41f0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2538,8 +2538,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5175\u8681\u533A",
-        "LocalizationKey": "",
+        "DefaultText": "前往兵蚁区",
+        "LocalizationKey": "T-w5Dvm+RFKIR4AN5/4qd1XlD3bhI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2970,8 +2970,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3402,8 +3402,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u6DF1\u9083\u5730\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往深邃地道",
+        "LocalizationKey": "T-GQfvI2askqhRUX01pcca9OvSH4k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3834,8 +3834,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u706B\u8F66\u5934",
-        "LocalizationKey": "",
+        "DefaultText": "前往火车头",
+        "LocalizationKey": "T-linqZFjqrlNkrTuiFvlhSW5ZFuw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4266,8 +4266,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u706B\u8F66\u7AD9",
-        "LocalizationKey": "",
+        "DefaultText": "前往火车站",
+        "LocalizationKey": "T-Y8TF4zobzICB/MNsx5exntzrz7k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4698,8 +4698,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5DE5\u8681\u533A",
-        "LocalizationKey": "",
+        "DefaultText": "前往工蚁区",
+        "LocalizationKey": "T-VrkhucH5QDZax2pa5zAoAr1sKL0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5130,8 +5130,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u540E\u5DE2\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁后巢穴",
+        "LocalizationKey": "T-t682KVz9aLrpvMYhv51M24G41f0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5562,8 +5562,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁穴",
+        "LocalizationKey": "T-9C2RmBU2Vpu54NKvfmXjfotr07c=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5994,8 +5994,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u6DF1\u9083\u5730\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往深邃地道",
+        "LocalizationKey": "T-GQfvI2askqhRUX01pcca9OvSH4k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6426,8 +6426,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9505\u7089\u623F",
-        "LocalizationKey": "",
+        "DefaultText": "前往锅炉房",
+        "LocalizationKey": "T-yL0hp3MRXxOyaWkPOmHVcsygZHE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6858,8 +6858,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u706B\u8F66\u7AD9",
-        "LocalizationKey": "",
+        "DefaultText": "前往火车站",
+        "LocalizationKey": "T-Y8TF4zobzICB/MNsx5exntzrz7k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -7290,8 +7290,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -7722,8 +7722,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u6FC0\u5149\u901A\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往激光通道",
+        "LocalizationKey": "T-dRJqKPRdtnTFKOOmuZKB8szzE2E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -8154,8 +8154,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u827E\u8349\u751F\u5316\u516C\u53F8",
-        "LocalizationKey": "",
+        "DefaultText": "前往艾草生化公司",
+        "LocalizationKey": "T-CwZVWIiUBxJlJxmHETc9xzZU+PE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -8586,8 +8586,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5E02\u653F\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往市政厅",
+        "LocalizationKey": "T-DZJaMrLXPqm94Xa7ZfpEdhllWFw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -9018,8 +9018,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8718\u86DB\u5DE2",
-        "LocalizationKey": "",
+        "DefaultText": "前往蜘蛛巢",
+        "LocalizationKey": "T-buin9CNqcWLQg9ovHVF8ieAEwDo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -9450,8 +9450,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林",
+        "LocalizationKey": "T-9YXt1ncCqaM73KfO2m5Bkc7mk0s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -9882,8 +9882,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u90CA\u5916",
-        "LocalizationKey": "",
+        "DefaultText": "前往郊外",
+        "LocalizationKey": "T-JwR61uhgJsvq8qCZ1ZDBowedLJQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -10314,8 +10314,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u68EE\u6797\u795E\u5E99",
-        "LocalizationKey": "",
+        "DefaultText": "前往森林神庙",
+        "LocalizationKey": "T-UL40Z47+uO7PqJ4xiTQlN79pQig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -10746,8 +10746,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5E02\u653F\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往市政厅",
+        "LocalizationKey": "T-DZJaMrLXPqm94Xa7ZfpEdhllWFw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -11178,8 +11178,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5458\u5DE5\u9910\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往员工餐厅",
+        "LocalizationKey": "T-L5ZpoMuGBasIhtD0KTZtjtamWa8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -11610,8 +11610,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80C\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往C区街道",
+        "LocalizationKey": "T-DFgL9NZiRLKIdMVynjy/t7NpfZ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -12042,8 +12042,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4F11\u606F\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往休息室",
+        "LocalizationKey": "T-aYvSCq+oAf7lUPSjQ05glQBVWQk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -12474,8 +12474,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u67AA\u68B0\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往枪械室",
+        "LocalizationKey": "T-/47u+ARA/Y3Ut/SSWz4044uk6OQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -12906,8 +12906,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -13338,8 +13338,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5E02\u653F\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往市政厅",
+        "LocalizationKey": "T-DZJaMrLXPqm94Xa7ZfpEdhllWFw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -13770,8 +13770,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4ED3\u5E93",
-        "LocalizationKey": "",
+        "DefaultText": "前往仓库",
+        "LocalizationKey": "T-k69V29gzD74PbbrImZfr7JscOCI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -14202,8 +14202,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -14634,8 +14634,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林",
+        "LocalizationKey": "T-9YXt1ncCqaM73KfO2m5Bkc7mk0s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -15066,8 +15066,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u6FC0\u5149\u901A\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往激光通道",
+        "LocalizationKey": "T-dRJqKPRdtnTFKOOmuZKB8szzE2E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -15498,8 +15498,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室",
+        "LocalizationKey": "T-+8Zv/pTHiCG9LRNj+moqdOKVEao=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -15930,8 +15930,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -16362,8 +16362,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4E0B\u6C34\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往下水道",
+        "LocalizationKey": "T-hz2XHFqasi2Ib/cdlkNoe0QlOr4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -16794,8 +16794,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u6DF1\u9083\u5730\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往深邃地道",
+        "LocalizationKey": "T-GQfvI2askqhRUX01pcca9OvSH4k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -17226,8 +17226,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -17658,8 +17658,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5458\u5DE5\u9910\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往员工餐厅",
+        "LocalizationKey": "T-L5ZpoMuGBasIhtD0KTZtjtamWa8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -18090,8 +18090,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B89\u5168\u901A\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往安全通道",
+        "LocalizationKey": "T-9EoddA+WO+k+Tu22T9ccbihovdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -18522,8 +18522,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8B66\u5BDF\u5C40",
-        "LocalizationKey": "",
+        "DefaultText": "前往警察局",
+        "LocalizationKey": "T-l1PhVI3SeDBGPsHTszr6JNmDris=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -18954,8 +18954,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80C\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往C区街道",
+        "LocalizationKey": "T-DFgL9NZiRLKIdMVynjy/t7NpfZ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -19386,8 +19386,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4F11\u606F\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往休息室",
+        "LocalizationKey": "T-aYvSCq+oAf7lUPSjQ05glQBVWQk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -19818,8 +19818,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -20250,8 +20250,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u706B\u8F66\u5934",
-        "LocalizationKey": "",
+        "DefaultText": "前往火车头",
+        "LocalizationKey": "T-linqZFjqrlNkrTuiFvlhSW5ZFuw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -20682,8 +20682,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80C\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往C区街道",
+        "LocalizationKey": "T-DFgL9NZiRLKIdMVynjy/t7NpfZ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -21114,8 +21114,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9505\u7089\u623F",
-        "LocalizationKey": "",
+        "DefaultText": "前往锅炉房",
+        "LocalizationKey": "T-yL0hp3MRXxOyaWkPOmHVcsygZHE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -21546,8 +21546,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5E02\u653F\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往市政厅",
+        "LocalizationKey": "T-DZJaMrLXPqm94Xa7ZfpEdhllWFw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -21978,8 +21978,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -22410,8 +22410,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8D85\u5E02",
-        "LocalizationKey": "",
+        "DefaultText": "前往超市",
+        "LocalizationKey": "T-NcrN2oKAOVbQiEjCed9OiUDxRD4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -22842,8 +22842,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室",
+        "LocalizationKey": "T-+8Zv/pTHiCG9LRNj+moqdOKVEao=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -23274,8 +23274,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u90CA\u5916",
-        "LocalizationKey": "",
+        "DefaultText": "前往郊外",
+        "LocalizationKey": "T-JwR61uhgJsvq8qCZ1ZDBowedLJQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -23706,8 +23706,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797\u8FB9\u7F18",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林边缘",
+        "LocalizationKey": "T-EuL57MYsCD3P3Z6bKS5p783dYcI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -24138,8 +24138,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8718\u86DB\u5DE2",
-        "LocalizationKey": "",
+        "DefaultText": "前往蜘蛛巢",
+        "LocalizationKey": "T-buin9CNqcWLQg9ovHVF8ieAEwDo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -24570,8 +24570,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4\u5185\u90E8",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室内部",
+        "LocalizationKey": "T-juhG9Igh0JrYFBaOQZpLD3pSip8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -25002,8 +25002,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B89\u5168\u901A\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往安全通道",
+        "LocalizationKey": "T-9EoddA+WO+k+Tu22T9ccbihovdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -25434,8 +25434,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室",
+        "LocalizationKey": "T-+8Zv/pTHiCG9LRNj+moqdOKVEao=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -25866,8 +25866,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5458\u5DE5\u9910\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往员工餐厅",
+        "LocalizationKey": "T-L5ZpoMuGBasIhtD0KTZtjtamWa8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -26298,8 +26298,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4\u5185\u90E8",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室内部",
+        "LocalizationKey": "T-juhG9Igh0JrYFBaOQZpLD3pSip8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -26730,8 +26730,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8B66\u5BDF\u5C40",
-        "LocalizationKey": "",
+        "DefaultText": "前往警察局",
+        "LocalizationKey": "T-l1PhVI3SeDBGPsHTszr6JNmDris=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -27162,8 +27162,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80C\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往C区街道",
+        "LocalizationKey": "T-DFgL9NZiRLKIdMVynjy/t7NpfZ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -27594,8 +27594,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u67AA\u68B0\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往枪械室",
+        "LocalizationKey": "T-/47u+ARA/Y3Ut/SSWz4044uk6OQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -28026,8 +28026,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -28458,8 +28458,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8B66\u5BDF\u5C40",
-        "LocalizationKey": "",
+        "DefaultText": "前往警察局",
+        "LocalizationKey": "T-l1PhVI3SeDBGPsHTszr6JNmDris=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -28890,8 +28890,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5E02\u653F\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往市政厅",
+        "LocalizationKey": "T-DZJaMrLXPqm94Xa7ZfpEdhllWFw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -29322,8 +29322,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -29754,8 +29754,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4F11\u606F\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往休息室",
+        "LocalizationKey": "T-aYvSCq+oAf7lUPSjQ05glQBVWQk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -30186,8 +30186,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u67AA\u68B0\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往枪械室",
+        "LocalizationKey": "T-/47u+ARA/Y3Ut/SSWz4044uk6OQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -30618,8 +30618,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u706B\u8F66\u7AD9",
-        "LocalizationKey": "",
+        "DefaultText": "前往火车站",
+        "LocalizationKey": "T-Y8TF4zobzICB/MNsx5exntzrz7k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -31050,8 +31050,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8D85\u5E02",
-        "LocalizationKey": "",
+        "DefaultText": "前往超市",
+        "LocalizationKey": "T-NcrN2oKAOVbQiEjCed9OiUDxRD4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -31482,8 +31482,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8718\u86DB\u5DE2",
-        "LocalizationKey": "",
+        "DefaultText": "前往蜘蛛巢",
+        "LocalizationKey": "T-buin9CNqcWLQg9ovHVF8ieAEwDo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -31914,8 +31914,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林",
+        "LocalizationKey": "T-9YXt1ncCqaM73KfO2m5Bkc7mk0s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -32346,8 +32346,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797\u8FB9\u7F18",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林边缘",
+        "LocalizationKey": "T-EuL57MYsCD3P3Z6bKS5p783dYcI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -32778,8 +32778,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u90CA\u5916",
-        "LocalizationKey": "",
+        "DefaultText": "前往郊外",
+        "LocalizationKey": "T-JwR61uhgJsvq8qCZ1ZDBowedLJQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -33210,8 +33210,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5E02\u653F\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往市政厅",
+        "LocalizationKey": "T-DZJaMrLXPqm94Xa7ZfpEdhllWFw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -33642,8 +33642,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797\u8FB9\u7F18",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林边缘",
+        "LocalizationKey": "T-EuL57MYsCD3P3Z6bKS5p783dYcI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -34074,8 +34074,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8718\u86DB\u5DE2",
-        "LocalizationKey": "",
+        "DefaultText": "前往蜘蛛巢",
+        "LocalizationKey": "T-buin9CNqcWLQg9ovHVF8ieAEwDo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -34506,8 +34506,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u68EE\u6797\u795E\u5E99",
-        "LocalizationKey": "",
+        "DefaultText": "前往森林神庙",
+        "LocalizationKey": "T-UL40Z47+uO7PqJ4xiTQlN79pQig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -34938,8 +34938,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5E02\u653F\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往市政厅",
+        "LocalizationKey": "T-DZJaMrLXPqm94Xa7ZfpEdhllWFw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -35370,8 +35370,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -35802,8 +35802,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u827E\u8349\u751F\u5316\u516C\u53F8",
-        "LocalizationKey": "",
+        "DefaultText": "前往艾草生化公司",
+        "LocalizationKey": "T-CwZVWIiUBxJlJxmHETc9xzZU+PE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -36234,8 +36234,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u90CA\u5916",
-        "LocalizationKey": "",
+        "DefaultText": "前往郊外",
+        "LocalizationKey": "T-JwR61uhgJsvq8qCZ1ZDBowedLJQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -36666,8 +36666,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u5FC3\u5C9B",
-        "LocalizationKey": "",
+        "DefaultText": "前往地心岛",
+        "LocalizationKey": "T-KYDOefgqP8wIxCrcrSiSF6D7ejw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -37098,8 +37098,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -37530,8 +37530,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u540E\u5DE2\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁后巢穴",
+        "LocalizationKey": "T-t682KVz9aLrpvMYhv51M24G41f0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -37962,8 +37962,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁穴",
+        "LocalizationKey": "T-9C2RmBU2Vpu54NKvfmXjfotr07c=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -38394,8 +38394,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4E0B\u6C34\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往下水道",
+        "LocalizationKey": "T-hz2XHFqasi2Ib/cdlkNoe0QlOr4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -38826,8 +38826,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4\u5185\u90E8",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室内部",
+        "LocalizationKey": "T-juhG9Igh0JrYFBaOQZpLD3pSip8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -39258,8 +39258,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5DE5\u8681\u533A",
-        "LocalizationKey": "",
+        "DefaultText": "前往工蚁区",
+        "LocalizationKey": "T-VrkhucH5QDZax2pa5zAoAr1sKL0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -39690,8 +39690,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5175\u8681\u533A",
-        "LocalizationKey": "",
+        "DefaultText": "前往兵蚁区",
+        "LocalizationKey": "T-w5Dvm+RFKIR4AN5/4qd1XlD3bhI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -40122,8 +40122,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -40554,8 +40554,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -40986,8 +40986,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8D85\u5E02\u5185\u90E8",
-        "LocalizationKey": "",
+        "DefaultText": "前往超市内部",
+        "LocalizationKey": "T-zqin2QSZmHp+BbaCJ4X4hgWiSXE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -41418,8 +41418,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80C\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往C区街道",
+        "LocalizationKey": "T-DFgL9NZiRLKIdMVynjy/t7NpfZ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -41850,8 +41850,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u706B\u8F66\u7AD9",
-        "LocalizationKey": "",
+        "DefaultText": "前往火车站",
+        "LocalizationKey": "T-Y8TF4zobzICB/MNsx5exntzrz7k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -42282,8 +42282,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -42714,8 +42714,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5E02\u653F\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往市政厅",
+        "LocalizationKey": "T-DZJaMrLXPqm94Xa7ZfpEdhllWFw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -43146,8 +43146,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁穴",
+        "LocalizationKey": "T-9C2RmBU2Vpu54NKvfmXjfotr07c=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -43578,8 +43578,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -44010,8 +44010,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u540E\u5DE2\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁后巢穴",
+        "LocalizationKey": "T-t682KVz9aLrpvMYhv51M24G41f0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -44442,8 +44442,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4\u5185\u90E8",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室内部",
+        "LocalizationKey": "T-juhG9Igh0JrYFBaOQZpLD3pSip8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -44874,8 +44874,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u6DF1\u9083\u5730\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往深邃地道",
+        "LocalizationKey": "T-GQfvI2askqhRUX01pcca9OvSH4k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -45306,8 +45306,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5DE5\u8681\u533A",
-        "LocalizationKey": "",
+        "DefaultText": "前往工蚁区",
+        "LocalizationKey": "T-VrkhucH5QDZax2pa5zAoAr1sKL0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -45738,8 +45738,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -46170,8 +46170,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797\u8FB9\u7F18",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林边缘",
+        "LocalizationKey": "T-EuL57MYsCD3P3Z6bKS5p783dYcI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -46602,8 +46602,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8718\u86DB\u5DE2",
-        "LocalizationKey": "",
+        "DefaultText": "前往蜘蛛巢",
+        "LocalizationKey": "T-buin9CNqcWLQg9ovHVF8ieAEwDo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -47034,8 +47034,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5458\u5DE5\u9910\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往员工餐厅",
+        "LocalizationKey": "T-L5ZpoMuGBasIhtD0KTZtjtamWa8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -47466,8 +47466,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室",
+        "LocalizationKey": "T-+8Zv/pTHiCG9LRNj+moqdOKVEao=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -47898,8 +47898,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u68EE\u6797\u795E\u5E99",
-        "LocalizationKey": "",
+        "DefaultText": "前往森林神庙",
+        "LocalizationKey": "T-UL40Z47+uO7PqJ4xiTQlN79pQig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -48330,8 +48330,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林",
+        "LocalizationKey": "T-9YXt1ncCqaM73KfO2m5Bkc7mk0s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -48762,8 +48762,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5DE5\u8681\u533A",
-        "LocalizationKey": "",
+        "DefaultText": "前往工蚁区",
+        "LocalizationKey": "T-VrkhucH5QDZax2pa5zAoAr1sKL0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -49194,8 +49194,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5175\u8681\u533A",
-        "LocalizationKey": "",
+        "DefaultText": "前往兵蚁区",
+        "LocalizationKey": "T-w5Dvm+RFKIR4AN5/4qd1XlD3bhI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -49626,8 +49626,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁穴",
+        "LocalizationKey": "T-9C2RmBU2Vpu54NKvfmXjfotr07c=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -50058,8 +50058,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u6DF1\u9083\u5730\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往深邃地道",
+        "LocalizationKey": "T-GQfvI2askqhRUX01pcca9OvSH4k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -50490,8 +50490,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u5FC3\u5C9B",
-        "LocalizationKey": "",
+        "DefaultText": "前往地心岛",
+        "LocalizationKey": "T-KYDOefgqP8wIxCrcrSiSF6D7ejw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -50922,8 +50922,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4E0B\u6C34\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往下水道",
+        "LocalizationKey": "T-hz2XHFqasi2Ib/cdlkNoe0QlOr4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -51354,8 +51354,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -51786,8 +51786,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -52218,8 +52218,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4E0B\u6C34\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往下水道",
+        "LocalizationKey": "T-hz2XHFqasi2Ib/cdlkNoe0QlOr4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -52650,8 +52650,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4\u5185\u90E8",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室内部",
+        "LocalizationKey": "T-juhG9Igh0JrYFBaOQZpLD3pSip8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -53082,8 +53082,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u6DF1\u9083\u5730\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往深邃地道",
+        "LocalizationKey": "T-GQfvI2askqhRUX01pcca9OvSH4k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -53514,8 +53514,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁穴",
+        "LocalizationKey": "T-9C2RmBU2Vpu54NKvfmXjfotr07c=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -53946,8 +53946,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u5FC3\u5C9B",
-        "LocalizationKey": "",
+        "DefaultText": "前往地心岛",
+        "LocalizationKey": "T-KYDOefgqP8wIxCrcrSiSF6D7ejw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -54378,8 +54378,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8D85\u5E02",
-        "LocalizationKey": "",
+        "DefaultText": "前往超市",
+        "LocalizationKey": "T-NcrN2oKAOVbQiEjCed9OiUDxRD4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -54810,8 +54810,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80C\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往C区街道",
+        "LocalizationKey": "T-DFgL9NZiRLKIdMVynjy/t7NpfZ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -55242,8 +55242,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室",
+        "LocalizationKey": "T-+8Zv/pTHiCG9LRNj+moqdOKVEao=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -55674,8 +55674,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5E02\u653F\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往市政厅",
+        "LocalizationKey": "T-DZJaMrLXPqm94Xa7ZfpEdhllWFw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -56106,8 +56106,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u540E\u5DE2\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁后巢穴",
+        "LocalizationKey": "T-t682KVz9aLrpvMYhv51M24G41f0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -56538,8 +56538,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u706B\u8F66\u7AD9",
-        "LocalizationKey": "",
+        "DefaultText": "前往火车站",
+        "LocalizationKey": "T-Y8TF4zobzICB/MNsx5exntzrz7k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -56970,8 +56970,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8D85\u5E02",
-        "LocalizationKey": "",
+        "DefaultText": "前往超市",
+        "LocalizationKey": "T-NcrN2oKAOVbQiEjCed9OiUDxRD4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -57402,8 +57402,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -57834,8 +57834,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁穴",
+        "LocalizationKey": "T-9C2RmBU2Vpu54NKvfmXjfotr07c=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -58266,8 +58266,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u540E\u5DE2\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁后巢穴",
+        "LocalizationKey": "T-t682KVz9aLrpvMYhv51M24G41f0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -58698,8 +58698,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5175\u8681\u533A",
-        "LocalizationKey": "",
+        "DefaultText": "前往兵蚁区",
+        "LocalizationKey": "T-w5Dvm+RFKIR4AN5/4qd1XlD3bhI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -59130,8 +59130,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4E0B\u6C34\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往下水道",
+        "LocalizationKey": "T-hz2XHFqasi2Ib/cdlkNoe0QlOr4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -59562,8 +59562,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u6DF1\u9083\u5730\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往深邃地道",
+        "LocalizationKey": "T-GQfvI2askqhRUX01pcca9OvSH4k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -59994,8 +59994,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4ED3\u5E93",
-        "LocalizationKey": "",
+        "DefaultText": "前往仓库",
+        "LocalizationKey": "T-k69V29gzD74PbbrImZfr7JscOCI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -60426,8 +60426,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u827E\u8349\u751F\u5316\u516C\u53F8",
-        "LocalizationKey": "",
+        "DefaultText": "前往艾草生化公司",
+        "LocalizationKey": "T-CwZVWIiUBxJlJxmHETc9xzZU+PE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -60858,8 +60858,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u6DF1\u9083\u5730\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往深邃地道",
+        "LocalizationKey": "T-GQfvI2askqhRUX01pcca9OvSH4k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -61290,8 +61290,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -61722,8 +61722,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8681\u540E\u5DE2\u7A74",
-        "LocalizationKey": "",
+        "DefaultText": "前往蚁后巢穴",
+        "LocalizationKey": "T-t682KVz9aLrpvMYhv51M24G41f0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -62154,8 +62154,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797\u8FB9\u7F18",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林边缘",
+        "LocalizationKey": "T-EuL57MYsCD3P3Z6bKS5p783dYcI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -62586,8 +62586,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u68EE\u6797\u795E\u5E99",
-        "LocalizationKey": "",
+        "DefaultText": "前往森林神庙",
+        "LocalizationKey": "T-UL40Z47+uO7PqJ4xiTQlN79pQig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -63018,8 +63018,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林",
+        "LocalizationKey": "T-9YXt1ncCqaM73KfO2m5Bkc7mk0s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -63450,8 +63450,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u90CA\u5916",
-        "LocalizationKey": "",
+        "DefaultText": "前往郊外",
+        "LocalizationKey": "T-JwR61uhgJsvq8qCZ1ZDBowedLJQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -63882,8 +63882,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5E02\u653F\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往市政厅",
+        "LocalizationKey": "T-DZJaMrLXPqm94Xa7ZfpEdhllWFw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -64314,8 +64314,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5458\u5DE5\u9910\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往员工餐厅",
+        "LocalizationKey": "T-L5ZpoMuGBasIhtD0KTZtjtamWa8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -64746,8 +64746,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5458\u5DE5\u9910\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往员工餐厅",
+        "LocalizationKey": "T-L5ZpoMuGBasIhtD0KTZtjtamWa8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -65178,8 +65178,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4\u5185\u90E8",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室内部",
+        "LocalizationKey": "T-juhG9Igh0JrYFBaOQZpLD3pSip8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -65610,8 +65610,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B89\u5168\u901A\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往安全通道",
+        "LocalizationKey": "T-9EoddA+WO+k+Tu22T9ccbihovdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -66042,8 +66042,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -66474,8 +66474,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u90CA\u5916",
-        "LocalizationKey": "",
+        "DefaultText": "前往郊外",
+        "LocalizationKey": "T-JwR61uhgJsvq8qCZ1ZDBowedLJQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -66906,8 +66906,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5927\u8857",
-        "LocalizationKey": "",
+        "DefaultText": "前往大街",
+        "LocalizationKey": "T-hhtVvB0OTHGjtOH2C7PfEJzgDRI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -67338,8 +67338,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林",
+        "LocalizationKey": "T-9YXt1ncCqaM73KfO2m5Bkc7mk0s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -67770,8 +67770,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u827E\u8349\u751F\u5316\u516C\u53F8",
-        "LocalizationKey": "",
+        "DefaultText": "前往艾草生化公司",
+        "LocalizationKey": "T-CwZVWIiUBxJlJxmHETc9xzZU+PE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -68202,8 +68202,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8718\u86DB\u5DE2",
-        "LocalizationKey": "",
+        "DefaultText": "前往蜘蛛巢",
+        "LocalizationKey": "T-buin9CNqcWLQg9ovHVF8ieAEwDo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -68634,8 +68634,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4ED3\u5E93",
-        "LocalizationKey": "",
+        "DefaultText": "前往仓库",
+        "LocalizationKey": "T-k69V29gzD74PbbrImZfr7JscOCI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -69066,8 +69066,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8D85\u5E02",
-        "LocalizationKey": "",
+        "DefaultText": "前往超市",
+        "LocalizationKey": "T-NcrN2oKAOVbQiEjCed9OiUDxRD4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -69498,8 +69498,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80C\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往C区街道",
+        "LocalizationKey": "T-DFgL9NZiRLKIdMVynjy/t7NpfZ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -69930,8 +69930,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797\u8FB9\u7F18",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林边缘",
+        "LocalizationKey": "T-EuL57MYsCD3P3Z6bKS5p783dYcI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -70362,8 +70362,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u68EE\u6797\u795E\u5E99",
-        "LocalizationKey": "",
+        "DefaultText": "前往森林神庙",
+        "LocalizationKey": "T-UL40Z47+uO7PqJ4xiTQlN79pQig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -70794,8 +70794,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -71226,8 +71226,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u706B\u8F66\u7AD9",
-        "LocalizationKey": "",
+        "DefaultText": "前往火车站",
+        "LocalizationKey": "T-Y8TF4zobzICB/MNsx5exntzrz7k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -71658,8 +71658,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8D85\u5E02",
-        "LocalizationKey": "",
+        "DefaultText": "前往超市",
+        "LocalizationKey": "T-NcrN2oKAOVbQiEjCed9OiUDxRD4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -72090,8 +72090,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80C\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往C区街道",
+        "LocalizationKey": "T-DFgL9NZiRLKIdMVynjy/t7NpfZ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -72522,8 +72522,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5E02\u653F\u5385",
-        "LocalizationKey": "",
+        "DefaultText": "前往市政厅",
+        "LocalizationKey": "T-DZJaMrLXPqm94Xa7ZfpEdhllWFw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -72954,8 +72954,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5730\u4E0B\u5BA4",
-        "LocalizationKey": "",
+        "DefaultText": "前往地下室",
+        "LocalizationKey": "T-iNafrlR9MnpBR/KaaeIMWW5lEvw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -73386,8 +73386,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u706B\u8F66\u7AD9",
-        "LocalizationKey": "",
+        "DefaultText": "前往火车站",
+        "LocalizationKey": "T-Y8TF4zobzICB/MNsx5exntzrz7k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -73818,8 +73818,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8D85\u5E02\u5185\u90E8",
-        "LocalizationKey": "",
+        "DefaultText": "前往超市内部",
+        "LocalizationKey": "T-zqin2QSZmHp+BbaCJ4X4hgWiSXE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -74250,8 +74250,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u706B\u8F66\u5934",
-        "LocalizationKey": "",
+        "DefaultText": "前往火车头",
+        "LocalizationKey": "T-linqZFjqrlNkrTuiFvlhSW5ZFuw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -74682,8 +74682,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u9ED1\u6697\u68EE\u6797",
-        "LocalizationKey": "",
+        "DefaultText": "前往黑暗森林",
+        "LocalizationKey": "T-9YXt1ncCqaM73KfO2m5Bkc7mk0s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -75114,8 +75114,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u8B66\u5BDF\u5C40",
-        "LocalizationKey": "",
+        "DefaultText": "前往警察局",
+        "LocalizationKey": "T-l1PhVI3SeDBGPsHTszr6JNmDris=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -75546,8 +75546,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u827E\u8349\u751F\u5316\u516C\u53F8",
-        "LocalizationKey": "",
+        "DefaultText": "前往艾草生化公司",
+        "LocalizationKey": "T-CwZVWIiUBxJlJxmHETc9xzZU+PE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -75978,8 +75978,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u4E0B\u6C34\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往下水道",
+        "LocalizationKey": "T-hz2XHFqasi2Ib/cdlkNoe0QlOr4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -76410,8 +76410,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u5B9E\u9A8C\u5BA4\u5185\u90E8",
-        "LocalizationKey": "",
+        "DefaultText": "前往实验室内部",
+        "LocalizationKey": "T-juhG9Igh0JrYFBaOQZpLD3pSip8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -76842,8 +76842,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80\u6DF1\u9083\u5730\u9053",
-        "LocalizationKey": "",
+        "DefaultText": "前往深邃地道",
+        "LocalizationKey": "T-GQfvI2askqhRUX01pcca9OvSH4k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -80393,8 +80393,8 @@
   "UsageDurability": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u71C3\u6599",
-      "LocalizationKey": "",
+      "DefaultText": "燃料",
+      "LocalizationKey": "T-AoRI+br1T3sXzu1/J/Hk3MUAV3M=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -80625,8 +80625,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u65E0\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "无燃料",
+        "LocalizationKey": "T-yOA9rPpuA5ID/taFehWW8UhbmKc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -80929,7 +80929,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u6469\u6258\u8F66"
+    "摩托车"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

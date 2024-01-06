@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6025\u51BB\u5F39",
-    "LocalizationKey": "",
+    "DefaultText": "急冻弹",
+    "LocalizationKey": "T-Nvv2dT4u3aE6cLZNYl5COJeUTYU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -273,7 +273,7 @@
               "m_FileID": 0,
               "m_PathID": 0
             },
-            "RequiredLiquidWarpData": "\u9152\u7CBE\u7EC4",
+            "RequiredLiquidWarpData": "酒精组",
             "RequiredLiquidWarpType": 3,
             "RequiredQuantity": {
               "x": 250.0,
@@ -584,7 +584,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6025\u51BB\u5F39",
+  "CardImageWarpData": "急冻弹",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3765,8 +3765,8 @@
   "UniqueID": "e98e71f10d3790004050cbb79b4a1341",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7075\u9B42\u7403",
-    "LocalizationKey": "",
+    "DefaultText": "需要灵魂球",
+    "LocalizationKey": "T-pSpFm90t0++NMBe2M7xTw7PvTMk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

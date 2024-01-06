@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u795E\u5E99\u5BC6\u5BA4",
-    "LocalizationKey": "",
+    "DefaultText": "神庙密室",
+    "LocalizationKey": "T-oXB05OVxOBieqD03TO5HL0RDODY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u795E\u5E99\u5BC6\u5BA4",
+  "CardImageWarpData": "神庙密室",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

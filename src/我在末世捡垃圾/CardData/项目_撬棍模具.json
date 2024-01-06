@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u64AC\u68CD\u6A21\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "撬棍模具",
+    "LocalizationKey": "T-iQCdZ+m5MNJoG1RonmBN82Kif9I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u64AC\u68CD\u6A21\u5177",
+  "CardImageWarpData": "撬棍模具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

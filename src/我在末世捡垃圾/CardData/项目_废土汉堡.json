@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u571F\u6C49\u5821",
-    "LocalizationKey": "",
+    "DefaultText": "废土汉堡",
+    "LocalizationKey": "T-BX1A+PIbJbBCGTr+FKWQPUcWTvY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u505A\u51FA\u4E86\u6700\u597D\u5403\u7684\u6C49\u5821\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "我做出了最好吃的汉堡！",
+    "LocalizationKey": "T-ZR03FjlPsmHrhIq4eeHGsemFI3A=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u571F\u6C49\u5821",
+  "CardImageWarpData": "废土汉堡",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -192,8 +192,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

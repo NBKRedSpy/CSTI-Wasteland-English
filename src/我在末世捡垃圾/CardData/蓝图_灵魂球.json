@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7075\u9B42\u7403",
-    "LocalizationKey": "",
+    "DefaultText": "灵魂球",
+    "LocalizationKey": "T-ScfT4WCfFkzVWD6nHEgomNdhnpU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7075\u9B42\u7403",
+  "CardImageWarpData": "灵魂球",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "1707e22d73302d50e8feda76a6d5a910",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7075\u9B42\u6C99",
-    "LocalizationKey": "",
+    "DefaultText": "需要灵魂沙",
+    "LocalizationKey": "T-MIaTB+k4gpyFTGL/4UWQ3iA9uxM=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

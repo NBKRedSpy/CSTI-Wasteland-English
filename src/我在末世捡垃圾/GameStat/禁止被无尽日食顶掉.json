@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u7981\u6B62\u88AB\u65E0\u5C3D\u65E5\u98DF\u9876\u6389",
+  "DefaultStatusIconWarpData": "禁止被无尽日食顶掉",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u7981\u6B62\u88AB\u65E0\u5C3D\u65E5\u98DF\u9876\u6389",
-    "LocalizationKey": "",
+    "DefaultText": "禁止被无尽日食顶掉",
+    "LocalizationKey": "T-FT0FP3pXsiIHCRcAa06FYdDpQD8=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

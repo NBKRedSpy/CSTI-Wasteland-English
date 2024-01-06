@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u80A5\u7682",
-    "LocalizationKey": "",
+    "DefaultText": "肥皂",
+    "LocalizationKey": "T-kUCtzLyo4/AVfvksHIAS119LC3I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u80A5\u7682",
+  "CardImageWarpData": "肥皂",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "7c4d732a39fe575a0eeb1f3390918247",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

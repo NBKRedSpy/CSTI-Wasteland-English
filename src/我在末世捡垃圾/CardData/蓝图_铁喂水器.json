@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u5582\u6C34\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "铁喂水器",
+    "LocalizationKey": "T-HyV8NF2jqxmd2IYDmjoYPW3Q990=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7ED9\u9F39\u9F20\u4EEC\u63D0\u4F9B\u7A33\u5B9A\u7684\u6C34\u6E90",
-    "LocalizationKey": "",
+    "DefaultText": "给鼹鼠们提供稳定的水源",
+    "LocalizationKey": "T-3E8yDNND7AnZd/lYqesIJvpx9XY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -693,7 +693,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u87BA\u4E1D\u5200",
+          "RequiredTabGroupWarpData": "螺丝刀",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -1174,7 +1174,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u87BA\u4E1D\u5200",
+          "RequiredTabGroupWarpData": "螺丝刀",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -1277,7 +1277,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u5582\u6C34\u5668",
+  "CardImageWarpData": "铁喂水器",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -4461,8 +4461,8 @@
   "UniqueID": "eab921e9e5cb3923f2c14ce6bf1e62fe",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u9F39\u9F20\u6570\u91CF\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要鼹鼠数量技能",
+    "LocalizationKey": "T-eF4pcBBs6HBrnb3BtecaQniLSKc=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

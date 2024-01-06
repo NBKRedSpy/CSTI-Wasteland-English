@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u7B1B",
-    "LocalizationKey": "",
+    "DefaultText": "铁笛",
+    "LocalizationKey": "T-D9+EN63GZDsmlBSimGOcugNBW+M=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5E9F\u571F\u4E50\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "废土乐器",
+    "LocalizationKey": "T-yog4KpWWyQ4nFp3jVWEp+eBFKFY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u7B1B",
+  "CardImageWarpData": "铁笛",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EC3\u4E60",
-        "LocalizationKey": "",
+        "DefaultText": "练习",
+        "LocalizationKey": "T-W38hu/5dCufkeQh0VZ/keGoh1GU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -504,7 +504,7 @@
       },
       "ActionName": {
         "DefaultText": "Compose",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-R9pvCDjwg9OgHzhNSDtGijBcWiw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2137,8 +2137,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6F14\u594F",
-        "LocalizationKey": "",
+        "DefaultText": "演奏",
+        "LocalizationKey": "T-vKRn2g2EzxuU4QdjeaIZEQzqz5c=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

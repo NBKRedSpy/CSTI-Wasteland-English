@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4F11\u606F\u5BA4",
-    "LocalizationKey": "",
+    "DefaultText": "休息室",
+    "LocalizationKey": "T-UF/4CxcyZLvE9OlLKEqQ6Ezru9Q=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4F11\u606F\u5BA4",
+  "CardImageWarpData": "休息室",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u63A2\u7D22",
-        "LocalizationKey": "",
+        "DefaultText": "探索",
+        "LocalizationKey": "T-KRhjOsgRtvfjRiwhnw2VhbEq6+M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -853,7 +853,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_0",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-LDEeDiuz73jNBkGE8hzR40LIfkc=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],
@@ -1143,7 +1143,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_1",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-nwJFHcfLimG7oy8Mf+99/Ko4Vbs=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],

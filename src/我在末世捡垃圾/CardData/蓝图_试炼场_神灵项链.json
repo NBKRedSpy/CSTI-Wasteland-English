@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u795E\u7075\u9879\u94FE",
-    "LocalizationKey": "",
+    "DefaultText": "神灵项链",
+    "LocalizationKey": "T-gh4zKBno77A8j48TfE3J2/pLk5E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u795E\u7075\u9879\u94FE",
+  "CardImageWarpData": "神灵项链",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "aa53f7276326e3ac6b5532e3a6f2ddaa",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u666E\u901A\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机普通难度",
+    "LocalizationKey": "T-+CqYpoqLCHQzDUa7VOeQ9oYgnWw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

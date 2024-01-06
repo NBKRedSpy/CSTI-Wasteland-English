@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u584C\u9677\u7684\u96A7\u9053\u5165\u53E3",
-    "LocalizationKey": "",
+    "DefaultText": "塌陷的隧道入口",
+    "LocalizationKey": "T-hY/UYBRqZoey+lQWQ0DIJAg8kSA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9700\u8981\u7528\u94F2\u5B50\u6316\u5F00\n\n\u003Cb\u003E\uFF08\u53EA\u6709\u624B\u724C\u53EF\u4EE5\u5E26\u8D70\uFF09\u003C/b\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "需要用铲子挖开\n\n<b>（只有手牌可以带走）</b>",
+    "LocalizationKey": "T-ExeKwOea9k7gmbZhpGaFOQKM3J8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u584C\u9677\u7684\u96A7\u9053\u5165\u53E3",
+  "CardImageWarpData": "塌陷的隧道入口",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6316\u571F",
-        "LocalizationKey": "",
+        "DefaultText": "挖土",
+        "LocalizationKey": "T-rSRHaBKdeDVVCKTbW0kI3nlvPl8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -679,8 +679,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80",
-        "LocalizationKey": "",
+        "DefaultText": "前往",
+        "LocalizationKey": "T-I5JtYUaM5gqjt7WyL+xsaNA49jY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -889,8 +889,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u672A\u89E3\u9501",
-          "LocalizationKey": "",
+          "DefaultText": "未解锁",
+          "LocalizationKey": "T-slpQnVYfnO08+8mlQkN17SN73KY=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,

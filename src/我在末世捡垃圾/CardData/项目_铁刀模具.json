@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u5200\u6A21\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "铁刀模具",
+    "LocalizationKey": "T-BgfRhpTNY3ovc3sqdDILyAGSPkc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u5200\u6A21\u5177",
+  "CardImageWarpData": "铁刀模具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u57F9\u6839\u714E\u86CB",
-    "LocalizationKey": "",
+    "DefaultText": "培根煎蛋",
+    "LocalizationKey": "T-gC+wDKCV6S07G7Pua03VMq+5lr0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u5C31\u662F\u6709\u70B9\u54B8\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "美味就是有点咸！",
+    "LocalizationKey": "T-jgxcEcCpmwXuBMRqmG2Uu8vKi/c=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u57F9\u6839\u714E\u86CB",
+  "CardImageWarpData": "培根煎蛋",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -192,8 +192,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

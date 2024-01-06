@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5F39\u5F13",
-    "LocalizationKey": "",
+    "DefaultText": "弹弓",
+    "LocalizationKey": "T-vRUYDFGER7W2JfYFcMd99qoQIsY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u54BB\uFF01\u54BB\uFF01\u54BB\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "咻！咻！咻！",
+    "LocalizationKey": "T-OxBY9qKGoZhZivY3KDk0+aV7doI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5F39\u5F13",
+  "CardImageWarpData": "弹弓",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3813,6 +3813,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u4F60\u9700\u8981\u901A\u8FC7\u4E0D\u505C\u7684\u62BD\u5956\u6765\u901A\u5173(\u4E0D\u9700\u8981\u518D\u70B9\u672B\u4E16\u5B9E\u9A8C\u5BA4\u548C\u5176\u4ED6\u5F00\u5C40)",
-    "LocalizationKey": "",
+    "DefaultText": "你需要通过不停的抽奖来通关(不需要再点末世实验室和其他开局)",
+    "LocalizationKey": "T-n6l5TxPAXzeJGmpc0OX4wtY1jd0=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u8BD5\u70BC\u573A",
+  "PerkIconWarpData": "试炼场",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u672B\u4E16\u8BD5\u70BC\u573A",
-    "LocalizationKey": "",
+    "DefaultText": "末世试炼场",
+    "LocalizationKey": "T-oVPWiJCgdpJMlH45QCUt9ic/ac0=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

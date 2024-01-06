@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8611\u83C7\u6C99\u62C9",
-    "LocalizationKey": "",
+    "DefaultText": "蘑菇沙拉",
+    "LocalizationKey": "T-7hOUd7LXo1IRWQRKkC16QIyPpRY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u4E2A\u770B\u8D77\u6765\u5F88\u5065\u5EB7\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "这个看起来很健康！",
+    "LocalizationKey": "T-29BRoSgh9hfrr9e3QL7wCN3UzUo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -565,7 +565,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8611\u83C7\u6C99\u62C9",
+  "CardImageWarpData": "蘑菇沙拉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3746,8 +3746,8 @@
   "UniqueID": "80856654d4144addeb6ee20ae75667a3",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u53D1\u5149\u8611\u83C7",
-    "LocalizationKey": "",
+    "DefaultText": "需要发光蘑菇",
+    "LocalizationKey": "T-dB7oL8329fECS6P1aAQCM4aKsIY=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

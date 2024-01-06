@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70E4\u5C38\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "烤尸肉",
+    "LocalizationKey": "T-EbLb9NrUrl3CQTsoSUvw498A0+U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u73B0\u5728\u770B\u8D77\u6765\u80FD\u5403\u4E86\uFF0C\u4F46\u662F\u522B\u591A\u5403",
-    "LocalizationKey": "",
+    "DefaultText": "现在看起来能吃了，但是别多吃",
+    "LocalizationKey": "T-0iI8AHB7MTG/LlZBL22nrW5yRc0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70E4\u5C38\u8089",
+  "CardImageWarpData": "烤尸肉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -192,8 +192,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

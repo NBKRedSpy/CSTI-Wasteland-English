@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6295\u63B7\u65F6\u95F41tp",
+  "DefaultStatusIconWarpData": "投掷时间1tp",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6295\u63B7\u65F6\u95F41tp",
-    "LocalizationKey": "",
+    "DefaultText": "投掷时间1tp",
+    "LocalizationKey": "T-Qfx5008+fano7AaNMj193jJZoqc=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

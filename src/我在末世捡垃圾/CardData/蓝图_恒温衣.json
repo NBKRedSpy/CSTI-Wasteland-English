@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6052\u6E29\u8863",
-    "LocalizationKey": "",
+    "DefaultText": "恒温衣",
+    "LocalizationKey": "T-90QiY1t0Ha112AcvyQPEBsdQQjg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -1326,7 +1326,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6052\u6E29\u8863",
+  "CardImageWarpData": "恒温衣",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -4510,8 +4510,8 @@
   "UniqueID": "3a6ce2a8da14c05aefc7809b6a05c87d",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7EBA\u7EC7\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要纺织技能",
+    "LocalizationKey": "T-gu5smweblc8msBSzMNfVw+nXfSs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u56FA\u4F53\u71C3\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "固体燃料",
+    "LocalizationKey": "T-uToBaPKKcsCELWg0Zc31LCZJVro=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u56FA\u4F53\u71C3\u6599",
+  "CardImageWarpData": "固体燃料",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "30249ff5ed5884df7153789f99360fcb",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

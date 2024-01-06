@@ -31,8 +31,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u62FF\u5230\u9730\u5F39\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "拿到霰弹枪",
+    "LocalizationKey": "T-ZlmGuGu85Yophm2NN8u3+re9Bno=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u571F\u4E0A\u8863",
-    "LocalizationKey": "",
+    "DefaultText": "废土上衣",
+    "LocalizationKey": "T-s4Y+90ARZS9+bRKECBgO7QZn4pQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u5806\u5E03\u6599\u7B80\u5355\u7F1D\u5236\u800C\u6210\u7684\u5927\u8863\uFF0C\u80FD\u88C5\u4E00\u70B9\u4E1C\u897F",
-    "LocalizationKey": "",
+    "DefaultText": "一堆布料简单缝制而成的大衣，能装一点东西",
+    "LocalizationKey": "T-Fw8Lrvo8Bjn1nEW/Um/ZcjPdS08=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u571F\u4E0A\u8863",
+  "CardImageWarpData": "废土上衣",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F1D\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "缝补",
+        "LocalizationKey": "T-aDH+nnisXWjpHOdPFi/L5gDAWFg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -545,8 +545,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6495\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "撕开",
+        "LocalizationKey": "T-6YTeA4bczoVSrqAdyaMhfIlrbnI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1404,7 +1404,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6F6E\u6E7F",
+      "EffectName": "潮湿",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1562,7 +1562,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,

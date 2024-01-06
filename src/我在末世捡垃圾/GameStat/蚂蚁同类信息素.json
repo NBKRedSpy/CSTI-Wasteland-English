@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u8682\u8681\u540C\u7C7B\u4FE1\u606F\u7D20",
+  "DefaultStatusIconWarpData": "蚂蚁同类信息素",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u8682\u8681\u540C\u7C7B\u4FE1\u606F\u7D20",
-    "LocalizationKey": "",
+    "DefaultText": "蚂蚁同类信息素",
+    "LocalizationKey": "T-od5gwWp4Fnyb/XSggWeFJYqz/f4=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

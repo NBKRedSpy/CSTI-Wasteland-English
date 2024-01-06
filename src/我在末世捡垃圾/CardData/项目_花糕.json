@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u82B1\u7CD5",
-    "LocalizationKey": "",
+    "DefaultText": "花糕",
+    "LocalizationKey": "T-O2Km/57RDtdApdOC8NyKuSZDCXM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5E26\u7740\u82B1\u9999\uFF0C\u4E00\u4EFD\u53EF\u53E3\u7684\u751C\u70B9",
-    "LocalizationKey": "",
+    "DefaultText": "带着花香，一份可口的甜点",
+    "LocalizationKey": "T-C5d+p3djmF6whr/BPrLJ1ksC4aI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u82B1\u7CD5",
+  "CardImageWarpData": "花糕",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -192,8 +192,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403",
-        "LocalizationKey": "",
+        "DefaultText": "吃",
+        "LocalizationKey": "T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

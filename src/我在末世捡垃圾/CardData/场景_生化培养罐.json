@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u751F\u5316\u57F9\u517B\u7F50",
-    "LocalizationKey": "",
+    "DefaultText": "生化培养罐",
+    "LocalizationKey": "T-94vwYcI7HE/7ATfY2rLddAoGxg4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u6700\u597D\u522B\u5C1D\u8BD5\u6253\u5F00\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "我最好别尝试打开它",
+    "LocalizationKey": "T-zh133dZVBEeOOIbFM4QNjk/p5z8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u751F\u5316\u57F9\u517B\u7F50",
+  "CardImageWarpData": "生化培养罐",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6253\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "打开",
+        "LocalizationKey": "T-ZfyB4WEZi8Zws8gGLIUZraaWRr0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

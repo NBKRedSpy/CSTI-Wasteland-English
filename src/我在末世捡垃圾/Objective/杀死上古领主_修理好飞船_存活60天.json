@@ -14,8 +14,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u6740\u6B7B\u4E0A\u53E4\u9886\u4E3B_\u4FEE\u7406\u597D\u98DE\u8239_\u5B58\u6D3B60\u5929",
-    "LocalizationKey": "",
+    "DefaultText": "杀死上古领主_修理好飞船_存活60天",
+    "LocalizationKey": "T-+HY63fyZgXq5VLfXYOAn5nFpT38=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

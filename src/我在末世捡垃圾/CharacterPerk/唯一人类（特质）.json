@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u602A\u7269\u4E0D\u518D\u4F1A\u88AB\u81F4\u76F2",
-    "LocalizationKey": "",
+    "DefaultText": "怪物不再会被致盲",
+    "LocalizationKey": "T-Ju3FmMiKxabXYzHIK92BQcc1JDI=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u552F\u4E00\u4EBA\u7C7B",
+  "PerkIconWarpData": "唯一人类",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u552F\u4E00\u4EBA\u7C7B",
-    "LocalizationKey": "",
+    "DefaultText": "唯一人类",
+    "LocalizationKey": "T-61KKZ0hBO0V33WZ/wflsp1Z4yzo=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6838\u5B50\u53EF\u4E50",
-    "LocalizationKey": "",
+    "DefaultText": "核子可乐",
+    "LocalizationKey": "T-fR4Ip8JRD7kshqn6xX2/4qhqk/4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -679,7 +679,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6838\u5B50\u53EF\u4E50",
+  "CardImageWarpData": "核子可乐",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3860,8 +3860,8 @@
   "UniqueID": "57a9fd5c58f3863894a598ac30c167f5",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7A7A\u53EF\u4E50\u7F50",
-    "LocalizationKey": "",
+    "DefaultText": "需要空可乐罐",
+    "LocalizationKey": "T-rMlSOMDw7K/ETl5Yy+kHfOhmPXw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u6E56",
-    "LocalizationKey": "",
+    "DefaultText": "黑湖",
+    "LocalizationKey": "T-FfITL44Hcv7mt+Srlc0nu44c2Po=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6DF1\u4E0D\u89C1\u5E95\u7684\u6E56\u9762\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "深不见底的湖面。",
+    "LocalizationKey": "T-bvWLWPDaLgyPEBASpyqnqxseZig=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u6E56",
+  "CardImageWarpData": "黑湖",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53C9\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "叉鱼",
+        "LocalizationKey": "T-+HJCHyFlUn88MG+lJWrCGk9MmEU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -929,8 +929,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1781,8 +1781,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2633,8 +2633,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2998,8 +2998,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "轰隆！",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3448,8 +3448,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6316\u6C61\u6CE5",
-        "LocalizationKey": "",
+        "DefaultText": "挖污泥",
+        "LocalizationKey": "T-0Q49JMnqxsxzIvljP7tvjfTjSf0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3908,8 +3908,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6316\u6C61\u6CE5",
-        "LocalizationKey": "",
+        "DefaultText": "挖污泥",
+        "LocalizationKey": "T-0Q49JMnqxsxzIvljP7tvjfTjSf0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4416,8 +4416,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u9632\u868A",
-      "LocalizationKey": "",
+      "DefaultText": "防蚊",
+      "LocalizationKey": "T-6pZ9PCUP3djeX9gG3G+L6wXliSo=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -4989,7 +4989,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -5115,7 +5115,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u868A\u866B",
+      "EffectName": "蚊虫",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -5244,7 +5244,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u868A\u866B\u9632\u62A4",
+      "EffectName": "蚊虫防护",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

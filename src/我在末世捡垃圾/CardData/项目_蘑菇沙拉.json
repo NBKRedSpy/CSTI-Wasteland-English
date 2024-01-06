@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8611\u83C7\u6C99\u62C9",
-    "LocalizationKey": "",
+    "DefaultText": "蘑菇沙拉",
+    "LocalizationKey": "T-7hOUd7LXo1IRWQRKkC16QIyPpRY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6E05\u6E05\u80A0\u9053\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "清清肠道！",
+    "LocalizationKey": "T-ealCq2YwwEbqrm45PITQqcSHLUs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8611\u83C7\u6C99\u62C9",
+  "CardImageWarpData": "蘑菇沙拉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

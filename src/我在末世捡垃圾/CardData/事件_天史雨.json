@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5929\u53F2\u96E8",
-    "LocalizationKey": "",
+    "DefaultText": "天史雨",
+    "LocalizationKey": "T-Vr+Wnouc0x4p5MP50ev4/+4Q+lg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "WTF\uFF1F\uFF1F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "WTF？？！",
+    "LocalizationKey": "T-PUhFFSawc5mtLNT/ByX/1xG6X28=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5929\u53F2\u96E8",
+  "CardImageWarpData": "天史雨",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4179,7 +4179,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u4E4C\u9E26\u53EB"
+    "乌鸦叫"
   ],
   "WhenCreatedSoundsWarpType": 3,
   "SpawningBlockedByWarpType": 3,

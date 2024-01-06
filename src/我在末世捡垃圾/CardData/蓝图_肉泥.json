@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8089\u6CE5",
-    "LocalizationKey": "",
+    "DefaultText": "肉泥",
+    "LocalizationKey": "T-ECsAjqNTPekEuGQobQ5k0VhAqDU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -191,7 +191,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u6C49\u5821\u8089",
+          "RequiredTabGroupWarpData": "汉堡肉",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -390,7 +390,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8089\u6CE5",
+  "CardImageWarpData": "肉泥",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3574,8 +3574,8 @@
   "UniqueID": "4356cafe03aa2aba75ecdc22defbbd73",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

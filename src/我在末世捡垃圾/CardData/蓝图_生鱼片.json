@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u751F\u9C7C\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "生鱼片",
+    "LocalizationKey": "T-2Vn4kxAtQIZoKGuVlpupnXo+QMQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -203,7 +203,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u6D77\u9C7C\u8089",
+          "RequiredTabGroupWarpData": "海鱼肉",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -478,7 +478,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u751F\u9CA8\u9C7C\u7247",
+  "CardImageWarpData": "生鲨鱼片",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3659,8 +3659,8 @@
   "UniqueID": "e5c37e57cc0cbefe45508903fa69c8f5",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94C1\u76AE",
-    "LocalizationKey": "",
+    "DefaultText": "需要铁皮",
+    "LocalizationKey": "T-lTERh9R50J/je67DYQ0n0dAkTPg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

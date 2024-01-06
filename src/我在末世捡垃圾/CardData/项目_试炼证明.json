@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8BD5\u70BC\u8BC1\u660E",
-    "LocalizationKey": "",
+    "DefaultText": "试炼证明",
+    "LocalizationKey": "T-qQqG5SoORlN81uRL7ITir83YTDs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F60\u901A\u8FC7\u4E86\u6700\u7EC8\u7684\u8BD5\u70BC\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "你通过了最终的试炼！",
+    "LocalizationKey": "T-Lcl5+TKpgO9PgIEGFmx35DXt8Tc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8BD5\u70BC\u8BC1\u660E",
+  "CardImageWarpData": "试炼证明",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -171,8 +171,8 @@
   "DismantleActions": [
     {
       "ActionDescription": {
-        "DefaultText": "\u6E38\u620F\u7ED3\u675F",
-        "LocalizationKey": "",
+        "DefaultText": "游戏结束",
+        "LocalizationKey": "T-Pl2niK8BCYu37rCigbgCUkSuoEY=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7ED3\u675F\u4E00\u5207",
-        "LocalizationKey": "",
+        "DefaultText": "结束一切",
+        "LocalizationKey": "T-dphQSeNJ5LNc4pokNGc43v/eLfA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -379,8 +379,8 @@
         "Victory": true,
         "SpecialEnding": false,
         "VictoryMessage": {
-          "DefaultText": "\u4F60\u6D3B\u5230\u4E86\u6700\u540E\uFF01",
-          "LocalizationKey": "",
+          "DefaultText": "你活到了最后！",
+          "LocalizationKey": "T-38r7XC9R72vNwSNmXFUJdHcxzTo=",
           "ParentObjectID": ""
         }
       },

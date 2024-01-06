@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u6211\u53EF\u4EE5\u73A9\u4E00\u6574\u5929",
-    "LocalizationKey": "",
+    "DefaultText": "我可以玩一整天",
+    "LocalizationKey": "T-dL4KIKNmSyIZwF7zS7ObJlgkZLg=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u7F8E\u961F\u76FE\u724C",
+  "PerkIconWarpData": "美队盾牌",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u7F8E\u961F\u76FE\u724C",
-    "LocalizationKey": "",
+    "DefaultText": "美队盾牌",
+    "LocalizationKey": "T-CNd/S/XUYQz4X41uQjAdqtYclac=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

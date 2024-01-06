@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4F11\u606F\u5BA4",
-    "LocalizationKey": "",
+    "DefaultText": "休息室",
+    "LocalizationKey": "T-UF/4CxcyZLvE9OlLKEqQ6Ezru9Q=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4F11\u606F\u5BA4",
+  "CardImageWarpData": "休息室",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

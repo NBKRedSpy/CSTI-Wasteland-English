@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9644\u9B54\u5251",
-    "LocalizationKey": "",
+    "DefaultText": "附魔剑",
+    "LocalizationKey": "T-d+U4mPGpZNwJJ+nbyprzQ4gHTZU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u901A\u8FC7\u77F3\u5934\u7684\u8BD5\u70BC\u4FEE\u590D\u597D\u4E86\u53E4\u8001\u7684\u65AD\u5251",
-    "LocalizationKey": "",
+    "DefaultText": "通过石头的试炼修复好了古老的断剑",
+    "LocalizationKey": "T-LGyOY7/j9xbNaKfUMiJ8Fb1VuYo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9644\u9B54\u5251",
+  "CardImageWarpData": "附魔剑",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -134,8 +134,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u78E8\u5229",
-        "LocalizationKey": "",
+        "DefaultText": "磨利",
+        "LocalizationKey": "T-3bmm5CpfjW1RSP3YzbXEp6Cs0Og=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4238,7 +4238,7 @@
   ],
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ],
   "ItemCardDataCardTabGpGroup": [
     "GpTag_CutterAdv",

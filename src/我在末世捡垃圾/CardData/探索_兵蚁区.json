@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5175\u8681\u533A",
-    "LocalizationKey": "",
+    "DefaultText": "兵蚁区",
+    "LocalizationKey": "T-CGMstuAWV0jXZEbflBnhRj42TIY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5175\u8681\u533A",
+  "CardImageWarpData": "兵蚁区",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6316\u5E72\u571F",
-        "LocalizationKey": "",
+        "DefaultText": "挖干土",
+        "LocalizationKey": "T-ZBSxyrZRXj4XiN4rfXMBAEOdQCk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -577,8 +577,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6316\u5E72\u571F",
-        "LocalizationKey": "",
+        "DefaultText": "挖干土",
+        "LocalizationKey": "T-ZBSxyrZRXj4XiN4rfXMBAEOdQCk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1084,8 +1084,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u63A2\u7D22",
-        "LocalizationKey": "",
+        "DefaultText": "探索",
+        "LocalizationKey": "T-KRhjOsgRtvfjRiwhnw2VhbEq6+M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1964,7 +1964,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_0",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-LDEeDiuz73jNBkGE8hzR40LIfkc=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],
@@ -2254,7 +2254,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_1",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-nwJFHcfLimG7oy8Mf+99/Ko4Vbs=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],

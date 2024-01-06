@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6316\u94C1\u77FF\u8109\u6B21\u6570",
+  "DefaultStatusIconWarpData": "挖铁矿脉次数",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6316\u94C1\u77FF\u8109\u6B21\u6570",
-    "LocalizationKey": "",
+    "DefaultText": "挖铁矿脉次数",
+    "LocalizationKey": "T-2wVqSixakLpuJ5pnbuioiQ8Or94=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

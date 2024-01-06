@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u86C7\u80C6",
-    "LocalizationKey": "",
+    "DefaultText": "蛇胆",
+    "LocalizationKey": "T-vTtc7eGe4+Xa2BijxIPzk9HcC6E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u80FD\u6CBB\u7597\u6211\u7684\u4E2D\u6BD2\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "这能治疗我的中毒！",
+    "LocalizationKey": "T-1PcQ4rlSjxw7tOe7kjbPbOSQXio=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u86C7\u80C6",
+  "CardImageWarpData": "蛇胆",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E0D\u51BB\u6CC9",
-    "LocalizationKey": "",
+    "DefaultText": "不冻泉",
+    "LocalizationKey": "T-pH23PPXnxNhO47nOAddQh0ZmOL8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6C38\u8FDC\u4E0D\u4F1A\u51BB\u7ED3\u7684\u6CC9\u6C34\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "永远不会冻结的泉水。",
+    "LocalizationKey": "T-RrjtzggLoI5/XptPaAZWI9dMZus=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E0D\u51BB\u6CC9",
+  "CardImageWarpData": "不冻泉",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9632\u868A",
-        "LocalizationKey": "",
+        "DefaultText": "防蚊",
+        "LocalizationKey": "T-6pZ9PCUP3djeX9gG3G+L6wXliSo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -545,8 +545,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u9632\u868A",
-      "LocalizationKey": "",
+      "DefaultText": "防蚊",
+      "LocalizationKey": "T-6pZ9PCUP3djeX9gG3G+L6wXliSo=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -1118,7 +1118,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,

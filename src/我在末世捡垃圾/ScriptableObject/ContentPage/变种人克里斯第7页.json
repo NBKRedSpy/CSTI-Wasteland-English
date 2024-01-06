@@ -1,7 +1,7 @@
 {
   "PageTitle": {
-    "DefaultText": "\u751F\u5B58\u5EFA\u9020",
-    "LocalizationKey": "",
+    "DefaultText": "生存建造",
+    "LocalizationKey": "T-a7Khpjc2CB+Q9ycxKfgM31EmPTg=",
     "ParentObjectID": ""
   },
   "RightButton": {
@@ -111,7 +111,7 @@
   ],
   "GlobalPageLinks": [],
   "LeftButtonWarpType": 3,
-  "LeftButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C6\u9875",
+  "LeftButtonWarpData": "变种人克里斯第6页",
   "RightButtonWarpType": 3,
-  "RightButtonWarpData": "\u89D2\u8272\u5267\u672C_\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u4EBA\u7269\u76EE\u6807_Default"
+  "RightButtonWarpData": "角色剧本_变种人克里斯人物目标_Default"
 }

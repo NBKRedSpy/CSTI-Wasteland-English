@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u7B1B",
-    "LocalizationKey": "",
+    "DefaultText": "铁笛",
+    "LocalizationKey": "T-D9+EN63GZDsmlBSimGOcugNBW+M=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -390,7 +390,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u7B1B",
+  "CardImageWarpData": "铁笛",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3571,8 +3571,8 @@
   "UniqueID": "b9be6dce0c895d3caaf5c6e104aac55b",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94C1\u76AE",
-    "LocalizationKey": "",
+    "DefaultText": "需要铁皮",
+    "LocalizationKey": "T-lTERh9R50J/je67DYQ0n0dAkTPg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

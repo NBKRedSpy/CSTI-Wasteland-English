@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u51B7\u51BB\u7403",
-    "LocalizationKey": "",
+    "DefaultText": "冷冻球",
+    "LocalizationKey": "T-SMhNaZiwMmnHCK5cxJLTuxW50KY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51B7\u51BB\u7403",
+  "CardImageWarpData": "冷冻球",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

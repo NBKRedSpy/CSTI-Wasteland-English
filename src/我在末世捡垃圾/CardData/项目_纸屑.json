@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u7EB8\u5C51",
-    "LocalizationKey": "",
+    "DefaultText": "纸屑",
+    "LocalizationKey": "T-XaHfEwmTzqKXmdJp3cKIyICL/T0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u5806\u7EAF\u767D\u7684\u7EB8\u5C51\uFF0C\u7528\u6765\u5F15\u71C3",
-    "LocalizationKey": "",
+    "DefaultText": "一堆纯白的纸屑，用来引燃",
+    "LocalizationKey": "T-q9FbfYZ5kXjE/VkFA18kKPVBua4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Tinder",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7EB8\u5C51",
+  "CardImageWarpData": "纸屑",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3\u706B\u7ED2",
-        "LocalizationKey": "",
+        "DefaultText": "点燃火绒",
+        "LocalizationKey": "T-hZuMep9FQ/HWyWwk/Y3Kyr+fW9Q=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -157,7 +157,7 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_FireSource",
-          "\u70B9\u706B\u5DE5\u5177"
+          "点火工具"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -513,8 +513,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u94BB\u6728\u53D6\u706B",
-        "LocalizationKey": "",
+        "DefaultText": "钻木取火",
+        "LocalizationKey": "T-9FjQLVtehvmqfXEbY8tby9y7phE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -905,8 +905,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u94BB\u6728\u53D6\u706B",
-        "LocalizationKey": "",
+        "DefaultText": "钻木取火",
+        "LocalizationKey": "T-9FjQLVtehvmqfXEbY8tby9y7phE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1297,8 +1297,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3\u706B\u7ED2",
-        "LocalizationKey": "",
+        "DefaultText": "点燃火绒",
+        "LocalizationKey": "T-hZuMep9FQ/HWyWwk/Y3Kyr+fW9Q=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

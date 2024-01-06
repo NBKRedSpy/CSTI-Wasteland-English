@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9AA8\u7070",
-    "LocalizationKey": "",
+    "DefaultText": "骨灰",
+    "LocalizationKey": "T-PJrHWGTku9/wJSg1PNFYzCh14nE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u770B\u8D77\u6765\u5F88\u9002\u5408\u7528\u6765\u65BD\u80A5\u2026\u2026",
-    "LocalizationKey": "",
+    "DefaultText": "看起来很适合用来施肥……",
+    "LocalizationKey": "T-51hZMLa8EG/TUcboa6m5oaDaD8w=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9AA8\u7070",
+  "CardImageWarpData": "骨灰",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

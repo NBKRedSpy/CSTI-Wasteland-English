@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8F90\u5C04\u82B1\u4E1B",
-    "LocalizationKey": "",
+    "DefaultText": "辐射花丛",
+    "LocalizationKey": "T-2F37R9exQPog8901UEIVSS22Yp8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u672B\u65E5\u88AB\u8F90\u5C04\u6C61\u67D3\u7684\u82B1\u6735\uFF0C\u4E0D\u77E5\u4E3A\u4F55\u751F\u957F\u5F97\u683C\u5916\u8302\u76DB\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "末日被辐射污染的花朵，不知为何生长得格外茂盛。",
+    "LocalizationKey": "T-N/6130dBJcz1VMFbL3Vp3V2dqyk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8F90\u5C04\u82B1\u4E1B",
+  "CardImageWarpData": "辐射花丛",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u91C7\u96C6\u82B1\u6735",
-        "LocalizationKey": "",
+        "DefaultText": "采集花朵",
+        "LocalizationKey": "T-RB7IpjrRHJYK64355jWKTa4O2Fg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

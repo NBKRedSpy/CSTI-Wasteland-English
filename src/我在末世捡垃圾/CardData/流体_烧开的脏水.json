@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70E7\u5F00\u7684\u810F\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "烧开的脏水",
+    "LocalizationKey": "T-LaUKqyGnSFsfLnFGQjMf2qLYZ1k=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "WTF\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "WTF？",
+    "LocalizationKey": "T-4DL16+uF6vne33oxa9FxNei81Jk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70E7\u5F00\u7684\u810F\u6C34",
+  "CardImageWarpData": "烧开的脏水",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -402,8 +402,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u70E7\u5F00\u7684\u810F\u6C34\u51C9\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "烧开的脏水凉了！",
+        "LocalizationKey": "T-QyBLMJYaP1rLxQjY31ADEsySPQE=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -750,7 +750,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u655E\u53E3\u5BB9\u5668",
+      "EffectName": "敞口容器",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

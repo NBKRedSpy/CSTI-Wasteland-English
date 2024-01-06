@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8840\u8272\u796D\u575B",
-    "LocalizationKey": "",
+    "DefaultText": "血色祭坛",
+    "LocalizationKey": "T-lRlOIMT3LSs6Ayy+K1mdk2olrOU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7ED9\u4E88\u8DB3\u591F\u7684\u796D\u54C1\u4F1A\u6E05\u7A7A\u66B4\u4E71\u7684\u8BA1\u65F6",
-    "LocalizationKey": "",
+    "DefaultText": "给予足够的祭品会清空暴乱的计时",
+    "LocalizationKey": "T-q7Qb7pbhyepU1n7Nsu+yNBGYRwQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8840\u8272\u796D\u575B",
+  "CardImageWarpData": "血色祭坛",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1939,7 +1939,7 @@
     "ShowPopupOnZero": false,
     "TextDisplay": 0,
     "OverrideIconWarpType": 3,
-    "OverrideIconWarpData": "\u5927\u578B\u5C38\u5757"
+    "OverrideIconWarpData": "大型尸块"
   },
   "SpecialDurability2": {
     "Active": false,

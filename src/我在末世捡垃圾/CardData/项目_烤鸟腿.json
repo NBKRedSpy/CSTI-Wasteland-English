@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70E4\u9E1F\u817F",
-    "LocalizationKey": "",
+    "DefaultText": "烤鸟腿",
+    "LocalizationKey": "T-fP9zrf4Jns7z77KFMCw9QCKX2n8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9E1F\u7C7B\u8EAB\u4E0A\u7684\u7F8E\u5473\u90E8\u4F4D\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "鸟类身上的美味部位！",
+    "LocalizationKey": "T-fRL9M8c2ORef6sK0iNhGRmLyDxo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70E4\u9E1F\u817F",
+  "CardImageWarpData": "烤鸟腿",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -193,8 +193,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403",
-        "LocalizationKey": "",
+        "DefaultText": "吃",
+        "LocalizationKey": "T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

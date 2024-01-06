@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5B89\u5168\u901A\u9053",
-    "LocalizationKey": "",
+    "DefaultText": "安全通道",
+    "LocalizationKey": "T-GbDc0nyVdBT8fx71uB9g0oMF9WU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5B89\u5168\u901A\u9053",
+  "CardImageWarpData": "安全通道",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

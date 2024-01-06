@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u76FE\u724C",
-    "LocalizationKey": "",
+    "DefaultText": "木盾牌",
+    "LocalizationKey": "T-/BdnWnHDCuV+joKGvBofoGU1/5w=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -390,7 +390,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u76FE\u724C",
+  "CardImageWarpData": "木盾牌",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3571,8 +3571,8 @@
   "UniqueID": "8d1e9f32bcd0a518e751629bf43f530d",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u67F3\u6849\u6728",
-    "LocalizationKey": "",
+    "DefaultText": "需要柳桉木",
+    "LocalizationKey": "T-+4SorQfEkXVVPCBzVuSYT2YPpvs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

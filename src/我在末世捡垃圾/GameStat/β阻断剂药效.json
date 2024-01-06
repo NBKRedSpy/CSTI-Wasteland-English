@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u03B2\u963B\u65AD\u5242",
+  "DefaultStatusIconWarpData": "β阻断剂",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u03B2\u963B\u65AD\u5242\u836F\u6548",
-    "LocalizationKey": "",
+    "DefaultText": "β阻断剂药效",
+    "LocalizationKey": "T-TeT/n1u+hAfRbU+zj6ryrok+/JE=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -172,8 +172,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u03B2\u963B\u65AD\u5242\u836F\u6548\u7684\u7B2C1\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "β阻断剂药效的第1阶段",
+        "LocalizationKey": "T-KgFsqe8jgWmx6NsO6M2kcxJF/e8=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -181,7 +181,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u03B2\u963B\u65AD\u5242",
+      "IconWarpData": "β阻断剂",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {
@@ -298,8 +298,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u03B2\u963B\u65AD\u5242\u836F\u6548\u7684\u7B2C2\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "β阻断剂药效的第2阶段",
+        "LocalizationKey": "T-i2w8WTQXoO9Bi9R3gOjzkJvQxpo=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -307,7 +307,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u03B2\u963B\u65AD\u5242",
+      "IconWarpData": "β阻断剂",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {
@@ -424,8 +424,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u03B2\u963B\u65AD\u5242\u836F\u6548\u7684\u7B2C3\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "β阻断剂药效的第3阶段",
+        "LocalizationKey": "T-E10MMtaMNHaa6GzOSsk2TyAiCeM=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -433,7 +433,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u03B2\u963B\u65AD\u5242",
+      "IconWarpData": "β阻断剂",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

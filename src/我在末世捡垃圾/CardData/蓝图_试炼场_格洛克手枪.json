@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u683C\u6D1B\u514B\u624B\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "格洛克手枪",
+    "LocalizationKey": "T-4BtFSTC48sabyPdRvND5eRbzph8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u683C\u6D1B\u514B\u624B\u67AA",
+  "CardImageWarpData": "格洛克手枪",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "87695c8bd02d9f3f9886f95cf5e2f80c",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

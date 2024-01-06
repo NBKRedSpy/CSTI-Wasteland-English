@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5927\u80A5\u866B",
-    "LocalizationKey": "",
+    "DefaultText": "大肥虫",
+    "LocalizationKey": "T-mBtRXoQezqhPQCgpr8AuVrniN/w=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5927\u80A5\u866B",
+  "CardImageWarpData": "大肥虫",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

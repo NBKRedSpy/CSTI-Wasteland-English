@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6700\u7EC8\u7684\u8BD5\u70BC",
-    "LocalizationKey": "",
+    "DefaultText": "最终的试炼",
+    "LocalizationKey": "T-8B2mQT1qUXkX+mGPzMCTiXS3lpI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u5207\u5373\u5C06\u7ED3\u675F\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "一切即将结束。",
+    "LocalizationKey": "T-q0IXMw+uCWysBGyfuJd648rB5FI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6700\u7EC8\u7684\u8BD5\u70BC",
+  "CardImageWarpData": "最终的试炼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4160,7 +4160,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u6700\u7EC8\u7684\u8BD5\u70BC"
+    "最终的试炼"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

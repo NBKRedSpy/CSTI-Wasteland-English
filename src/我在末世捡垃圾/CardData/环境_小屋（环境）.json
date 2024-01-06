@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5C0F\u5C4B",
-    "LocalizationKey": "",
+    "DefaultText": "小屋",
+    "LocalizationKey": "T-18YSmuLCZDR5LpxjwMviwhDzzhs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4E2A\u6E29\u99A8\u7684\u5C0F\u5C4B",
-    "LocalizationKey": "",
+    "DefaultText": "一个温馨的小屋",
+    "LocalizationKey": "T-Js+MG2pk6j3lh3ZWT4DsjkKXzAg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5C0F\u5C4B",
+  "CardImageWarpData": "小屋",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

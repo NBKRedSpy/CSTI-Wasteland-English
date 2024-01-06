@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u624B\u69B4\u5F39",
-    "LocalizationKey": "",
+    "DefaultText": "手榴弹",
+    "LocalizationKey": "T-I4U5u5HBmj681bGAnI4oQ7xsNlI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F3A\u529B\u7684\u7FA4\u4F53\u4F24\u5BB3\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "强力的群体伤害！",
+    "LocalizationKey": "T-Zsns6CkN9iaAyjnss9twbBa9hqo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u624B\u69B4\u5F39",
+  "CardImageWarpData": "手榴弹",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6253\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "打开",
+        "LocalizationKey": "T-ZfyB4WEZi8Zws8gGLIUZraaWRr0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

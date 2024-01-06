@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8682\u8681\u5B9D\u5B9D\u793C\u7269",
-    "LocalizationKey": "",
+    "DefaultText": "蚂蚁宝宝礼物",
+    "LocalizationKey": "T-sSkI+sBKQB4O+LR5KtB4vxywzpg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8681\u540E\u5B9D\u5B9D",
+  "CardImageWarpData": "蚁后宝宝",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

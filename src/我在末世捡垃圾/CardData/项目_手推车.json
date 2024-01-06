@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u624B\u63A8\u8F66",
-    "LocalizationKey": "",
+    "DefaultText": "手推车",
+    "LocalizationKey": "T-Y6fmrXjxVrBQB3cxmt4TEXe9NL8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u53EF\u4EE5\u628A\u7269\u54C1\u50A8\u5B58\u5728\u91CC\u9762",
-    "LocalizationKey": "",
+    "DefaultText": "我可以把物品储存在里面",
+    "LocalizationKey": "T-3/LvwmjmbLpPyCVIQos/e1aJqSc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u624B\u63A8\u8F66",
+  "CardImageWarpData": "手推车",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u87D1\u8782\u5C38\u4F53",
-    "LocalizationKey": "",
+    "DefaultText": "蟑螂尸体",
+    "LocalizationKey": "T-w2644Lurmcd6qQ7v0T2pYrTstZg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u5E94\u8BE5\u628A\u5B83\u653E\u8FDB\u86CB\u767D\u818F\u5236\u4F5C\u673A",
-    "LocalizationKey": "",
+    "DefaultText": "我应该把它放进蛋白膏制作机",
+    "LocalizationKey": "T-uHDFmEm32VO+Z0O1FvRTd9ZaxW0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u87D1\u8782\u5C38\u4F53",
+  "CardImageWarpData": "蟑螂尸体",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

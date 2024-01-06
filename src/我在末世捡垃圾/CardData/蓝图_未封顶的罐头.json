@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u672A\u5C01\u9876\u7684\u7F50\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "未封顶的罐头",
+    "LocalizationKey": "T-jfqurIXH6KKZuEzq4lWVyr/UJUk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -413,7 +413,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u672A\u5C01\u9876\u7684\u7F50\u5934",
+  "CardImageWarpData": "未封顶的罐头",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3594,8 +3594,8 @@
   "UniqueID": "415219eb600f66e4f601081f0277d4ac",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94C1\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "需要铁水",
+    "LocalizationKey": "T-d3xGUZLUgwh3aWbbmP5b8g4yers=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

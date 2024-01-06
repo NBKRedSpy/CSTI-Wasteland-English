@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u51F3\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "凳子",
+    "LocalizationKey": "T-rjyb6nlKiGHRQVfRuiIGlUpAohM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51F3\u5B50",
+  "CardImageWarpData": "凳子",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -601,8 +601,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1073,8 +1073,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u5378",
-        "LocalizationKey": "",
+        "DefaultText": "拆卸",
+        "LocalizationKey": "T-JfVe9ZcrjfjKM7EvUw5NHEbVwYw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1090,9 +1090,9 @@
         "TriggerCards": [],
         "TriggerTags": [],
         "TriggerTagsWarpData": [
-          "\u94B3\u5B50",
-          "\u6273\u624B",
-          "\u87BA\u4E1D\u5200"
+          "钳子",
+          "扳手",
+          "螺丝刀"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -1662,8 +1662,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u5378",
-        "LocalizationKey": "",
+        "DefaultText": "拆卸",
+        "LocalizationKey": "T-JfVe9ZcrjfjKM7EvUw5NHEbVwYw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1998,8 +1998,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5C0F\u61A9",
-        "LocalizationKey": "",
+        "DefaultText": "小憩",
+        "LocalizationKey": "T-S1NEHZb0W2W+0DJLyp2vDiSQqok=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2393,8 +2393,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2835,8 +2835,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3277,8 +3277,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3719,8 +3719,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5207\u5272",
-        "LocalizationKey": "",
+        "DefaultText": "切割",
+        "LocalizationKey": "T-SPq1MRFHtEVB53ENvgwwwdxBO4M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "5\u4E2A\u827E\u8349\u6577\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "5个艾草敷料",
+    "LocalizationKey": "T-EONoQno7C83M3sGrqMavXacy2jc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u827E\u8349\u6577\u6599",
+  "CardImageWarpData": "艾草敷料",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "22d221c394ee44756ea2bb7a13759444",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

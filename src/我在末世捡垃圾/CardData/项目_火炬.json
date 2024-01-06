@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u706B\u70AC",
-    "LocalizationKey": "",
+    "DefaultText": "火炬",
+    "LocalizationKey": "T-JMwQ/ZyiKn/UP5nXb+GZet/Qba8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u591C\u665A\u51FA\u884C\u7684\u5FC5\u5907\u54C1",
-    "LocalizationKey": "",
+    "DefaultText": "夜晚出行的必备品",
+    "LocalizationKey": "T-kie2++CoJj+IUr8bLxSGKRr4lg4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u706B\u70AC",
+  "CardImageWarpData": "火炬",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4231,6 +4231,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

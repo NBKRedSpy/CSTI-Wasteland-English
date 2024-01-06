@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5F3A\u529B\u5939\u677F",
-    "LocalizationKey": "",
+    "DefaultText": "强力夹板",
+    "LocalizationKey": "T-hU/EgEp4axoIzeuq6cWDs8axWME=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7528\u80F6\u5E26\u52A0\u56FA\u7684\u5939\u677F\uFF0C\u80FD\u591F\u8BA9\u626D\u4F24\u9AA8\u6298\u597D\u7684\u66F4\u5FEB",
-    "LocalizationKey": "",
+    "DefaultText": "用胶带加固的夹板，能够让扭伤骨折好的更快",
+    "LocalizationKey": "T-njTw6WYya+dKqRfi3bsRbwlnwws=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5F3A\u529B\u5939\u677F",
+  "CardImageWarpData": "强力夹板",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7164\u77FF\u8109",
-    "LocalizationKey": "",
+    "DefaultText": "煤矿脉",
+    "LocalizationKey": "T-TELVJ0xwFg9vp0jas+DnoPvZ1QY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u8981\u7528\u94F2\u5B50\u6765\u6316",
-    "LocalizationKey": "",
+    "DefaultText": "我要用铲子来挖",
+    "LocalizationKey": "T-CKHGcL3JMn21jWF1stDoz0h7dxY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7164\u77FF\u8109",
+  "CardImageWarpData": "煤矿脉",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6316\u6398",
-        "LocalizationKey": "",
+        "DefaultText": "挖掘",
+        "LocalizationKey": "T-VEh/fFQe/G+M7BShijWqaF9i3JA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -639,8 +639,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u624B\u5228",
-        "LocalizationKey": "",
+        "DefaultText": "手刨",
+        "LocalizationKey": "T-vuQ3aEu+/Hf47D+koTpr/Neq+jo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

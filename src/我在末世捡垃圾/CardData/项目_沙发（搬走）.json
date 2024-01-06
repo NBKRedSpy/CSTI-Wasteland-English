@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6C99\u53D1",
-    "LocalizationKey": "",
+    "DefaultText": "沙发",
+    "LocalizationKey": "T-6Vtc+btj4kfDpVL2sRJHdKOaloM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u603B\u7B97\u80FD\u597D\u597D\u7761\u4E00\u89C9\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "总算能好好睡一觉了",
+    "LocalizationKey": "T-CtQ0d8i+pKq0ykQaMRFtrjaqebk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6C99\u53D1",
+  "CardImageWarpData": "沙发",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5C0F\u61A9",
-        "LocalizationKey": "",
+        "DefaultText": "小憩",
+        "LocalizationKey": "T-S1NEHZb0W2W+0DJLyp2vDiSQqok=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -582,8 +582,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7761\u89C9",
-        "LocalizationKey": "",
+        "DefaultText": "睡觉",
+        "LocalizationKey": "T-Y4AmCmUrnk7b5jqYk7p7d8mWPok=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -977,8 +977,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

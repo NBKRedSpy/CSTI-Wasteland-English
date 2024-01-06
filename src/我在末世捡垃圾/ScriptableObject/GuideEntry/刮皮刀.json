@@ -6,13 +6,13 @@
     "m_PathID": 0
   },
   "OverrideTitle": {
-    "DefaultText": "\u522E\u76AE\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "刮皮刀",
+    "LocalizationKey": "T-hoLBYAclGbgk8fl+TylpCXBW1Ak=",
     "ParentObjectID": ""
   },
   "OverrideDescription": {
-    "DefaultText": "\u6211\u662F\u522E\u76AE\u5200\u7684\u6307\u5357",
-    "LocalizationKey": "",
+    "DefaultText": "我是刮皮刀的指南",
+    "LocalizationKey": "T-i6bcYMcUIEQ6rPy7F/hvzgM6KFA=",
     "ParentObjectID": ""
   },
   "RelatedEntries": [],
@@ -26,9 +26,9 @@
   ],
   "RelatedEntriesWarpType": 3,
   "RelatedEntriesWarpData": [
-    "\u6253\u706B\u673A",
-    "\u5F00\u7F50\u5668"
+    "打火机",
+    "开罐器"
   ],
   "OverrideIllustrationWarpType": 3,
-  "OverrideIllustrationWarpData": "\u522E\u76AE\u5200"
+  "OverrideIllustrationWarpData": "刮皮刀"
 }

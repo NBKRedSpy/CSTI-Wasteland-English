@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u55B7\u706B\u5668\uFF08\u7A7A\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "喷火器（空）",
+    "LocalizationKey": "T-l2ch+peXi1Io2lQjm26YSIBI+hE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u71C3\u6599\u5462\uFF1F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "我燃料呢？！",
+    "LocalizationKey": "T-AY9vLyE3SP+VyPEc2p6tH27vqIc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u55B7\u706B\u5668",
+  "CardImageWarpData": "喷火器",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u9152\u7CBE",
-        "LocalizationKey": "",
+        "DefaultText": "装酒精",
+        "LocalizationKey": "T-4U8akTFnzPEKkisFDcCBLziODCo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -483,8 +483,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u52A0\u56FA\u4F53\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "加固体燃料",
+        "LocalizationKey": "T-nGBDhwLsiElGKnuBetkqxtO/ez8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4518,6 +4518,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

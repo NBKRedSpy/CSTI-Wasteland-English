@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u672A\u5C01\u9876\u7684\u7F50\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "未封顶的罐头",
+    "LocalizationKey": "T-jfqurIXH6KKZuEzq4lWVyr/UJUk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u53EF\u4EE5\u62FF\u5B83\u88C5\u6C34\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "我可以拿它装水。",
+    "LocalizationKey": "T-VjMP96sP44juC103cEVMppPhRsM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u672A\u5C01\u9876\u7684\u7F50\u5934",
+  "CardImageWarpData": "未封顶的罐头",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -135,8 +135,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6572\u6253",
-        "LocalizationKey": "",
+        "DefaultText": "敲打",
+        "LocalizationKey": "T-IqQlpPsjuXeF3Wzo9DQt5cA+z8c=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -547,8 +547,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u810F\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "收集脏水",
+        "LocalizationKey": "T-y6ggPr5kNXfRufkl76RCI0SDF90=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -858,8 +858,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u96E8\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "收集雨水",
+        "LocalizationKey": "T-nDUbi05OYBCSine8w8e/Ul0Pwkc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8718\u86DB\u5DE2",
-    "LocalizationKey": "",
+    "DefaultText": "蜘蛛巢",
+    "LocalizationKey": "T-nhicziAJc0EEHjmAauv3l/nMPlw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u524D\u5F80\u8718\u86DB\u5DE2\u3002\n\n\u003Cb\u003E\uFF08\u53EA\u6709\u624B\u724C\u53EF\u4EE5\u5E26\u8D70\uFF09\u003C/b\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "前往蜘蛛巢。\n\n<b>（只有手牌可以带走）</b>",
+    "LocalizationKey": "T-Nd2Y3cexQpR5Cjj3RWQ59Xs4vTk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8718\u86DB\u5DE2",
+  "CardImageWarpData": "蜘蛛巢",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80",
-        "LocalizationKey": "",
+        "DefaultText": "前往",
+        "LocalizationKey": "T-I5JtYUaM5gqjt7WyL+xsaNA49jY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

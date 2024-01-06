@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6FC0\u5149\u901A\u9053",
-    "LocalizationKey": "",
+    "DefaultText": "激光通道",
+    "LocalizationKey": "T-l1Kpoaw9w6W/rBiqVRF5mcTD4To=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6FC0\u5149\u901A\u9053",
+  "CardImageWarpData": "激光通道",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

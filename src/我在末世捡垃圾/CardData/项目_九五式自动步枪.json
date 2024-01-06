@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E5D\u4E94\u5F0F\u81EA\u52A8\u6B65\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "九五式自动步枪",
+    "LocalizationKey": "T-BT3953qJucFeIbdLRYsmAjiODOE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5440\u54C8\uFF0C\u5C60\u6740\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "呀哈，屠杀！",
+    "LocalizationKey": "T-VTz0Gj6MOr+oKvMg/wggqzzmndY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E5D\u4E94\u5F0F\u81EA\u52A8\u6B65\u67AA",
+  "CardImageWarpData": "九五式自动步枪",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u5F39",
-        "LocalizationKey": "",
+        "DefaultText": "装弹",
+        "LocalizationKey": "T-vIjU4Dvi5bXpIk/uGnmgulRU3H8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -375,8 +375,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5B50\u5F39\u5DF2\u6EE1",
-          "LocalizationKey": "",
+          "DefaultText": "子弹已满",
+          "LocalizationKey": "T-Q1rpQSuUSO/8H/yKDMeIQIcZMv8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -4165,6 +4165,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

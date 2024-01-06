@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5384\u8FD0\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "厄运金币",
+    "LocalizationKey": "T-bSmbVViwI9U1L6K5wF6HXbsAXv4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F60\u4E3A\u4EC0\u4E48\u8981\u505A\u8FD9\u4E2A\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "你为什么要做这个？",
+    "LocalizationKey": "T-bsw7//vKvAChKKVWD7+clWWnc3A=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5384\u8FD0\u91D1\u5E01",
+  "CardImageWarpData": "厄运金币",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

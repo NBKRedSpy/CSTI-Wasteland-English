@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u8F90\u5C04\u82B1\u6548\u679C",
+  "DefaultStatusIconWarpData": "辐射花效果",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -31,8 +31,8 @@
     "ParentObjectID": ""
   },
   "Description": {
-    "DefaultText": "\u672B\u65E5\u91CC\u5F3A\u5927\u7684\u7CBE\u795E\u652F\u6491",
-    "LocalizationKey": "",
+    "DefaultText": "末日里强大的精神支撑",
+    "LocalizationKey": "T-v3y3d2iJl3iBX/aPjYTGwthxtAM=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u8F90\u5C04\u82B1\u6548\u679C",
-    "LocalizationKey": "",
+    "DefaultText": "辐射花效果",
+    "LocalizationKey": "T-BkBxok8nf/PZ5BJodPDXSL1YcC4=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -88,8 +88,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u672B\u65E5\u91CC\u5F3A\u5927\u7684\u7CBE\u795E\u652F\u6491",
-        "LocalizationKey": "",
+        "DefaultText": "末日里强大的精神支撑",
+        "LocalizationKey": "T-v3y3d2iJl3iBX/aPjYTGwthxtAM=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -229,8 +229,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u4E2D\u7B49\u8F90\u5C04\u82B1\u6548\u679C",
-        "LocalizationKey": "",
+        "DefaultText": "中等辐射花效果",
+        "LocalizationKey": "T-c9qKDvWKBzZA23ZegASNzEoVD3M=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -238,7 +238,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u8F90\u5C04\u82B1",
+      "IconWarpData": "辐射花",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {
@@ -271,8 +271,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u672B\u65E5\u91CC\u5F3A\u5927\u7684\u7CBE\u795E\u652F\u6491",
-        "LocalizationKey": "",
+        "DefaultText": "末日里强大的精神支撑",
+        "LocalizationKey": "T-v3y3d2iJl3iBX/aPjYTGwthxtAM=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -412,8 +412,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u9AD8\u8F90\u5C04\u82B1\u6548\u679C",
-        "LocalizationKey": "",
+        "DefaultText": "高辐射花效果",
+        "LocalizationKey": "T-PefvWMcJicEl+0ABYS/rZu7iYaY=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -421,7 +421,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u8F90\u5C04\u82B1",
+      "IconWarpData": "辐射花",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

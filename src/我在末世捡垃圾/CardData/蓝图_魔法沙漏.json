@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9B54\u6CD5\u6C99\u6F0F",
-    "LocalizationKey": "",
+    "DefaultText": "魔法沙漏",
+    "LocalizationKey": "T-Cw0gJbctY1XuUVF8CjXg1JrIEuE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9B54\u6CD5\u6C99\u6F0F",
+  "CardImageWarpData": "魔法沙漏",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3666,8 +3666,8 @@
   "UniqueID": "e3e2301dd763a80a92d3de8d15609b22",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7075\u9B42\u7403",
-    "LocalizationKey": "",
+    "DefaultText": "需要灵魂球",
+    "LocalizationKey": "T-pSpFm90t0++NMBe2M7xTw7PvTMk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

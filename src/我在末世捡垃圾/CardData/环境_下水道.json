@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4E0B\u6C34\u9053",
-    "LocalizationKey": "",
+    "DefaultText": "下水道",
+    "LocalizationKey": "T-hvYxHNTLuBuXX+k70P3XOPzZkCs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E0B\u6C34\u9053",
+  "CardImageWarpData": "下水道",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5F3A\u529B\u5939\u677F",
-    "LocalizationKey": "",
+    "DefaultText": "强力夹板",
+    "LocalizationKey": "T-hU/EgEp4axoIzeuq6cWDs8axWME=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5F3A\u529B\u5939\u677F",
+  "CardImageWarpData": "强力夹板",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3666,8 +3666,8 @@
   "UniqueID": "b1558ef6976ec4e224e99775323f9f50",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u80F6\u5E26",
-    "LocalizationKey": "",
+    "DefaultText": "需要胶带",
+    "LocalizationKey": "T-j0t3OANU4QzLSFzB7l1vBZ0NK4o=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

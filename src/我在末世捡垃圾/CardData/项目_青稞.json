@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9752\u7A1E",
-    "LocalizationKey": "",
+    "DefaultText": "青稞",
+    "LocalizationKey": "T-if8oScY5HhCM9jntbJFHVR1mcIE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u91CC\u9762\u85CF\u7740\u65E0\u4EF7\u4E4B\u5B9D",
-    "LocalizationKey": "",
+    "DefaultText": "这里面藏着无价之宝",
+    "LocalizationKey": "T-3HdVC/TI6EWao4/IKsdnfYO87ik=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9752\u7A1E",
+  "CardImageWarpData": "青稞",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -193,8 +193,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6253\u8C37",
-        "LocalizationKey": "",
+        "DefaultText": "打谷",
+        "LocalizationKey": "T-DQ5/czlIx8msqSXCrBrAliMfjNY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

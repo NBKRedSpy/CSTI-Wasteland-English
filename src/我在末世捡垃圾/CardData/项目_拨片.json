@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u62E8\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "拨片",
+    "LocalizationKey": "T-2uVdpzRVSZOZWseIfB+cE0WiDQY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u770B\u8D77\u6765\u53EF\u4EE5\u7528\u6765\u64AC\u9501",
-    "LocalizationKey": "",
+    "DefaultText": "看起来可以用来撬锁",
+    "LocalizationKey": "T-TN+gqnWUzeWkEDwv+w93MNS6SFo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u62E8\u7247",
+  "CardImageWarpData": "拨片",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

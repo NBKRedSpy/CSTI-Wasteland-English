@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u51BB\u4F24",
-    "LocalizationKey": "",
+    "DefaultText": "冻伤",
+    "LocalizationKey": "T-ZhCXnZzfXSakYQBRuog5U9+fuLk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u770B\u8D77\u6765\u53EA\u6709\u5F00\u6C34\u624D\u80FD\u6CBB\u6108\u597D\u5B83",
-    "LocalizationKey": "",
+    "DefaultText": "看起来只有开水才能治愈好它",
+    "LocalizationKey": "T-avEcw1U5Cgov+Ryrqs8SGjBCbec=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u5C0F\u4F24\u53E3"
+    "小伤口"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51BB\u4F24",
+  "CardImageWarpData": "冻伤",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70EB\u7597",
-        "LocalizationKey": "",
+        "DefaultText": "烫疗",
+        "LocalizationKey": "T-rW6NESdpQXlxDRSROAScp3HXmZ4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -510,8 +510,8 @@
   "CookingRecipes": [
     {
       "ActionName": {
-        "DefaultText": "\u6577\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "敷料",
+        "LocalizationKey": "T-QTEDrXCKRgJdxY9bezUiJdqMbm0=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -585,8 +585,8 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "\u6B63\u5728\u4FDD\u62A4\u4F24\u53E3",
-        "LocalizationKey": "",
+        "DefaultText": "正在保护伤口",
+        "LocalizationKey": "T-XDYwtxFjIi5PeWQoiSxaHIiC27w=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -1175,8 +1175,8 @@
     }
   ],
   "InventorySlotsText": {
-    "DefaultText": "\u5728\u6B64\u653E\u7F6E\u6577\u6599/\u7EF7\u5E26",
-    "LocalizationKey": "",
+    "DefaultText": "在此放置敷料/绷带",
+    "LocalizationKey": "T-p2FbWOt4M1Sba18dgA4F664bY8U=",
     "ParentObjectID": ""
   },
   "IsDarkPlace": false,
@@ -1289,7 +1289,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u836F\u818F",
+      "EffectName": "药膏",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -1423,7 +1423,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5F31\u6548\u6577\u6599",
+      "EffectName": "弱效敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -1557,7 +1557,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5F31\u6548\u6577\u6599",
+      "EffectName": "弱效敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -1691,7 +1691,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5F3A\u6548\u6577\u6599",
+      "EffectName": "强效敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -1825,7 +1825,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5F3A\u6548\u6577\u6599",
+      "EffectName": "强效敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -1954,7 +1954,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u7EC6\u83CC",
+      "EffectName": "细菌",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2098,7 +2098,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u8868\u9762\u7EC6\u83CC1",
+      "EffectName": "表面细菌1",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2222,7 +2222,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u8868\u9762\u7EC6\u83CC2",
+      "EffectName": "表面细菌2",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2346,7 +2346,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u8868\u9762\u7EC6\u83CC3",
+      "EffectName": "表面细菌3",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2470,7 +2470,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u8868\u9762\u7EC6\u83CC4",
+      "EffectName": "表面细菌4",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2594,7 +2594,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u8868\u9762\u7EC6\u83CC5",
+      "EffectName": "表面细菌5",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2707,7 +2707,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u827E\u8349\u6577\u6599",
+      "EffectName": "艾草敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2898,7 +2898,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u7279\u6B8A\u6577\u6599",
+      "EffectName": "特殊敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -3088,7 +3088,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u810F\u5E03",
+      "EffectName": "脏布",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -3223,7 +3223,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6728\u8D28\u6577\u6599",
+      "EffectName": "木质敷料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -3352,7 +3352,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u51BB\u4F24",
+      "EffectName": "冻伤",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -3538,7 +3538,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5FEB\u6108\u5408\u7684\u51BB\u4F24",
+      "EffectName": "快愈合的冻伤",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -5834,8 +5834,8 @@
     "MaxValue": 2880.0,
     "OnFull": {
       "ActionDescription": {
-        "DefaultText": "\u51BB\u4F24\u5DF2\u6CBB\u6108\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "冻伤已治愈！",
+        "LocalizationKey": "T-dY/1Q/NIOU44jeYTuHWvEx8TOdQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -5850,8 +5850,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u51BB\u4F24",
-        "LocalizationKey": "",
+        "DefaultText": "冻伤",
+        "LocalizationKey": "T-ZhCXnZzfXSakYQBRuog5U9+fuLk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6801,7 +6801,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u53F2\u8482\u592B\u53D7\u4F24"
+    "史蒂夫受伤"
   ],
   "WhenCreatedSoundsWarpType": 3,
   "EquipmentTagsWarpType": 3,

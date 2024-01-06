@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7BAD\u96E8\u673A\u5173\u89E6\u53D1",
-    "LocalizationKey": "",
+    "DefaultText": "箭雨机关触发",
+    "LocalizationKey": "T-cekeyV/Qs2CNehEBOnmzeMiIRkI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7BAD\u96E8\u671D\u4F60\u5C04\u6765\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "箭雨朝你射来。",
+    "LocalizationKey": "T-W1IJZhn3xWjQbZnXrxOg83XCSWE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7BAD\u96E8\u673A\u5173\u89E6\u53D1",
+  "CardImageWarpData": "箭雨机关触发",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4213,7 +4213,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u7BAD\u96E8\u673A\u5173\u89E6\u53D1"
+    "箭雨机关触发"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8FF7\u7CCA\u83C7",
-    "LocalizationKey": "",
+    "DefaultText": "迷糊菇",
+    "LocalizationKey": "T-ifIYuHZ0KJghtK9MPzhgov7H9bk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u54E6\uFF0C\u6211\u7684\u5929\u554A",
-    "LocalizationKey": "",
+    "DefaultText": "哦，我的天啊",
+    "LocalizationKey": "T-Nm9orudlUN85HEwZwJ29eSsxN3w=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8FF7\u7CCA\u83C7",
+  "CardImageWarpData": "迷糊菇",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -193,8 +193,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403",
-        "LocalizationKey": "",
+        "DefaultText": "吃",
+        "LocalizationKey": "T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

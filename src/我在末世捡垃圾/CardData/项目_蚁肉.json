@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8681\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "蚁肉",
+    "LocalizationKey": "T-42suRE8tB+FOgEb2AZrBwoH/fB8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u4E0D\u80FD\u751F\u5403\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "这不能生吃！",
+    "LocalizationKey": "T-PgzXXSqMx7NMUtRwMaG5LWlCLC0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -15,7 +15,7 @@
     "tag_Feed",
     "tag_Meat",
     "tag_ProteinsMedium",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8681\u8089",
+  "CardImageWarpData": "蚁肉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -193,8 +193,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403",
-        "LocalizationKey": "",
+        "DefaultText": "吃",
+        "LocalizationKey": "T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

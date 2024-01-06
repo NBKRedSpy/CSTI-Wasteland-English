@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u62E8\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "拨片",
+    "LocalizationKey": "T-2uVdpzRVSZOZWseIfB+cE0WiDQY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u62E8\u7247",
+  "CardImageWarpData": "拨片",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "474d34d82317381b8278af32f1677d5f",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5C5E\u788E\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "需要金属碎片",
+    "LocalizationKey": "T-NFPIvrBPfjYghfwhozqVcKfxEvk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

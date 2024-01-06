@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8FC7\u6EE4\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "过滤器",
+    "LocalizationKey": "T-zIH/9YlNGv4qr9VlrHV6fPlRCRM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -579,7 +579,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8FC7\u6EE4\u5668",
+  "CardImageWarpData": "过滤器",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3760,8 +3760,8 @@
   "UniqueID": "8a92632463d7b8930bd0f7c312999bae",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6728\u70AD",
-    "LocalizationKey": "",
+    "DefaultText": "需要木炭",
+    "LocalizationKey": "T-6SHTjqe46HPUbftiQ8EofGPFh0s=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

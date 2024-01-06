@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u827E\u8349\u4E1B",
-    "LocalizationKey": "",
+    "DefaultText": "艾草丛",
+    "LocalizationKey": "T-9q69/QcrXDwWQUZwRMLxRcOlyZI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u662F\u4E2A\u795E\u5947\u7684\u4F5C\u7269\uFF0C\u53EF\u98DF\u7528\u4E5F\u53EF\u6CBB\u6108\u672B\u4E16\u5E26\u6765\u7684\u53D8\u5F02\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "这是个神奇的作物，可食用也可治愈末世带来的变异。",
+    "LocalizationKey": "T-ZX3wF5yIXeUk5v7qlxHvm2EA+8g=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u827E\u8349\u4E1B",
+  "CardImageWarpData": "艾草丛",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u91C7\u96C6",
-        "LocalizationKey": "",
+        "DefaultText": "采集",
+        "LocalizationKey": "T-w/iTPXejkCBAmfWt+88lBK1bQ3k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

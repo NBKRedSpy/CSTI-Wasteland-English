@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u71C3\u70E7\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "燃烧瓶",
+    "LocalizationKey": "T-sTvYwrDRB9BVVvs/TLE0XGzL9+8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7FA4\u4F53\u4F24\u5BB3\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "群体伤害！",
+    "LocalizationKey": "T-xTxnxc42AAemaiC6MvONI1Rvtyw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u71C3\u70E7\u74F6",
+  "CardImageWarpData": "燃烧瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -156,7 +156,7 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_FireSource",
-          "\u70B9\u706B\u5DE5\u5177"
+          "点火工具"
         ],
         "TriggerTagsWarpType": 3
       },

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6C99\u98CE\u66B4\u88AD\u51FB",
-    "LocalizationKey": "",
+    "DefaultText": "沙风暴袭击",
+    "LocalizationKey": "T-XhNujm8WgFQ4MBQNB3DgwIq/9tY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6C99\u98CE\u66B4\u88AD\u51FB\u4E86\u8FD9\u7247\u533A\u57DF",
-    "LocalizationKey": "",
+    "DefaultText": "沙风暴袭击了这片区域",
+    "LocalizationKey": "T-nwqDcNDk59yXxJ2I8eKMaOCok5c=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6C99\u9F99\u5377",
+  "CardImageWarpData": "沙龙卷",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u68C0\u67E5\u635F\u5931",
-        "LocalizationKey": "",
+        "DefaultText": "检查损失",
+        "LocalizationKey": "T-MYPP/dTLyjuszdT+T+V5LAHUo24=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -540,8 +540,8 @@
         "y": 0
       },
       "NoCardsAffectedMessage": {
-        "DefaultText": "\u6CA1\u6709\u4E1C\u897F\u88AB\u6C99\u98CE\u66B4\u88AD\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "没有东西被沙风暴袭击",
+        "LocalizationKey": "T-VFQAXOiBtHIQO/0VUEC4PZ9UkCY=",
         "ParentObjectID": ""
       },
       "NotBaseAction": false,
@@ -4341,7 +4341,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u6C99\u9F99\u5377"
+    "沙龙卷"
   ],
   "WhenCreatedSoundsWarpType": 3,
   "SpawningBlockedByWarpType": 3,

@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u5EFA\u7B51\u5E9F\u589F\u6570\u91CF",
+  "DefaultStatusIconWarpData": "建筑废墟数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -31,8 +31,8 @@
     "ParentObjectID": ""
   },
   "Description": {
-    "DefaultText": "\u9632\u6B62\u540C\u4E00\u573A\u666F\u51FA\u73B0\u5927\u91CF\u91CD\u590D\u7269\u54C1",
-    "LocalizationKey": "",
+    "DefaultText": "防止同一场景出现大量重复物品",
+    "LocalizationKey": "T-SZzrk78oyH8HVL9Nsvq3kPLrxEI=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u5EFA\u7B51\u5E9F\u589F\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "建筑废墟数量",
+    "LocalizationKey": "T-v9JGvqfugbbmHmx7UYf8JUGvGIk=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

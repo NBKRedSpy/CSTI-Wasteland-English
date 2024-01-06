@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6765\u8FC7\u827E\u8349\u751F\u5316\u516C\u53F8\u5730\u56FE",
+  "DefaultStatusIconWarpData": "来过艾草生化公司地图",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6765\u8FC7\u827E\u8349\u751F\u5316\u516C\u53F8\u5730\u56FE",
-    "LocalizationKey": "",
+    "DefaultText": "来过艾草生化公司地图",
+    "LocalizationKey": "T-+A6uwNaGPXFLAmBdoeGhPGCPPyI=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

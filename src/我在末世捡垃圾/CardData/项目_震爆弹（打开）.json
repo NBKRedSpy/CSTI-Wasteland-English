@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9707\u7206\u5F39\uFF08\u6253\u5F00\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "震爆弹（打开）",
+    "LocalizationKey": "T-ocDbuu4DgYmjNKwbAiA2tHqBoyE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9707\u7206\u5F39\uFF08\u6253\u5F00\uFF09",
+  "CardImageWarpData": "震爆弹（打开）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5173\u95ED",
-        "LocalizationKey": "",
+        "DefaultText": "关闭",
+        "LocalizationKey": "T-bBS9f2+eVORgJNNd/ixFSMmjgh0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

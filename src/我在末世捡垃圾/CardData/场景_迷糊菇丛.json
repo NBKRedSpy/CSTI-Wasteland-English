@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8FF7\u7CCA\u83C7\u4E1B",
-    "LocalizationKey": "",
+    "DefaultText": "迷糊菇丛",
+    "LocalizationKey": "T-7Wj52uh1XSkUEfOO1Bh7bWmsg5o=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u5728\u5E9F\u571F\u91CC\u683C\u5916\u663E\u773C",
-    "LocalizationKey": "",
+    "DefaultText": "它在废土里格外显眼",
+    "LocalizationKey": "T-uwqMqBCTK+jaV0DMcrS2c5qICbI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8FF7\u7CCA\u83C7\u4E1B",
+  "CardImageWarpData": "迷糊菇丛",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u91C7\u96C6",
-        "LocalizationKey": "",
+        "DefaultText": "采集",
+        "LocalizationKey": "T-w/iTPXejkCBAmfWt+88lBK1bQ3k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

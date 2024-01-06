@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7075\u9B42\u6C99",
-    "LocalizationKey": "",
+    "DefaultText": "灵魂沙",
+    "LocalizationKey": "T-98t5fyVYOofwoe8atQi8WibsM9Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u62E5\u6709\u9B54\u529B\u7684\u7A00\u6709\u6C99\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "拥有魔力的稀有沙子",
+    "LocalizationKey": "T-1Oaz1cfuN64QO+XG/PtKqnqCgN4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7075\u9B42\u6C99",
+  "CardImageWarpData": "灵魂沙",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

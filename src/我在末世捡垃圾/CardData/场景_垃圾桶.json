@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5783\u573E\u6876",
-    "LocalizationKey": "",
+    "DefaultText": "垃圾桶",
+    "LocalizationKey": "T-zwvtRznggPKBiyxFzoTNJALLodo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5783\u573E\u6876\u91CC\u6709\u9EC4\u91D1",
-    "LocalizationKey": "",
+    "DefaultText": "垃圾桶里有黄金",
+    "LocalizationKey": "T-0Mk8SupY6QSsHGOvT8woRQ+57JY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5783\u573E\u6876",
+  "CardImageWarpData": "垃圾桶",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u5378",
-        "LocalizationKey": "",
+        "DefaultText": "拆卸",
+        "LocalizationKey": "T-JfVe9ZcrjfjKM7EvUw5NHEbVwYw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -708,8 +708,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u641C\u7D22",
-        "LocalizationKey": "",
+        "DefaultText": "搜索",
+        "LocalizationKey": "T-8ECQgFxu69/H+ctpuB8+RMOjY2o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

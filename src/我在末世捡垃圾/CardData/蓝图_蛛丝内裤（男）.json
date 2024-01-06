@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u86DB\u4E1D\u5185\u88E4\uFF08\u7537\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "蛛丝内裤（男）",
+    "LocalizationKey": "T-auTEipQDgfN17HZhGx/gG8rYKb4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -371,7 +371,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u86DB\u4E1D\u5185\u88E4\uFF08\u7537\uFF09",
+  "CardImageWarpData": "蛛丝内裤（男）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3552,8 +3552,8 @@
   "UniqueID": "7f7b0209eada1c473dfcecf01d589fff",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u8718\u86DB\u4E1D",
-    "LocalizationKey": "",
+    "DefaultText": "需要蜘蛛丝",
+    "LocalizationKey": "T-jGqsHvVgKALxPxeIqG7l0znsUbo=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

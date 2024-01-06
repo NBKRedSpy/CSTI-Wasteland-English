@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5F3A\u5316\u7684\u5E9F\u571F\u62A4\u8155",
-    "LocalizationKey": "",
+    "DefaultText": "强化的废土护腕",
+    "LocalizationKey": "T-/gtu30SdA/sNZtHZkB+p0jX2Lhg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -592,7 +592,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5F3A\u5316\u7684\u5E9F\u571F\u62A4\u8155",
+  "CardImageWarpData": "强化的废土护腕",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3776,8 +3776,8 @@
   "UniqueID": "1dd45aa9cbaabfa0982b902f59b16151",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7EBA\u7EC7\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要纺织技能",
+    "LocalizationKey": "T-gu5smweblc8msBSzMNfVw+nXfSs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

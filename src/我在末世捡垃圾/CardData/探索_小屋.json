@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5C0F\u5C4B",
-    "LocalizationKey": "",
+    "DefaultText": "小屋",
+    "LocalizationKey": "T-18YSmuLCZDR5LpxjwMviwhDzzhs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7528\u5E03\u6765\u6E05\u7406\u6C61\u6E0D",
-    "LocalizationKey": "",
+    "DefaultText": "用布来清理污渍",
+    "LocalizationKey": "T-si0ElrzPxzYpOqCK7Yu6kHm5rc4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5C0F\u5C4B",
+  "CardImageWarpData": "小屋",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6253\u626B",
-        "LocalizationKey": "",
+        "DefaultText": "打扫",
+        "LocalizationKey": "T-gF9+n2gnHHNjXhWHrO+zmGUkIM8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -535,8 +535,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6253\u626B",
-        "LocalizationKey": "",
+        "DefaultText": "打扫",
+        "LocalizationKey": "T-gF9+n2gnHHNjXhWHrO+zmGUkIM8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1556,7 +1556,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6700\u5C11\u810F\u6C61",
+      "EffectName": "最少脏污",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1685,7 +1685,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u8F83\u5C11\u810F\u6C61",
+      "EffectName": "较少脏污",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1814,7 +1814,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E2D\u7B49\u810F\u6C61",
+      "EffectName": "中等脏污",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1943,7 +1943,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5927\u91CF\u810F\u6C61",
+      "EffectName": "大量脏污",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -4169,8 +4169,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6C61\u79FD",
-      "LocalizationKey": "",
+      "DefaultText": "污秽",
+      "LocalizationKey": "T-PppUvnFEz+wtap7KFH43MkSdWZ8=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

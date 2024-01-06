@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u672A\u5C01\u9876\u7684\u8089\u7F50\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "未封顶的肉罐头",
+    "LocalizationKey": "T-UChmsqheI+bf1SyVb/9R9VMtOQc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u672A\u5C01\u9876\u7684\u8089\u7F50\u5934",
+  "CardImageWarpData": "未封顶的肉罐头",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

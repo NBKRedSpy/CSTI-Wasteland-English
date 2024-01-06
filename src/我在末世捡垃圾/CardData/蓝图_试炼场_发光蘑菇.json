@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u53D1\u5149\u8611\u83C7",
-    "LocalizationKey": "",
+    "DefaultText": "发光蘑菇",
+    "LocalizationKey": "T-p3QJJvig1d/8PcM6mi8+t/us2vU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u53D1\u5149\u8611\u83C7",
+  "CardImageWarpData": "发光蘑菇",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "3f8575f21dc4b13c128a72129dc0a312",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

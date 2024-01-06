@@ -1,7 +1,7 @@
 {
   "PageTitle": {
-    "DefaultText": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u4EBA\u7269\u76EE\u6807",
-    "LocalizationKey": "",
+    "DefaultText": "变种人克里斯人物目标",
+    "LocalizationKey": "T-vrNC9hwD+TlLwyP3es4Idz618dc=",
     "ParentObjectID": ""
   },
   "RightButton": {
@@ -152,5 +152,5 @@
   "LeftButtonWarpType": 3,
   "LeftButtonWarpData": "",
   "RightButtonWarpType": 3,
-  "RightButtonWarpData": "\u53D8\u79CD\u4EBA\u514B\u91CC\u65AF\u7B2C1\u9875"
+  "RightButtonWarpData": "变种人克里斯第1页"
 }

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7535\u7EBF\u6746",
-    "LocalizationKey": "",
+    "DefaultText": "电线杆",
+    "LocalizationKey": "T-rpN5fmtHXaApxjWLb2x8QgPgo+I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5783\u573E\u6876\u91CC\u6709\u9EC4\u91D1",
-    "LocalizationKey": "",
+    "DefaultText": "垃圾桶里有黄金",
+    "LocalizationKey": "T-0Mk8SupY6QSsHGOvT8woRQ+57JY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7535\u7EBF\u6746",
+  "CardImageWarpData": "电线杆",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5F04\u5012",
-        "LocalizationKey": "",
+        "DefaultText": "弄倒",
+        "LocalizationKey": "T-T21+9BVie3mKTzyJaF7dEOc0naQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -152,8 +152,8 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_Cutter",
-          "\u6273\u624B",
-          "\u94B3\u5B50"
+          "扳手",
+          "钳子"
         ],
         "TriggerTagsWarpType": 3
       },

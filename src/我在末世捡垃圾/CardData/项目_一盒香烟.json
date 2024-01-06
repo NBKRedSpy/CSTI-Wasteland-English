@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E00\u76D2\u9999\u70DF",
-    "LocalizationKey": "",
+    "DefaultText": "一盒香烟",
+    "LocalizationKey": "T-hn7XZ3D92Q4R5cZq9z2GaKpHR2k=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u672B\u65E5\u91CC\u4E3A\u6570\u4E0D\u591A\u7684\u653E\u677E\u624B\u6BB5",
-    "LocalizationKey": "",
+    "DefaultText": "末日里为数不多的放松手段",
+    "LocalizationKey": "T-8go7ehyjKMsu6NocezugHyvehn4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E00\u76D2\u9999\u70DF",
+  "CardImageWarpData": "一盒香烟",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u51FA",
-        "LocalizationKey": "",
+        "DefaultText": "取出",
+        "LocalizationKey": "T-RP17PBwgqpkbjhMjr8i0/Rgedmg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

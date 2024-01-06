@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70E4\u9E1F\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "烤鸟肉",
+    "LocalizationKey": "T-djzNOTqsd9fXS7w/kveFxqGZvzA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u55EF\uFF0C\u603B\u7B97\u80FD\u5403\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "嗯，总算能吃了",
+    "LocalizationKey": "T-BsKUbWHC6xoH2s166BocyYPgGII=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70E4\u9E1F\u8089",
+  "CardImageWarpData": "烤鸟肉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -193,8 +193,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403",
-        "LocalizationKey": "",
+        "DefaultText": "吃",
+        "LocalizationKey": "T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

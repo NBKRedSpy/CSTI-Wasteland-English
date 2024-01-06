@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9707\u7206\u5F39",
-    "LocalizationKey": "",
+    "DefaultText": "震爆弹",
+    "LocalizationKey": "T-cspmRpOTNInGTKEjuURiKCMfwHM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8BA9\u6240\u6709\u602A\u7269\u81F4\u76F2\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "让所有怪物致盲！",
+    "LocalizationKey": "T-bsHO952qqb/6/OvmZP+friE7d2s=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9707\u7206\u5F39",
+  "CardImageWarpData": "震爆弹",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6253\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "打开",
+        "LocalizationKey": "T-ZfyB4WEZi8Zws8gGLIUZraaWRr0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

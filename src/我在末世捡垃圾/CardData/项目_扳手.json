@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u6273\u624B",
-    "LocalizationKey": "",
+    "DefaultText": "扳手",
+    "LocalizationKey": "T-2gTV/hj5+lII7vpfBdc4CBouH3Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5982\u679C\u4F60\u770B\u5230\u4E86\u4E00\u4E2A\u87BA\u6BCD\uFF0C\u90A3\u4E48\u5B83\u5F88\u6709\u7528\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "如果你看到了一个螺母，那么它很有用！",
+    "LocalizationKey": "T-FQS6JDtG485l0F6qt895RtWnQkM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Hammer",
-    "\u6273\u624B"
+    "扳手"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6273\u624B",
+  "CardImageWarpData": "扳手",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

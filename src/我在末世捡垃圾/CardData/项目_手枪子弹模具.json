@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u624B\u67AA\u5B50\u5F39\u6A21\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "手枪子弹模具",
+    "LocalizationKey": "T-FkIM81k1Vb4nrZGxRuv2Tgrcx8E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u624B\u67AA\u5B50\u5F39\u6A21\u5177",
+  "CardImageWarpData": "手枪子弹模具",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

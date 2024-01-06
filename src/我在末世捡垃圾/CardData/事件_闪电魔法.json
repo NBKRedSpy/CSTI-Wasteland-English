@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u95EA\u7535\u9B54\u6CD5",
-    "LocalizationKey": "",
+    "DefaultText": "闪电魔法",
+    "LocalizationKey": "T-e/Q+7osPo499fXeHVDO4aplW5FE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4ECE\u5929\u800C\u964D\u7684\u96F7\u7535\u5411\u4F60\u5288\u6765\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "从天而降的雷电向你劈来。",
+    "LocalizationKey": "T-km2zM63IeLnrMstQQoe4DLfo2gc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u95EA\u7535\u9B54\u6CD5",
+  "CardImageWarpData": "闪电魔法",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4213,7 +4213,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u95EA\u7535\u9B54\u6CD5"
+    "闪电魔法"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

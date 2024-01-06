@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9524\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "锤子",
+    "LocalizationKey": "T-MtrH+wxE+snaPhSwtyPKAoKbWKk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9524\u5B50",
+  "CardImageWarpData": "锤子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

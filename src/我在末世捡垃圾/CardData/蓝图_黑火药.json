@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u706B\u836F",
-    "LocalizationKey": "",
+    "DefaultText": "黑火药",
+    "LocalizationKey": "T-+kjY3AatFMwW3IRfsCBDmRbtcaM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -580,7 +580,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u706B\u836F",
+  "CardImageWarpData": "黑火药",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3761,8 +3761,8 @@
   "UniqueID": "6410914da4bb1c1c8fddd912477b2772",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u786B\u78FA",
-    "LocalizationKey": "",
+    "DefaultText": "需要硫磺",
+    "LocalizationKey": "T-BiSQhmrmLfw5tdX3UibX5H2tzac=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

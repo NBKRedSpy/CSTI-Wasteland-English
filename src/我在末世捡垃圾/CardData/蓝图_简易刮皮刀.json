@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u522E\u76AE\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "简易刮皮刀",
+    "LocalizationKey": "T-cji4YCw6OPNa0iZssiT7/euCLHk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u522E\u76AE\u5200",
+  "CardImageWarpData": "简易刮皮刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3666,8 +3666,8 @@
   "UniqueID": "b6bc42c0bc1d6a4429408dc9957e831d",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5C5E\u788E\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "需要金属碎片",
+    "LocalizationKey": "T-NFPIvrBPfjYghfwhozqVcKfxEvk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

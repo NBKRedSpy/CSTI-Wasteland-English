@@ -2,8 +2,8 @@
   "Actions": [
     {
       "ActionName": {
-        "DefaultText": "\u5237\u65B0\u65E0\u5C3D\u8F90\u5C04\u96E8",
-        "LocalizationKey": "",
+        "DefaultText": "刷新无尽辐射雨",
+        "LocalizationKey": "T-mIj/hfzQf1T6osVqlbtQsvtApdQ=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 0,

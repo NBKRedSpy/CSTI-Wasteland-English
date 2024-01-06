@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6D3E\u8499\u73A9\u5076",
-    "LocalizationKey": "",
+    "DefaultText": "派蒙玩偶",
+    "LocalizationKey": "T-Hnic+5IUMKD8fTIuvoHzRRXv8g4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D3E\u8499\u73A9\u5076",
+  "CardImageWarpData": "派蒙玩偶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "7f952642d18481698d5224dfed865d8b",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

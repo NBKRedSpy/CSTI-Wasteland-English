@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u522E\u76AE\u5200",
-    "LocalizationKey": "",
+    "DefaultText": "简易刮皮刀",
+    "LocalizationKey": "T-cji4YCw6OPNa0iZssiT7/euCLHk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u628A\u7B80\u6613\u522E\u76AE\u5200\uFF0C\u53EF\u5E2E\u52A9\u4F60\u5FEB\u901F\u522E\u51C0\u517D\u76AE\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "一把简易刮皮刀，可帮助你快速刮净兽皮。",
+    "LocalizationKey": "T-kTLvwRBw+UbPDWWRLefElW27wNc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u522E\u76AE\u5200",
+  "CardImageWarpData": "简易刮皮刀",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

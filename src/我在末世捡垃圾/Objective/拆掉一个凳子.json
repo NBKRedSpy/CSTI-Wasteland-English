@@ -14,8 +14,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u62C6\u6389\u4E00\u4E2A\u51F3\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "拆掉一个凳子",
+    "LocalizationKey": "T-RYd3TSLmKfpm+lcEFYKdgOfXhp4=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

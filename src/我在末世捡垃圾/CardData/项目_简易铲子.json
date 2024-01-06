@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u94F2\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "简易铲子",
+    "LocalizationKey": "T-gMAmwlqy4vvlWuJkHLvGCj9kBWM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u4F1A\u662F\u5F88\u68D2\u7684\u6316\u6398\u5DE5\u5177\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "这会是很棒的挖掘工具。",
+    "LocalizationKey": "T-RTECh+/Hat3PZJ628GkzBh+Og+g=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u94F2\u5B50",
+  "CardImageWarpData": "简易铲子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

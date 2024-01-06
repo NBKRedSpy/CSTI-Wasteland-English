@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7F8E\u5473\u8089\u6C64",
-    "LocalizationKey": "",
+    "DefaultText": "美味肉汤",
+    "LocalizationKey": "T-ItAZEozQGlnajK9h1KruW5mwGSs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u672B\u65E5\u7684\u7F8E\u5473\u5E9F\u571F\u8089\u6C64\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "末日的美味废土肉汤！",
+    "LocalizationKey": "T-fpNYLT2Gz/ArOYdVVWdFUVDdQnY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7F8E\u5473\u8089\u6C64",
+  "CardImageWarpData": "美味肉汤",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

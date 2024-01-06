@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u571F\u5957\u88C5",
-    "LocalizationKey": "",
+    "DefaultText": "废土套装",
+    "LocalizationKey": "T-yUkl5ThQae/zb00dacRa7/x9pCQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5C06\u4E0A\u8863\u548C\u77ED\u88E4\u8FDE\u63A5\u8D77\u6765\u7684\u5E9F\u571F\u5957\u88C5\uFF0C\u4E0D\u5F71\u54CD\u62A4\u7532\u7684\u7A7F\u7740\u53C8\u80FD\u63D0\u4F9B\u5927\u91CF\u5BB9\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "将上衣和短裤连接起来的废土套装，不影响护甲的穿着又能提供大量容量",
+    "LocalizationKey": "T-Hnk4bo2HBYuPhXAC96UjsO/biUE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u571F\u5957\u88C5",
+  "CardImageWarpData": "废土套装",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7F1D\u8865",
-        "LocalizationKey": "",
+        "DefaultText": "缝补",
+        "LocalizationKey": "T-aDH+nnisXWjpHOdPFi/L5gDAWFg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -545,8 +545,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6495\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "撕开",
+        "LocalizationKey": "T-6YTeA4bczoVSrqAdyaMhfIlrbnI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1416,7 +1416,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6F6E\u6E7F",
+      "EffectName": "潮湿",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1574,7 +1574,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,

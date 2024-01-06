@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u6697\u68EE\u6797",
-    "LocalizationKey": "",
+    "DefaultText": "黑暗森林",
+    "LocalizationKey": "T-H+cw1mY5wnIchtnWVCU8gPZYIIE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u6697\u68EE\u6797",
+  "CardImageWarpData": "黑暗森林",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u780D\u4F10\u6728\u6750",
-        "LocalizationKey": "",
+        "DefaultText": "砍伐木材",
+        "LocalizationKey": "T-qq2HrxTCJjK6r+0J+bsVpVjfcH0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -667,8 +667,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u780D\u4F10\u6728\u6750",
-        "LocalizationKey": "",
+        "DefaultText": "砍伐木材",
+        "LocalizationKey": "T-qq2HrxTCJjK6r+0J+bsVpVjfcH0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1264,8 +1264,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u63A2\u7D22",
-        "LocalizationKey": "",
+        "DefaultText": "探索",
+        "LocalizationKey": "T-KRhjOsgRtvfjRiwhnw2VhbEq6+M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2126,7 +2126,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_0",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-LDEeDiuz73jNBkGE8hzR40LIfkc=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],
@@ -2416,7 +2416,7 @@
         },
         "ActionName": {
           "DefaultText": "exp_1",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-nwJFHcfLimG7oy8Mf+99/Ko4Vbs=",
           "ParentObjectID": ""
         },
         "ActionSounds": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9B54\u6CD5\u6C99\u6F0F",
-    "LocalizationKey": "",
+    "DefaultText": "魔法沙漏",
+    "LocalizationKey": "T-Cw0gJbctY1XuUVF8CjXg1JrIEuE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9B54\u6CD5\u6C99\u6F0F",
+  "CardImageWarpData": "魔法沙漏",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "c16270b9b05d0332f0876ad9922a309a",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u62BD\u5956\u673A\u666E\u901A\u96BE\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "需要抽奖机普通难度",
+    "LocalizationKey": "T-+CqYpoqLCHQzDUa7VOeQ9oYgnWw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

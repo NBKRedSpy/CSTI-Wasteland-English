@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u571F\u8170\u5305",
-    "LocalizationKey": "",
+    "DefaultText": "废土腰包",
+    "LocalizationKey": "T-zL2qXpKiHzQHohQaBqbFsRir9ZY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -851,7 +851,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u571F\u8170\u5305",
+  "CardImageWarpData": "废土腰包",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -4035,8 +4035,8 @@
   "UniqueID": "5e99014dd494e36021a49efbc78cbbc9",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7EBA\u7EC7\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要纺织技能",
+    "LocalizationKey": "T-gu5smweblc8msBSzMNfVw+nXfSs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

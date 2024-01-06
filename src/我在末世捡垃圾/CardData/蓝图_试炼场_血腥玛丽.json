@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u8840\u8165\u739B\u4E3D",
-    "LocalizationKey": "",
+    "DefaultText": "血腥玛丽",
+    "LocalizationKey": "T-gG9FXCSMIX8RqkLMZwaKXCXFstQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8840\u8165\u739B\u4E3D",
+  "CardImageWarpData": "血腥玛丽",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "686e819c342b6ddac5c62b40bec2aa6f",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要金币",
+    "LocalizationKey": "T-FbfqhhGA5gQcqrzfyM4NwVrzSrg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

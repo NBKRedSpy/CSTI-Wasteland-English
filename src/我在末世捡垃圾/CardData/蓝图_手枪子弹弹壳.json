@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u624B\u67AA\u5B50\u5F39\u5F39\u58F3",
-    "LocalizationKey": "",
+    "DefaultText": "手枪子弹弹壳",
+    "LocalizationKey": "T-cD1g0rnlEFKYzm0IXBXAbL78nfo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -401,7 +401,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u624B\u67AA\u5B50\u5F39\u5F39\u58F3",
+  "CardImageWarpData": "手枪子弹弹壳",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3582,8 +3582,8 @@
   "UniqueID": "4fa59b4ef3b02a93583dcba8c44d18a6",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94C1\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "需要铁水",
+    "LocalizationKey": "T-d3xGUZLUgwh3aWbbmP5b8g4yers=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

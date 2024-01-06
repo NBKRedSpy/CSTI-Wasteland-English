@@ -63,8 +63,8 @@
   },
   "NotifyWhenNotChecked": true,
   "ObjectiveDescription": {
-    "DefaultText": "\u505A\u4E00\u4E2A\u9E21\u6392_\u6C49\u5821",
-    "LocalizationKey": "",
+    "DefaultText": "做一个鸡排_汉堡",
+    "LocalizationKey": "T-z3dEQe9X0x6HaKzkQVww1if3qe8=",
     "ParentObjectID": ""
   },
   "ObjectiveLog": {

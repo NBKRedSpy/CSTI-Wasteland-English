@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u683C\u6D1B\u514B\u624B\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "格洛克手枪",
+    "LocalizationKey": "T-4BtFSTC48sabyPdRvND5eRbzph8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7ECF\u5178\u7684\u624B\u67AA\uFF0C\u6211\u53EF\u4EE5\u7528\u4ED6\u4EEC\u6253\u7206\u602A\u7269\u7684\u5934\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "经典的手枪，我可以用他们打爆怪物的头！",
+    "LocalizationKey": "T-M2au4q9kupSTfZniUU7+9f3MzNw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u683C\u6D1B\u514B\u624B\u67AA",
+  "CardImageWarpData": "格洛克手枪",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u5F39",
-        "LocalizationKey": "",
+        "DefaultText": "装弹",
+        "LocalizationKey": "T-vIjU4Dvi5bXpIk/uGnmgulRU3H8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -375,8 +375,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5B50\u5F39\u5DF2\u6EE1",
-          "LocalizationKey": "",
+          "DefaultText": "子弹已满",
+          "LocalizationKey": "T-Q1rpQSuUSO/8H/yKDMeIQIcZMv8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -4165,6 +4165,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

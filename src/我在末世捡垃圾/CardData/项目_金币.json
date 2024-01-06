@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u91D1\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "金币",
+    "LocalizationKey": "T-YfYIsNkOxxKmQhh0RI3HkdOpjjw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8BD5\u70BC\u573A\u7684\u786C\u901A\u8D27",
-    "LocalizationKey": "",
+    "DefaultText": "试炼场的硬通货",
+    "LocalizationKey": "T-EnnkfOP8mBi4ksxpZ/rfjXdgx/A=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u91D1\u5E01",
+  "CardImageWarpData": "金币",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

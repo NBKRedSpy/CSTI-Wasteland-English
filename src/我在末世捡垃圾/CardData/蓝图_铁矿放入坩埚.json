@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u77FF\u653E\u5165\u5769\u57DA",
-    "LocalizationKey": "",
+    "DefaultText": "铁矿放入坩埚",
+    "LocalizationKey": "T-zD2JqvBtgDkZZmwLMejwjlxKEgM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -389,7 +389,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5769\u57DA\uFF08\u94C1\u77FF\uFF09",
+  "CardImageWarpData": "坩埚（铁矿）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3570,8 +3570,8 @@
   "UniqueID": "11ec81029802f59fd767359de7271521",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5769\u57DA",
-    "LocalizationKey": "",
+    "DefaultText": "需要坩埚",
+    "LocalizationKey": "T-sCUIhkQyUM40GNrEvrwq8wlg1qE=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

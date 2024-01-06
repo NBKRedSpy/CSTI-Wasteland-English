@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u65E0\u5C3D\u592A\u9633\u98CE\u66B4\u7279\u8D28\u5F00\u5C40",
+  "DefaultStatusIconWarpData": "无尽太阳风暴特质开局",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u65E0\u5C3D\u592A\u9633\u98CE\u66B4\u7279\u8D28\u5F00\u5C40",
-    "LocalizationKey": "",
+    "DefaultText": "无尽太阳风暴特质开局",
+    "LocalizationKey": "T-QElChSxb6h7H7VOJ+IP9PLarwl0=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

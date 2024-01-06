@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6297\u8F90\u5C04\u836F\u4E38",
-    "LocalizationKey": "",
+    "DefaultText": "抗辐射药丸",
+    "LocalizationKey": "T-wTZ+sRFWpbdxXRHin8gC7eeOAVM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5E94\u8BE5\u80FD\u5E94\u5BF9\u8F90\u5C04\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "应该能应对辐射。",
+    "LocalizationKey": "T-ZhYN3uLgSMbQea/LCHT/jOeFrZI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6297\u8F90\u5C04\u836F\u4E38",
+  "CardImageWarpData": "抗辐射药丸",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403\u836F",
-        "LocalizationKey": "",
+        "DefaultText": "吃药",
+        "LocalizationKey": "T-6ZpbjnK3W2fNPANan6q/sWvpiCA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
